@@ -305,14 +305,14 @@ class ContrastiveMoCoKnnBert(nn.Module):
         neg_mask_index = ~ pos_mask_index
 
         feature_value = cos_sim.masked_select(pos_mask_index)
-        # pos_sample = torch.full_like(cos_sim, -np.inf).to(device)
-        pos_sample = torch.full_like(cos_sim, -np.inf)
+        pos_sample = torch.full_like(cos_sim, -np.inf).to(device)
+
 
         pos_sample = pos_sample.masked_scatter(pos_mask_index, feature_value)
 
         feature_value = cos_sim.masked_select(neg_mask_index)
-        # neg_sample = torch.full_like(cos_sim, -np.inf).to(device)
-        neg_sample = torch.full_like(cos_sim, -np.inf)
+        neg_sample = torch.full_like(cos_sim, -np.inf).to(device)
+
 
         neg_sample = neg_sample.masked_scatter(neg_mask_index, feature_value)
 
@@ -363,8 +363,8 @@ class ContrastiveMoCoKnnBert(nn.Module):
         #pos_sample = pos_sample.masked_scatter(pos_mask_index, feature_value)
 
         feature_value = cos_sim.masked_select(neg_mask_index)
-        # neg_sample = torch.full_like(cos_sim, -np.inf).to(device)
-        neg_sample = torch.full_like(cos_sim, -np.inf)
+        neg_sample = torch.full_like(cos_sim, -np.inf).to(device)
+
 
         neg_sample = neg_sample.masked_scatter(neg_mask_index, feature_value)
 
@@ -453,8 +453,8 @@ class ContrastiveMoCoKnnBert(nn.Module):
         logits_con = self.select_pos_neg_sample(liner_q, labels)
 
         if logits_con is not None:
-            # labels_con = torch.zeros(logits_con.shape[0], dtype=torch.long).to(device)
-            labels_con = torch.zeros(logits_con.shape[0], dtype=torch.long)
+            labels_con = torch.zeros(logits_con.shape[0], dtype=torch.long).to(device)
+
 
             loss_fct = CrossEntropyLoss()
             loss_con = loss_fct(logits_con, labels_con)
@@ -490,8 +490,8 @@ class ContrastiveMoCoKnnBert(nn.Module):
 
         logits_con = self.select_pos_neg_sample(liner_q, labels)
         if logits_con is not None:
-            # labels_con = torch.zeros(logits_con.shape[0], dtype=torch.long).to(device)
-            labels_con = torch.zeros(logits_con.shape[0], dtype=torch.long)
+            labels_con = torch.zeros(logits_con.shape[0], dtype=torch.long).to(device)
+
 
             loss_fct = CrossEntropyLoss()
             loss_con = loss_fct(logits_con, labels_con)
@@ -760,13 +760,11 @@ class ContrastiveMoCoKnnInitByBert(nn.Module):
         neg_mask_index = ~ pos_mask_index
 
         feature_value = cos_sim.masked_select(pos_mask_index)
-        # pos_sample = torch.full_like(cos_sim, -np.inf).to(device)
-        pos_sample = torch.full_like(cos_sim, -np.inf)
+        pos_sample = torch.full_like(cos_sim, -np.inf).to(device)
         pos_sample = pos_sample.masked_scatter(pos_mask_index, feature_value)
 
         feature_value = cos_sim.masked_select(neg_mask_index)
-        # neg_sample = torch.full_like(cos_sim, -np.inf).to(device)
-        neg_sample = torch.full_like(cos_sim, -np.inf)
+        neg_sample = torch.full_like(cos_sim, -np.inf).to(device)
 
         neg_sample = neg_sample.masked_scatter(neg_mask_index, feature_value)
 
@@ -808,15 +806,13 @@ class ContrastiveMoCoKnnInitByBert(nn.Module):
         pos_mask_index = torch.eq(tmp_label_queue, tmp_label)
         neg_mask_index = ~ pos_mask_index
 
-        feature_value = cos_sim.masked_select(pos_mask_index)
-        # pos_sample = torch.full_like(cos_sim, -np.inf).to(device)
+        pos_sample = torch.full_like(cos_sim, -np.inf).to(device)
         pos_sample = torch.full_like(cos_sim, -np.inf)
 
         pos_sample = pos_sample.masked_scatter(pos_mask_index, feature_value)
 
         feature_value = cos_sim.masked_select(neg_mask_index)
-        # neg_sample = torch.full_like(cos_sim, -np.inf).to(device)
-        neg_sample = torch.full_like(cos_sim, -np.inf)
+        neg_sample = torch.full_like(cos_sim, -np.inf).to(device)
         neg_sample = neg_sample.masked_scatter(neg_mask_index, feature_value)
 
         pos_mask_index = pos_mask_index.int()
@@ -968,8 +964,8 @@ class ContrastiveMoCoKnnInitByBert(nn.Module):
         logits /= self.T
 
         # labels: positive key indicators
-        # con_labels = torch.zeros(logits.shape[0], dtype=torch.long).to(device)
-        con_labels = torch.zeros(logits.shape[0], dtype=torch.long)
+        con_labels = torch.zeros(logits.shape[0], dtype=torch.long).to(device)
+
 
         loss_fct = CrossEntropyLoss()
         loss_con = loss_fct(logits, con_labels)
@@ -1063,8 +1059,8 @@ class ContrastiveMoCoKnnInitByBert(nn.Module):
         logits_con = torch.cat([l_pos, l_neg], dim=1)
         logits_con /= self.T
 
-        # labels_con = torch.zeros(logits_con.shape[0], dtype=torch.long).to(device)
-        labels_con = torch.zeros(logits_con.shape[0], dtype=torch.long)
+        labels_con = torch.zeros(logits_con.shape[0], dtype=torch.long).to(device)
+
 
         loss_fct = CrossEntropyLoss()
         loss_con = loss_fct(logits_con, labels_con)
@@ -1102,8 +1098,7 @@ class ContrastiveMoCoKnnInitByBert(nn.Module):
         logits_con = self.select_pos_neg_sample(liner_q, labels)
 
         if logits_con is not None:
-            # labels_con = torch.zeros(logits_con.shape[0], dtype=torch.long).to(device)
-            labels_con = torch.zeros(logits_con.shape[0], dtype=torch.long)
+            labels_con = torch.zeros(logits_con.shape[0], dtype=torch.long).to(device)
 
             loss_fct = CrossEntropyLoss()
             loss_con = loss_fct(logits_con, labels_con)
@@ -1151,8 +1146,8 @@ class ContrastiveMoCoKnnInitByBert(nn.Module):
 
         logits_con = self.select_pos_neg_sample(liner_q, labels)
         if logits_con is not None:
-            # labels_con = torch.zeros(logits_con.shape[0], dtype=torch.long).to(device)
-            labels_con = torch.zeros(logits_con.shape[0], dtype=torch.long)
+            labels_con = torch.zeros(logits_con.shape[0], dtype=torch.long).to(device)
+
 
             loss_fct = CrossEntropyLoss()
             loss_con = loss_fct(logits_con, labels_con)
