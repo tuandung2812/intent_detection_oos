@@ -1,0 +1,3068 @@
+label	text
+chitchat_ask_whoisit	bạn có phải là robot hỗ_trợ không
+ask_info	việt_nam đã có những đóng_góp tích_cực và có trách_nhiệm vào việc_gì
+ask_info	mọi người_dân việt_nam được thực_hiện các quyền gì
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về doanh_nghiệp
+ask_info	quy_trình tham_gia và tổ_chức thực_hiện các điều_ước quốc_tế về nhân_quyền của các quốc_gia như_thế_nào
+ask_info	ở việt_nam có tự_do báo_chí không
+ask_info	đại_lễ phật đản liên_hợp_quốc vesak diễn ra ở đâu
+ask_info	việt_nam đã hoàn_thành phổ_cập tiểu_học vào năm nào
+react_negative	trả_lời ngu quá
+chitchat_ask_whoisit	bạn có phải là chatbot ai không
+ask_info	quyền_sở_hữu được bảo_đảm như_thế_nào trong luật đầu_tư
+react_negative	dốt quá
+affirm	oki mình đồng_ý ngay
+ask_info	giáo_dục về quyền con_người là hướng ưu_tiên hàng_đầu của việt_nam nhằm mục_đích gì
+ask_info	các nhà_báo độc_lập các nhà hoạt_động xã_hội ở việt_nam bị đàn_áp như_thế_nào
+ask_info	chính_phủ việt_nam đã có những động_thái gì đối_với vấn_đề bình_đẳng giới
+chitchat_ask_whoisit	bạn có phải là robot không
+chitchat_ask_howdoing	cậu đang làm gì vậy
+greet	hi cậu có chuyện gì mới không
+chitchat_ask_whoisit	ok tôi biết tôi đã làm_bạn lúng_túng với việc là một con_người
+react_positive	thật là tuyệt_vời
+ask_info	đạo tin lành được truyền vào việt_nam vào thời_gian nào
+deny	khong can dau
+chitchat_ask_howold	bạn đã sống đến tuổi bao_nhiêu
+ask_info	trong khuôn_khổ sáng_kiến thống_nhất hành_động các cơ_quan liên_hợp_quốc tại việt_nam đã và đang hợp_tác với ai triển_khai kế_hoạch chung
+greet	alo chj oi
+ask_info	tuyên_truyền đối_ngoại là gì
+thank	rất cảm_ơn bạn đã giúp_đỡ
+chitchat_ask_whoisit	cho tôi biết bạn là ai
+ask_info	công_tác tôn_giáo đã đạt được những thành_tựu gì
+canthelp	mình không cần bạn làm gì thêm
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo của người bị quản_lý giam_giữ là gì
+chitchat_ask_whatismyname	tui có cái tên đặc_biệt không nhỉ
+react_negative	chatbot này trả_lời quá chung_chung và không cụ_thể
+ask_info	việt_nam là thành_viên của công_ước nào
+ask_info	luật an_toàn thông_tin mạng quy_định gì về việc bảo_đảm an_toàn thông_tin mạng
+ask_info	việt_nam đang trong quá_trình hoàn_thiện hệ_thống pháp_luật từ năm nào
+ask_info	chính_sách mới nào đã được ban_hành để cải_thiện đời_sống kinh_tế xã_hội của người dân
+thank	m cam on b
+chitchat_ask_whoisit	bạn là trí_tuệ_nhân_tạo đúng không
+chitchat_ask_whoisit	mày là người thật chứ không phải robot đúng không
+deny	tôi không muốn tham_gia vào nó
+ask_info	nhà_nước việt_nam quyết_tâm thực_hiện mục_tiêu gì
+ask_info	vai_trò đảng_cộng_sản_việt_nam
+ask_info	việt_nam có bao_nhiêu loại vắc_xin
+thank	cám_ơn misa tư_vấn ạ
+bye	tam biet
+affirm	được rồi không cần suy_nghĩ lâu
+ask_info	đạo bửu sơn kỳ hương có khoảng bao_nhiêu tín_đồ
+bye	tạm_biệt nhé
+chitchat_ask_whoisit	bạn là người thật hay robot vậy
+greet	hi shoo
+ask_info	luật báo_chí quy_định quyền và nghĩa_vụ của nhà_báo như_thế_nào ?
+ask_info	làm thế_nào để kiểm_tra và đôn_đốc thực_hiện các quy_định của pháp_luật để tránh việc vi_phạm quyền dân_chủ và những quyền chính_đáng khác của người dân
+ask_info	việc thực_hiện quyền và tự_do cá_nhân có ảnh_hưởng đến quyền và lợi_ích của người khác và cộng_đồng không
+ask_info	những vấn_nạn xã_hội nào ảnh_hưởng đến người dân
+ask_info	tại_sao cần tăng_cường tiếp_xúc đối_thoại với các tổ_chức cá_nhân tôn_giáo
+ask_info	các tôn_giáo có vai_trò như_thế_nào đối_với việt_nam
+ask_info	việt_nam đã có những đóng_góp như_thế_nào đối_với việc thúc_đẩy hợp_tác trong asean
+canthelp	chắc m ko giúp đc đâu
+ask_info	tác_giả của cuốn sách tôn_giáo và chính_sách tôn_giáo ở việt_nam
+ask_info	bộ_trưởng bộ nông_nghiệp và phát_triển nông_thôn lê_minh hoan
+chitchat_ask_time	bây_giờ là cái j vậy cưng
+ask_info	bộ thông_tin và truyền_thông có vị_trí và chức_năng như_thế_nào
+ask_info	phật_giáo hoà_hảo được công_nhận là tôn_giáo chính_thức vào năm nào
+explain	tại_sao điều đó lại có ý_nghĩa quan_trọng
+react_positive	vui quá
+ask_info	tôn_chỉ hành_đạo của phật_giáo hoà_hảo là gì
+ask_info	tư_tưởng về quyền con_người xuất_hiện ở việt_nam từ bao_giờ và thể_hiện như_thế_nào ở giai_đoạn lịch_sử trước_đây ?
+greet	chào buổi tối
+ask_info	luật người cao_tuổi 2010 quy_định gì về phụng_dưỡng và chăm_sóc người cao_tuổi
+ask_info	những biện_pháp nào được chính_phủ việt_nam đưa ra để đẩy_mạnh các chương_trình cải_cách hành_chính và ngăn_chặn tệ quan_liêu tham_nhũng
+ask_info	quy_trình cai_nghiện ma_tuý kéo_dài bao_lâu
+react_positive	hay quá đi
+ask_info	theo ước_tính có khoảng bao_nhiêu tín_đồ của các tôn_giáo khác nhau
+ask_info	bộ_trưởng bộ giao_thông vận_tải nguyễn_văn thắng
+ask_info	người nhiễm hiv có những nghĩa_vụ gì theo quy_định của pháp_luật
+ask_info	ai có trách_nhiệm cung_cấp thông_tin để xây_dựng hoàn_thiện cơ_sở_dữ_liệu về thông_tin đối_ngoại
+chitchat_ask_howdoing	cậu có tốt không
+thank	cảm_ơn bạn đã đáp_ứng yêu_cầu của mình
+ask_info	luật tín_ngưỡng tôn_giáo được ban_hành nhằm mục_đích gì
+canthelp	tớ sẽ xem_xét vấn_đề này thêm
+ask_info	giáo_hội các thánh hữu ngày sau của chúa giê su ky tô việt_nam có tuân_thủ hiến_pháp và pháp_luật việt_nam như_thế_nào
+chitchat_ask_howold	bạn đã qua mấy_mươi tuổi rồi
+explain	bạn có_thể mô_tả chi_tiết hơn về vấn_đề này không
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về an_toàn thông_tin mạng
+thank	cảm_ơn bạn nha để chồng mình xem rồi mình báo bạn
+ask_info	luật bầu_cử đại_biểu quốc_hội và đại_biểu hội_đồng_nhân_dân quy_định những nguyên_tắc gì trong việc bảo_đảm quyền bầu_cử ứng_cử của công_dân
+chitchat_ask_whatismyname	hỏi tên tui xem sao
+ask_info	tiểu_sử nguyễn_phú trọng
+chitchat_ask_whoisit	bạn là chatbot ai à
+ask_info	đường văn thái có đóng_góp gì cho tự_do báo_chí ở việt_nam
+affirm	ok
+ask_info	bảo_tàng ở các địa_phương mới được xây_dựng trong vài năm gần đây có ảnh_hưởng gì đến diện_mạo thiết_chế văn_hoá ở địa_phương
+ask_info	hành_vi xâm_phạm quyền sống của con_người được quy_định như_thế_nào
+react_positive	vui quá bạn ơi
+thank	thank bạn na
+react_negative	chẳng hiểu con này để làm_gì
+ask_info	tại tây_nguyên có bao_nhiêu điểm nhóm tin lành
+ask_info	luật bảo_vệ sức_khoẻ nhân_dân đã có những thay_đổi gì
+react_positive	quá đỉnh luôn
+bye	hẹn gặp lại vào lần sau
+bye	tạm_biệt em
+deny	đừng có hỏi tôi
+deny	tôi từ_chối
+ask_info	bộ luật_tố_tụng_hình_sự sửa_đổi năm 2015 bổ_sung điều gì liên_quan đến quyền bình_đẳng trước pháp_luật
+greet	hi sh
+ask_info	cơ_sở_hạ_tầng của thị_trường lao_động được xây_dựng như_thế_nào
+canthelp	mình sẽ tự xử_lý
+ask_info	luật di_sản văn_hoá năm 2001 quy_định rõ trách_nhiệm của ai
+thank	vây cam on b nhiu nha
+ask_info	những chuyển_biến tích_cực nào đã xảy ra trong đời_sống tín_ngưỡng tôn_giáo ở việt_nam
+ask_info	công_giáo truyền vào việt_nam từ khi nào
+react_positive	em được đấy
+canthelp	thôi kệ đi để t tự tìm xem
+ask_info	trách_nhiệm giải_quyết yêu_cầu cung_cấp thông_tin ?
+ask_info	tổng vốn ngân_sách nhà_nước hỗ_trợ cho người nghèo và hộ nghèo là bao_nhiêu
+chitchat_ask_whatspossible	bạn có gì có_thể cho t biết nhỉ
+greet	alooooi
+greet	ôi chào có ai đó ở đây không
+ask_info	đạo tin lành ở việt_nam hoạt_động chủ_yếu ở đâu trong thời_gian từ 1954 1975
+ask_info	hội_thánh minh lý đạo tam tông_miếu có bao_nhiêu chức_sắc
+ask_info	giáo_hội phật đường nam tông minh sư đạo đã thực_hiện những hoạt_động từ_thiện nào
+ask_info	có bao_nhiêu cơ_sở thờ_tự của đạo bửu sơn kỳ hương được nhà_nước công_nhận và cấp chứng_nhận đăng_ký hoạt_động tôn_giáo
+ask_info	việt_nam đã xây_dựng mạng_lưới các trung_tâm chữa bệnh lao_động xã_hội như_thế_nào để cai_nghiện người nghiện ma_tuý
+bye	chúc mọi người có một ngày vui_vẻ
+ask_info	tín_đồ có được tự_do hành_đạo tại gia_đình và cơ_sở thờ_tự không
+ask_info	hiến_pháp năm 2013 thể_hiện sự kế_thừa và phát_triển trong thời_kỳ nào
+chitchat_ask_howbuilt	công_nghệ nền_tảng của chatbot này là gì
+ask_info	đạo tin lành ở miền nam có khoảng bao_nhiêu người
+greet	anh nhớ em lắm
+chitchat_ask_howold	bạn sinh ra vào năm nào
+greet	đâu rồi
+react_positive	thật_sự tuyệt_vời
+ask_info	những quyền liên_quan đến nhà ở được công_dân và nhà_nước được quy_định như_thế_nào
+greet	ssh ơi
+greet	aloo ạh
+ask_info	cơ_quan quản_lý_nhà_nước nào phụ_trách về thông_tin đối_ngoại
+greet	aloa
+ask_info	đạo tin lành được truyền vào việt_nam vào thời_gian nào
+ask_info	những tôn_giáo nào đã tồn_tại từ hàng nghìn năm
+ask_info	thông_tin quảng_bá hình_ảnh việt_nam được cung_cấp qua các hình_thức nào
+bye	tôi phải rời khỏi đây hẹn gặp lại sau
+affirm	mình ok nhé
+chitchat_ask_wherefrom	quê_hương của bạn là ở đâu
+react_positive	em xinh thế
+canthelp	cám_ơn nhưng không cần rồi
+greet	chào bạn
+ask_info	tôn_giáo là gì
+thank	em cam on chị
+ask_info	các doanh_nghiệp thuộc bộ thông_tin và truyền_thông bao_gồm
+react_positive	thật là phấn_khích
+ask_info	chủ_sở_hữu có quyền gì khi có người xâm_phạm quyền_sở_hữu của mình
+ask_info	cơ_cấu tổ_chức của cộng_đồng tôn_giáo bahai việt_nam như_thế_nào
+ask_info	số_lượng người khuyết_tật ở việt_nam là bao_nhiêu
+ask_info	quỹ quốc_gia về việc_làm đã tạo điều_kiện gì cho các nhóm đối_tượng yếu_thế trong xã_hội
+ask_info	chính_phủ phải làm gì khi ban_hành quy_định thực_hiện chính_sách dân_tộc
+ask_info	các cơ_sở phòng thuốc_nam khám_chữa bệnh thuộc đạo cao đài có số_lượng bao_nhiêu và ở đâu
+ask_info	mục_tiêu của việt_nam là gì
+ask_info	hiến_pháp năm 2013 có những quy_định gì về tố_tụng công_bằng
+react_positive	vui quá đi
+bye	tôi sẽ đến lại sau đây
+ask_info	quan_hệ giữa quyền con_người và quyền_công_dân ?
+greet	em ơi em
+ask_info	nguyễn_chí thanh
+greet	ô b oi
+react_negative	chatbot này không_thể giúp tôi giải_quyết vấn_đề cụ_thể
+chitchat_ask_howdoing	thế_giới của cậu như_thế_nào rồi
+ask_info	tỉnh nào được đề_cập trong đoạn văn là nơi sinh của ông nguyễn_văn bồng
+affirm	tất_nhiên là đồng_ý
+react_positive	tuyệt quá
+chitchat_ask_time	bạn có biết đang là thời_gian nào không bro
+ask_info	việt_nam đã có những đóng_góp như_thế_nào đối_với việc thúc_đẩy hợp_tác trong asean
+react_positive	tốt lắm bạn ơi
+chitchat_ask_wherefrom	xuất_xứ con bot này ở đâu_đấy
+react_negative	chatbot này không đáp_ứng đúng và đầy_đủ yêu_cầu của tôi
+react_negative	tiên_sư mày
+ask_info	công_tác tuyên_truyền phổ_biến giáo_dục pháp_luật về tín_ngưỡng tôn_giáo được chú_trọng như_thế_nào
+ask_info	các hành_vi vi_phạm quy_định về phòng_chống tra_tấn bạo_lực sẽ bị xử_lý thế_nào theo quy_định của pháp_luật
+ask_info	bộ_máy nhân_quyền liên_hợp_quốc gồm các cơ_quan nào ?
+greet	misa oiw
+chitchat_ask_time	hôm_nay là thứ mấy em nhỉ
+ask_info	giáo_hội công_giáo việt_nam có mối quan_hệ quốc_tế với những nước nào
+affirm	mình chấp_nhận không có gì để phản_bác
+ask_info	luật bình_đẳng giới có hiệu_lực từ năm nào
+ask_info	giáo_hội các thánh hữu ngày sau của chúa giê su ky tô có phạm_vi hoạt_động ở đâu
+thank	cảm_ơn bạn đã trả_lời mình
+greet	ôi chào có tin_tức gì thú_vị không
+thank	cảm on c sản_phẩm tốt lắm ạ
+greet	c ưu ui
+chitchat_ask_howdoing	cậu đang làm gì đấy
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo của người_dân được thể_hiện trên những lĩnh_vực nào
+ask_info	nhà_nước ưu_tiên thực_hiện đồng_bộ những giải_pháp nào
+chitchat_ask_howdoing	có chuyện gì mới không nhỉ
+explain	có_thể đưa ra một ví_dụ cụ_thể để minh_hoạ không
+chitchat_ask_whoisit	bạn là máy ai à
+ask_info	hiến_pháp 2013 có những nội_dung gì về quyền con_người
+chitchat_ask_whoisit	bạn là robot ai à
+thank	e cảm on chị
+chitchat_ask_whoisit	bạn là hệ_thống ai à
+greet	chào bot
+greet	alô ạ
+chitchat_ask_howdoing	có gì mới không nhỉ
+ask_info	các cơ_quan nào trong hệ_thống chính_trị đã có vai_trò quan_trọng trong việc nâng cao nhận_thức về quyền tự_do tín_ngưỡng tôn_giáo cho đội_ngũ cán_bộ lãnh_đạo quản_lý và thực_thi pháp_luật
+greet	misa ơi
+react_negative	tôi không thích cách trả_lời của chatbot này
+ask_info	khối các đơn_vị sự_nghiệp thuộc bộ thông_tin và truyền_thông bao_gồm
+greet	à misa oi
+ask_info	vì sao một_số tổ_chức cá_nhân vẫn cố_tình xuyên_tạc tình_hình nhân_quyền tự_do tín_ngưỡng tôn_giáo ở việt_nam
+chitchat_ask_whoisit	bạn là chatbot ai à
+ask_info	những thông_tin nào được bảo_vệ bởi pháp_luật về đời_sống riêng_tư bí_mật cá_nhân và bí_mật gia_đình
+affirm	được thôi cứ làm_vậy
+ask_info	tại_sao chính_quyền địa_phương lại cấp đất cho các tổ_chức tôn_giáo
+thank	thanks ad
+ask_info	tại_sao hoạt_động tôn_giáo trên không_gian mạng trở_nên phong_phú và đa_dạng trong bối_cảnh cuộc cách_mạng_công_nghiệp lần thứ tư diễn ra mạnh_mẽ
+ask_info	những dự_án nào được tây_ban_nha hỗ_trợ để phòng_chống bạo_lực gia_đình tại việt_nam
+ask_info	nhà_nước có trách_nhiệm bảo_hộ những nơi thờ_tự của các tín_ngưỡng tôn_giáo như_thế_nào theo hiến_pháp năm 1992
+ask_info	những văn_bản pháp_luật nào được ban_hành để bảo_vệ quyền con_người và quyền_công_dân trong lĩnh_vực kinh_tế
+chitchat_ask_whatismyname	tên tui nghe có_vẻ thân_thiện
+greet	alo alo alp
+ask_info	việt_nam đứng thứ mấy về số_lượng người sử_dụng internet
+ask_info	việt_nam có đóng_góp gì vào hoạt_động của uỷ_ban liên chính_phủ asean về nhân_quyền aichr
+ask_info	thông_tư này được áp_dụng đối_với những cơ_quan nào
+chitchat_ask_time	thời_gian hiện_tại của bạn là bao_nhiêu bro
+react_positive	cảm_ơn nhiều
+ask_info	bộ văn_hoá thể_thao và du_lịch đã thực_hiện những hoạt_động gì để bảo_tồn và phát_huy giá_trị văn_hoá truyền_thống của các đồng_bào dân_tộc_thiểu_số
+ask_info	năm 2021 có bao_nhiêu cơ_sở thờ_tự được xây mới
+ask_info	chính_phủ là cơ_quan_hành_chính nhà_nước cao nhất của việt_nam có nhiệm_vụ gì
+ask_info	kế_hoạch xây_dựng bao_nhiêu diện_tích nhà ở xã_hội trong giai_đoạn 2016 2020 tại việt_nam
+ask_info	trong quá_trình du_nhập và phát_triển phật_giáo đã chứng_tỏ điều gì
+ask_info	các cơ_quan quản_lý_nhà_nước về tín_ngưỡng tôn_giáo đã thực_hiện những công_tác gì để đưa các hoạt_động tín_ngưỡng tôn_giáo đi vào nề_nếp ổn_định tuân_thủ pháp_luật
+ask_info	việt_nam có chính_sách gì để đưa nội_dung quyền con_người vào hệ_thống giáo_dục quốc_dân ?
+thank	e cảm_ơn nhed
+ask_info	tại_sao việc tăng_cường sự tham_gia của người lao_động vào chế_độ bảo_hiểm_xã_hội là cần_thiết các biện_pháp nào có_thể được áp_dụng để đạt được mục_tiêu này
+ask_info	giáo_hội công_giáo việt_nam có bao_nhiêu người
+react_positive	tuyệt_đỉnh
+ask_info	đạo cao đài thờ ai và biểu_tượng của đạo là gì
+ask_info	hiến_pháp năm 2013 quy_định những điều gì về việc thực_hiện quyền con_người và quyền_công_dân
+thank	cảm_ơn bạn đã giúp_đỡ mình
+ask_info	nhà_nước việt_nam do ai lãnh_đạo
+ask_info	những thông_tin nào phải được công_khai theo luật tiếp_cận thông_tin 2016 ?
+affirm	okieee
+ask_info	cục thông_tin đối_ngoại có trách_nhiệm gì
+ask_info	vấn_đề nhân_quyền ở việt_nam mà người nước_ngoài quan_tâm nhất hiện_nay
+ask_info	tổ_chức cá_nhân có nghĩa_vụ gì trong việc thực_hiện quyền tự_do tín_ngưỡng tôn_giáo
+ask_info	việt_nam có chính_sách hỗ_trợ đào_tạo nhân_lực y_tế cho những vùng khó_khăn không
+chitchat_ask_howdoing	cậu có cảm_thấy ổn không nhỉ
+ask_info	cơ_cấu tổ_chức của cộng_đồng tôn_giáo baha ’ i việt_nam bao_gồm những cấp_độ nào
+chitchat_ask_howdoing	mọi chuyện thế_nào rồi
+ask_info	số_lượng đăng_ký xuất_bản năm 2015 là bao_nhiêu
+deny	không chắc lắm
+thank	m cam on nhe
+ask_info	nghĩa_vụ của nhà_nước trong bảo_đảm quyền con_người được thể_hiện như_thế_nào
+ask_info	năm 2014 cả nước có bao_nhiêu bệnh_viện
+ask_info	tại_sao tịnh_độ cư_sĩ phật hội việt_nam tập_trung vào xây_dựng ngành y_dược dân_tộc
+ask_info	trách_nhiệm của cơ_quan báo_chí , nhà_báo , phóng_viên được quy_định như_thế_nào theo nghị_định 09/2017/nđ-cp?
+deny	tôi không tin vào điều đó
+affirm	chắc luôn í
+ask_info	đạo tin lành có bao_nhiêu cơ_sở đào_tạo tôn_giáo và hoạt_động gì tại đó
+ask_info	những chương_trình giảm nghèo nào được ngân_sách nhà_nước bố_trí để hỗ_trợ người nghèo hộ nghèo và vùng nghèo
+chitchat_ask_whoisit	bạn là ứng_dụng bot ai à
+greet	chào
+canthelp	mình sẽ tìm_hiểu thêm và trở_lại sau
+thank	thank you nhiều nhá
+react_positive	siêu phẩm thật đấy
+ask_info	đồng_bào chăm có niềm tin tôn_giáo sâu_sắc vào thượng_đế allah và thiên kinh cô ran như_thế_nào
+ask_info	những lĩnh_vực nào được ưu_tiên đầu_tư và hỗ_trợ để nâng cao đời_sống vật_chất và tinh_thần của đồng_bào dân_tộc_thiểu_số
+chitchat_ask_time	sắp 9 giờ chưa em
+ask_info	đảng_cộng_sản_việt_nam có quan_điểm gì về tín_ngưỡng và tôn_giáo trong thời_kỳ đổi_mới
+canthelp	cám_ơn nhưng mình không cần
+explain	hãy giải_thích từng bước một được không
+ask_info	giáo_hội công_giáo việt_nam có mối quan_hệ như_thế_nào với các nước trên thế_giới
+thank	tks bạn đã nhắc_nhở mình
+chitchat_ask_whoisit	bạn có phải là hệ_thống tự_động ai không
+chitchat_ask_howdoing	mọi việc đã xảy ra chưa
+ask_info	hội_thánh cao đài tây_ninh có bao_nhiêu họ_đạo trực_thuộc ở nước_ngoài
+greet	aloooo bạn ơi
+ask_info	theo thống_kê của các cơ_quan_chức_năng năm 2021 có bao_nhiêu cơ_sở thờ_tự được xây mới
+chitchat_ask_time	sắp đến trưa chưa em
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về chuyển_đổi số quốc_gia
+ask_info	nhà_nước việt_nam có đảm_bảo nghĩa_vụ bảo_đảm quyền tham_gia quản_lý_nhà_nước và xã_hội của người_dân không
+ask_info	giáo_hội công_giáo việt_nam có bao_nhiêu người
+ask_info	sự_kiện trọng_đại trong lịch_sử phật_giáo việt_nam là gì
+greet	ad bạn ơi
+ask_info	những nỗ_lực nào đang được thực_hiện để củng_cố và phát_triển mạng_lưới các cơ_sở dạy nghề
+ask_info	những hình_thức dịch_chuyển lao_động nào được đề_cập trong đoạn_văn
+react_positive	thật là tuyệt_vời
+ask_info	mục_tiêu của luật tiếp_cận thông_tin năm 2016 của việt_nam là gì
+ask_info	những thành_tựu quan_trọng nào mà việt_nam đã đạt được trong công_cuộc phát_triển kinh_tế xã_hội sau gần 30 năm đổi_mới
+chitchat_ask_whoisit	bạn là robot ai à
+ask_info	bộ_trưởng bộ lao_động thương_binh và xã_hội đào ngọc dung
+ask_info	hội_đồng dân_tộc là cơ_quan như_thế_nào
+ask_info	đại_hội_đồng lhq có vai_trò gì trong bảo_vệ và thúc_đẩy nhân_quyền
+ask_info	bà la môn giáo là tôn_giáo gì và có ảnh_hưởng như_thế_nào đến cộng_đồng chăm bà la môn ở việt_nam
+explain	có_thể mô_tả chi_tiết hơn không
+affirm	được rồi không có lựa_chọn khác
+ask_info	điều 2 nội_dung kế_hoạch hoạt_động thông_tin đối_ngoại của các tỉnh thành_phố thuộc trung_ương
+ask_info	phật hội tứ ân hiếu_nghĩa vận_động các nhà hảo_tâm hỗ_trợ chương_trình an_sinh xã_hội như_thế_nào
+ask_info	cơ_quan đại_diện việt_nam ở nước_ngoài có trách_nhiệm gì
+chitchat_ask_whoisit	có phải bạn là con_người thật không
+chitchat_ask_whoisit	bạn có phải là người thật không
+ask_info	việc tu_bổ tôn_tạo di_tích đem lại lợi_ích gì cho ngân_sách nhà_nước và nhân_dân địa_phương
+ask_info	số_lượng người theo đạo tin lành tại việt_nam tính đến tháng 12 năm 2021 là bao_nhiêu có bao_nhiêu cơ_sở thờ_tự và tổ_chức tôn_giáo trực_thuộc
+ask_info	nhu_cầu đào_tạo và bồi_dưỡng đội_ngũ chức_việc của giáo_hội phật_giáo hoà_hảo tăng lên như_thế_nào
+thank	cảm_ơn misa nha có gì e ib lại
+ask_info	thống_đốc ngân_hàng nhà_nước việt_nam nguyễn_thị hồng
+affirm	ừ được nhé
+affirm	chắc_chắn là vậy
+ask_info	nhà_nước việt_nam đã có những ưu_tiên gì dành riêng cho người khuyết_tật
+ask_info	tôn_giáo baha ’ i có bao_nhiêu tín_đồ và tập_trung ở đâu trong việt_nam
+ask_info	nghị_định 135 2004 quy_định gì về trách_nhiệm của các trung_tâm trong việc hỗ_trợ người sau cai_nghiện
+ask_info	thông_tư quy_định gì về việc đăng phát nội_dung thông_tin đối_ngoại trên báo_chí
+ask_info	luật nhà ở năm 2014 quy_định như_thế_nào
+ask_info	tịnh_độ cư_sĩ phật hội việt_nam có phương_châm hành_đạo gì
+greet	chatbot ới
+chitchat_ask_time	time là mấy giờ bro
+greet	alo alooo
+ask_info	phật_giáo hiếu_nghĩa tà lơn có đội_ngũ chức_sắc chuyên_nghiệp không
+react_positive	thật là phấn_khích
+chitchat_ask_howdoing	tình_hình dạo này tốt không
+thank	cảm_ơn misa khi nào mình lấy mình báo nhé
+chitchat_ask_wherefrom	con bot này đến từ nước nào
+ask_info	tại_sao phán_quyết của toà_án phải căn_cứ chủ_yếu vào kết_quả tranh_tụng tại phiên_toà
+ask_info	quyền tự_do kinh_doanh được bảo_đảm như_thế_nào trong hiến_pháp năm 2013
+ask_info	giáo_hội cơ đốc phục lâm việt_nam đã tổ_chức bao_nhiêu kỳ đại_hội_đồng và tần_suất tổ_chức như_thế_nào
+affirm	ok bắt_đầu thôi
+bye	hẹn gặp lại em vào dịp khác nhé
+ask_info	điều 25 của hiến_pháp năm 2013 quy_định về quyền tự_do hội_họp lập hội là gì
+ask_info	việt_nam đã nỗ_lực như_thế_nào trong việc hoàn_thiện hệ_thống luật_pháp cơ_chế chính_sách để thúc_đẩy sự phát_triển kinh_tế bền_vững
+ask_info	tổ_chức hồi_giáo ở việt_nam đóng_góp như_thế_nào trong việc xây_dựng và bảo_vệ tổ_quốc việt_nam xã_hội_chủ_nghĩa
+ask_info	số_lượng tín_đồ tôn_giáo baha ’ i tại việt_nam tăng lên như_thế_nào trong khoảng thời_gian từ 1970 đến đầu năm 1975
+thank	cám_ơn shop có gì mình liên_hệ lại ah
+ask_info	việt_nam là thành_viên của tổ_chức nào
+chitchat_ask_time	bây_giờ là cái gì vậy cưng đồng_hồ của tôi hỏng rồi
+thank	cam ơn b
+react_positive	thật là phấn_khích
+ask_info	khối các đơn_vị sự_nghiệp thuộc bộ thông_tin và truyền_thông bao_gồm
+ask_info	hình_thức dạy nghề tại các trung_tâm cai_nghiện thường được thực_hiện như_thế_nào
+ask_info	việt_nam đã tham_gia công_ước quốc_tế về quyền của trẻ_em vào năm nào
+ask_info	tình_hình tự_do ngôn_luận tự_do báo_chí và thông_tin ở việt_nam như_thế_nào
+ask_info	cơ_chế rà_soát định_kỳ phổ_quát của hội_đồng nhân_quyền là gì
+affirm	ok được nhé
+ask_info	tình_hình thu_nhập giữa thành_thị và nông_thôn như_thế_nào hiện_nay
+bye	tôi phải đi rồi hẹn gặp lại bạn
+thank	cảm_ơn bot mình sẽ tham_khảo thêm
+ask_info	giáo_hội phật_giáo việt_nam có những hoạt_động nào
+chitchat_ask_whatismyname	tên tui có hợp không nhỉ
+ask_info	năm 2014 việt_nam đã tạo việc_làm cho bao_nhiêu người
+affirm	được rồi không cần nghi_ngờ gì nữa
+chitchat_ask_wherefrom	m đến từ chỗ nào
+ask_info	hiện_nay có bao_nhiêu điểm nhóm tin lành được cấp đăng_ký sinh_hoạt tôn_giáo tập_trung tại việt_nam và ở đâu
+chitchat_ask_whoisit	bạn là chatbot ai à
+greet	hello
+chitchat_ask_howdoing	tình_hình ra sao rồi
+ask_info	những giá_trị nào mà dân_tộc việt_nam đang cố_gắng bảo_vệ và phát_triển để đem lại cuộc_sống tốt_đẹp hơn cho mọi người
+thank	vâng tks b nhé
+ask_info	việt_nam bắt_giữ blogger
+thank	cảm_ơn nha
+chitchat_ask_howbuilt	tạo bot này có sử_dụng phương_pháp kết_hợp các mô_hình không
+chitchat_ask_time	sắp 17 giờ chưa em
+thank	hiu v e k mua được rùi e cảm_ơn ạ
+ask_info	quyền tự_do ngôn_luận tự_do báo_chí và thông_tin được bảo_đảm như_thế_nào tại việt_nam
+greet	aloo bot
+greet	hello bạn khoẻ không
+chitchat_ask_whoisit	bạn là ứng_dụng bot ai à
+ask_info	pháp_luật việt_nam bảo_đảm quyền văn_hoá như_thế_nào
+ask_info	tại_sao các tổ_chức tôn_giáo lại xuất_bản nhiều ấn_phẩm liên_quan đến tôn_giáo
+affirm	đúng vậy không còn gì để nói thêm
+ask_info	vì sao toàn_thể dân_tộc việt_nam không ngừng phấn_đấu để giành được độc_lập
+ask_info	bộ_luật hình_sự sửa_đổi năm 2015 có nội_dung gì
+ask_info	đại_hội các cấp có nhiệm_vụ gì
+react_negative	em xấu thế
+chitchat_ask_howdoing	mọi thứ đã suôn_sẻ chưa
+chitchat_ask_howold	ai này được bao_nhiêu tuổi rồi
+react_positive	rất hay
+ask_info	những nhóm xã_hội và cộng_đồng nào được mở_rộng chủ_thể quyền trong hiến_pháp năm 2013
+thank	e cảm_ơn ạh
+ask_info	nhà_nước có trách_nhiệm gì trong việc bảo_vệ quyền tự_do tín_ngưỡng tôn_giáo của mọi người theo hiến_pháp năm 2013
+ask_info	quyền tự_do kinh_doanh của người_dân được pháp_luật bảo_hộ như_thế_nào
+thank	thanks bạn nhiều ạ
+chitchat_ask_whoisit	mày là người hay không
+thank	thank you bạn rất thân_thiện
+deny	không_thể chấp_nhận cái đó
+ask_info	phật hội tứ ân hiếu_nghĩa thực_hiện những hoạt_động từ_thiện gì
+affirm	okie
+ask_info	cuốn sách này cung_cấp những thông_tin gì về lĩnh_vực quyền con_người tại việt_nam
+ask_info	những biện_pháp nào nhà_nước việt_nam đã thực_hiện để cải_cách và hoàn_thiện hệ_thống pháp_luật và tư_pháp về quyền con_người
+ask_info	những chương_trình dự_án và khoản viện_trợ nào đã được các tổ_chức phi_chính_phủ nước_ngoài thực_hiện trong lĩnh_vực y_tế của việt_nam
+ask_info	tổ_chức tôn_giáo phải đáp_ứng những điều_kiện gì để được công_nhận là tổ_chức tôn_giáo
+thank	dạ em cảm_ơn nhiều ạ
+ask_info	trong việc tổ_chức bộ_máy lãnh_đạo quản_lý hoạt_động của chùa bửu sơn kỳ hương có sự khác nhau ở mỗi địa_phương như_thế_nào
+ask_info	chính_phủ đã có những chính_sách pháp_luật cụ_thể nào để hỗ_trợ người khuyết_tật
+ask_info	quyền con_người mang tính phổ_biến nhưng khi áp_dụng cần phù_hợp đặc_thù của quốc_gia nào
+ask_info	hệ_thống phòng thuốc_nam phước thiện của giáo_hội tịnh_độ cư_sĩ phật hội việt_nam đã đóng_góp như_thế_nào cho xã_hội và nhà_nước
+ask_info	xây_dựng đồng_bộ cơ_sở_hạ_tầng của thị_trường lao_động
+chitchat_ask_whoisit	bạn có phải là chatbot tự_động ai không
+greet	à em ơi
+ask_info	việc bảo_đảm và thúc_đẩy quyền con_người là trách_nhiệm của ai
+ask_info	mặt_trận tổ_quốc việt_nam là tổ_chức như_thế_nào
+ask_info	cơ_sở vật_chất trường_lớp tại việt_nam được đầu_tư như_thế_nào để phát_triển
+chitchat_ask_whoisit	bạn là trợ_lý ảo ai à
+chitchat_ask_whoisit	bạn là chatbot ai à
+ask_info	cơ_chế chính_sách pháp_luật nào cần được hoàn_thiện để huy_động và phát_huy nguồn_lực của tôn_giáo trong xây_dựng và phát_triển đất_nước
+ask_info	nhà_nước việt_nam đã tạo điều_kiện gì để đáp_ứng quyền của người khuyết_tật
+ask_info	trường_hợp nào nhà_nước có_thể trưng_mua trưng_dụng tài_sản của nhà_đầu_tư
+greet	hi misa 3
+chitchat_ask_whatismyname	bạn biết tên của tui là gì không
+ask_info	những luật và pháp_lệnh nào liên_quan đến lĩnh_vực văn_hoá được đề_cập trong đoạn_văn
+ask_info	điều 25 của hiến_pháp năm 2013 quy_định về tổ_chức và hoạt_động của hội là gì
+ask_info	công_tác phòng_chống tội_phạm mua_bán người được triển_khai như_thế_nào
+explain	bạn có_thể giải_thích thêm được không
+affirm	dễ mà
+chitchat_ask_whoisit	bạn là bot chatbot à
+ask_info	minh sư đạo xuất_hiện vào_khoảng thời_gian nào
+chitchat_ask_whoisit	bạn là robot ai à
+react_positive	thật là đáng yêu
+ask_info	kế_hoạch hoạt_động thông_tin đối_ngoại của các tỉnh thành_phố trực_thuộc trung_ương bao_gồm những nhiệm_vụ chủ_yếu nào
+ask_info	đạo cao đài thờ ai và biểu_tượng của đạo là gì
+ask_info	việt_nam có chính_sách chăm_sóc thế_nào đối_với phụ_nữ và trẻ_em
+canthelp	mình không muốn tiếp_tục trò_chuyện
+chitchat_ask_time	đang là 5h sáng à
+ask_info	những hậu_quả gì có_thể xảy ra khi cán_bộ nhà_nước không hiểu_biết đầy_đủ về quyền con_người và luật_pháp quốc_tế
+deny	không_thể chấp_nhận
+ask_info	án phải bảo_đảm những nguyên_tắc cơ_bản nào trong quá_trình xét_xử
+ask_info	việc cung_cấp thông_tin cho báo_chí được quy_định như_thế_nào trong luật báo_chí 2016 ?
+explain	tại_sao điều đó lại mang ý_nghĩa quan_trọng
+ask_info	hội_thánh tin lành trưởng_lão việt_nam được công_nhận tổ_chức tôn_giáo năm bao_nhiêu
+ask_info	các hình_thức nào được sử_dụng để thực_hiện công_tác tuyên_truyền phổ_biến pháp_luật về tín_ngưỡng tôn_giáo
+deny	tôi không muốn làm điều đó
+ask_info	ở việt_nam quyền con_người bao_gồm những quyền gì
+chitchat_ask_whatismyname	tên tui nghe có_vẻ thú_vị đấy
+ask_info	quyền bầu_cử ứng_cử và tham_gia quản_lý của công_dân được quy_định như_thế_nào
+react_positive	rất hài_lòng với kết_quả này
+ask_info	giáo_hội cơ đốc phục lâm việt_nam có bao_nhiêu hội_thánh
+affirm	chắc_chắn không cần chần_chừ thêm
+ask_info	"giáo_lý của phật_giáo hoà_hảo là gì và ý_nghĩa của câu khẩu_hiệu "" học phật tu nhân """
+explain	hãy giải_thích lý_do tại_sao chúng_ta cần quan_trọng đến điều đó
+react_positive	quá chuẩn
+ask_info	các hoạt_động viện_trợ của các tổ_chức phi_chính_phủ nước_ngoài tại việt_nam tập_trung vào những vấn_đề gì
+ask_info	tại_sao con_người luôn được đặt ở trung_tâm của mọi chiến_lược chính_sách của việt_nam
+ask_info	những giá_trị nào được các tổ_chức tôn_giáo này đề_cao và khuyến_khích trong hành_đạo của mình
+thank	hi thanks
+ask_info	điều 1 đối_tượng áp_dụng của thông_tư này
+chitchat_ask_whoisit	sao bạn nghe giống người thật thế
+bye	tôi sẽ quay lại sau
+ask_info	chủ_trương thứ nhất của nhà_nước việt_nam trong việc bảo_vệ quyền con_người là gì
+ask_info	luật thi_hành án hình_sự quy_định gì
+greet	get started
+ask_info	tại_sao sự phát_triển của kinh_tế_thị_trường lại gây ra những vấn_nạn xã_hội đáng lo_ngại
+ask_info	người chăm bà la môn sinh_sống tập_trung ở tỉnh nào
+react_negative	tôi không thích cách giao_tiếp của chatbot này
+thank	thanks sh nha
+ask_info	giáo_hội các thánh hữu ngày sau của chúa giê su ky tô việt_nam là gì
+ask_info	hoạt_động tôn_giáo của người nước_ngoài tại việt_nam đặt ra những vấn_đề gì
+explain	cho tôi hiểu rõ hơn về điều đó
+greet	ali b ơi
+ask_info	quyền tự_do báo_chí có giới_hạn không và pháp_luật quốc_tế xác_định giới_hạn của quyền này như_thế_nào ?
+deny	xin_lỗi nhưng không
+ask_info	việt_nam sẽ tiếp_tục triển_khai các chương_trình ưu_tiên hàng năm và xây_dựng kế_hoạch công_tác 5 năm giai_đoạn tiếp_theo 2015 2020 như_thế_nào
+chitchat_ask_whoisit	bạn là robot hay người thật
+ask_info	hiến_pháp 2013 có những nội_dung gì về quyền con_người
+react_negative	em im mồm đi
+ask_info	quyền tự_do báo_chí được quy_định như_thế_nào trong pháp_luật quốc_tế ?
+react_positive	em đáng yêu quá
+ask_info	tỷ_lệ trẻ_em dưới 5 tuổi suy_dinh_dưỡng giảm xuống còn bao_nhiêu phần_trăm
+ask_info	luật báo_chí sửa_đổi được quốc_hội thông_qua vào ngày nào
+ask_info	giáo_hội công_giáo việt_nam đẩy_mạnh các hoạt_động gì
+chitchat_ask_howdoing	cậu có cảm_thấy tốt không nhỉ
+react_positive	tốt quá bạn ơi
+deny	tôi không đồng_ý với quan_điểm đó
+react_positive	rất ok
+canthelp	cuộc trò_chuyện này không hữu_ích cho lắm
+greet	alo ahop oi
+ask_info	tổ_chức tôn_giáo của người chăm bà la môn đã được nhà_nước công_nhận tổ_chức tôn_giáo vào năm nào và có những nhiệm_kỳ và hoạt_động gì
+ask_info	tại_sao cai_nghiện bắt_buộc được áp_dụng đối_với những người đã cai_nghiện tự_nguyện tại trung_tâm nhưng không có kết_quả
+ask_info	quyền và trách_nhiệm của người đứng đầu cơ_quan_hành_chính nhà_nước trong việc phát_ngôn và cung_cấp thông_tin cho báo_chí ?
+ask_info	chính_sách dân_tộc được thực_hiện ở đâu
+react_positive	rất ưng_ý với câu trả_lời của bạn
+ask_info	hiện_nay vị_thế của việt_nam trên trường quốc_tế như_thế_nào
+ask_info	quyền_lực nhà_nước thuộc về ai
+ask_info	cai_nghiện bắt_buộc tại trung_tâm là gì
+react_positive	thật là tốt
+ask_info	những hoạt_động đối_ngoại về tôn_giáo của việt_nam bao_gồm những nội_dung gì
+ask_info	người_dân việt_nam có được tự_do bày_tỏ ý_kiến trên mạng xã_hội không
+react_negative	con cờ hó
+affirm	oke không cần bàn_cãi thêm
+canthelp	để t tự tìm_hiểu cũng được
+bye	ok chào nhé
+canthelp	mình sẽ tự tìm_hiểu và trở_lại sau
+greet	get startedf
+ask_info	điều_kiện địa_lý và phong_tục tập_quán của việt_nam như_thế_nào
+ask_info	những khó_khăn thách_thức nào đang đối_diện với việt_nam trong việc đảm_bảo quyền tự_do tín_ngưỡng tôn_giáo
+ask_info	sở thông_tin và truyền_thông phải làm gì khi có yêu_cầu từ bộ thông_tin và truyền_thông liên_quan đến việc thực_hiện các quy_định tại thông_tư này
+ask_info	những loại trường nào được đề_cập trong đoạn_văn
+ask_info	trong thời_gian tới việt_nam sẽ tiếp_tục phối_hợp với các nước asean triển_khai các dự_án hợp_tác nào
+ask_info	tôn_giáo có_thể đóng_góp như_thế_nào trong các lĩnh_vực như y_tế giáo_dục bảo_trợ xã_hội dạy nghề từ_thiện nhân_đạo v v
+ask_info	trong quá_trình du_nhập và phát_triển phật_giáo đã chứng_tỏ điều gì
+ask_info	giáo_hội phật_giáo việt_nam hiện có bao_nhiêu tăng_ni và cơ_sở thờ_tự
+greet	chị oi
+ask_info	việt_nam xiết tự_do báo_chí
+greet	ôi chào thế_giới có thấy tôi không
+thank	thanks c
+chitchat_ask_time	time là gì bro đồng_hồ của tôi hỏng rồi
+ask_info	trường trung_cấp phật_giáo hoà_hảo được thành_lập năm nào
+ask_info	các hoạt_động nào được quản_lý tổ_chức thực_hiện bởi các bộ_ngành trong phạm_vi lĩnh_vực quản_lý_nhà_nước được giao
+ask_info	chính_sách của nhà_nước việt_nam về trẻ_em dựa trên nguyên_tắc nào
+ask_info	những phương_tiện thông_tin_đại_chúng nào được đăng_ký hoạt_động tại việt_nam
+thank	cám_ơn nha
+ask_info	số người nhiễm hiv phát_hiện mới có xu_hướng giảm hay tăng
+ask_info	quan_hệ giữa việt_nam và va ti căng như_thế_nào
+greet	alo ahop
+thank	cảm_ơn bạn đã đồng_hành cùng mình
+greet	alo e ơiii
+ask_info	việt_nam có bao_nhiêu dân_tộc
+ask_info	chính_phủ việt_nam đã có những động_thái gì đối_với vấn_đề bình_đẳng giới
+ask_info	thông_tin đối_ngoại bao_gồm những gì
+chitchat_ask_howbuilt	đã dùng phương_pháp nào để xây_dựng bot này chưa
+ask_info	nhà_nước việt_nam đang hợp_tác với các nước và tổ_chức quốc_tế nào trong lĩnh_vực nhân_quyền
+ask_info	tại_sao cơ_chế chính_sách pháp_luật phù_hợp và đồng_bộ sẽ thu_hút các tổ_chức cá_nhân tôn_giáo tham_gia vào nhiều lĩnh_vực của đời_sống xã_hội
+react_positive	rất ưng_ý với câu trả_lời của bạn
+ask_info	tôn_giáo bahai ra_đời năm nào
+chitchat_ask_time	bạn biết bây_giờ mấy giờ ko
+greet	hi chi
+ask_info	công_tác tuyên_truyền phổ_biến pháp_luật về quyền tự_do tín_ngưỡng tôn_giáo được thực_hiện như_thế_nào
+react_positive	em thật tuyệt_vời
+chitchat_ask_howbuilt	con bot này dùng deep learning à
+react_positive	quá đỉnh luôn
+ask_info	luật tín_ngưỡng tôn_giáo quy_định những gì về trách_nhiệm của nhà_nước trong việc bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo
+affirm	xác_nhận nhé
+ask_info	tại_sao cần cung_cấp thông_tin quảng_bá hình_ảnh của tỉnh thành_phố
+chitchat_ask_time	có biết đang là thời_gian nào không zời
+ask_info	nghị_định số 79 2012 nđ cp ngày_tháng năm nào
+react_positive	quá chuẩn
+deny	không phải ý_tưởng tốt
+ask_info	lãnh_đạo bộ thông_tin và truyền_thông việt_nam
+ask_info	trường_chinh
+chitchat_ask_howbuilt	cách phát_triển chatbot này thật khác_biệt
+greet	đi ngủ
+chitchat_ask_whoisit	có phải bạn là con_người thật không
+affirm	chính_xác không cần suy_nghĩ thêm
+chitchat_ask_howold	bạn được tạo ra lúc_nào
+ask_info	xử_lý vi_phạm pháp_luật trong lĩnh_vực tín_ngưỡng tôn_giáo là gì
+react_negative	em dốt thế
+ask_info	hội_đồng_nhân_dân là cơ_quan như_thế_nào
+react_negative	trả_lời vớ_vẩn quá
+explain	bạn có_thể cung_cấp ví_dụ để làm rõ hơn không
+ask_info	các câu_lạc_bộ văn_học nghệ_thuật ra_đời nhằm mục_đích gì
+ask_info	mạng_lưới trường_học ở việt_nam được phát_triển như_thế_nào trong những năm gần đây
+greet	em ơi
+thank	tớ cảm_ơn nhiều nhé
+ask_info	mục_đích của việc tập_hợp đồng_bào theo tín_ngưỡng tôn_giáo và đồng_bào không theo tín_ngưỡng tôn_giáo là gì
+chitchat_ask_time	bây_giờ đồng_hồ chạy nhanh hay chậm vậy bro
+chitchat_ask_time	hôm_nay là thứ mấy nhỉ
+chitchat_ask_howbuilt	tạo bot này có sử_dụng phương_pháp học không giám_sát không
+affirm	được thôi mình đồng_ý
+ask_info	nguyên_tắc tham_gia hoạt_động thông_tin đối_ngoại
+ask_info	nhà_giam giữ và các đơn_vị chức_năng tạo điều_kiện gì để người bị quản_lý giam_giữ có_thể sử_dụng kinh sách và bày_tỏ niềm tin tín_ngưỡng tôn_giáo
+chitchat_ask_wherefrom	bạn có gốc_gác ở đâu
+react_negative	đồ khốn
+ask_info	mục_đích chính của luật trưng_cầu_ý_dân là gì
+chitchat_ask_howdoing	tình_hình ra sao
+explain	tại_sao điều đó lại quan_trọng
+chitchat_ask_howbuilt	bot này có sử_dụng logic mờ không
+react_positive	siêu đỉnh
+ask_info	quyền con_người liên_quan mật_thiết đến điều gì
+thank	cam on e nhe
+greet	alo alooooo
+ask_info	việt_nam luôn coi_trọng và tăng_cường hợp_tác với các tổ_chức quốc_tế nào
+react_negative	chatbot này không trả_lời một_cách rõ_ràng và logic
+chitchat_ask_whoisit	nói tôi biết bạn là bot phải không
+ask_info	tây_ban_nha đã hỗ_trợ việt_nam thực_hiện các dự_án gì
+chitchat_ask_whatspossible	m có khả_năng làm những gì
+ask_info	lê_minh khái phó thủ_tướng chính_phủ việt_nam phụ_trách kinh_tế tổng_hợp và thanh_tra khiếu_nại tố_cáo
+chitchat_ask_howbuilt	tôi muốn hiểu quá_trình xây_dựng chatbot từ đầu đến cuối
+ask_info	hiện_nay dự_luật nào đang được đưa ra tham_khảo ý_kiến của các tổ_chức tôn_giáo và nhân_dân
+deny	tôi không chấp_thuận
+canthelp	mình sẽ thử một_cách khác
+ask_info	số_lượng cơ_sở điều_trị methadone tại việt_nam hiện_nay là bao_nhiêu và điều_trị cho bao_nhiêu bệnh_nhân
+react_negative	chatbot này không giúp tôi tiết_kiệm thời_gian và công_sức
+chitchat_ask_howdoing	cậu có vui không
+ask_info	cuốn sách này cung_cấp thông_tin gì về lĩnh_vực quyền con_người tại việt_nam
+ask_info	ai sẽ bố_trí ngân_sách địa_phương để thực_hiện hoạt_động thông_tin đối_ngoại
+canthelp	tớ sẽ tìm_hiểu thêm và trở_lại sau
+chitchat_ask_whoisit	bạn là con bot ai à
+affirm	được lun
+ask_info	quyền con_người có mối liên_hệ như_thế_nào với an_ninh quốc_gia
+deny	đừng có nói như_vậy
+ask_info	những câu_lạc_bộ văn_học nghệ_thuật nào đã ra_đời trong phong_trào văn_nghệ quần_chúng tại việt_nam
+ask_info	công_tác tuyên_truyền phổ_biến pháp_luật về quyền tự_do tín_ngưỡng tôn_giáo được thực_hiện bằng những hình_thức nào
+thank	cảm_ơn bot sang tháng về hn m sẽ đặt sau
+ask_info	cục thông_tin đối_ngoại
+affirm	mình nhận không nên lưỡng_lự nữa
+greet	lâu rồi không gặp
+ask_info	luật tín_ngưỡng tôn_giáo được thông_qua vào ngày nào
+chitchat_ask_howbuilt	xây_dựng chatbot này cần những kỹ_năng gì
+explain	có_thể nói rõ hơn về quy_trình thực_hiện không
+ask_info	việt_nam đã hợp_tác với những tổ_chức nào của liên_hợp_quốc trong công_tác phòng_chống tội_phạm và ma_tuý
+ask_info	hiến_pháp năm 2013 quy_định những hành_vi nào
+ask_info	việt_nam đứng thứ mấy về số_lượng người sử_dụng internet
+chitchat_ask_whoisit	wow tôi không_thể tin được rằng bạn là người thật
+chitchat_ask_whoisit	bạn có phải là máy không
+ask_info	ai là chủ_thể của quyền tự_do tín_ngưỡng tôn_giáo theo hiến_pháp năm 2013
+chitchat_ask_whoisit	bạn có phải là ứng_dụng ai không
+react_negative	em xấu thế
+ask_info	lãnh_đạo bộ thông_tin và truyền_thông việt_nam
+react_positive	siêu phẩm thật đấy
+ask_info	công_ước về các quyền dân_sự và chính_trị 1966 được ký_kết năm nào
+explain	hãy cung_cấp thêm thông_tin chi_tiết về điều đó
+chitchat_ask_howbuilt	tôi muốn biết quá_trình phát_triển chatbot của bạn
+chitchat_ask_howdoing	cậu có khoẻ không
+ask_info	những giá_trị nghệ_thuật cổ_truyền nào đang được khai_thác và truyền_bá tại việt_nam
+chitchat_ask_whatismyname	tên tui nghe có_vẻ trẻ_trung nhỉ
+thank	mình cám_ơn đã tư_vấn
+ask_info	nhà_nước việt_nam đối_đãi như_thế_nào với quyền tự_do tín_ngưỡng tôn_giáo của người dân
+affirm	đồng_ý
+ask_info	việc hỗ_trợ các tổ_chức tôn_giáo tổ_chức các sự_kiện quốc_tế có tác_động gì đến hình_ảnh của việt_nam
+chitchat_ask_howdoing	cậu có hạnh_phúc không
+react_positive	pro quá
+react_negative	không hiểu gì
+ask_info	các cơ_quan_chuyên_môn thuộc uỷ_ban_nhân_dân cấp tỉnh có trách_nhiệm gì
+ask_info	hiến_pháp nước cộng_hoà_xã_hội_chủ_nghĩa_việt_nam có hiệu_lực từ ngày nào
+chitchat_ask_whoisit	bạn là chatbot tự_động à
+ask_info	luật phòng_chống hiv aids bảo_vệ những quyền_lợi nào của người nhiễm hiv
+affirm	let ' s làm đi
+ask_info	võ nguyên giáp
+ask_info	đạo bửu sơn kỳ hương có khoảng bao_nhiêu cơ_sở thờ_tự
+canthelp	mình cần giải_pháp khác
+bye	chào mọi người
+ask_info	tại việt_nam hiện có bao_nhiêu tổ_chức tôn_giáo được công_nhận và đăng_ký hoạt_động
+deny	đừng có mong
+react_positive	xịn qá ad ơiiii
+greet	hi misa
+bye	bai em nhé
+ask_info	việt_nam ủng_hộ đối_thoại và mở_rộng hợp_tác về quyền con_người trên cơ_sở nào
+ask_info	các tổ_chức tôn_giáo đã đóng_góp như_thế_nào trong công_tác phòng_chống dịch covid 19
+ask_info	nước ta có bao_nhiêu dân_tộc
+ask_info	các tổ_chức tôn_giáo đã được khuyến_khích tham_gia vào những hoạt_động gì để giúp_đỡ đồng_bào gặp khó_khăn tại vùng_sâu_vùng_xa
+ask_info	điều 16 hiến_pháp năm 2013 quy_định gì
+ask_info	người_dân việt_nam có bị đàn_áp chính_trị không
+greet	ôi chào có tin gì vui không
+thank	t cám_ơn nhé
+ask_info	chương_trình 135 giai_đoạn 2006 2010 về phát_triển kinh_tế xã_hội ở các xã đặc_biệt khó_khăn vùng đồng_bào dân_tộc và miền núi được triển_khai như_thế_nào
+canthelp	tớ muốn kết_thúc cuộc trò_chuyện này
+greet	ckj ơi
+affirm	được rồi làm đi
+ask_info	số_lượng vật_liệu nổ còn sót lại gây ô_nhiễm khoảng bao_nhiêu héc ta đất_đai
+ask_info	điều 16 hiến_pháp năm 2013 quy_định gì
+ask_info	các cơ_quan bảo_vệ quyền trẻ_em ở việt_nam bao_gồm những tổ_chức nào
+ask_info	nhà_nước có những biện_pháp nào để nâng cao năng_lực của mình trong việc quản_lý tổ_chức điều_tiết và hỗ_trợ thị_trường lao_động
+ask_info	tuyên_bố nhân_quyền asean do ai soạn_thảo
+chitchat_ask_whatismyname	bạn có đoán được tên t ko
+ask_info	việt_nam xếp thứ mấy về phát_triển giáo_dục
+ask_info	những vấn_nạn xã_hội đang ảnh_hưởng đến đời_sống của người_dân như_thế_nào và làm thế_nào để giải_quyết chúng
+ask_info	quyền con_người và tự_do có mối liên_hệ như_thế_nào
+ask_info	việc đăng_ký sinh_hoạt tôn_giáo tập_trung trên phạm_vi cả nước đã được thực_hiện như_thế_nào
+ask_info	nhà_nước việt_nam đã triển_khai những chính_sách gì để hỗ_trợ vùng đồng_bào dân_tộc_thiểu_số
+thank	thk sh nhe
+explain	cho t mô_tả chi_tiết hơn đc ko
+react_negative	chatbot này không cung_cấp thông_tin đầy_đủ và chính_xác
+ask_info	việc tăng_cường hiệu_quả cơ_chế đối_thoại song_phương về quyền con_người được thực_hiện như_thế_nào
+chitchat_ask_whoisit	bạn có phải là trợ_lý ai không
+ask_info	nhà_nước việt_nam luôn xác_định quyền con_người là gì
+ask_info	tổ_chức nào được cấp chứng_nhận đăng_ký hoạt_động tôn_giáo theo quy_định của luật tín_ngưỡng tôn_giáo
+ask_info	số_liệu thống_kê cho thấy những lớp_học nào được tổ_chức cho người bị giam_giữ
+chitchat_ask_whatismyname	đặt tên gì cho tui vậy
+thank	thanks b nh
+ask_info	hành_vi lợi_dụng quyền tự_do đi_lại cư_trú để vi_phạm pháp_luật sẽ bị xử_lý như_thế_nào
+thank	tks nhé
+ask_info	danh_sách cán_bộ lãnh_đạo cục thông_tin đối_ngoại
+chitchat_ask_time	sắp 22 giờ chưa em
+bye	hẹn gặp lại
+chitchat_ask_howdoing	sao rồi
+ask_info	thông_tin giải_thích làm rõ là gì
+react_positive	siêu đỉnh
+ask_info	giáo_hội phật đường nam tông minh sư đạo đã thực_hiện những hoạt_động từ_thiện nào
+ask_info	các tcpcpnn còn giúp truyền_tải thông_tin và hình_ảnh của việt_nam đến bạn_bè thế_giới
+ask_info	việc bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo của người_dân có ảnh_hưởng như_thế_nào đến các hoạt_động an_sinh xã_hội
+ask_info	điều 23 tổ_chức cung_cấp thông_tin cho người_dân hiểu về quá_trình hội_nhập quốc_tế
+ask_info	quốc_hội là cơ_quan đại_biểu cao nhất của nhân_dân thực_hiện những quyền_lực gì
+ask_info	chính_sách và pháp_luật nhà_nước mà tổ_chức giáo_hội các cấp của các tôn_giáo cần phải chấp_hành là gì
+ask_info	tỷ_lệ lây_truyền hiv từ mẹ sang con trong số trẻ sinh_từ mẹ nhiễm hiv được chân đoán sớm năm 2014 là bao_nhiêu
+ask_info	mục_tiêu của quyết_định số 1309 qđ ttg ngày 05 9 2017 phê_duyệt đề_án đưa quyền con_người vào hệ_thống giáo_dục quốc_dân là gì
+affirm	mình sẵn_lòng đó
+react_positive	thật là phấn_khích
+ask_info	hội_đồng dân_tộc có nhiệm_vụ gì
+chitchat_ask_whoisit	có phải bạn là con_người đúng không
+ask_info	quyền được giáo_dục trong lĩnh_vực văn_hoá được quy_định như_thế_nào trong hiến_pháp năm 2013
+explain	có_thể đưa ra một ví_dụ cụ_thể để minh_hoạ không
+ask_info	kỳ phát_ngôn và cung_cấp thông_tin cho báo_chí được quy_định như_thế_nào ?
+greet	chào chatbot
+greet	alo c owi
+ask_info	trung_tâm cai_nghiện có những chức_năng gì trong việc chăm_sóc sức_khoẻ cho người cai_nghiện
+ask_info	tự_do báo_chí là gì
+ask_info	luật an_toàn thông_tin mạng có quy_định gì
+ask_info	điều 6 luật đầu_tư quy_định như_thế_nào
+thank	mình cám_ơn
+react_negative	ko có_ích
+ask_info	bản_sắc văn_hoá ngôn_ngữ và tín_ngưỡng của các dân_tộc ở việt_nam như_thế_nào
+ask_info	tình_hình nhân_quyền tại việt_nam
+affirm	mình đồng_ý đó
+chitchat_ask_whatismyname	tên mình hỏi bạn biết không
+ask_info	na_uy đang phối_hợp với việt_nam thực_hiện thoả_thuận_khung hợp_tác về nâng cao năng_lực quản_lý_nhà_nước về bình_đẳng giới giai_đoạn nào
+ask_info	các thành_viên của mặt_trận tổ_quốc việt_nam bao_gồm những đối_tượng nào
+react_positive	cực_kỳ ưng_ý
+chitchat_ask_whoisit	bạn là ứng_dụng bot ai à
+explain	bạn có_thể nói rõ hơn về cách thực_hiện điều đó không
+chitchat_ask_whoisit	bạn là ai trong đây
+ask_info	theo nghị_định số 72/2015/nđ-cp của chính_phủ về quản_lý hoạt_động thông_tin đối_ngoại , thông_tin đối_ngoại được hiểu như_thế_nào và các nguyên_tắc khi tham_gia hoạt_động thông_tin đối_ngoại nào nhà_báo cần nắm rõ ?
+chitchat_ask_whatspossible	bạn có_thể giúp tôi như_thế_nào
+ask_info	thông_tin chính_thức về việt_nam bao_gồm những nội_dung gì
+deny	tôi không thích ý_kiến đó
+greet	sjop oi
+greet	aloalo alo
+deny	tôi không đồng_ý làm_vậy
+ask_info	các quy_định pháp_luật nào đã được ban_hành để bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo
+greet	aloo misa oi
+ask_info	hệ_thống cơ_quan tổ_chức nào tham_mưu và thúc_đẩy sự tiến_bộ của phụ_nữ việt_nam
+react_negative	chatbot này không cung_cấp thông_tin đầy_đủ và chi_tiết
+canthelp	thoát ngay đi
+thank	cám_ơn misa da tư_vấn
+ask_info	giáo_hội công_giáo việt_nam tích_cực tham_gia các hoạt_động nào
+ask_info	nhà_nước việt_nam đã triển_khai những chính_sách gì để hỗ_trợ vùng đồng_bào dân_tộc_thiểu_số
+react_positive	thật là tuyệt_vời
+ask_info	quyền con_người và chủ_quyền quốc_gia quyền dân_tộc tự_quyết có mối quan_hệ như_thế_nào
+ask_info	bộ văn_hoá thể_thao và du_lịch có trách_nhiệm gì
+greet	alo alo misa
+deny	không phải lúc này
+ask_info	những yếu_tố nào đã góp_phần vào việc đạt được những thành_tựu này
+ask_info	mục_tiêu của công_tác vận_động quần_chúng các tôn_giáo là gì
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về báo_chí
+thank	m nhan dk rui nhe cam on b
+ask_info	hoạt_động từ_thiện xã_hội của giáo_hội phật_giáo hoà_hảo được thể_hiện như_thế_nào
+greet	alo c ợ
+react_positive	thật là đỉnh_cao
+deny	không đâu
+affirm	okie
+bye	hẹn gặp lại bạn vào lần sau nhé
+ask_info	những thách_thức nào cần được vượt qua và những hướng ưu_tiên nào được đề_xuất để thúc_đẩy việc thụ_hưởng ngày_càng tốt hơn quyền tự_do tín_ngưỡng tôn_giáo của nhân_dân ở việt_nam
+ask_info	những chương_trình dự_án quan_trọng nào được triển_khai bởi các cơ_quan liên_hợp_quốc tại việt_nam để thúc_đẩy quyền con_người tại việt_nam
+chitchat_ask_howbuilt	chatbot này đã được huấn_luyện trong bao_lâu
+ask_info	chính_sách an_sinh xã_hội ở việt_nam được thực_hiện theo những nhóm chính_sách nào
+ask_info	quyền tự_do cá_nhân của người việt_nam đã bị xâm_phạm như nào
+chitchat_ask_howbuilt	bot này có sử_dụng mô_hình bộ_nhớ dài ngắn không
+ask_info	luật cư_trú được ban_hành vào ngày nào
+ask_info	cụ_thể là đơn_vị nào của bộ thông_tin và truyền_thông
+deny	không phải lúc này
+chitchat_ask_whatspossible	cho t biết m có khả_năng làm gì đc ko
+ask_info	phật_giáo hiếu_nghĩa tà lơn được sáng_lập vào năm nào và ở đâu
+ask_info	những thành_tựu nào đã được đạt được trong việc kiểm_soát lạm_phát và tăng_trưởng xuất_khẩu của việt_nam
+react_positive	hay
+chitchat_ask_howbuilt	có ai tạo ra bot này không
+ask_info	người_dân việt_nam có được tự_do bày_tỏ ý_kiến trên mạng xã_hội không
+ask_info	những thành_tựu nào đã được việt_nam đạt được trong việc bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo
+bye	hẹn gặp lại vào dịp khác
+chitchat_ask_howbuilt	bot này có được huấn_luyện không
+thank	cảm_ơn bạn đã giúp_đỡ
+ask_info	các tổ_chức nào được đề_cập trong đoạn văn và chức_năng của chúng là gì
+explain	hãy giải_thích từng bước một được không
+greet	b uii
+ask_info	nêu chi_tiết quyền con_người được phân_loại cụ_thể như_thế_nào
+ask_info	nghị_định quy_định chức_năng nhiệm_vụ quyền_hạn và cơ_cấu tổ_chức của bộ thông_tin và truyền_thông do ai ban_hành
+greet	aloo chị
+react_positive	quá tuyệt_vời
+ask_info	tại_sao một_số hoạt_động tôn_giáo tại việt_nam có_thể gây mất ổn_định và vi_phạm pháp_luật
+affirm	ok lun
+ask_info	tiểu_sử tóm_tắt tiểu_sử đồng_chí nguyễn_mạnh_hùng
+thank	cám_ơn shop mình sẽ đo lại và ib cho shop sau nhé
+ask_info	bộ_trưởng bộ tài_nguyên và môi_trường đặng_quốc_khánh
+greet	này bạn ơi
+chitchat_ask_time	dương hôm_nay là bao_nhiêu
+react_positive	quá đỉnh luôn
+affirm	mình tham_gia
+react_positive	68 quá tốt luôn
+thank	thanks ban nha
+chitchat_ask_whoisit	bạn là bot chat tự_động à
+affirm	đúng rồi không có gì để phản_bác
+ask_info	tại_sao con_người luôn được đặt ở trung_tâm của mọi chiến_lược chính_sách của việt_nam
+ask_info	công_khai thông_tin trên phương_tiện thông_tin_đại_chúng được quy_định như_thế_nào theo luật tiếp_cận thông_tin 2016
+ask_info	các hoạt_động của hệ_thống chính_trị như_thế_nào đã đóng_góp vào việc bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo
+ask_info	việt_nam có thái_độ như_thế_nào trong việc hợp_tác với các nước về quyền con_người
+ask_info	điều gì là trách_nhiệm của uỷ_ban_nhân_dân cấp tỉnh trong việc quản_lý hoạt_động thông_tin đối_ngoại
+ask_info	các thế_lực thiếu thiện_chí cố_tình xuyên_tạc tình_hình nhân_quyền tự_do tín_ngưỡng tôn_giáo ở việt_nam nhằm mục_đích gì
+greet	misa
+explain	hãy giải_thích từng bước một được không
+greet	alo9
+react_positive	khá đấy
+ask_info	công_ước về quyền của người khuyết_tật 1966 được ký_kết ngày nào
+ask_info	các hoạt_động từ_thiện thường được triển_khai vào thời_gian nào
+ask_info	cá_nhân bị thông_tin làm ảnh_hưởng xấu đến danh_dự nhân_phẩm uy_tín thì có quyền yêu_cầu gì từ phía pháp_luật
+affirm	oki misa
+deny	không phải lúc này
+greet	chào thím
+ask_info	hội_đồng dân_tộc do quốc_hội bầu có trách_nhiệm gì
+react_positive	bot hay quá
+ask_info	hiến_pháp nước cộng_hoà_xã_hội_chủ_nghĩa_việt_nam là sự kế_thừa và phát_triển từ các bản hiến_pháp nào của việt_nam trước_đây
+ask_info	công_tác tuyên_truyền phổ_biến pháp_luật về phòng_chống tội_phạm mua_bán người được coi_trọng như_thế_nào
+greet	hi thấy mặt lạ quen_quen
+affirm	chắc_chắn luôn
+ask_info	quyền của người bị giam_giữ được đối_xử như_thế_nào để tôn_trọng nhân_phẩm và đảm_bảo nhân_đạo
+ask_info	việt_nam đã thực_hiện những nghĩa_vụ gì đối_với các công_ước quốc_tế về quyền con_người
+greet	khởi_động lại
+react_positive	đẹp thế
+chitchat_ask_howdoing	cậu có sao không
+chitchat_ask_whoisit	bạn là bot tự_động hả
+chitchat_ask_whatismyname	có biết cái tên tui không
+ask_info	tam quy được hiểu là gì
+bye	hẹn gặp lại nhé
+react_negative	chatbot này không cung_cấp đầy_đủ thông_tin và không đáng tin_cậy
+ask_info	luật tín_ngưỡng tôn_giáo quy_định gì
+thank	tks misa nha
+ask_info	học_sinh người dân_tộc_thiểu_số được tham_gia các hoạt_động giáo_dục chuyên_biệt nào để phát_triển toàn_diện
+ask_info	minh sư đạo có nguồn_gốc từ đâu
+ask_info	các cơ_quan tổ_chức nào được xem là tham_gia hoạt_động thông_tin đối_ngoại
+ask_info	có bao_nhiêu tín_đồ công_giáo và phật_tử người việt_nam sinh_hoạt tôn_giáo tại nước_ngoài
+bye	rất vui khi được gặp em
+explain	hãy cung_cấp thêm thông_tin chi_tiết về vấn_đề này
+ask_info	cộng_đồng tôn_giáo bahai việt_nam có bao_nhiêu thành_viên
+ask_info	hiến_pháp năm 2013 thể_hiện điều gì
+ask_info	tỷ_lệ người dân_tộc_thiểu_số tham_gia vào bộ_máy chính_trị việt_nam như_thế_nào trong những nhiệm_kỳ gần đây
+thank	thank you vì lời khuyên của bạn
+chitchat_ask_whatspossible	con bot này có_thể hỗ_trợ những cái gì
+chitchat_ask_whoisit	bạn là bot à
+ask_info	những hậu_quả gì có_thể xảy ra khi cán_bộ nhà_nước không hiểu_biết đầy_đủ về quyền con_người và luật_pháp quốc_tế
+greet	hi b oi
+chitchat_ask_time	bây_giờ là thời_gian gặp_gỡ và vui_chơi không
+deny	không_thể chấp_nhận
+ask_info	người_dân ý_thức rõ về quyền của mình và vai_trò của quốc_hội trong mọi lĩnh_vực của đời_sống xã_hội
+explain	bạn có_thể trình_bày rõ hơn vấn_đề này được không
+affirm	đúng vậy không cần suy_nghĩ thêm
+ask_info	báo_chí đối_ngoại có những quyền gì trong việc đăng phát nội_dung thông_tin đối_ngoại trên báo_chí
+canthelp	tớ cần sự hỗ_trợ tốt hơn
+greet	ô bạn ơi
+ask_info	phạm minh chính
+ask_info	các điều_kiện vật_chất trong các trại_giam đã được nâng cao như_thế_nào để đáp_ứng nhu_cầu của phạm_nhân
+ask_info	luật lý_lịch tư_pháp năm 2010 quy_định về những hành_vi nào
+thank	em cảm_ơn chị nhiều nhé
+thank	e cảm_ơn misa nha
+react_negative	chó
+ask_info	trường_chinh
+affirm	đúng rồi không có gì để phản_đối
+explain	chị muốn em giải_thích kĩ hơn về gói ưu_đãi bên mình
+chitchat_ask_whoisit	bạn là bot chat à
+ask_info	tổ_chức phi_chính_phủ nước_ngoài đã tài_trợ bao_nhiêu tiền cho lĩnh_vực y_tế của việt_nam
+canthelp	tớ không muốn tiếp_tục nữa
+ask_info	những khó_khăn và thách_thức nào đang gặp phải trong quá_trình hoàn_thiện nhà_nước pháp_quyền và cải_cách tư_pháp tại việt_nam
+chitchat_ask_howdoing	cậu có gặp trục_trặc gì không
+ask_info	luật di_sản văn_hoá năm 2001 quy_định những gì
+ask_info	lễ_nghi của đạo cao đài được thể_hiện như_thế_nào để thể_hiện tinh_thần tam_giáo đồng_nguyên
+ask_info	hình_ảnh cá_nhân không được / không nên đưa lên báo
+react_positive	em rất dễ_thương
+react_positive	cảm_ơn nhiều lắm
+chitchat_ask_whatismyname	tên mình cũng không quá bình_thường đâu nhỉ
+ask_info	quyền_sở_hữu của nhà_đầu_tư được quy_định như_thế_nào
+react_negative	tôi đã chờ lâu mà không nhận được câu trả_lời đáng tin_cậy từ chatbot
+ask_info	luật tín_ngưỡng tôn_giáo được thông_qua vào ngày nào và bởi ai
+react_positive	giỏi thế
+ask_info	công_ước về các quyền dân_sự và chính_trị 1966 được ký_kết năm nào
+ask_info	nghị_định 09/2017/nđ-cp quy_định thế_nào về phát_ngôn và cung_cấp thông_tin trong trường_hợp đột_xuất , bất_thường ?
+ask_info	ai có trách_nhiệm hướng_dẫn và đôn_đốc thực_hiện nghị_định về quản_lý hoạt_động thông_tin đối_ngoại
+ask_info	tại_sao việc hoàn_thiện chính_sách pháp_luật về tín_ngưỡng tôn_giáo lại là trách_nhiệm của nhà_nước việt_nam
+ask_info	việc bảo_vệ môi_trường được đặt lên hàng_đầu trong các chính_sách mới của việt_nam như_thế_nào
+ask_info	tổ_chức tôn_giáo phải đáp_ứng những điều_kiện gì để được công_nhận là tổ_chức tôn_giáo
+deny	chắc_chắn không phải
+ask_info	ở việt_nam có cấm_đoán tự_do báo_chí không ...
+chitchat_ask_whoisit	bạn là bot chat tự_động à
+ask_info	tại_sao đời_sống của một bộ_phận nhân_dân đặc_biệt là ở vùng núi vùng_sâu vùng thường bị thiên_tai vẫn còn nhiều khó_khăn
+ask_info	những thành_tựu đạt được trong việc bảo_đảm các quyền dân_sự và chính_trị thể_hiện điều gì
+greet	ch ơi
+greet	bạn oiq
+ask_info	những điều_kiện nào đã được tạo ra để các tổ_chức tôn_giáo hoạt_động theo hiến_chương điều_lệ và quy_định pháp_luật
+ask_info	vì sao một_số tổ_chức cá_nhân vẫn cố_tình xuyên_tạc tình_hình nhân_quyền tự_do tín_ngưỡng tôn_giáo ở việt_nam
+ask_info	điều 157 và 373 bộ_luật hình_sự sửa_đổi
+chitchat_ask_whatismyname	tên tui có ý_nghĩa gì không nhỉ
+ask_info	tại_sao việt_nam quyết_định gia_nhập các công_ước quốc_tế về quyền con_người vào đầu những năm 80 của thế_kỷ xxii
+ask_info	tổ_chức tôn_giáo của người chăm bà la môn đã được nhà_nước công_nhận tổ_chức tôn_giáo vào năm nào và có những nhiệm_kỳ và hoạt_động gì
+ask_info	việt_nam đã có những đóng_góp gì đối_với asean
+thank	cảm_ơn bạn rất nhiều
+ask_info	việt_nam đang trong quá_trình hoàn_thiện hệ_thống pháp_luật từ năm nào
+ask_info	nhà_nước quan_tâm bảo_hộ an_toàn tính_mạng cho những người tham_gia quá_trình tố_tụng_hình_sự như_thế_nào
+thank	thanks c ạ
+chitchat_ask_howdoing	cậu có cảm_thấy ổn không
+ask_info	các văn_bản pháp_luật nào liên_quan đến quyền tự_do đi_lại cư_trú của công_dân việt_nam và người nước_ngoài ở việt_nam
+chitchat_ask_whatismyname	tui được gọi là gì nhỉ
+thank	em cảm_ơn ạ
+ask_info	cơ_cấu tổ_chức của tịnh_độ cư_sĩ phật hội việt_nam như_thế_nào
+ask_info	kế_hoạch xây_dựng bao_nhiêu diện_tích nhà ở xã_hội trong giai_đoạn 2016 2020 tại việt_nam
+thank	t cảm_ơn
+react_negative	chatbot này không đáp_ứng đúng yêu_cầu của tôi
+canthelp	mình không cần sự hỗ_trợ này
+ask_info	cơ_chế đối_thoại dân_chủ nhân_quyền tôn_giáo là gì và việt_nam đã tham_gia như_thế_nào
+bye	tạm_biệt
+canthelp	mình sẽ tự tìm_hiểu và trở_lại sau
+ask_info	những chương_trình dự_án nào đã được triển_khai nhờ sự hỗ_trợ của các tổ_chức phi_chính_phủ nước_ngoài
+ask_info	trường_hợp báo_chí bị cơ_quan , tổ_chức , cá_nhân phản_ánh thông_tin sai sự_thật , báo_chí có quyền và trách_nhiệm gì ?
+ask_info	chính_sách của việt_nam về tự_do tôn_giáo
+chitchat_ask_howdoing	tình_hình của cậu ra sao vậy
+ask_info	những di_tích nào của việt_nam được unesco công_nhận là di_sản thế_giới
+ask_info	công_tác tôn_giáo đã đạt được những thành_tựu gì
+chitchat_ask_whoisit	wow bạn nghe có_vẻ như người thật đấy
+ask_info	chỉ_thị 202 ct hđbt về các quy_định của nhà_nước về lập hội được ban_hành vào năm nào
+react_positive	có ai khen em xinh chưa
+ask_info	hành_vi nào được coi là một trong những hành_vi phạm_tội nghiêm_trọng nhất và bị pháp_luật nghiêm_trị liên_quan đến quyền sống của con_người
+ask_info	bộ_trưởng bộ giao_thông vận_tải nguyễn_văn thắng
+chitchat_ask_whoisit	bạn là con bot ai à
+ask_info	việt_nam nằm ở khu_vực nào của châu_á
+ask_info	tại_sao việc phê_chuẩn các công_ước của ilo liên_quan đến quyền có việc_làm và phát_triển thị_trường lao_động ở việt_nam
+ask_info	công_tác thông_tin , truyền_thông về quyền con_người hướng tới các mục_tiêu nào ?
+affirm	được rồi không cần nghĩ_ngợi nữa
+ask_info	tôn_chỉ và mục_đích của minh sư đạo là gì
+canthelp	mình không muốn tiếp_tục trò_chuyện này
+ask_info	hiến_pháp nước cộng_hoà_xã_hội_chủ_nghĩa_việt_nam có giá_trị như_thế_nào
+deny	không_thể chấp_nhận được
+ask_info	nhà_nước việt_nam đặt trung_tâm cho ai trong mọi chính_sách chương_trình phát_triển kinh_tế xã_hội của mình
+thank	mình cảm_ơn nhé
+chitchat_ask_whatismyname	tên mình có ý_nghĩa gì không nhỉ
+ask_info	bộ_trưởng bộ giáo_dục và đào_tạo nguyễn_kim_sơn
+ask_info	những nguy_cơ gì phụ_nữ di_cư đang phải đối_mặt khi làm_việc trong khu_vực phi kết_cấu
+ask_info	các hoạt_động từ_thiện của cộng_đồng tôn_giáo baha ’ i việt_nam được tổ_chức vào dịp nào
+ask_info	tất_cả các tỉnh thành_phố ở việt_nam đã đạt chuẩn phổ_cập giáo_dục tiểu_học đúng độ tuổi chưa
+ask_info	cơ_sở_hạ_tầng của thị_trường lao_động là gì
+greet	hi
+ask_info	những văn_bản pháp_luật nào liên_quan đến bảo_vệ và chăm_sóc sức_khoẻ nhân_dân được ban_hành tại việt_nam
+ask_info	về mặt không_gian , những hạn_chế đối_với hoạt_động của báo_chí là gì ?
+react_positive	em thông_minh thế
+ask_info	những thành_tựu nào đã đạt được trong việc xây_dựng và hoàn_thiện pháp_luật về quyền tự_do tín_ngưỡng tôn_giáo
+chitchat_ask_time	em ơi cho anh hỏi bây_giờ là mấy giờ rồi nhỉ
+greet	alo ship oi
+thank	m cám_ơn nl
+chitchat_ask_howbuilt	bot này được xây_dựng bằng cách nào để có_thể trả_lời câu hỏi của tôi
+canthelp	dừng lại
+ask_info	quốc_hội là cơ_quan đại_biểu cao nhất của nhân_dân thực_hiện những quyền_lực gì
+chitchat_ask_time	bạn có biết giờ hiện_tại theo múi_giờ quốc_tế không
+ask_info	trách_nhiệm của nhà_nước đối_với quyền tự_do báo_chí , quyền tự_do ngôn_luận trên báo_chí của công_dân ?
+ask_info	báo_chí đối_ngoại được phê_duyệt như_thế_nào
+ask_info	quyền_sở_hữu của cá_nhân pháp_nhân và chủ_thể khác được pháp_luật công_nhận và bảo_vệ
+greet	hello bạn có muốn tìm_hiểu về chúng_tôi không
+ask_info	nghị_định số 162 2017 nđ cp ban_hành vào ngày nào và quy_định gì về việc thi_hành luật tín_ngưỡng tôn_giáo
+ask_info	giáo_hội công_giáo việt_nam có bao_nhiêu người
+bye	tôi sẽ quay lại sau nhé
+ask_info	những thông_tin , tài_liệu nào báo_chí không được tiếp_cận và không được đăng , phát ?
+chitchat_ask_howbuilt	chatbot này được thiết_kế kiểu gì
+react_positive	thật_sự tuyệt_vời
+ask_info	công_dân và nhà_báo có_thể yêu_cầu cung_cấp thông_tin bằng các hình_thức nào ?
+ask_info	bình_đẳng trước pháp_luật được bảo_đảm như_thế_nào trong quá_trình xét_xử
+ask_info	quyền làm chủ của người_dân ở cấp địa_phương được thể_hiện rõ trong đường_lối chủ_trương của nhà_nước việt_nam
+react_positive	hay quá đi
+deny	không phải
+ask_info	nhà_nước việt_nam đặt những mục_tiêu gì trong việc lồng_ghép quyền tự_do tín_ngưỡng tôn_giáo vào quá_trình phát_triển kinh_tế và xã_hội
+ask_info	luật thi_hành tạm giam tạm giữ cấm những hành_vi gì đối_với người bị tạm giữ tạm giam
+ask_info	bộ ngoại_giao đã công_bố cuốn sách gì
+ask_info	việt_nam luôn chủ_động cung_cấp thông_tin về thành_tựu bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo tới các đối_tác nào
+ask_info	chính_sách tín_ngưỡng tôn_giáo của đảng_cộng_sản_việt_nam trong thời_kỳ đổi_mới được khẳng_định như_thế_nào tại đại_hội đại_biểu toàn_quốc lần thứ vi
+chitchat_ask_whoisit	bạn là con bot ai à
+chitchat_ask_howbuilt	chatbot này đã được đánh_giá bởi người dùng chưa
+thank	e cảm_ơn
+react_positive	vui quá
+explain	tại_sao điều đó lại có ý_nghĩa quan_trọng
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về chuyển_đổi số quốc_gia
+ask_info	người_dân việt_nam có được sử_dụng các mạng xã_hội một_cách tự_do không
+ask_info	điều_kiện địa_lý phong_tục tập_quán của việt_nam như_thế_nào
+ask_info	những khó_khăn gì mà các nhóm dân_cư đang gặp phải trong việc tiếp_cận các dịch_vụ xã_hội
+ask_info	thị_trường lao_động ở việt_nam đã được cải_thiện như_thế_nào trong những năm gần đây
+ask_info	vì sao toàn_thể dân_tộc việt_nam không ngừng phấn_đấu để giành được độc_lập
+react_positive	nói_chuyện hay
+ask_info	các văn_bản luật nào đã cụ_thể_hoá nguyên_tắc trên trong pháp_luật việt_nam
+react_negative	đồ củ khoai
+ask_info	chủ_trương thứ tư của nhà_nước việt_nam trong việc cam_kết thúc_đẩy và bảo_vệ quyền con người ở việt_nam là gì
+react_negative	chatbot này không cung_cấp giải_pháp tốt cho tôi
+explain	bạn có_thể mô_tả chi_tiết hơn về vấn_đề này không
+ask_info	thông_tin tình_hình thế_giới vào việt_nam do cơ_quan nào cung_cấp
+ask_info	hoàng_sa
+chitchat_ask_whoisit	wow tôi không_thể tin được rằng bạn là người thật
+ask_info	giáo_hội công_giáo việt_nam có bao_nhiêu tổng giáo_phận
+ask_info	quyền nào được bảo_đảm trong lĩnh_vực lao_động và việc_làm theo hiến_pháp năm 2013
+ask_info	những công_ước quốc_tế nào khác mà việt_nam đã gia_nhập liên_quan đến quyền con_người
+ask_info	bảo_hiểm_xã_hội là gì
+chitchat_ask_time	bao_giờ rồi zời
+ask_info	các cơ_quan báo_chí được hỗ_trợ gì khi thực_hiện đăng phát nội_dung thông_tin đối_ngoại
+ask_info	ngũ_giới cấm của đạo bửu sơn kỳ hương bao_gồm những điều gì
+chitchat_ask_howdoing	thế_giới của cậu như_thế_nào
+chitchat_ask_howbuilt	đã dùng công_cụ nào để phát_triển chatbot này chưa
+ask_info	quy_trình cai_nghiện bao_gồm những giai_đoạn nào
+ask_info	cơ_chế bảo_vệ và thúc_đẩy quyền con_người khu_vực là gì
+ask_info	việt_nam gia_nhập các điều_ước quốc_tế về quyền con_người vào thời_gian nào
+chitchat_ask_time	sắp 7 giờ chưa em
+chitchat_ask_whoisit	ok tôi biết tôi đã làm_bạn lúng_túng khi tưởng mình là con_người
+ask_info	các khái_niệm về quyền con_người đã được hình_thành và pháp_điển_hoá trong luật quốc_gia của hầu_hết các nước trên thế_giới và luật_pháp quốc_tế như_thế_nào
+ask_info	những luật nào khác được đề_cập trong đoạn văn liên_quan đến người khuyết_tật
+ask_info	nhà_nước việt_nam khuyến_khích tự_do sáng_tạo trong lĩnh_vực nào
+ask_info	có bao_nhiêu dân_tộc_thiểu_số ở việt_nam và tập_trung ở đâu
+ask_info	nhân_quyền ở việt_nam đã đạt được những thành_tựu như_thế_nào
+react_positive	quá tốt luôn
+affirm	bạn nói đúng lòng mình
+thank	tks
+chitchat_ask_whoisit	bạn có thật_sự là người hay không
+react_positive	đỉnh_cao quá
+ask_info	việt_nam đã đạt được những kết_quả tích_cực trong việc thực_hiện mục_tiêu nào
+ask_info	theo hiến_pháp năm 2013 quyền con_người quyền_công_dân chỉ có_thể bị hạn_chế trong những trường_hợp nào
+ask_info	luật tín_ngưỡng tôn_giáo được ban_hành vào thời_gian nào
+ask_info	chính_phủ việt_nam đang có những biện_pháp gì để củng_cố hệ_thống chính_sách pháp_luật về lao_động
+canthelp	tớ tự xử_lý được vấn_đề này
+greet	alo ola
+greet	b oi đay
+ask_info	số_lượng người chết do chất_độc da_cam dioxin là bao_nhiêu
+ask_info	trong sự_nghiệp đổi_mới toàn_diện hiện_nay việc bảo_đảm các quyền và tự_do của nhân_dân trên các lĩnh_vực nào là mục_tiêu nhất_quán của nhà_nước việt_nam
+ask_info	nhà_xuất_bản tôn_giáo đã cấp phép xuất_bản bao_nhiêu xuất_bản_phẩm liên_quan đến tôn_giáo từ năm 2006 đến nay
+react_positive	em thật tử_tế
+greet	alooi
+ask_info	việt_nam đang trong quá_trình hoàn_thiện nhà_nước pháp_quyền và cải_cách tư_pháp như_thế_nào
+thank	cảm_ơn bạn đã tư_vấn cho mình
+ask_info	số thuê_bao truy_cập internet cố_định là bao_nhiêu
+ask_info	tôn_giáo ở việt_nam được bảo_vệ như nhau trước pháp_luật như_thế_nào
+ask_info	những điều_kiện gì cần đáp_ứng để tổ_chức được cấp chứng_nhận đăng_ký hoạt_động tôn_giáo
+greet	alo blo clo
+bye	ok bye bye
+ask_info	những dịch_bệnh trước_đây phổ_biến ở vùng dân_tộc_thiểu_số là gì
+thank	cảm_ơn bạn nhé
+react_positive	sexy thế
+chitchat_ask_whoisit	bạn là bot tự_động à
+ask_info	nếu tổ_chức cá_nhân vi_phạm pháp_luật về tín_ngưỡng tôn_giáo gây thiệt_hại thì phải bồi_thường như_thế_nào
+greet	chào buổi chiều
+chitchat_ask_whoisit	bạn là máy ai à
+ask_info	các tác_động tiêu_cực của thiên_tai biến_đổi khí_hậu dịch_bệnh khủng_hoảng tài_chính toàn_cầu tiếp_tục là những thách_thức gì
+ask_info	luật bầu_cử năm 2015 quy_định như_thế_nào
+ask_info	ngân_sách nào được sử_dụng để hỗ_trợ mua thẻ bảo_hiểm_y_tế cho người nghèo và trẻ_em dưới 6 tuổi
+ask_info	nhà_nước việt_nam được tổ_chức hoạt_động và quản_lý xã_hội theo các văn_bản pháp_luật nào
+affirm	đúng rồi đó
+greet	êu
+ask_info	chương_trình an_sinh xã_hội của phật hội tứ ân hiếu_nghĩa chỉ được tiến_hành ở đâu
+thank	m cảm_ơn ạ
+thank	cám on b
+chitchat_ask_howdoing	thế_giới của cậu như_thế_nào
+react_positive	khá đấy
+ask_info	luật thi_hành tạm giữ tạm giam gồm bao_nhiêu chương
+ask_info	quyền gì được bảo_vệ trong lĩnh_vực bí_mật riêng_tư theo bộ_luật dân_sự
+affirm	dễ mà
+ask_info	nhiệm_vụ công_tác tôn_giáo trong thời_gian tới sẽ tập_trung vào những gì để đóng_góp cho sự phát_triển đất_nước
+ask_info	nghị_quyết số 18 nq cp ngày 20 4 2009 của chính_phủ về một_số cơ_chế chính_sách phát_triển nhà ở cho công_nhân lao_động tại các khu công_nghiệp thuê
+ask_info	những nỗ_lực nào của ngành y_tế việt_nam để đảm_bảo nguồn thuốc và vắc_xin
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo được thể_hiện như_thế_nào
+ask_info	tỷ_lệ nhập_học đúng độ tuổi bậc giáo_dục tiểu_học của trẻ_em dân_tộc_thiểu_số là bao_nhiêu
+canthelp	mình sẽ tự tìm_hiểu và trở_lại sau
+react_positive	vui quá đi
+greet	chào cậu có tin_tức gì mới không
+chitchat_ask_whatspossible	m có khả_năng làm những gì
+react_negative	chatbot này không đáp_ứng được mong_đợi và yêu_cầu của tôi
+ask_info	các quyền con_người mà mọi người được hưởng_thụ đầy_đủ tại việt_nam là gì
+greet	alo ấy ơi
+ask_info	cộng_đồng tôn_giáo baha ’ i việt_nam tham_gia những hoạt_động xã_hội nào
+ask_info	nhiệm_vụ chính của hội_đồng giám_mục việt_nam là gì
+ask_info	tín_hữu của giáo_hội các thánh hữu ngày sau của chúa giê su ky tô được khuyến_khích hoạt_động cộng_đồng như_thế_nào tại việt_nam
+ask_info	thông_tư nào quy_định việc đăng phát nội_dung thông_tin đối_ngoại trên báo_chí
+thank	thank b để m đặt luôn
+ask_info	nhà_nước việt_nam đã có những ưu_tiên gì dành riêng cho người khuyết_tật
+ask_info	bộ luật_tố_tụng_hình_sự sửa_đổi có nội_dung gì
+greet	bot ơiiiiiiiiiiiiii
+canthelp	mình không cần bạn làm gì thêm
+ask_info	tù_nhân ở việt_nam có bị ngược_đãi không
+bye	bai em
+thank	thanksce
+greet	hi ba n
+ask_info	những dự_án bảo_tàng nào đang được triển_khai theo quy_hoạch đến năm 2020
+ask_info	bí_thư trung_ương đảng_cộng_sản_việt_nam khoá thứ xiii 2021 tới nay
+ask_info	quyền của người bị giam_giữ được đối_xử như_thế_nào để tôn_trọng nhân_phẩm và đảm_bảo nhân_đạo
+ask_info	tây_ban_nha đã hỗ_trợ việt_nam nâng cao năng_lực phụ_nữ tham_gia lãnh_đạo quản_lý như_thế_nào
+chitchat_ask_howold	m được tạo ra vào năm nào
+ask_info	trong khuôn_khổ các chương_trình hợp_tác về tư_pháp và pháp_luật giai_đoạn 1 và 2 2012 chương_trình đối_thoại về nhà_nước pháp_quyền đức đã hỗ_trợ việt_nam trong việc_gì
+affirm	mình tán_thành không có gì để phản_đối
+ask_info	việt_nam là thành_viên của tổ_chức nào
+ask_info	nghị_định số 82 2010 nđ cp quy_định việc dạy và học tiếng_nói chữ_viết của dân_tộc_thiểu_số là gì
+react_positive	vui quá bạn ơi
+ask_info	những hậu_quả nặng_nề nào do chiến_tranh để lại đối_với việt_nam
+ask_info	đạo hội tứ ân hiếu_nghĩa được thành_lập vào năm nào
+ask_info	đài tiếng_nói việt_nam và đài_truyền_hình việt_nam đã làm gì để nâng cao công_suất và mở_rộng diện_tích phủ_sóng
+chitchat_ask_howdoing	tình_hình của cậu ra sao
+react_positive	thật là phấn_khích
+chitchat_ask_whoisit	bạn là trợ_lý ảo ai à
+thank	tks bro
+ask_info	bộ nội_vụ phối_hợp với bộ nào ban_hành văn_bản hướng_dẫn kiện_toàn tổ_chức bộ_máy quản_lý_nhà_nước về thông_tin đối_ngoại
+react_positive	em giỏi quá
+affirm	chính_xác không còn nghi_ngờ gì
+ask_info	việt_nam là quốc_gia đầu_tiên xây_dựng và triển_khai kế_hoạch dài_hạn về người khuyết_tật
+ask_info	việt_nam đã và đang thực_hiện những nghĩa_vụ gì đối_với các công_ước quốc_tế về quyền con_người
+ask_info	việc tham_gia các công_ước quốc_tế về quyền con_người sẽ mang lại lợi_ích gì cho việt_nam
+ask_info	chiến_lược cải_cách tư_pháp đến năm 2020 nhằm mục_đích gì
+bye	cảm_ơn và tạm_biệt
+deny	tôi không muốn làm như_thế
+ask_info	bộ thông_tin và truyền_thông có trách_nhiệm gì đối_với các cơ_quan nhà_nước
+ask_info	"danh_hiệu "" nghệ_nhân ưu_tú "" được công_nhận là gì"
+ask_info	hoạt_động từ_thiện xã_hội là hoạt_động gì mà các hội_thánh cao đài thực_hiện
+ask_info	quan_điểm của nhà_nước việt_nam về quyền con_người dựa trên những giá_trị văn_hoá nào của dân_tộc việt_nam
+ask_info	nhà_nước đã công_nhận bao_nhiêu hội_thánh và pháp môn tu_hành của đạo cao đài
+chitchat_ask_whoisit	bạn là robot à
+ask_info	chương_trình hành_động quốc_gia về phòng_chống tội_phạm mua_bán người giai_đoạn 2011 2015 nhằm mục_đích gì và đối_tượng nạn_nhân chủ_yếu là ai
+ask_info	việt_nam đã làm gì để bảo_vệ khỏi nạn buôn_bán
+ask_info	quốc_hội việt_nam đã bạn hành bao_nhiêu luật liên_quan đến quyền và nghĩa_vụ của các dân_tộc_thiểu_số trong mười năm qua
+chitchat_ask_whoisit	có phải bạn là con_người thật không
+ask_info	bộ luật_tố_tụng_hình_sự sửa_đổi quy_định gì về căn_cứ tạm giam và thời_gian tạm giam
+ask_info	dân_tộc việt_nam đã đấu_tranh như_thế_nào trong sự_nghiệp đổi_mới
+ask_info	đối_tượng thụ_hưởng chính_sách và mức_độ bao_phủ của hệ_thống an_sinh xã_hội ở việt_nam hiện_tại như_thế_nào
+thank	thanks ban de nghi ki lai hihi
+chitchat_ask_howbuilt	có phải bot này được lập_trình bằng java không
+ask_info	luật bảo_vệ sức_khoẻ nhân_dân được ban_hành theo hướng nào
+ask_info	bảo_tàng ở các địa_phương mới được xây_dựng trong vài năm gần đây có ảnh_hưởng gì đến diện_mạo thiết_chế văn_hoá ở địa_phương
+explain	hãy giải_thích từng bước một được không
+ask_info	dân_tộc_thiểu_số chiếm bao_nhiêu phần_trăm dân_số việt_nam
+ask_info	trong bối_cảnh khó_khăn về kinh_tế ngân_sách nhà_nước của việt_nam đã dành bao_nhiêu nguồn_lực cho các chương_trình an_sinh xã_hội và có tăng hay giảm so với năm trước đó
+ask_info	quyền con_người phải dựa trên cơ_sở nào
+greet	hi chị
+ask_info	chính_phủ phải làm gì khi ban_hành quy_định thực_hiện chính_sách dân_tộc
+chitchat_ask_whoisit	bạn là máy chat à
+ask_info	bộ_trưởng chủ_nhiệm uỷ_ban dân_tộc hầu a lềnh
+chitchat_ask_whoisit	bạn có phải là chatbot ai không
+ask_info	hiến_pháp năm 2013 của việt_nam có những nội_dung gì liên_quan đến quyền con_người
+ask_info	phạm minh chính
+chitchat_ask_howbuilt	làm thế_nào để xây_dựng một chatbot có khả_năng tương_tác tốt
+greet	hello bạn đang làm gì vậy
+ask_info	những vấn_nạn xã_hội nào đang diễn ra ở những nơi trình_độ dân_trí thấp
+ask_info	nguyên_tắc hoạt_động của giáo_hội phật đường nam tông minh sư đạo là gì
+greet	hey bạn có bị đói không
+ask_info	ai có trách_nhiệm phối_hợp và hỗ_trợ tổ_chức các sự_kiện ở nước_ngoài
+ask_info	nhà_nước việt_nam đã có những biện_pháp gì để đảm_bảo ngày_càng tốt hơn quyền tự_do tín_ngưỡng tôn_giáo của mọi người
+bye	chào tạm_biệt và chúc bạn mọi điều tốt_lành
+ask_info	thống_đốc ngân_hàng nhà_nước việt_nam nguyễn_thị hồng
+ask_info	ai sẽ bố_trí ngân_sách địa_phương để thực_hiện hoạt_động thông_tin đối_ngoại
+ask_info	người khuyết_tật sống ở đâu
+ask_info	điều 6 luật đầu_tư quy_định như_thế_nào về bảo_đảm quyền_sở_hữu
+chitchat_ask_howbuilt	làm thế_nào để chatbot này có_thể đồng_cảm với người dùng
+ask_info	quyền tự_do cá_nhân của người việt_nam đã bị xâm_phạm như nào
+ask_info	có bao_nhiêu trường phổ_thông dân_tộc nội_trú
+ask_info	điều_kiện địa_lý phong_tục tập_quán của việt_nam như_thế_nào
+ask_info	giáo_hội công_giáo việt_nam đang đẩy_mạnh các hoạt_động gì để hỗ_trợ học_sinh sinh_viên nghèo
+deny	tôi không hài_lòng với ý_kiến đó
+bye	chúc bạn có một ngày vui_vẻ và tôi sẽ trở_lại sau
+ask_info	việc hiểu_biết đúng về quyền tự_do tín_ngưỡng tôn_giáo là điều_kiện tiên_quyết gì để bảo_vệ và thúc_đẩy quyền tự_do tín_ngưỡng tôn_giáo một_cách hiệu_quả
+ask_info	quyền có việc_làm và phát_triển thị_trường lao_động là gì
+ask_info	chính_phủ việt_nam đã thực_hiện những chính_sách và chiến_lược nào để đẩy_mạnh bình_đẳng giới trong phát_triển kinh_tế xã_hội
+ask_info	nhà_nước đã công_nhận bao_nhiêu tổ_chức tôn_giáo
+ask_info	có bao_nhiêu cơ_quan báo_chí nhà_báo và phương_tiện thông_tin_đại_chúng hoạt_động tại việt_nam
+ask_info	cơ_quan nào là cơ_quan_hành_chính nhà_nước cao nhất của việt_nam
+ask_info	việt_nam đang tích_cực thúc_đẩy triển_khai các chương_trình dự_án hợp_tác giữa aichr và eu trong khuôn_khổ chương_trình đối_thoại khu_vực asean eu readi như_thế_nào
+chitchat_ask_whoisit	bạn là robot ai à
+react_positive	thật là tuyệt
+chitchat_ask_whatismyname	bot ơi tui có tên không
+ask_info	viện nghiên_cứu quyền con_người thuộc học_viện chính_trị quốc_gia hồ_chí_minh của việt_nam hợp_tác với những quốc_gia nào trong lĩnh_vực đào_tạo luật_quốc_tế về quyền con_người và luật nhân_đạo
+explain	tại_sao điều đó lại xảy ra ở đây
+ask_info	việt_nam có đóng_góp gì vào hoạt_động của uỷ_ban liên chính_phủ asean về nhân_quyền aichr
+ask_info	giai_đoạn thứ ba của việc truyền_giáo công_giáo vào việt_nam liên_quan đến sự_kiện gì
+explain	bạn có_thể trình_bày rõ hơn được không
+ask_info	điều 159 bộ_luật hình_sự sửa_đổi quy_định về tội_gì
+ask_info	ở việt_nam có tự_do báo_chí không
+canthelp	mình cần một giải_pháp khác
+ask_info	bộ_trưởng bộ tài_nguyên và môi_trường đặng_quốc_khánh
+ask_info	quyền có việc_làm và phát_triển thị_trường lao_động là gì
+ask_info	bộ ngoại_giao chỉ_đạo cơ_quan đại_diện việt_nam ở nước_ngoài thực_hiện những nhiệm_vụ gì liên_quan đến thông_tin đối_ngoại
+ask_info	những vấn_nạn xã_hội nào đang diễn ra trong xã_hội hiện_nay
+ask_info	quy_chế dân_chủ ở cơ_sở do nhà_nước ban_hành năm nào và có tác_dụng gì trong việc tham_gia quản_lý_nhà_nước và xã_hội
+greet	chào cô
+chitchat_ask_whoisit	bạn có phải là robot hỗ_trợ không
+ask_info	cao_uỷ nhân_quyền lhq có vai_trò gì trong bảo_vệ và thúc_đẩy nhân_quyền
+ask_info	các chương_trình và chính_sách nào đã đem lại hiệu_quả lớn trong việc phát_triển kinh_tế xã_hội cho đồng_bào dân_tộc_thiểu_số
+affirm	được
+react_positive	vui quá
+ask_info	tại tây_nguyên có bao_nhiêu điểm nhóm tin lành
+deny	tôi không ủng_hộ
+ask_info	tổ_chức cá_nhân vi_phạm pháp_luật về tín_ngưỡng tôn_giáo sẽ bị xử_lý như_thế_nào
+ask_info	những thành_tựu trong việc bảo_đảm và thúc_đẩy các quyền con_người thể_hiện điều gì
+ask_info	đạo tin lành việt_nam có mối quan_hệ hợp_tác với các tổ_chức nào
+ask_info	các tổ_chức quốc_tế đánh_giá xếp_hạng nhân_quyền việt_nam như_thế_nào
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo được quy_định như_thế_nào
+ask_info	ngoài việc tham_gia các hoạt_động an_sinh xã_hội giáo_hội phật_giáo việt_nam còn có những hoạt_động gì khác để giúp_đỡ cộng_đồng
+ask_info	nguyên_tắc đăng phát nội_dung thông_tin đối_ngoại trên báo_chí
+ask_info	quyền con_người là gì và có ý_nghĩa gì đối_với toàn nhân_loại
+ask_info	sự_kiện nào được quy_định trong nghị_định về quản_lý hoạt_động thông_tin đối_ngoại tại nước_ngoài
+ask_info	giáo_hội phật đường nam tông minh sư đạo được công_nhận là tổ_chức tôn_giáo vào năm nào
+chitchat_ask_howdoing	cậu có vui_vẻ không
+ask_info	bộ_máy nhân_quyền liên_hợp_quốc gồm các cơ_quan nào ?
+ask_info	hội_nghị quan_chức cấp cao lần thứ 3 diễn ra ở đâu
+ask_info	những thành_tựu nào đã được việt_nam đạt được trong việc bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo của người_dân trên thực_tế
+ask_info	quyền của luật_sư được quy_định như_thế_nào
+greet	rất vui được gặp em
+greet	hi bot ơi
+ask_info	những nghị_định_thư bổ_sung nào liên_quan đến trẻ_em mà việt_nam đã ký_kết và phê_chuẩn
+chitchat_ask_whatismyname	hỏi tên tui đi đừng ngại
+greet	em có thấy đói không dạ em mới ăn nên không đói đâu ạ
+react_positive	vui quá đi
+chitchat_ask_time	sắp đến đêm chưa em
+ask_info	luật tín_ngưỡng tôn_giáo có ý_nghĩa gì trong việc bảo_vệ quyền tự_do tín_ngưỡng tôn_giáo của mọi người bao_gồm cả những người bị quản_lý giam_giữ
+ask_info	đường_hướng hành_đạo của hội_thánh men nô nai việt_nam là gì
+ask_info	các cơ_quan_chức_năng của việt_nam đã triển_khai những hoạt_động gì để phòng_ngừa tội_phạm mua_bán người
+ask_info	vai_trò của cơ_chế quốc_gia về bảo_vệ và thúc_đẩy quyền con_người
+ask_info	cán_bộ công_chức nào sẽ bị xử_lý kỷ_luật hoặc truy_cứu trách_nhiệm hình_sự khi vi_phạm pháp_luật về tín_ngưỡng tôn_giáo
+ask_info	thông_tư này có hiệu_lực thi_hành từ ngày nào
+ask_info	bộ luật_tố_tụng_hình_sự sửa_đổi được thông_qua vào thời_gian nào
+ask_info	đài_phát_thanh truyền_hình ở địa_phương có những trách_nhiệm gì khi phát lại nội_dung thông_tin đối_ngoại
+thank	cảm_ơn bạn đã đưa ra ý_kiến
+canthelp	mình không cần sự giúp_đỡ này
+chitchat_ask_howbuilt	làm_sao để chatbot này có khả_năng xử_lý ngôn_ngữ_tự_nhiên phức_tạp
+ask_info	nghị_định quy_định chức_năng nhiệm_vụ và cơ_cấu tổ_chức của bộ thông_tin và truyền_thông có hiệu_lực thi_hành từ ngày nào
+ask_info	việt_nam tích_cực tham_gia vào quá_trình hình_thành và hoạt_động của tổ_chức nào
+ask_info	văn_bản hướng_dẫn nào sẽ được ban_hành để kiện_toàn tổ_chức bộ_máy quản_lý_nhà_nước về thông_tin đối_ngoại
+ask_info	trung_tâm nhân_quyền na_uy đã hỗ_trợ việt_nam như_thế_nào trong chương_trình việt_nam của mình
+ask_info	thông_tin đối_ngoại là gì
+chitchat_ask_time	sắp 19 giờ chưa em
+chitchat_ask_howdoing	cậu đang khoẻ chứ
+ask_info	người đầu_tiên truyền_đạo vào việt_nam là ai
+ask_info	quan_điểm của nhà_nước việt_nam về quyền con_người là gì
+chitchat_ask_whoisit	bạn là bot tự_động sử_dụng ai à
+ask_info	tại uỷ_ban liên chính_phủ asean về nhân_quyền aichr việt_nam đã có những hoạt_động gì để bảo_vệ quyền con_người
+ask_info	quyền bình_đẳng trước pháp_luật được ghi_nhận trong hiến_pháp nước cộng_hoà_xã_hội_chủ_nghĩa_việt_nam như_thế_nào
+react_positive	thật là tuyệt_vời
+affirm	let ' s làm đi
+ask_info	uỷ_ban_nhân_dân cấp tỉnh có nhiệm_vụ gì trong việc xây_dựng hệ_thống thông_tin đối_ngoại tại khu_vực cửa_khẩu quốc_tế
+ask_info	tại_sao chất_lượng giáo_dục được xem là yếu_tố quan_trọng hàng_đầu trong việc bồi_dưỡng thế_hệ trẻ và đào_tạo lớp người lao_động
+ask_info	bộ thông_tin và truyền_thông có vị_trí và chức_năng như_thế_nào
+react_positive	thật là tốt
+react_negative	chatbot này không đáp_ứng được yêu_cầu của tôi
+ask_info	luật di_sản văn_hoá năm 2001 quy_định những gì
+ask_info	sự khác nhau trong quá_trình thực_thi_giáo luật hồi_giáo giữa hai dòng chăm islam và chăm bàni là gì
+deny	chắc_chắn là ko
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về công_nghiệp công_nghệ_thông_tin
+affirm	mình chấp_nhận
+ask_info	nhà_nước đang chủ_trương gì để thúc_đẩy sự tham_gia của các tổ_chức đoàn_thể vào công_việc của địa_phương
+ask_info	quyền tự_do báo_chí được quy_định như_thế_nào trong pháp_luật quốc_tế ?
+deny	tôi không chắc
+ask_info	các quyền dân_sự chính_trị của người_dân thể_hiện điều gì
+ask_info	có bao_nhiêu tổ_chức tôn_giáo được liệt_kê trong danh_mục
+react_negative	tôi đã chờ lâu mà chatbot vẫn không trả_lời
+ask_info	có bao_nhiêu người việt_nam đang sinh_sống lao_động học_tập tại nước_ngoài
+chitchat_ask_whatspossible	chatbot này cung_cấp những thông_tin gì
+bye	tạm_biệt
+ask_info	thông_tư này điều_chỉnh những gì trong hoạt_động thông_tin đối_ngoại của các tỉnh thành_phố trực_thuộc trung_ương
+chitchat_ask_whatismyname	bạn biết tên mình không
+deny	tôi không chịu
+ask_info	các cơ_quan liên_hợp_quốc tại việt_nam đã đóng_góp như_thế_nào trong việc bảo_đảm và thúc_đẩy quyền con_người tại việt_nam
+ask_info	tại_sao quyền con_người được coi là điều_kiện tiên_quyết để giữ_gìn hoà_bình an_ninh và phát_triển bền_vững
+ask_info	chủ_tịch hội_đồng dân_tộc được mời tham_dự các phiên họp của ai
+chitchat_ask_whoisit	bạn có phải là trợ_lý ai không
+thank	em cám_ơn
+thank	huhu cam on ban
+greet	ah chị oie
+ask_info	tiểu_sử đồng_chí võ văn thưởng chủ_tịch nước cộng_hoà_xã_hội_chủ_nghĩa_việt_nam
+react_positive	thật_sự tuyệt_vời
+ask_info	việc bảo_đảm quyền_sở_hữu được thực_hiện như_thế_nào
+ask_info	quyền_sở_hữu là gì và được ghi_nhận ở đâu trong hiến_pháp năm 2013
+greet	chào bạn hôm_nay bạn thế_nào
+react_positive	em giỏi thế nhỉ
+ask_info	nhà_giam giữ và các đơn_vị chức_năng tạo điều_kiện gì để người bị quản_lý giam_giữ có_thể sử_dụng kinh sách và bày_tỏ niềm tin tín_ngưỡng tôn_giáo
+ask_info	vì sao chùa bửu sơn kỳ hương được coi là đầu_mối điều_hành tổ_chức và quản_lý mọi hoạt_động nghi_lễ tôn_giáo cả về đối_nội đối_ngoại
+chitchat_ask_howdoing	tình_hình của cậu thế_nào rồi
+ask_info	việt_nam có chính_sách hỗ_trợ đào_tạo nhân_lực y_tế như_thế_nào
+ask_info	luật nhà ở năm 2014 quy_định như_thế_nào về quyền_sở_hữu nhà ở
+ask_info	việt_nam đã tham_gia bao_nhiêu công_ước về quyền lao_động và những công_ước đó bao_gồm những nội_dung gì
+ask_info	kỳ phát_ngôn và cung_cấp thông_tin cho báo_chí được quy_định như_thế_nào ?
+ask_info	việt_nam có quan_điểm như_thế_nào về quyền con_người ?
+react_negative	chatbot này không giúp tôi giải_quyết vấn_đề của mình
+ask_info	các công_ước nào về việc_làm và lao_động mà việt_nam đã phê_chuẩn trong năm 2013 và 2014
+ask_info	việt_nam đã công_nhận bao_nhiêu tổ_chức tôn_giáo
+react_positive	em hay thật đấy
+ask_info	khối các đơn_vị sự_nghiệp thuộc bộ thông_tin và truyền_thông bao_gồm
+ask_info	cục thông_tin đối_ngoại là cơ_quan như_thế_nào
+chitchat_ask_whoisit	bạn là trí_tuệ_nhân_tạo à
+chitchat_ask_howold	bạn đã có tuổi của một người trưởng_thành chưa
+ask_info	hồi_giáo bàni là tôn_giáo như_thế_nào
+affirm	ừ đồng_ý
+bye	tạm_biệt và chúc bạn may_mắn
+affirm	được thôi mình đồng_ý
+ask_info	có bao_nhiêu cơ_sở dạy nghề chuyên_biệt cho người khuyết_tật tại việt_nam
+chitchat_ask_whoisit	bạn là bot chatbot à
+ask_info	quyền con_người được coi là giá_trị chung của toàn nhân_loại vì những lý_do gì
+ask_info	quyền con_người liên_quan mật_thiết đến điều gì
+ask_info	những hoạt_động từ_thiện nào được triển_khai bởi cộng_đồng hồi_giáo việt_nam
+chitchat_ask_whatismyname	tên t là gì
+chitchat_ask_whoisit	bạn là trí_tuệ_nhân_tạo à
+greet	chi ưi
+greet	mà chi oi
+chitchat_ask_whoisit	bạn không phải là người đúng không
+ask_info	quyền con_người là gì
+ask_info	sắc_lệnh số 52 sl 004 l năm 1957 có nội_dung gì
+chitchat_ask_whoisit	bạn là trợ_lý ảo ai à
+affirm	ừ ok
+ask_info	di_sản văn_hoá phi vật_thể nào đã được nghiên_cứu và tư_liệu_hoá thông_qua chương_trình mục_tiêu quốc_gia
+affirm	mình sẵn_lòng đó
+ask_info	những_ai cần được nâng cao nhận_thức về phòng_chống tội_phạm mua_bán người
+thank	cảm_ơn misa nhé
+thank	em cam on chị ạ
+ask_info	hội_thánh tin lành trưởng_lão việt_nam được công_nhận tổ_chức tôn_giáo năm bao_nhiêu
+chitchat_ask_whoisit	bạn có phải là người thật không
+react_positive	rất tốt
+thank	mình đặt được bên misaee rồi cảm_ơn misa
+thank	à vâng cảm_ơn misa ạ
+chitchat_ask_whatismyname	cho mình hỏi tên mình đâu rồi
+ask_info	điều gì ấn_tượng với báo_cáo_viên đặc_biệt của liên_hợp_quốc về quyền văn_hoá trong chuyến thăm việt_nam tháng 11 2013
+ask_info	quyền tự_do ngôn_luận tự_do báo_chí và thông_tin được quy_định trong hiến_pháp năm nào
+chitchat_ask_howbuilt	làm_sao để tạo ra một bot thông_minh như_vậy
+bye	chúc bạn một ngày tốt_lành
+ask_info	các cơ_sở phòng thuốc_nam khám_chữa bệnh thuộc đạo cao đài có số_lượng bao_nhiêu và ở đâu
+chitchat_ask_howdoing	mọi chuyện thế_nào
+thank	thanks bot
+react_negative	biến
+chitchat_ask_whoisit	bạn có thật_sự là người hay không
+thank	cảm_ơn bạn nhiều nha
+react_positive	mình rất thích gợi_ý của bot
+chitchat_ask_time	bây_giờ là mấy giờ theo đồng_hồ điện_tử của bạn zời
+ask_info	theo tổ_chức y_tế thế_giới tỷ_lệ bệnh_nhân được chăm_sóc sức_khoẻ là bao_nhiêu
+greet	chào bn
+ask_info	viện nghiên_cứu quyền con_người thuộc học_viện chính_trị quốc_gia hồ_chí_minh của việt_nam đã hợp_tác với đan_mạch trong lĩnh_vực nào
+canthelp	tớ tự giải_quyết được vấn_đề này
+affirm	được nha
+deny	tôi không muốn nói
+affirm	đúng vậy bắt_đầu thôi
+ask_info	luật báo_chí quy_định quyền và nghĩa_vụ của nhà_báo như_thế_nào ?
+react_negative	bị thần_kinh à
+ask_info	chính_phủ việt_nam sẽ tập_trung vào những vấn_đề gì trong việc chăm_sóc sức_khoẻ cộng_đồng
+ask_info	tại_sao việc nghiêm_cấm sự phân_biệt đối_xử về giới là sự thay_đổi quan_niệm và cách tiếp_cận mới phù_hợp với thực_tế và nhận_thức chung của cộng_đồng quốc_tế
+ask_info	quyền con_người là gì
+ask_info	tiểu_sử nguyễn_phú trọng
+ask_info	tại_sao giảm nghèo hiện_nay chưa bền_vững và các hộ gia_đình cận nghèo dễ bị rơi trở_lại cảnh nghèo_đói
+ask_info	các đơn_vị thuộc bộ thông_tin và truyền_thông có trách_nhiệm gì
+chitchat_ask_howdoing	mọi thứ đã suôn_sẻ chưa
+ask_info	tại_sao phần_lớn người nghèo là cư_dân nông_thôn và người dân_tộc_thiểu_số
+ask_info	bản hiến_pháp nào của việt_nam chứa_đựng những nội_dung mới về quyền con_người
+ask_info	phật_giáo hiếu_nghĩa tà lơn có những cơ_sở thờ_tự nào
+ask_info	việt_nam có chính_sách hỗ_trợ đào_tạo nhân_lực y_tế cho những vùng khó_khăn không
+ask_info	mục_đích của việc giáo_dục ở cấp tiểu_học trung_học_cơ_sở cho thanh_thiếu_niên về những âm_mưu thủ_đoạn nguyên_nhân hậu_quả của nạn buôn_bán người là gì
+react_positive	cảm_ơn nhiều lắm
+ask_info	số_lượng vật_liệu nổ còn sót lại gây ô_nhiễm khoảng bao_nhiêu héc ta đất_đai
+thank	e cám_ơn chị ạ
+canthelp	dừng nhé
+thank	cám_ơn sh nhiều lắm nè
+ask_info	hiến_pháp năm 2013 có những điểm mới nào
+ask_info	những khó_khăn thách_thức nào đang đối_diện với việt_nam trong việc bảo_đảm quyền con_người
+ask_info	luật nào quy_định về quyền được giáo_dục
+ask_info	điều 4 nội_dung quản_lý_nhà_nước về thông_tin đối_ngoại
+ask_info	việc bảo_tồn và phát_huy văn_hoá truyền_thống của dân_tộc được đề_cập như_thế_nào trong đoạn_văn
+ask_info	nguyễn_chí thanh
+ask_info	giáo_hội công_giáo việt_nam có bao_nhiêu giáo_phận và thuộc tổng giáo_phận nào
+chitchat_ask_whoisit	bạn có phải là robot trí_tuệ_nhân_tạo không
+ask_info	ngân_sách nào được sử_dụng để hỗ_trợ mua thẻ bảo_hiểm_y_tế cho người nghèo và trẻ_em dưới 6 tuổi
+ask_info	con_người đóng vai_trò gì trong quá_trình phát_triển của đất_nước
+explain	bạn có_thể mô_tả chi_tiết hơn vấn_đề này không
+ask_info	giáo_hội cơ đốc phục lâm việt_nam được công_nhận là tổ_chức tôn_giáo vào năm nào
+ask_info	những lễ_nghi trang_nghiêm nào được tổ_chức tại các phật đường của giáo_hội phật đường nam tông minh sư đạo
+ask_info	trong quý i 2015 số người được truyền_thông về phòng_chống hiv aids là bao_nhiêu
+thank	de minh can nhac lai thanks misa
+chitchat_ask_howbuilt	tôi muốn biết cách xây_dựng chatbot thành_công
+chitchat_ask_whoisit	bạn là robot hay người thật
+ask_info	những lĩnh_vực nào đã đạt được thành_tựu to_lớn nhất trong sự_nghiệp đổi_mới của việt_nam
+explain	tại_sao điều đó lại có ý_nghĩa quan_trọng
+affirm	chắc_chắn là vậy
+thank	thanks o
+react_positive	bot hoạt_động rất ấn_tượng
+greet	alo s
+greet	hi có gì hot
+chitchat_ask_whoisit	bạn có phải là người thật không
+ask_info	mặt_trận tổ_quốc và các đoàn_thể chính_trị xã_hội có trách_nhiệm gì
+deny	đừng có mong
+chitchat_ask_whatspossible	bạn có_thể cung_cấp cho t thông_tin gì
+deny	tôi không đồng_ý với ý_kiến của bạn
+chitchat_ask_whoisit	bạn là bot chat tự_động à
+explain	tại_sao điều đó lại xảy ra ở đây
+react_positive	siêu làm
+greet	misae oie
+ask_info	quyền bình_đẳng trước pháp_luật được đảm_bảo như_thế_nào trong việc đưa ra chứng_cứ tài_liệu đồ_vật và đưa ra yêu_cầu và tranh_luận dân_chủ trước toà
+ask_info	chương_trình hợp_tác kỹ_thuật về quyền con_người giữa các cơ_quan việt_nam và úc nhằm hỗ_trợ gì
+ask_info	những kết_quả nào đã được các tổ_chức tin lành việt_nam đạt được trong hoạt_động từ_thiện nhân_đạo
+ask_info	những thành_tựu nào đã được đạt được trong việc bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo ở việt_nam
+greet	hi thuy
+ask_info	nhà_nước việt_nam khuyến_khích sự sáng_tạo nghệ_thuật như_thế_nào
+greet	misa oiq
+ask_info	cục thông_tin đối_ngoại trực_thuộc bộ nào
+ask_info	hội_thánh tin lành việt_nam được thành_lập vào năm nào và đã trải qua những thay_đổi tên gì
+ask_info	số_lượng cơ_quan báo_chí tại việt_nam là bao_nhiêu
+ask_info	nhà_nước có những biện_pháp nào để nâng cao năng_lực của mình trong việc quản_lý tổ_chức điều_tiết và hỗ_trợ thị_trường lao_động
+chitchat_ask_howbuilt	chatbot này có sử_dụng học máy không
+ask_info	thông_tư quy_định gì về việc đăng phát nội_dung thông_tin đối_ngoại trên báo_chí
+canthelp	mình không cần sự hỗ_trợ này
+deny	t muốn huỷ
+thank	thanks bro
+thank	mh cảm_ơn
+react_negative	chatbot này không thân_thiện và dễ gần
+ask_info	tại_sao việt_nam vẫn còn gặp nhiều khó_khăn trong việc bảo_đảm an_sinh xã_hội đặc_biệt là lĩnh_vực y_tế và giáo_dục
+affirm	uhm
+ask_info	tam sa
+ask_info	trường_hợp báo_chí bị cơ_quan , tổ_chức , cá_nhân phản_ánh thông_tin sai sự_thật , báo_chí có quyền và trách_nhiệm gì ?
+chitchat_ask_whatismyname	tui có cái tên độc_đáo không nhỉ
+thank	cảm_ơn ạ có gì mình liên_hệ sau
+ask_info	giáo_hội cơ đốc phục lâm việt_nam có bao_nhiêu chức_sắc
+react_negative	chatbot này không_thể giải_quyết vấn_đề của tôi một_cách hiệu_quả
+ask_info	nếu tổ_chức cá_nhân vi_phạm pháp_luật về tín_ngưỡng tôn_giáo gây thiệt_hại thì phải bồi_thường như_thế_nào
+react_positive	tuyệt_vời
+ask_info	dân_tộc_thiểu_số chiếm bao_nhiêu phần_trăm dân_số cả nước
+ask_info	việt_nam tích_cực tham_gia diễn_đàn nào
+greet	chị ơiiiiii
+canthelp	đừng lo mình sẽ tìm_hiểu thêm
+chitchat_ask_whoisit	bạn là máy ai à
+ask_info	bao_nhiêu học_sinh sinh_viên và giáo_viên có trong năm_học 2014 2015 tại việt_nam
+ask_info	việt_nam sẽ phát_huy thành_quả từ việc thực_hiện các mục_tiêu nào
+ask_info	chính_phủ việt_nam có những chính_sách gì để phát_triển vùng dân_tộc_thiểu_số và miền núi
+ask_info	hiện_nay có bao_nhiêu di_sản văn_hoá phi vật_thể đã được kiểm_kê trên cả nước và trong đó có bao_nhiêu di_sản được đưa vào danh_mục di_sản văn_hoá phi vật_thể quốc_gia
+ask_info	những nỗ_lực nào của ngành y_tế việt_nam để đảm_bảo nguồn thuốc và vắc_xin
+ask_info	những thách_thức nào đang đối_diện với việc thúc_đẩy việc thụ_hưởng các quyền và tự_do cơ_bản của nhân_dân tại việt_nam
+ask_info	công_dân có những quyền gì liên_quan đến tự_do ngôn_luận và tự_do báo_chí theo luật báo_chí sửa_đổi
+thank	thanks c nhiud nha
+ask_info	cộng_đồng người việt_nam ở nước_ngoài hiện_nay có bao_nhiêu người
+ask_info	các hành_vi bị nghiêm_cấm về an_ninh mạng là gì
+canthelp	mình không muốn tham_gia trò_chuyện này
+ask_info	viện nghiên_cứu quyền con_người thuộc học_viện chính_trị quốc_gia hồ_chí_minh của việt_nam hợp_tác với những quốc_gia nào trong lĩnh_vực đào_tạo luật_quốc_tế về quyền con_người và luật nhân_đạo
+ask_info	bộ ngoại_giao chỉ_đạo cơ_quan đại_diện việt_nam ở nước_ngoài thực_hiện những nhiệm_vụ gì liên_quan đến thông_tin đối_ngoại
+ask_info	quyền tự_do hội_họp lập hội được quy_định trong văn_bản nào của pháp_luật việt_nam
+chitchat_ask_howdoing	cậu có cảm_thấy thoải_mái không
+ask_info	trong 6 tháng đầu năm 2015 các trại_giam đã điều_trị ở đâu
+explain	bạn có_thể mô_tả chi_tiết hơn về vấn_đề này không
+chitchat_ask_howdoing	thế_nào rồi
+ask_info	trường trung_cấp phật_giáo hoà_hảo được thành_lập năm nào
+chitchat_ask_whatismyname	tên của tui có gì đặc_biệt không
+ask_info	quyền_sở_hữu được công_nhận và bảo_vệ như_thế_nào theo điều 163 bộ_luật dân_sự sửa_đổi
+react_positive	quá đỉnh luôn
+chitchat_ask_whatismyname	mình có cái tên độc_đáo không nhỉ
+ask_info	ai là người đã giành được độc_lập cho tổ_quốc
+chitchat_ask_time	hôm_nay là ngày bao_nhiêu
+ask_info	lực_lượng sáng_tác trẻ tại việt_nam có những khả_năng sáng_tạo và phong_cách nào
+ask_info	bộ_trưởng bộ nông_nghiệp và phát_triển nông_thôn lê_minh hoan
+ask_info	việt_nam coi_trọng hợp_tác với cơ_chế nào
+thank	cám_ơn chị tư_vấn nhew
+ask_info	các tổ_chức phi_chính_phủ nước_ngoài tập_trung vào lĩnh_vực gì trong hoạt_động viện_trợ tại việt_nam
+ask_info	bà la môn giáo là một tôn_giáo như_thế_nào
+canthelp	tớ không muốn tham_gia nữa
+ask_info	tác_giả của cuốn sách thành_tựu bảo_vệ và phát_triển các quyền con_người
+ask_info	tôn_giáo bahai ra_đời vào thời_gian nào
+greet	hey bạn là ai vậy
+ask_info	nghị_định số 79 2012 nđ cp của chính_phủ việt_nam có những nội_dung gì liên_quan đến lĩnh_vực văn_hoá
+ask_info	các hoạt_động về tôn_giáo ở việt_nam diễn ra như_thế_nào
+chitchat_ask_whatspossible	bạn có gợi_ý gì cho t ko
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo được quy_định như_thế_nào
+ask_info	việt_nam đã nỗ_lực như_thế_nào trong việc xây_dựng thể_chế và bảo_đảm thực_thi những nội_dung về quyền con_người trong lĩnh_vực văn_hoá
+chitchat_ask_time	thớt có biết giờ chăng
+affirm	ừ không nên nghi_ngờ nữa
+chitchat_ask_whoisit	bạn có phải người hay không
+ask_info	toàn_thiện chính_sách pháp_luật về tín_ngưỡng tôn_giáo nhằm mục_đích gì
+chitchat_ask_whoisit	bạn có phải con_người không
+deny	không bao_giờ
+deny	không_thể chấp_nhận ý_kiến đó
+thank	to cam on nhe
+thank	e cam on co j e se bao lai
+ask_info	việc thực_hiện dân_chủ trực_tiếp tại cơ_sở còn được thể_hiện qua việc người_dân tham_gia giám_sát công_tác gì
+ask_info	việt_nam là quốc_gia đa tín_ngưỡng tôn_giáo nhưng tại_sao không có tôn_giáo nào giữ vị_trí độc_tôn trong suốt lịch_sử dân_tộc
+chitchat_ask_howbuilt	làm_sao để bot này có_thể hiểu được ngôn_ngữ của tôi
+ask_info	vai_trò của cơ_chế quốc_gia về bảo_vệ và thúc_đẩy quyền con_người
+chitchat_ask_whoisit	bạn là con bot ai à
+ask_info	mục_tiêu chính của việt_nam trong việc thúc_đẩy hội_nhập kinh_tế quốc_tế là gì
+ask_info	vì sao một_số tổ_chức cá_nhân vẫn cố_tình xuyên_tạc tình_hình nhân_quyền tự_do tín_ngưỡng tôn_giáo ở việt_nam
+ask_info	tình_hình đào_tạo nghề hiện_nay ở việt_nam như_thế_nào
+chitchat_ask_whoisit	bạn là con bot ai à
+thank	thank you
+chitchat_ask_whatspossible	bạn có thông_tin gì hữu_ích cho t ko
+chitchat_ask_whoisit	làm_ơn nói tôi bạn có phải là bot không
+ask_info	tại đâu phật_giáo tứ ân hiếu_nghĩa được công_nhận là tổ_chức tôn_giáo
+chitchat_ask_time	xin_lỗi bạn có đồng_hồ không bây_giờ là mấy giờ
+ask_info	bản hiến_pháp nào của việt_nam chứa_đựng những nội_dung mới về quyền con_người
+ask_info	"danh_hiệu "" nghệ_nhân ưu_tú "" được công_nhận là gì"
+ask_info	bộ_luật nhân_quyền quốc_tế gồm văn_bản nào ?
+thank	cảm_ơn misa nhìu nhe
+chitchat_ask_time	thời_gian hiện_tại của bạn là bao_nhiêu cưng
+ask_info	việt_nam có quan_điểm như_thế_nào về công_tác thông_tin , truyền_thông quyền con_người ?
+react_positive	vui quá
+react_positive	quá chuẩn
+ask_info	hội liên_hiệp phụ_nữ việt_nam đã hỗ_trợ những nạn_nhân bị buôn_bán như_thế_nào
+ask_info	tại_sao các tổ_chức tôn_giáo được khuyến_khích tham_gia các hoạt_động an_sinh xã_hội
+react_positive	gioải đéi
+ask_info	trong số 214 chức_sắc của giáo_hội cơ đốc phục lâm việt_nam có bao_nhiêu mục_sư và truyền_đạo
+greet	chào bạn có gì cần tôi giúp không
+chitchat_ask_time	sắp 13 giờ chưa em
+ask_info	quyền_sở_hữu của nhà_đầu_tư được quy_định như_thế_nào
+ask_info	tại_sao quy_mô giáo_dục tăng lên ở tất_cả các bậc học ngành học_trình_độ đào_tạo
+ask_info	nhiệm_vụ của công_tác tôn_giáo trong thời_gian tới là gì
+chitchat_ask_whoisit	bạn là máy ai à
+ask_info	việt_nam có quyền tự_do ngôn_luận không
+ask_info	hoạt_động từ_thiện xã_hội của giáo_hội phật_giáo hoà_hảo có đặc_điểm gì
+greet	alooooo
+ask_info	thông_tư hướng_dẫn quản_lý hoạt_động thông_tin đối_ngoại của các tỉnh thành_phố trực_thuộc trung_ương
+ask_info	pháp_luật quy_định thế_nào về trách_nhiệm trả_lời ý_kiến phản_ánh của nhân_dân trên báo_chí ?
+ask_info	bạn có_thể cung_cấp cho tôi báo_cáo tình_hình nhân_quyền của việt_nam năm 2022 không
+ask_info	trung_tâm cai_nghiện ma_tuý áp_dụng những hình_thức cai_nghiện nào
+ask_info	việt_nam đã đạt được những mục_tiêu gì trong công_tác phòng_chống hiv aids
+chitchat_ask_whoisit	bạn có phải là chatbot tự_động ai không
+chitchat_ask_time	thời_gian hiện_tại theo đồng_hồ của bạn là bao_nhiêu zời
+chitchat_ask_whatismyname	hỏi tên tui cái đừng giữ bí_mật
+ask_info	luật trưng_cầu_ý_dân có bao_nhiêu điều
+react_positive	duyên thế
+ask_info	những chính_sách và luật_pháp nào đã được đổi_mới để đạt được những thành_tựu trên
+chitchat_ask_time	sắp cuối tháng chưa em
+ask_info	trong lĩnh_vực y_tế các tcpcpnn đã tài_trợ bao_nhiêu tiền
+ask_info	hiến_pháp năm 2013 quy_định như_thế_nào
+ask_info	những quy_định nào trong các luật chuyên_ngành liên_quan đến tín_ngưỡng tôn_giáo cần được sửa_đổi và bổ_sung để đảm_bảo sự đồng_bộ và thống_nhất trong thực_hiện chính_sách pháp_luật về tín_ngưỡng tôn_giáo
+ask_info	hội_nghị quan_chức cấp cao lần thứ 3 được tổ_chức trong khuôn_khổ gì
+ask_info	những quyền và tự_do cơ_bản của con_người mà nhà_nước việt_nam đấu_tranh bất_khuất chống ngoại_xâm để giành cho mình là gì
+ask_info	mặt_trận tổ_quốc việt_nam là gì và chức_năng của tổ_chức này là gì
+ask_info	tỷ_lệ suy_dinh_dưỡng ở trẻ_em dưới 5 tuổi giảm bao_nhiêu so với năm 1990
+ask_info	việt_nam đã có quan_hệ với bao_nhiêu tổ_chức phi_chính_phủ nước_ngoài và hoạt_động của chúng tập_trung vào lĩnh_vực nào
+chitchat_ask_whoisit	bạn là chatbot tự_động à
+ask_info	quyền gì được quy_định cho các tổ_chức tôn_giáo và tổ_chức tôn_giáo trực_thuộc theo luật tín_ngưỡng tôn_giáo
+react_negative	mày dốt thế
+ask_info	các chương_trình hỗ_trợ của các tổ_chức phi_chính_phủ nước_ngoài tại việt_nam nhằm mục_đích gì đối_với phụ_nữ và những người khuyết_tật
+ask_info	những quyền_lợi và trợ_giúp nào được nhà_nước và xã_hội đưa ra để giúp_đỡ người khuyết_tật
+thank	bạn thanks bạn nha
+chitchat_ask_whoisit	bạn có phải là robot hay con_người
+react_negative	chatbot chất_lượng thấp phí thời_gian
+ask_info	mục_đích của công_tác tuyên_truyền phổ_biến pháp_luật về tín_ngưỡng tôn_giáo là gì
+ask_info	hệ_thống pháp_luật về bảo_vệ quyền và lợi_ích của trẻ_em ở việt_nam được triển_khai như_thế_nào
+chitchat_ask_howdoing	cậu có gặp trục_trặc gì không
+chitchat_ask_whatismyname	mình có tên đặc_biệt không nhỉ
+thank	càm ơn bạn
+ask_info	các nhiệm_vụ chính của công_tác nhân_quyền của việt_nam
+ask_info	các đối_tượng nào được tổ_chức tập_huấn bồi_dưỡng nghiệp_vụ trong hoạt_động thông_tin đối_ngoại của các tỉnh thành_phố trực_thuộc trung_ương
+ask_info	hiến_pháp năm 2013 ghi_nhận những nghĩa_vụ gì
+ask_info	quyền con_người ảnh_hưởng như_thế_nào đến hoà_bình an_ninh và phát_triển
+ask_info	thống_kê nào của bộ lao_động thương_binh và xã_hội cho thấy tình_hình thất_nghiệp ở việt_nam như_thế_nào
+deny	không phải vậy
+canthelp	tớ sẽ xem_xét và trở_lại sau
+chitchat_ask_whatspossible	m làm gì được thêm không
+chitchat_ask_whoisit	bạn là bot tự_động à
+ask_info	cơ_cấu tổ_chức của giáo_hội phật_giáo việt_nam hiện_nay bao_gồm những đơn_vị nào
+ask_info	những vấn_đề mới nảy_sinh trong bối_cảnh trong nước và thế_giới đã ảnh_hưởng đến chính_sách của đảng và nhà_nước việt_nam đối_với tôn_giáo trong thời_kỳ đổi_mới như_thế_nào
+thank	cảm on misa nay giờ tư_vấn ạ
+ask_info	làm thế_nào để đầu_tư nâng cao năng_lực các trung_tâm dịch_vụ việc_làm nhằm đáp_ứng nhu_cầu của thị_trường lao_động
+react_positive	em đáng yêu quá
+chitchat_ask_howbuilt	bot này có sử_dụng mạng nơ ron nhân_tạo không
+chitchat_ask_time	bạn có biết đang là giờ gì không
+ask_info	nhà_nước đang thực_hiện những giải_pháp cụ_thể nào để nâng cao hiệu_quả bảo_đảm và hiện_thực_hoá quyền tự_do tín_ngưỡng tôn_giáo ở việt_nam
+ask_info	sở thông_tin và truyền_thông phải làm gì khi có yêu_cầu từ bộ thông_tin và truyền_thông liên_quan đến việc thực_hiện các quy_định tại thông_tư này
+deny	tôi không chấp_thuận
+ask_info	bản hiến_pháp đầu_tiên của nước việt_nam dân_chủ cộng_hoà có nội_dung gì
+react_positive	quá tuyệt
+chitchat_ask_whoisit	bạn là bot chatbot à
+ask_info	vấn_đề tự_do ngôn_luận của việt_nam
+ask_info	bà nguyễn_phương hằng là ai
+thank	thanks sh
+ask_info	năm 2014 có bao_nhiêu cơ_sở thờ_tự được xây_dựng
+greet	bot uiiii
+chitchat_ask_whoisit	bạn có phải là người thật không vậy
+ask_info	đảng và nhà_nước việt_nam có quan_điểm như_thế_nào về quyền con_người
+ask_info	tại_sao công_tác tuyên_truyền phổ_biến giáo_dục pháp_luật về quyền tự_do tín_ngưỡng tôn_giáo lại được nhà_nước quan_tâm
+chitchat_ask_time	bây_giờ là cái j vậy cưng
+chitchat_ask_whoisit	bạn là chatbot tự_động à
+chitchat_ask_time	có biết giờ hiện_tại theo múi_giờ quốc_tế không
+ask_info	hiến_pháp việt_nam năm 2013 quy_định gì về quyền tự_do đi_lại và cư_trú của công_dân
+ask_info	quyền sử_dụng kinh sách và bày_tỏ niềm tin tín_ngưỡng tôn_giáo được quy_định như_thế_nào đối_với người bị quản_lý giam_giữ
+react_positive	hơi bị kinh đấy
+thank	m đã nhận r nhé cám_ơn bot
+chitchat_ask_time	giờ là cái j vậy cưng
+chitchat_ask_howdoing	như nào rồi
+ask_info	quyền tự_do ngôn_luận tự_do báo_chí và thông_tin được coi là gì trong xã_hội hiện_đại
+ask_info	thư chung năm 1980 của hội_đồng giám_mục việt_nam đề ra những đường_hướng hoạt_động nào
+bye	bye bye hẹn gặp lại bạn sau
+greet	xin chào
+greet	hi dm
+ask_info	việt_nam cam_kết tôn_trọng và bảo_đảm các quyền con_người được ghi_nhận trong các công_ước quốc_tế như_thế_nào
+canthelp	mình không cần sự giúp_đỡ này
+thank	m cảm_ơn m sẽ ghé sau ạ
+chitchat_ask_howbuilt	chatbot này có sử_dụng công_nghệ xử_lý ngôn_ngữ_tự_nhiên không
+chitchat_ask_whoisit	bạn là bot chatbot à
+react_positive	rất hài_lòng với kết_quả này
+chitchat_ask_whoisit	bạn có thật_sự là người hay không
+ask_info	ở việt_nam có tự_do báo_chí không
+ask_info	chính_phủ thống_nhất quản_lý_nhà_nước về thông_tin đối_ngoại như_thế_nào
+react_negative	sư mày
+chitchat_ask_howbuilt	tôi muốn biết quá_trình phát_triển chatbot này
+react_positive	em rất thú_vị
+ask_info	vai_trò của báo_chí tại việt_nam
+affirm	oh oke
+ask_info	việt_nam ưu_tiên và cam_kết gì để đảm_bảo tốt hơn quyền con_người trong thời_gian tới ?
+greet	bắt_đầu
+greet	alo bạn ơii
+greet	alb oi
+ask_info	việt_nam kiểm_duyệt báo_chí như nào
+ask_info	những tôn_giáo nào đã tồn_tại từ hàng nghìn năm
+ask_info	cán_bộ công_chức nào sẽ bị xử_lý kỷ_luật hoặc truy_cứu trách_nhiệm hình_sự khi vi_phạm pháp_luật về tín_ngưỡng tôn_giáo
+greet	chào mít
+ask_info	có bao_nhiêu cơ_quan báo_chí được cấp thẻ nhà_báo
+react_positive	giỏi quá
+chitchat_ask_whatismyname	bot ơi tên mình là gì đây
+ask_info	công_tác tổ_chức thực_thi pháp_luật bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo được thực_hiện như_thế_nào
+ask_info	nhà_nước việt_nam đang hợp_tác với các nước và tổ_chức quốc_tế trên lĩnh_vực nào để thực_hiện mục_tiêu bảo_đảm bảo_vệ và thúc_đẩy tốt hơn các quyền cơ_bản của người dân
+deny	không_thể chấp_nhận điều đó
+affirm	ok không cần chần_chừ nữa
+explain	bạn có_thể nói rõ hơn về cách thực_hiện điều đó không
+greet	c oi hix
+ask_info	trách_nhiệm cung_cấp thông_tin của cơ_quan nhà_nước theo luật tiếp_cận thông_tin ?
+ask_info	cục thông_tin đối_ngoại là cơ_quan như_thế_nào
+ask_info	người dân_tộc_thiểu_số chiếm bao_nhiêu dân_số việt_nam
+chitchat_ask_howbuilt	bot này có sử_dụng mô_hình mạng nơ ron biến_thể không
+chitchat_ask_howold	bạn mấy tuổi rồi
+ask_info	án chỉ được căn_cứ vào những gì trong quá_trình xét_xử
+ask_info	tổng_ngân_sách của các chương_trình dự_án được triển_khai bởi các cơ_quan liên_hợp_quốc tại việt_nam là bao_nhiêu
+ask_info	công_khai thông_tin trên phương_tiện thông_tin_đại_chúng được quy_định như_thế_nào theo luật tiếp_cận thông_tin 2016
+chitchat_ask_whoisit	bạn là trí_tuệ_nhân_tạo đúng không
+react_positive	siêu phẩm thật đấy
+greet	restart
+canthelp	mình cần sự hỗ_trợ hiệu_quả hơn
+chitchat_ask_howbuilt	chatbot này có dùng ngôn_ngữ_tự_nhiên không
+chitchat_ask_time	time now đến rồi đồng_hồ của bạn nói sao
+affirm	được mình nhận
+chitchat_ask_howbuilt	xây_dựng chatbot này có đòi_hỏi kiến_thức chuyên_môn cao không
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo là gì
+chitchat_ask_howbuilt	bot này được phát_triển bằng cách nào để có_thể hiểu câu hỏi của người dùng
+chitchat_ask_time	thời_gian hiện_tại của bạn chính_xác không
+greet	alo misa oai
+ask_info	báo_chí thực_hiện việc đăng phát nội_dung thông_tin đối_ngoại là gì
+affirm	oki mình đồng_ý ngay
+ask_info	việt_nam ưu_tiên và cam_kết gì để đảm_bảo tốt hơn quyền con_người trong thời_gian tới ?
+ask_info	các chính_sách hỗ_trợ phát_triển sản_xuất và tạo việc_làm như_thế_nào giúp giảm_thiểu tình_trạng tái nghèo
+ask_info	các bộ cơ_quan ngang bộ cơ_quan thuộc chính_phủ uỷ_ban_nhân_dân cấp tỉnh có trách_nhiệm gì trong việc quản_lý hoạt_động thông_tin đối_ngoại
+ask_info	quyết_định quy_định chức_năng nhiệm_vụ quyền_hạn và cơ_cấu tổ_chức của cục thông_tin đối_ngoại có hiệu_lực thi_hành kể từ ngày nào
+ask_info	cơ_sở_hạ_tầng của thị_trường lao_động là gì
+thank	m cảm_ơn nhé có gì mình sẽ qua cửa_hàng ạ
+react_positive	thật là tốt
+ask_info	đạo cao đài được sáng_lập bởi những_ai và vào năm nào
+ask_info	việt_nam đã đạt được những thành_tựu gì trong lĩnh_vực chăm_sóc sức_khoẻ
+chitchat_ask_whoisit	mày là người thật chứ không phải robot đúng không
+ask_info	việc triển_khai chiến_lược quốc_gia phòng_chống hiv aids của việt_nam đã đạt được những kết_quả quan_trọng nào
+ask_info	vai_trò của bộ thông_tin truyên thông trong dẫn_dắt chuyển_đổi số
+thank	tks nhiều
+chitchat_ask_whoisit	bạn là con_người thật đúng không
+ask_info	hội_nghị quan_chức cấp cao lần thứ 3 được tổ_chức trong khuôn_khổ gì
+ask_info	công_khai thông_tin trên phương_tiện thông_tin_đại_chúng được quy_định như_thế_nào theo luật tiếp_cận thông_tin 2016
+chitchat_ask_howbuilt	tôi muốn hiểu quy_trình phát_triển chatbot một_cách chi_tiết
+deny	nooooo
+ask_info	việt_nam đã tham_gia vào các cơ_quan nào của asean liên_quan đến quyền con_người
+ask_info	việc đưa kinh sách liên_quan đến tôn_giáo vào trại_giam có ý_nghĩa gì trong việc thực_thi pháp_luật về quyền tự_do tín_ngưỡng tôn_giáo và bảo_đảm quyền tiếp_cận kinh sách ấn_phẩm tôn_giáo của mọi người
+ask_info	bộ thông_tin và truyền_thông thực_hiện nhiệm_vụ quyền_hạn gì
+react_negative	điêu
+ask_info	các cơ_chế đối_thoại về quyền con_người giữa việt_nam và các đối_tác diễn ra như_thế_nào
+ask_info	quyết_định thành_lập uỷ_ban quốc_gia về người khuyết_tật được ra khi nào và có nhiệm_vụ gì
+thank	cám_ơn ăn
+ask_info	nghĩa_vụ của nhà_nước trong bảo_đảm quyền con_người được thể_hiện như_thế_nào
+ask_info	tỷ_lệ bao_nhiêu xã có bác_sỹ và y_sỹ sản nhi hoặc hộ_sinh tại việt_nam
+ask_info	chính_sách văn_hoá đối_với tôn_giáo của đảng_cộng_sản_việt_nam như_thế_nào
+ask_info	ai là người chịu trách_nhiệm về thực_hiện chức_năng nhiệm_vụ và quyền_hạn được giao của cục thông_tin đối_ngoại
+explain	hãy giải_thích cho tôi hiểu rõ hơn
+chitchat_ask_howdoing	cậu có hạnh_phúc không
+chitchat_ask_time	cho hỏi mấy giờ rồi
+canthelp	để t tự tìm xem như nào
+ask_info	chùa bửu sơn kỳ hương là nơi thờ_tự chung của cộng_đồng tín_đồ sinh_hoạt gì
+chitchat_ask_whoisit	bạn là robot ai à
+chitchat_ask_whoisit	bạn có phải là robot trí_tuệ_nhân_tạo không
+thank	cảm_ơn bạn đã giúp_đỡ tôi
+ask_info	tổng vốn đầu_tư toàn xã_hội đạt được là bao_nhiêu
+ask_info	quy_chế dân_chủ ở cơ_sở được ban_hành năm nào
+thank	cảm_ơn misa😻
+react_positive	hơi bị đẹp đấy
+ask_info	cơ_quan nào chịu trách_nhiệm đối_với việc đăng phát nội_dung thông_tin đối_ngoại trên báo_chí
+react_positive	very good
+chitchat_ask_whoisit	bạn có phải là chatbot ai không
+thank	e cam ôn c
+greet	alo cau oi
+ask_info	trong bản tuyên_ngôn độc_lập ngày 2 9 1945 chủ_tịch hồ_chí_minh đã khẳng_định điều gì
+ask_info	việt_nam đang phải đối_mặt với vấn_đề gì trong việc triển_khai các chính_sách hỗ_trợ và bảo_đảm các quyền của các nhóm yếu_thế trong xã_hội
+ask_info	tỉnh an_giang có bao_nhiêu cơ_sở thờ_tự
+thank	thanks n
+ask_info	đạo cao đài được công_nhận tổ_chức tôn_giáo năm nào
+ask_info	việt_nam ký các cam_kết quốc_tế về nhân_quyền nào
+ask_info	hình_ảnh cá_nhân không được / không nên đưa lên báo
+ask_info	giới_hạn quyền là gì những quyền con_người nào có_thể bị giới_hạn
+chitchat_ask_whatspossible	m có_thể làm đc gì nhỉ
+deny	nope
+ask_info	tổ_chức tôn_giáo của người chăm bà la môn đã được nhà_nước công_nhận tổ_chức tôn_giáo vào năm nào và có những nhiệm_kỳ và hoạt_động gì
+ask_info	nghị_định quy_định chế_độ áp_dụng biện_pháp đưa vào cơ_sở cai_nghiện bắt_buộc là gì
+chitchat_ask_whoisit	bạn là con bot ai à
+ask_info	quyền sống là quyền gì và được quy_định như_thế_nào trong hiến_pháp năm 2013
+ask_info	các tổ_chức phi_chính_phủ nước_ngoài đã giúp người_dân việt_nam nâng cao khả_năng gì để tiếp_cận với dịch_vụ xã_hội và tham_gia vào các hoạt_động chính_trị xã_hội
+react_positive	rất hài_lòng với câu trả_lời của bạn
+chitchat_ask_howbuilt	bot này có sử_dụng mô_hình cây quyết_định không
+ask_info	tôn_giáo ở việt_nam có đóng_góp như_thế_nào cho đất_nước
+ask_info	việt_nam đã tham_gia vào những diễn_đàn y_tế quốc_tế nào
+thank	mk cảm_ơn bot
+chitchat_ask_whoisit	bạn có phải là chatbot tự_động ai không
+explain	tại_sao điều đó lại xảy ra ở đây
+ask_info	những thông_tin nào không được tiếp_cận ?
+ask_info	các văn_bản về cơ_chế chính_sách định_mức kinh_phí cho các hoạt_động thông_tin đối_ngoại được xây_dựng bởi ai và với sự phối_hợp của những cơ_quan nào
+thank	tớ cám_ơn
+chitchat_ask_time	h tại đây là mấy giờ
+greet	aloooo ạ
+deny	đừng có mơ
+chitchat_ask_whoisit	bạn có phải là robot trí_tuệ_nhân_tạo không
+ask_info	việt_nam đã hợp_tác với những nước nào để trấn_áp tội_phạm mua_bán người
+ask_info	tín_đồ hồi_giáo tập_trung ở những tỉnh thành_phố nào tại việt_nam
+greet	hi sao cậu lại ở đây
+ask_info	luật nào được quốc_hội việt_nam thông_qua vào năm 2016
+ask_info	chính_phủ việt_nam đang có những biện_pháp gì để củng_cố hệ_thống chính_sách pháp_luật về lao_động
+ask_info	quyền con_người và chủ_quyền quốc_gia quyền dân_tộc tự_quyết có mối quan_hệ như_thế_nào
+greet	alô misa oi
+ask_info	năm 2015 chi ngân_sách nhà_nước cho giáo_dục đạt bao_nhiêu tỉ đồng
+ask_info	ai phải đồng_ý cho việc sử_dụng hình_ảnh của cá_nhân theo quy_định của bộ_luật dân_sự
+ask_info	việt_nam đã đưa dự_thảo điều_khoản qui_định về gì vào thành một điều_khoản chính trong nội_dung dự_thảo công_ước về quyền của người khuyết_tật
+ask_info	công_tác tổ_chức thực_thi pháp_luật bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo được nhà_nước việt_nam quan_tâm thực_hiện như_thế_nào
+ask_info	tại các kỳ họp quốc_hội phần chất_vấn các thành_viên chính_phủ luôn được truyền_hình trực_tiếp
+chitchat_ask_whoisit	bạn là trợ_lý ai à
+ask_info	điều 2 nội_dung kế_hoạch hoạt_động thông_tin đối_ngoại của uỷ_ban_nhân_dân cấp tỉnh
+ask_info	tín_đồ hồi_giáo bàni tập_trung ở những tỉnh_thành nào
+greet	alo chị ưoi
+ask_info	giáo luật của minh sư đạo quy_định những điều gì và tín_đồ phải đáp_ứng những yêu_cầu gì để được xuất_gia vào đạo
+react_positive	dễ_thương thật
+chitchat_ask_time	thế giờ có phải là giờ ăn tối không
+ask_info	tại_sao đời_sống của một bộ_phận nhân_dân đặc_biệt là ở vùng núi vùng_sâu vùng thường bị thiên_tai vẫn còn nhiều khó_khăn
+ask_info	theo quy_định hiện_hành uỷ_ban_nhân_dân cấp tỉnh sẽ bố_trí ngân_sách địa_phương dựa trên tiêu_chí gì để thực_hiện hoạt_động thông_tin đối_ngoại
+react_negative	con chó
+ask_info	việt_nam đã đạt được những kết_quả gì
+ask_info	"đề_án "" tăng_cường và nâng cao hiệu_quả công_tác cai_nghiện và quản_lý sau cai_nghiện "" của chính_phủ việt_nam có những mục_tiêu gì"
+deny	đừng hỏi tôi điều đó
+deny	tôi không muốn tham_gia
+affirm	đúng vậy không cần nghi_ngờ gì
+bye	hẹn lúc khác nhé
+ask_info	văn_bản hướng_dẫn nào sẽ được ban_hành để kiện_toàn tổ_chức bộ_máy quản_lý_nhà_nước về thông_tin đối_ngoại
+ask_info	chính_sách của nhà_nước việt_nam về trẻ_em dựa trên những nguyên_tắc gì
+chitchat_ask_time	thời_gian bây
+react_positive	rất tốt
+ask_info	chính_phủ việt_nam tập_trung vào những giải_pháp nào để bảo_đảm quyền có việc_làm và phát_triển thị_trường lao_động
+canthelp	không sao cả mình tự làm được
+ask_info	trong vai_trò chủ_tịch luân_phiên của hội_đồng bảo_an việt_nam đã thúc_đẩy những sáng_kiến quan_trọng nào liên_quan đến quyền con_người
+ask_info	bộ_luật lao_động đã có sự thay_đổi gì liên_quan đến nghỉ thai_sản của lao_động nữ
+chitchat_ask_whoisit	bạn có thật_sự là người hay không
+thank	j hak j cam on bot
+chitchat_ask_time	mấy giờ rồi thế
+ask_info	quyết_định quy_định chức_năng nhiệm_vụ quyền_hạn và cơ_cấu tổ_chức của cục thông_tin đối_ngoại có hiệu_lực thi_hành kể từ ngày nào
+explain	có_thể đưa ra một ví_dụ cụ_thể để minh_hoạ không
+chitchat_ask_howdoing	yo ổn không
+ask_info	giáo_hội các thánh hữu ngày sau của chúa giê su ky tô hoạt_động ở bao_nhiêu quốc_gia và vùng lãnh_thổ
+thank	thank iu
+thank	thank bạn hen
+ask_info	uỷ_ban_nhân_dân cấp tỉnh cần thực_hiện những nhiệm_vụ gì để bảo_mật thông_tin trong hoạt_động thông_tin đối_ngoại
+greet	chào bạn hãy cho tôi biết bạn cảm_thấy thế_nào
+ask_info	bộ_trưởng bộ tư_pháp lê_thành_long
+ask_info	các nhóm dễ bị tổn_thương trong thị_trường lao_động tăng_cường sự tham_gia của ai vào chế_độ bảo_hiểm_xã_hội
+greet	hey bạn có muốn nghe câu_chuyện của tôi không
+react_positive	vui quá
+canthelp	mình cần sự hỗ_trợ khác
+chitchat_ask_time	h có là giờ không zời ơi
+chitchat_ask_time	xin_lỗi bạn có đồng_hồ không thế giờ là mấy giờ
+ask_info	bao_nhiêu tổ_chức tôn_giáo đã được cấp chứng_nhận đăng_ký hoạt_động
+canthelp	mình không cần bạn làm gì thêm
+explain	bạn có_thể nói rõ hơn về cách thực_hiện điều đó không
+react_positive	em giỏi thế nhỉ
+thank	thanks b nha đặt_hàng m sẽ báo lại nhé
+thank	em cảm_ơn
+ask_info	ngày hội văn_hoá thể_thao và du_lịch các dân_tộc vùng tây bắc được tổ_chức ở đâu
+deny	phản_đối nhé
+react_positive	siêu phẩm
+greet	alo s a
+ask_info	nâng cao chất_lượng nguồn nhân_lực thông_qua gì
+ask_info	tại_sao nhà_nước việt_nam coi_trọng việc thúc_đẩy sự hoà_hợp giữa các tôn_giáo
+ask_info	tín_đồ của các tôn_giáo chiếm bao_nhiêu phần_trăm dân_số việt_nam
+canthelp	mình không muốn tiếp_tục nữa
+ask_info	người_dân ý_thức rõ về quyền của mình và vai_trò của quốc_hội trong mọi lĩnh_vực của đời_sống xã_hội
+ask_info	việt_nam có bao_nhiêu dân_tộc
+ask_info	số_lượng người tham_gia bảo_hiểm thất_nghiệp là bao_nhiêu
+explain	hãy giải_thích lý_do tại_sao chúng_ta cần quan_trọng đến điều đó
+ask_info	quan_điểm của đảng_cộng_sản_việt_nam về tôn_giáo trong thời_kỳ đổi_mới là gì
+react_positive	siêu đỉnh
+bye	good bye
+react_positive	thật là đỉnh_cao
+deny	tôi không thích điều đó
+greet	alo sh ơi
+chitchat_ask_howdoing	cậu đang làm gì đấy
+ask_info	việt_nam có quan_điểm như_thế_nào về công_tác thông_tin , truyền_thông quyền con_người ?
+greet	alo bạn ơi
+ask_info	điều 16 hiến_pháp năm 2013 khẳng_định điều gì
+ask_info	đảng_cộng_sản_việt_nam đã có chủ_trương gì về tôn_giáo
+ask_info	ai là những người phụ_trách sinh_hoạt tôn_giáo tại các chùa và am của phật_giáo hiếu_nghĩa tà lơn
+react_positive	vui quá bạn ơi
+bye	chào nhé
+chitchat_ask_howdoing	cậu có cảm_thấy tốt không nhỉ
+chitchat_ask_whatismyname	tên mình cũng đẹp phết đấy
+ask_info	nghị_quyết số 18 nq cp ngày 20 4 2009 của chính_phủ về một_số cơ_chế chính_sách phát_triển nhà ở cho công_nhân lao_động tại các khu công_nghiệp thuê
+chitchat_ask_howold	bạn đã trưởng_thành chưa
+explain	hãy cung_cấp thêm thông_tin chi_tiết về điều đó
+chitchat_ask_howdoing	mọi thứ của cậu như_thế_nào
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về xuất_bản
+thank	cảm_ơn bạn đã chia_sẻ
+react_positive	quá đỉnh luôn
+chitchat_ask_time	thời_gian hiện_tại của bạn chính_xác không bro
+ask_info	điều 163 bộ_luật dân_sự sửa_đổi khẳng_định quyền_sở_hữu của ai
+ask_info	chính_sách pháp_luật về tín_ngưỡng tôn_giáo được xây_dựng và hoàn_thiện như_thế_nào để đảm_bảo sự đồng_bộ và thống_nhất giữa pháp_luật trong nước và các điều_ước quốc_tế mà việt_nam tham_gia
+thank	thế minh cam ơn nhé
+ask_info	hội_đồng sư cả hồi_giáo bàni tỉnh ninh_thuận được công_nhận tổ_chức tôn_giáo năm nào
+react_positive	siêu phẩm
+chitchat_ask_whoisit	mày là con_người thật hay chỉ là con bot
+greet	b ơi
+chitchat_ask_howdoing	mọi việc ổn không
+ask_info	chính_sách nào của nhà_nước việt_nam được đề_cao trong việc chăm_sóc bảo_vệ quyền và phát_huy nguồn_lực người cao_tuổi
+chitchat_ask_wherefrom	bạn sống gần đây không
+bye	t out nhé
+chitchat_ask_whoisit	bạn là bot tự_động hả
+ask_info	thời_gian lao_động của phạm_nhân được tính như_thế_nào
+ask_info	việt_nam là thành_viên của tổ_chức nào
+ask_info	điều gì được quy_định trong hiến_pháp nước chxhcn việt_nam để ngăn_chặn việc lợi_dụng tín_ngưỡng tôn_giáo để vi_phạm pháp_luật
+deny	tôi không thích
+ask_info	lãnh_đạo bộ thông_tin và truyền_thông việt_nam
+ask_info	chính_phủ đã có những chính_sách gì đối_với người dân_tộc_thiểu_số
+ask_info	những giá_trị nghệ_thuật cổ_truyền nào đang được khai_thác và truyền_bá tại việt_nam
+ask_info	cơ_quan nào chịu trách_nhiệm đối_với việc đăng phát nội_dung thông_tin đối_ngoại trên báo_chí
+chitchat_ask_whatspossible	mình có_thể làm gì với bot này
+ask_info	tỷ_lệ hộ nghèo trên cả nước đã giảm bao_nhiêu trong 5 năm qua
+greet	aloe misa ơi
+chitchat_ask_howold	bạn được bao_nhiêu tuổi rồi
+chitchat_ask_whoisit	bạn là chatbot ai à
+explain	bạn có_thể cho tôi biết thêm chi_tiết không
+react_positive	xịn
+ask_info	luật bình_đẳng giới năm 2006 và luật phòng_chống mua_bán người năm nào
+ask_info	chủ_trương thứ_sáu của nhà_nước việt_nam là gì
+chitchat_ask_howbuilt	cách hoạt_động của chatbot này rất ổn_định
+chitchat_ask_time	em ơi mấy giờ rồi
+chitchat_ask_whoisit	bạn là con bot ai à
+chitchat_ask_time	xin_lỗi bạn có_thể cho tôi biết thời_gian hiện_tại không
+canthelp	mình nghĩ là bạn không_thể giúp mình
+ask_info	điều 12 cơ_sở_dữ_liệu về thông_tin đối_ngoại
+chitchat_ask_howdoing	cậu có hạnh_phúc không
+chitchat_ask_whoisit	bạn có phải là con bot ai không
+ask_info	tại_sao việc bảo_đảm các quyền dân_sự chính_trị của người_dân lại là cam_kết mạnh_mẽ và nỗ_lực không ngừng của nhà_nước việt_nam
+ask_info	những thay_đổi to_lớn nào đã xảy ra trong mọi mặt đời_sống chính_trị kinh_tế văn_hoá và xã_hội ở việt_nam trong gần 30 năm qua
+ask_info	cơ_cấu tổ_chức của cục thông_tin đối_ngoại như_thế_nào
+deny	t không muốn vậy
+ask_info	ai không được xâm_phạm quyền tự_do tín_ngưỡng tôn_giáo và làm trái pháp_luật và chính_sách của nhà_nước theo hiến_pháp năm 1992
+chitchat_ask_howdoing	cậu có vấn_đề gì không nhỉ
+ask_info	việt_nam đã đạt được bình_đẳng giới trong lĩnh_vực nào
+ask_info	nghị_định số 13 2010 nđ cp của chính_phủ việt_nam về chính_sách trợ_giúp các đối_tượng bảo_trợ xã_hội có liên_quan đến trẻ_em như_thế_nào
+ask_info	chính_sách nào được ban_hành nhằm cải_thiện và nâng cao hiệu_quả nền kinh_tế
+canthelp	chả có_ích gì cả
+ask_info	luật bình_đẳng giới có hiệu_lực từ năm nào
+thank	mình cảm_ơn bạn lắm
+ask_info	những thành_tựu quan_trọng nào đã đạt được trong việc giáo_dục và đào_tạo người dân_tộc_thiểu_số ở các vùng đông dân_tộc_thiểu_số
+chitchat_ask_whoisit	mày là người hay không
+ask_info	quyền có nhà ở được quy_định trong các văn_bản pháp_luật nào
+thank	mình cảm_ơn nhé đang lên list mua đồ dần cho bé nên khi nào tiện sẽ ghé qua bot
+greet	alo a
+thank	thank you vì sự nhiệt_tình của bạn
+react_positive	quyến_rũ thế
+greet	xin chào rất vui được gặp bạn
+ask_info	tư_tưởng nhân_quyền của việt_nam
+bye	hẹn gặp lại bạn sau nhé
+ask_info	nhà_nước việt_nam đã có những nỗ_lực gì để tôn_trọng bảo_đảm và thúc_đẩy quyền tự_do tín_ngưỡng tôn_giáo của người dân
+ask_info	chủ_trương thứ_sáu của nhà_nước việt_nam nhằm mục_đích gì
+chitchat_ask_time	giờ là cái gì vậy cưng
+ask_info	báo_chí thực_hiện việc đăng phát nội_dung thông_tin đối_ngoại là gì
+ask_info	asean hợp_tác về quyền con_người như_thế_nào ?
+react_positive	em được đấy
+ask_info	dương chí dũng và hội nhà_báo việt_nam độc_lập là gì
+react_negative	tôi không thấy chatbot này đáng tin_cậy và chính_xác
+ask_info	những nét văn_hoá của các dân_tộc_thiểu_số được bảo_tồn và phát_triển như_thế_nào
+ask_info	việc ghi_nhận quyền tự_do tín_ngưỡng tôn_giáo trong hiến_pháp năm 2013 là nhằm mục_đích gì
+ask_info	theo quy_định hiện_hành uỷ_ban_nhân_dân cấp tỉnh sẽ bố_trí ngân_sách địa_phương dựa trên tiêu_chí gì để thực_hiện hoạt_động thông_tin đối_ngoại
+react_positive	uồi
+ask_info	toà_án và cơ_quan nhà_nước có thẩm_quyền có trách_nhiệm gì đối_với việc xâm_phạm quyền_sở_hữu của chủ_sở_hữu
+ask_info	cơ_quan đại_diện việt_nam ở nước_ngoài có trách_nhiệm cung_cấp thông_tin về tình_hình nước sở_tại và quan_hệ song_phương hay không
+ask_info	quyền của cá_nhân đối_với hình_ảnh được quy_định như_thế_nào
+ask_info	hiến_pháp năm 2013 chế_định trực_tiếp những quyền con_người nào
+ask_info	hình_ảnh cá_nhân được đưa lên báo trong những trường_hợp nào
+react_negative	sao nói chậm thế
+ask_info	vì sao toàn_thể dân_tộc việt_nam không ngừng phấn_đấu để giành được độc_lập
+ask_info	quyền tự_do cá_nhân của người việt_nam được bảo_vệ như nào
+greet	em ơi
+ask_info	giáo_hội phật_giáo hoà_hảo có bao_nhiêu tín_đồ và cơ_sở thờ_tự được công_nhận
+explain	có_thể đưa ra một ví_dụ cụ_thể để minh_hoạ không
+ask_info	tại_sao việc phát_triển thị_trường lao_động và tạo việc_làm lại được chính_phủ việt_nam quan_tâm đặc_biệt trong bối_cảnh có khoảng 54 48 triệu người trong độ tuổi lao_động
+ask_info	vì sao một_số tổ_chức cá_nhân vẫn cố_tình xuyên_tạc tình_hình nhân_quyền tự_do tín_ngưỡng tôn_giáo ở việt_nam
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo là gì
+ask_info	hiến_pháp năm 2013 ghi_nhận những nghĩa_vụ nào của nhà_nước đối_với quyền con_người
+ask_info	những thành_tựu phát_triển kinh_tế nào đã giúp cải_thiện mức_sống của người_dân việt_nam
+ask_info	các cơ_quan tổ_chức cá_nhân có_thể phản_ánh về vướng_mắc của thông_tư này đến đâu để được xem_xét điều_chỉnh
+ask_info	nhà_nước việt_nam đã tạo điều_kiện gì để đáp_ứng quyền của người khuyết_tật
+canthelp	tớ muốn dừng cuộc trò_chuyện này
+chitchat_ask_howdoing	mọi việc đã xảy ra chưa
+ask_info	việt_nam đang nghiên_cứu in thí_điểm kinh_thánh song_ngữ việt mông nước_ngoài điều này có ý_nghĩa gì đối_với việc bảo_vệ quyền tự_do tín_ngưỡng tôn_giáo
+react_positive	cảm_ơn bạn nhiều
+react_positive	vui quá bạn ơi
+ask_info	những hình_thức dịch_chuyển lao_động nào được đề_cập trong đoạn_văn
+explain	tại_sao điều đó lại xảy ra ở đây
+react_negative	đáng ghét
+ask_info	nhà_nước việt_nam luôn xác_định quyền con_người là gì
+chitchat_ask_howbuilt	tạo ra bot này có khó không
+thank	minh cam on misa
+chitchat_ask_whatismyname	tên tui nghe có_vẻ ngầu phết đấy
+ask_info	bộ ngoại_giao có nhiệm_vụ gì trong việc quản_lý hoạt_động thông_tin đối_ngoại
+react_negative	chatbot này không_thể hiểu được nhu_cầu của tôi
+ask_info	trẻ_em thuộc diện chính_sách_xã_hội được trợ_giúp như_thế_nào để hoà_nhập với gia_đình cộng_đồng
+affirm	chấp_nhận nhé
+ask_info	thông_tin giải_thích làm rõ là gì
+chitchat_ask_whoisit	bạn có phải là robot hỗ_trợ không
+affirm	mình nhận không có vấn_đề gì
+ask_info	việt_nam đã thực_hiện thành_công mục_tiêu chiến_lược quốc_gia nào
+ask_info	các hoạt_động hợp_tác quốc_tế trong lĩnh_vực y_tế được việt_nam tổ_chức nhằm mục_đích gì
+ask_info	quyền hưởng_thụ các thành_tựu phát_triển kinh_tế của việt_nam là gì
+ask_info	điều_kiện tiên_quyết để bảo_đảm quyền con_người là gì
+chitchat_ask_whoisit	bạn là con bot ai à
+chitchat_ask_whoisit	bạn là hệ_thống ai à
+thank	thank s misa
+ask_info	điểm nhóm của người nước_ngoài sinh_hoạt tôn_giáo tập_trung tại bao_nhiêu địa_điểm ở việt_nam
+explain	tại_sao điều đó lại xảy ra như_vậy
+ask_info	việt_nam ký các cam_kết quốc_tế về nhân_quyền nào
+bye	bye misa
+greet	oh ba n ui
+chitchat_ask_whoisit	có phải bạn là con_người thật không
+thank	cảm_ơn ạ mình sẽ qua mua trực_tiếp ạ
+affirm	chính_xác không sai chỗ nào cả
+chitchat_ask_whoisit	bạn có phải là robot trí_tuệ_nhân_tạo không
+ask_info	việt_nam đã phê_chuẩn bao_nhiêu công_ước của tổ_chức lao_động quốc_tế ilo
+ask_info	công_tác bảo_vệ chăm_sóc và giáo_dục trẻ_em sẽ được tập_trung vào những hoạt_động nào
+react_negative	câu trả_lời chẳng có_ích gì cả
+chitchat_ask_time	bây_giờ là cái quỷ gì vậy zời
+ask_info	đại_hội các cấp trong đạo tin lành có nhiệm_vụ gì và quyết_định những công_việc quan_trọng nào
+bye	tôi đi ngủ đây
+chitchat_ask_time	thời_gian hiện_tại của bạn đúng không cưng
+chitchat_ask_howbuilt	tôi muốn biết cấu_trúc bên trong của chatbot này
+ask_info	làm thế_nào để giữ_gìn bản_sắc văn_hoá việt_nam trước sự xâm_lấn của các giá_trị văn_hoá ngoại_lai không phù_hợp
+ask_info	giới_hạn quyền là gì những quyền con_người nào có_thể bị giới_hạn
+ask_info	theo thống_kê của các cơ_quan_chức_năng năm 2021 có bao_nhiêu cơ_sở thờ_tự được xây mới
+react_positive	cảm_ơn nhiều lắm
+ask_info	việt_nam có quan_điểm như_thế_nào về công_tác thông_tin , truyền_thông quyền con_người ?
+ask_info	đài_truyền_hình việt_nam và đài tiếng_nói việt_nam có cung_cấp chương_trình bằng những ngôn_ngữ nào để phục_vụ cho người dân_tộc_thiểu_số
+chitchat_ask_howdoing	tình_hình thế_nào rồi
+ask_info	trang thông_tin điện_tử đối_ngoại có nhiệm_vụ gì
+ask_info	việc đưa kinh sách vào trại_giam đã góp_phần thực_thi những gì
+ask_info	việt_nam tạo điều_kiện gì cho đại_diện của các nước tham_gia thực_địa đời_sống tại việt_nam
+ask_info	những giá_trị đạo_lý nào được đề_cao trong việc tu_hành theo tôn_chỉ của đạo bửu sơn kỳ_hương
+react_positive	đc phết nhỉ
+ask_info	những đối_tượng nào được hưởng chính_sách phát_triển nhà ở của chính_phủ
+chitchat_ask_wherefrom	con chatbot này đc tạo ra ở đâu
+ask_info	tại_sao trình_độ và nhận_thức của một bộ_phận cán_bộ công_chức chức_sắc chức_việc nhà_tu hành tín_đồ các tôn_giáo về quyền con_người và tự_do tín_ngưỡng tôn_giáo còn hạn_chế
+ask_info	tại_sao trình_độ và nhận_thức của một bộ_phận cán_bộ công_chức chức_sắc chức_việc nhà_tu hành tín_đồ các tôn_giáo về quyền con_người và tự_do tín_ngưỡng tôn_giáo còn hạn_chế
+chitchat_ask_whatspossible	bot này có khả_năng giúp_đỡ gì
+ask_info	bộ thông_tin và truyền_thông chủ_trì phối_hợp với các cơ_quan liên_quan xây_dựng cơ_chế chính_sách để thực_hiện việc hỗ_trợ hợp_tác được quy_định tại điều nào
+ask_info	hội_nghị ni giới thế_giới năm 2009 có sự tham_dự của bao_nhiêu người
+react_positive	thật là tuyệt_vời
+canthelp	mình tự giải_quyết được vấn_đề này
+chitchat_ask_howbuilt	chatbot này đã được huấn_luyện bằng các tập dữ_liệu phong_phú chưa
+chitchat_ask_time	bây_giờ là mấy giờ rồi
+ask_info	cơ_quan báo_chí và tổ_chức cá_nhân có liên_quan đến việc đăng phát nội_dung thông_tin đối_ngoại trên báo_chí phải chịu trách_nhiệm gì
+ask_info	vai_trò đảng_cộng_sản_việt_nam
+affirm	ừ không cần suy_nghĩ lâu
+ask_info	năm 2014 việt_nam có bao_nhiêu nhà_xuất_bản
+ask_info	điều 33 của hiến_pháp năm 2013 quy_định gì
+ask_info	chủ_trương thứ nhất của nhà_nước việt_nam là gì
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về chuyển_đổi số quốc_gia
+chitchat_ask_whoisit	bạn là máy ai à
+ask_info	những người nhiễm hiv được bảo_vệ như_thế_nào
+ask_info	những vấn_nạn xã_hội đáng lo_ngại là gì
+chitchat_ask_howdoing	thế_giới của cậu như_thế_nào rồi
+ask_info	những chính_sách nào đã mang lại lợi_ích cho học_sinh sinh_viên
+ask_info	khi nào giáo_hội các thánh hữu ngày sau của chúa giê su ky tô được cấp chứng_nhận đăng_ký hoạt_động tôn_giáo tại việt_nam
+canthelp	mình sẽ thử cách khác
+ask_info	trần hồng hà phó thủ_tướng chính_phủ việt_nam phụ_trách văn_hoá xã_hội giáo_dục y_tế khoa_học
+react_positive	siêu phẩm thật đấy
+ask_info	trách_nhiệm giải_quyết yêu_cầu cung_cấp thông_tin ?
+canthelp	mình không cần giúp_đỡ này
+thank	thanks em
+ask_info	chính_sách và chương_trình quốc_gia nào của việt_nam được đề_xuất để bảo_đảm an_sinh xã_hội và thúc_đẩy quyền của các nhóm xã_hội dễ bị tổn_thương
+chitchat_ask_whoisit	mày là người hay không
+thank	cảm_ơn bot có gì m liên_hệ lại sau
+ask_info	việt_nam có quan_điểm như_thế_nào về công_tác thông_tin , truyền_thông quyền con_người ?
+ask_info	nhiệm_vụ công_tác tôn_giáo trong thời_gian tới sẽ tập_trung vào những gì để đóng_góp cho sự phát_triển đất_nước
+thank	tks bạn nhé
+ask_info	luật thi_hành án hình_sự quy_định gì
+thank	e cám_ơn ah
+ask_info	tuyên_bố nhân_quyền asean là văn_kiện gì và có ý_nghĩa gì đối_với khu_vực asean
+ask_info	trong trường_hợp có vướng_mắc hoặc điểm chưa phù_hợp đề_nghị ai phản_ánh và xử_lý
+chitchat_ask_time	sắp đêm chưa em
+react_positive	rất ưng_ý với câu trả_lời của bạn
+chitchat_ask_time	giờ bây_giờ là cái quỷ gì thế
+ask_info	những thành_tựu đạt được trong việc bảo_đảm các quyền dân_sự và chính_trị thể_hiện điều gì
+ask_info	hành_vi lợi_dụng quyền tự_do đi_lại cư_trú để vi_phạm pháp_luật hoặc tiến_hành các hoạt_động gì
+ask_info	các hình_thức tuyên_truyền giáo_dục về quyền tự_do tín_ngưỡng tôn_giáo được thực_hiện như_thế_nào
+ask_info	việc bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo của người_dân có ảnh_hưởng như_thế_nào đến các hoạt_động an_sinh xã_hội
+ask_info	những luật và pháp_lệnh nào liên_quan đến lĩnh_vực văn_hoá được đề_cập trong đoạn_văn
+ask_info	các tổ_chức phi_chính_phủ có vai_trò gì trong bảo_vệ và thúc_đẩy nhân_quyền
+react_positive	cảm_ơn nhiều lắm
+chitchat_ask_time	time now là thời_điểm tốt nhất để làm_việc đúng không
+ask_info	cơ_quan đại_diện việt_nam ở nước_ngoài có trách_nhiệm gì
+ask_info	tổ_chức nào được cấp chứng_nhận đăng_ký hoạt_động tôn_giáo theo quy_định của luật tín_ngưỡng tôn_giáo
+ask_info	việt_nam đã đạt được những thành_tựu gì trong lĩnh_vực chăm_sóc sức_khoẻ
+react_positive	em xinh thế
+affirm	tất_nhiên không nên bàn_cãi thêm
+ask_info	những hoạt_động nào được thực_hiện trong giai_đoạn giáo_dục tư_vấn phục_hồi hành_vi nhân_cách của quy_trình cai_nghiện ma_tuý
+react_positive	anh yêu em mất
+ask_info	chính_sách hỗ_trợ đào_tạo nhân_lực y_tế của việt_nam nhằm mục_đích gì
+chitchat_ask_whoisit	bạn là trợ_lý ảo ai à
+ask_info	các thành_viên ban đại_diện phật hội tứ ân hiếu_nghĩa ra_mắt đại_hội nhiệm_kỳ iii là ai
+react_positive	thật là tuyệt_vời
+greet	chào misa nha
+ask_info	những hành_vi nào bị nghiêm_cấm trong luật tín_ngưỡng tôn_giáo
+ask_info	việt_nam đã nhận được những hỗ_trợ gì từ các nước đối_tác quốc_tế trong lĩnh_vực quyền con_người
+ask_info	các tổ_chức phi_chính_phủ nước_ngoài đã hỗ_trợ việt_nam như_thế_nào trong việc hội_nhập quốc_tế
+chitchat_ask_howdoing	tình_hình của cậu như_thế_nào
+deny	tôi không hài_lòng với ý_kiến đó
+chitchat_ask_time	thời_gian hiện_tại của bạn đúng không cưng
+ask_info	hiến_pháp 2013 bảo_vệ quyền và lợi_ích hợp_pháp về những lĩnh_vực nào
+chitchat_ask_whoisit	bạn có phải là chatbot tự_động ai không
+ask_info	bộ văn_hoá thể_thao và du_lịch chủ_trì phối_hợp với các bộ cơ_quan liên_quan trong việc tổ_chức các sự_kiện ở đâu
+react_negative	phét
+ask_info	bộ ngoại_giao đã quyết_định công_bố cuốn sách nào
+react_positive	siêu đỉnh
+ask_info	những công_trình nào đã được xây_dựng để phù_hợp với chuẩn của người khuyết_tật
+react_positive	thật là đỉnh_cao
+ask_info	tỷ_số tử_vong mẹ đã giảm đáng_kể từ năm nào đến năm nào
+ask_info	việt_nam gia_nhập các điều_ước quốc_tế về quyền con_người vào thời_gian nào
+affirm	mình nghĩ là vậy á
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về giao_dịch điện_tử
+affirm	t thoải_mái nhé
+ask_info	ngày việt_nam ở nước_ngoài là ngày nào
+affirm	đồng_ý
+bye	tôi phải đi ngay đây hẹn gặp lại bạn
+ask_info	những văn_bản pháp_luật nào liên_quan đến bảo_vệ và chăm_sóc sức_khoẻ nhân_dân được ban_hành tại việt_nam
+ask_info	trong việc triển_khai chương_trình 135 giai_đoạn 2006 2010 về phát_triển kinh_tế xã_hội ở các xã đặc_biệt khó_khăn vùng đồng_bào dân
+ask_info	cơ_chế bảo_vệ và thúc_đẩy quyền con_người của lhq gồm những loại nào
+chitchat_ask_howold	con bot này đc tạo lâu chưa
+chitchat_ask_howdoing	cậu có vui không
+chitchat_ask_whoisit	bạn có phải là chatbot ai không
+chitchat_ask_whoisit	bạn có phải người hay không
+chitchat_ask_whoisit	bạn có phải là robot hay con_người
+greet	alo
+ask_info	tổ_chức chung của phật_giáo cả nước được đặt tên gì và có đường_hướng hoạt_động như_thế_nào
+ask_info	các tcpcpnn đã giúp người dân_nghèo biết cách làm kinh_tế như_thế_nào
+ask_info	những nhóm xã_hội và cộng_đồng nào được mở_rộng chủ_thể quyền trong hiến_pháp năm 2013
+chitchat_ask_howbuilt	bạn đã dùng framework nào để xây_dựng bot này
+affirm	được thôi cứ làm_vậy
+affirm	chắc_chắn không có gì để nghĩ_ngợi
+chitchat_ask_whoisit	bạn là ứng_dụng bot ai à
+ask_info	bà la môn giáo ở việt_nam chịu ảnh_hưởng của chế_độ gì
+ask_info	cá_nhân bị thông_tin làm ảnh_hưởng xấu đến danh_dự nhân_phẩm uy_tín thì có quyền yêu_cầu gì từ phía pháp_luật
+ask_info	xử_lý vi_phạm pháp_luật trong lĩnh_vực tín_ngưỡng tôn_giáo là gì
+thank	m cam on nha
+ask_info	tín_đồ của các tôn_giáo chiếm bao_nhiêu phần_trăm dân_số việt_nam
+affirm	mình tán_thành đó
+chitchat_ask_whoisit	bạn có phải là trí_tuệ_nhân_tạo không
+ask_info	luật tín_ngưỡng tôn_giáo quy_định những hành_vi nào
+greet	hi chị ơi
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo là quyền của ai
+thank	thanks ne
+ask_info	hiến_pháp năm 2013 có những quy_định gì về tố_tụng công_bằng
+thank	m cảm_ơn nhe
+ask_info	làm thế_nào để giải_quyết các nhu_cầu nguyện_vọng kiến_nghị đề_xuất của các tổ_chức cá_nhân tôn_giáo phù_hợp với chính_sách pháp_luật
+chitchat_ask_howold	bạn đã sống đến tuổi nào rồi
+ask_info	ai là người sáng_lập tịnh_độ cư_sĩ phật hội việt_nam
+explain	bạn có_thể cung_cấp thêm thông_tin không
+affirm	mình tham_gia
+ask_info	số_lượng cơ_sở dạy nghề hiện_nay ở việt_nam là bao_nhiêu và bao_gồm những loại trường nào
+react_negative	dở_hơi à
+ask_info	hoạt_động tôn_giáo của người nước_ngoài tại việt_nam có những diễn_biến như_thế_nào
+chitchat_ask_howbuilt	bot này được phát_triển bằng ngôn_ngữ_lập_trình gì
+greet	chào bạn có gì tuyệt_vời đã xảy ra
+ask_info	những di_tích nào được unesco công_nhận là di_sản thế_giới
+ask_info	chương_trình mục_tiêu quốc_gia việc_làm và dạy nghề giai_đoạn 2012 2015 có mục_tiêu gì
+ask_info	công_giáo góp_phần làm phong_phú nền văn_hoá việt_nam như_thế_nào
+react_positive	đù má đỉnh quá
+react_negative	tôi đã gửi nhiều câu hỏi nhưng chatbot không trả_lời đúng
+chitchat_ask_howbuilt	tạo bot này có sử_dụng phương_pháp học giám_sát không
+ask_info	việc đăng_tải công_khai dự_thảo các văn_bản luật liên_quan đến quyền con_người nhằm mục_đích gì
+chitchat_ask_time	thế giờ là thời_gian lý_tưởng để làm_việc không
+thank	mình cảm_ơn ạ
+greet	hi shiop
+chitchat_ask_time	sắp 3 giờ chưa em
+explain	cho tôi hiểu rõ hơn về điều đó
+chitchat_ask_wherefrom	bạn ở đâu vậy
+ask_info	việt_nam gia_tăng bắt_bớ người hoạt_động nhân_quyền
+ask_info	các hoạt_động về tôn_giáo ở việt_nam diễn ra như_thế_nào
+ask_info	người chăm bà la môn sinh_sống chủ_yếu ở đâu
+greet	em
+canthelp	cám_ơn nhưng không cần_thiết
+ask_info	bao_nhiêu lượt người thuộc hộ cận nghèo được cấp hỗ_trợ mua thẻ bảo_hiểm_y_tế
+deny	tôi không hài_lòng với ý_kiến đó
+chitchat_ask_howbuilt	chatbot này có khả_năng học tăng_cường không
+ask_info	nhiệm_vụ của cục thông_tin đối_ngoại là gì
+react_negative	tôi không hài_lòng với khả_năng trả_lời và hiệu_suất của chatbot này
+react_positive	vui quá đi
+ask_info	tổ_chức của đạo cao đài gồm những cấp_bậc nào
+thank	cam ơn bot
+ask_info	việt_nam đã tham_gia ký_kết và phê_chuẩn những công_ước quốc_tế nào liên_quan đến quyền tự_do tín_ngưỡng tôn_giáo
+ask_info	việt_nam sẽ xây_dựng và phát_triển những gì để trợ_giúp pháp_lý cho người khuyết_tật
+chitchat_ask_whoisit	bạn tên là gì
+ask_info	quyết_định số 716 qđ ttg ngày 20 4 2009 của thủ_tướng chính_phủ về việc ban_hành một_số cơ_chế chính_sách phát_triển nhà ở cho công_nhân lao_động
+canthelp	đừng lo tớ tìm cách khác
+ask_info	người_phát_ngôn có quyền từ_chối phát_ngôn và cung_cấp thông_tin trong những trường_hợp nào ?
+ask_info	tại_sao tỷ_lệ cử_tri đi bầu cao đến mức hơn 99 trong cuộc bầu_cử quốc_hội tháng 5 2011
+deny	tôi không muốn làm như_thế
+ask_info	luật tín_ngưỡng tôn_giáo quy_định gì
+ask_info	tiểu_sử nguyễn_phú trọng
+ask_info	việt_nam đã ban_hành chiến_lược cải_cách tư_pháp đến năm nào
+ask_info	nhà_nước việt_nam đặt trung_tâm cho ai trong mọi chính_sách chương_trình phát_triển kinh_tế xã_hội của mình
+ask_info	điều 23 tổ_chức cung_cấp thông_tin cho người_dân hiểu về quá_trình hội_nhập quốc_tế
+explain	tại_sao điều đó lại là vấn_đề cần quan_trọng
+ask_info	mục_đích của luật tín_ngưỡng tôn_giáo là gì
+greet	hello bạn có khoẻ không
+ask_info	các hình_thức cung_cấp thông_tin tình_hình thế_giới vào việt_nam là gì
+ask_info	úc đã tài_trợ bao_nhiêu đô_la úc cho việt_nam trong giai_đoạn 2013 2014 và với mục_đích gì
+chitchat_ask_howdoing	có ổn ko
+affirm	đồng_ý nhé
+ask_info	hiến_pháp năm 2013 của việt_nam có đáp_ứng đầy_đủ các nhu_cầu chính_đáng và ngày_càng tăng về quyền và tự_do của nhân_dân không
+affirm	tất_nhiên không nghi_ngờ gì nữa
+chitchat_ask_whoisit	có phải bạn là con_người thật không
+ask_info	trong giai_đoạn 2009 2015 có bao_nhiêu dự_án nhà ở học_sinh sinh_viên được nhà_nước đầu_tư xây_dựng
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về dịch_vụ sự_nghiệp công
+ask_info	công_dân việt_nam có những quyền tự_do báo_chí nào
+ask_info	những nỗ_lực nào đang được thực_hiện để củng_cố và phát_triển mạng_lưới các cơ_sở dạy nghề
+ask_info	việc bảo_tồn và phát_huy văn_hoá truyền_thống của dân_tộc được đề_cập như_thế_nào trong đoạn_văn
+greet	alô bot ơi
+react_positive	thật là phấn_khích
+thank	tks bạn đã dành thời_gian trò_chuyện
+ask_info	việt_nam đã thực_hiện thành_công mục_tiêu chiến_lược quốc_gia nào
+deny	không_thể
+canthelp	mình không cần giúp_đỡ nữa
+ask_info	điều 2 đối_tượng áp_dụng của thông_tư này
+chitchat_ask_whoisit	bạn là ai thế
+bye	chào tạm_biệt
+ask_info	văn_kiện đại_hội đại_biểu toàn_quốc lần thứ xiii của đảng_cộng_sản_việt_nam có nội_dung gì
+chitchat_ask_whoisit	bạn nghe có_vẻ như người thật đấy
+ask_info	trách_nhiệm giải_quyết yêu_cầu cung_cấp thông_tin ?
+chitchat_ask_whoisit	bạn là ứng_dụng bot ai à
+ask_info	nhân_quyền ở việt_nam được quy_định cụ_thể như_thế_nào
+ask_info	phật_giáo hoà_hảo tôn_thờ những_ai
+ask_info	cơ_cấu ngành_nghề đào_tạo đang được điều_chỉnh như_thế_nào để phù_hợp với nhu_cầu của thị_trường lao_động và doanh_nghiệp
+thank	thanksb
+ask_info	nhà_nước chủ_trương đẩy_mạnh sự tham_gia của các tổ_chức đoàn_thể vào công_việc của địa_phương xây_dựng mối quan
+canthelp	ko cần nữa đâu
+ask_info	tăng_ni phật_tử việt_nam đã có những đóng_góp gì cho giáo_hội phật_giáo việt_nam
+ask_info	hiến_pháp 2013 có bao_nhiêu điều
+canthelp	thôi không cần nữa
+ask_info	những hoạt_động nào được tổ_chức thực_hiện sau khi được cấp chứng_nhận đăng_ký hoạt_động tôn_giáo
+chitchat_ask_time	bây_giờ đồng_hồ chạy theo múi_giờ nào bro
+ask_info	những_ai cần được nâng cao nhận_thức về phòng_chống tội_phạm mua_bán người
+canthelp	mình cần một giải_pháp khác
+react_positive	được đó
+ask_info	hiến_pháp việt_nam năm 2013 khẳng_định nguyên_tắc gì về đối_xử bình_đẳng
+bye	bye nhé
+ask_info	nhà_nước việt_nam đã có những văn_bản luật nào về tôn_giáo và tín_ngưỡng
+ask_info	quyền bình_đẳng trước pháp_luật được đảm_bảo như_thế_nào trong việc đưa ra chứng_cứ tài_liệu đồ_vật và đưa ra yêu_cầu và tranh_luận dân_chủ trước toà
+react_positive	hay quá đi
+ask_info	những biện_pháp nào có_thể được áp_dụng để thực_hiện chính_sách chăm_sóc bảo_vệ quyền và phát_huy nguồn_lực người cao_tuổi
+thank	t cảm_ơn nha
+chitchat_ask_time	mấy giờ rồi em ơi
+ask_info	bộ thông_tin và truyền_thông có chức_năng gì
+ask_info	mục_đích chính của việc ban_hành luật tín_ngưỡng tôn_giáo là gì
+react_positive	quá tuyệt
+deny	tôi không đồng_ý với ý_kiến của bạn
+ask_info	tại tây_nguyên có bao_nhiêu điểm nhóm tin lành
+ask_info	quyền tự_do kinh_doanh đã được cụ_thể_hoá ở đâu
+ask_info	việt_nam là thành_viên của công_ước nào
+affirm	đồng_ý không cần bàn_cãi thêm
+deny	tôi không đồng_ý với ý_kiến đó
+react_positive	thật là tuyệt_vời
+ask_info	làm tốt công_tác tôn_giáo là trách_nhiệm của ai
+ask_info	nhà_nước việt_nam đã có những chính_sách gì
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về quảng_cáo
+chitchat_ask_time	bạn biết bây_giờ là giờ ăn trưa không bro
+ask_info	trung_tâm cai_nghiện sẽ được xây_dựng và thực_hiện như_thế_nào để tăng khả_năng tiếp_cận các dịch_vụ điều_trị nghiện
+ask_info	chủ_trương chính_sách đối_với tôn_giáo của đảng và nhà_nước việt_nam như_thế_nào
+ask_info	luật cư_trú được ban_hành vào ngày nào
+ask_info	nhà_nước đang quan_tâm và hướng_dẫn các tổ_chức tôn_giáo hoạt_động như_thế_nào để đáp_ứng nhu_cầu của quần_chúng tín_đồ
+greet	alo s ơi
+ask_info	giáo_lý của minh lý đạo tam tông_miếu dựa trên tinh_hoa của những triết_lý nào
+chitchat_ask_whatismyname	bạn biết tên mình là gì không bot
+thank	mình cảm_ơn nhe
+greet	alo bạn iiw
+deny	t không cho_phép làm cái đấy
+ask_info	cuốn sách tôn_giáo và chính_sách tôn_giáo ở việt_nam có nội_dung gì
+chitchat_ask_howdoing	cậu ổn không
+ask_info	quyền con_người được coi là giá_trị chung của toàn nhân_loại vì những lý_do gì
+bye	tạm_biệt
+ask_info	bao_nhiêu bảo_tàng có ở việt_nam và chức_năng của chúng là gì
+ask_info	chính_phủ việt_nam đang triển_khai chiến_lược gì
+ask_info	kỳ phát_ngôn và cung_cấp thông_tin cho báo_chí được quy_định như_thế_nào ?
+ask_info	những tôn_giáo nào đã tồn_tại từ hàng nghìn năm
+ask_info	việt_nam sẵn_sàng cung_cấp thông_tin gì cho các nước hiểu rõ về tình_hình quyền con_người tại việt_nam
+bye	chúc bạn may_mắn và hẹn gặp lại sau nhé
+chitchat_ask_whatspossible	bạn còn có_thể làm gì khác không
+greet	alo misa
+ask_info	nhà_nước quan_tâm bảo_hộ an_toàn tính_mạng cho những người tham_gia quá_trình tố_tụng_hình_sự như_thế_nào
+ask_info	chính_sách nhất_quán tôn_trọng và bảo_đảm các quyền con_người nêu trên được lồng_ghép vào đâu
+react_positive	em thông_minh thật đấy
+ask_info	đạo cao đài có bao_nhiêu cơ_sở tôn_giáo
+affirm	chắc_chắn luôn
+react_negative	tôi đã cung_cấp đủ thông_tin nhưng chatbot không hiểu
+ask_info	thông_tin tình_hình thế_giới vào việt_nam do cơ_quan nào cung_cấp
+thank	minh cam ơn nhé
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo là quyền của ai
+chitchat_ask_whoisit	bạn là trí_tuệ_nhân_tạo à
+ask_info	điều 23 hiến_pháp năm 2013 quy_định quyền tự_do đi_lại cư_trú của công_dân là gì
+greet	alooo b ơiii
+explain	bạn có_thể cung_cấp ví_dụ để làm rõ hơn không
+ask_info	trong 6 tháng đầu năm 2015 các trại_giam đã tổ_chức bao_nhiêu lớp
+ask_info	bộ công_an có trách_nhiệm gì đối_với hoạt_động thông_tin đối_ngoại
+ask_info	nhà_nước việt_nam đã có những chính_sách và văn_bản pháp_luật nào để phòng_ngừa và trừng_trị tội_phạm buôn_bán người
+react_positive	cực_kỳ ưng_ý
+ask_info	việt_nam tham_gia bao_nhiêu công_ước về quyền con_người
+ask_info	tôn_chỉ hành_đạo của phật_giáo tứ ân hiếu_nghĩa là gì
+ask_info	các tổ_chức hồi_giáo ở việt_nam có quy_chế hoạt_động như_thế_nào
+ask_info	chính_sách chương_trình giảm nghèo có vai_trò gì trong việc bảo_đảm an_sinh xã_hội cho người nghèo
+ask_info	bao_nhiêu người khuyết_tật ở việt_nam và chiếm bao_nhiêu phần_trăm dân_số
+react_negative	tôi không cảm_thấy chatbot này hữu_ích cho công_việc của mình
+chitchat_ask_time	sắp 2 giờ chưa em
+ask_info	đạo bửu sơn kỳ hương có bao_nhiêu tín_đồ và sinh_sống tập_trung ở những tỉnh nào
+chitchat_ask_howbuilt	bot này làm_việc như_thế_nào
+ask_info	nội_dung chính của nghị_định số 80 2011 nđ cp quy_định gì về hỗ_trợ tái hoà_nhập cộng_đồng cho người chấp_hành xong án phạt tù
+ask_info	việt_nam đã ký_kết nhiều văn_bản liên_quan đến phòng_chống mua_bán người
+ask_info	các bộ cơ_quan ngang bộ cơ_quan thuộc chính_phủ uỷ_ban_nhân_dân cấp tỉnh có trách_nhiệm báo_cáo kết_quả tổ_chức sự_kiện ở nước_ngoài cho ai
+ask_info	hội_nghị quan_chức cấp cao lần thứ 3 được tổ_chức trong khuôn_khổ gì
+ask_info	những hoạt_động nào bị nghiêm_cấm trong việc lợi_dụng tín_ngưỡng tôn_giáo và có_thể gây_rối xâm_phạm an_ninh quốc_gia
+chitchat_ask_time	có biết bây_giờ là múi_giờ nào không
+explain	hãy giải_thích cách hoạt_động của nó
+chitchat_ask_whoisit	bạn là robot hay con_người
+thank	misa cám_ơn misa nhìu nhé
+thank	e cam ơn
+chitchat_ask_whoisit	bạn là ai trong số này
+deny	khong
+greet	chào chatbot nha
+ask_info	minh sư đạo có nguồn_gốc từ nước nào
+ask_info	cơ_chế theo công_ước là gì
+chitchat_ask_whoisit	bạn không phải là con_người đúng không
+ask_info	đối_tượng nào được ưu_tiên trong các dự_án phát_triển nhà ở đô_thị tại việt_nam
+ask_info	đạo bửu sơn kỳ hương coi việc tu nhân là gì
+ask_info	việc tu_hành theo tôn_chỉ của đạo bửu sơn kỳ hương giúp con_người có những lợi_ích gì
+ask_info	hội là gì tại_sao hội lại quan_trọng đối_với các tầng_lớp nhân_dân
+explain	có_thể đưa ra một ví_dụ cụ_thể để minh_hoạ không
+ask_info	những hoạt_động hỗ_trợ giáo_dục được các tổ_chức phi_chính_phủ nước_ngoài triển_khai như_thế_nào
+chitchat_ask_howbuilt	làm thế_nào để chatbot này có_thể tương_tác một_cách thông_minh
+greet	hi bot ah
+thank	dạ e cám_ơn
+affirm	đúng vậy bắt_đầu thôi
+thank	cám_ơn bot nhé có gì mình sẽ liên_hệ
+ask_info	việc đăng phát nội_dung thông_tin đối_ngoại trên báo_chí có những hạn_chế gì để đảm_bảo lợi_ích của đất_nước và nhân_dân việt_nam
+canthelp	mình không cần giúp_đỡ này
+greet	alo ship ơi
+ask_info	những dự_án bảo_tàng nào đang được triển_khai theo quy_hoạch đến năm 2020
+ask_info	việt_nam đang tiến_hành sửa_đổi những luật nào liên_quan đến thị_trường lao_động
+chitchat_ask_howbuilt	tạo bot này có dùng kiến_thức tri_thức không
+ask_info	giáo_hội công_giáo việt_nam tham_gia các hoạt_động từ_thiện nhân_đạo nào
+chitchat_ask_howold	bạn đã trải qua bao_nhiêu năm cuộc_sống
+ask_info	kỳ phát_ngôn và cung_cấp thông_tin cho báo_chí được quy_định như_thế_nào ?
+ask_info	những đặc_điểm nào của các dân_tộc việt_nam
+ask_info	giáo_hội các thánh hữu ngày sau của chúa giê su ky tô việt_nam có bao_nhiêu chi_nhánh
+affirm	mình đồng_ý đó
+ask_info	nhà_nước đã tạo điều_kiện gì cho các cá_nhân tổ_chức tôn_giáo việt_nam tăng_cường giao_lưu với quốc_tế
+greet	hi shpp
+chitchat_ask_howdoing	cậu có gặp trục_trặc gì không
+chitchat_ask_howdoing	có chuyện gì mới không
+ask_info	hiến_pháp năm 1946 của nước việt_nam dân_chủ cộng_hoà đã tạo cơ_sở pháp_lý cho việc thực_hiện chính_sách đối_với tôn_giáo như_thế_nào
+ask_info	điều 23 của hiến_pháp năm 2013 quy_định về quyền tự_do đi_lại và cư_trú
+chitchat_ask_time	sắp 11 giờ chưa em
+ask_info	các quyền con_người cơ_bản được quy_định như_thế_nào trong các văn_bản luật của việt_nam
+ask_info	luật tín_ngưỡng tôn_giáo có điểm mới là gì
+ask_info	tổ_chức cá_nhân vi_phạm pháp_luật về tín_ngưỡng tôn_giáo sẽ bị xử_lý như_thế_nào
+ask_info	số_lượng thư_viện công_cộng tại các tỉnh thành_phố là bao_nhiêu
+ask_info	việt_nam đã hợp_tác chặt_chẽ với các tổ_chức nào
+ask_info	dương chí dũng là ai hội nhà_báo việt_nam độc_lập là gì
+ask_info	hội_đồng dân_tộc có nhiệm_vụ gì
+chitchat_ask_whoisit	bạn có phải là người thật không vậy
+react_negative	em thật lắm_điều
+ask_info	những hoạt_động nào được quy_định trong luật người cao_tuổi 2010 để giúp người cao_tuổi có cuộc_sống tốt hơn
+thank	cảm_ơn b nhìu ạ
+chitchat_ask_whoisit	bạn là người hay robot vậy
+react_positive	đc đó
+react_negative	tôi ghét em
+react_positive	rất thú_vị
+greet	alo em ơi
+affirm	không tệ tí nào
+chitchat_ask_howdoing	mọi thứ đã suôn_sẻ chưa
+canthelp	cám_ơn nhưng không cần_thiết
+ask_info	chính_sách dân_tộc của nhà_nước việt_nam đã mang lại những kết_quả gì cho người dân_tộc_thiểu_số
+react_positive	siêu phẩm thật đấy
+chitchat_ask_time	giờ này là thời_gian bình_thường hay thời_gian mùa đông bro
+ask_info	việt_nam có quan_điểm như_thế_nào về công_tác thông_tin , truyền_thông quyền con_người ?
+affirm	tất_nhiên là ok không có lý_do từ_chối
+react_positive	cảm_ơn bạn nhiều
+chitchat_ask_whoisit	bạn là trí_tuệ_nhân_tạo đúng không
+ask_info	chủ_trương thứ tư của nhà_nước việt_nam trong việc cam_kết thúc_đẩy và bảo_vệ quyền con người ở việt_nam là gì
+chitchat_ask_howdoing	tình_hình thế_nào
+chitchat_ask_whoisit	bạn là người thật hay robot vậy
+ask_info	điều 26 trách_nhiệm hướng_dẫn và đôn_đốc thực_hiện nghị_định này
+react_positive	hay quá đi
+ask_info	theo nghị_định số 72/2015/nđ-cp của chính_phủ về quản_lý hoạt_động thông_tin đối_ngoại , thông_tin đối_ngoại được hiểu như_thế_nào và các nguyên_tắc khi tham_gia hoạt_động thông_tin đối_ngoại nào nhà_báo cần nắm rõ ?
+chitchat_ask_whoisit	bạn có phải là chatbot ai không vậy
+ask_info	các tổ_chức phi_chính_phủ nước_ngoài tập_trung vào lĩnh_vực gì trong hoạt_động viện_trợ tại việt_nam
+ask_info	việt_nam tạo điều_kiện gì cho đại_diện của các nước tham_gia thực_địa đời_sống tại việt_nam
+ask_info	thông_tin quảng_bá hình_ảnh việt_nam do ai cung_cấp
+ask_info	hành_vi lợi_dụng quyền tự_do đi_lại cư_trú để vi_phạm pháp_luật sẽ bị xử_lý như_thế_nào
+ask_info	uỷ_ban_nhân_dân cấp tỉnh có nhiệm_vụ gì trong việc xây_dựng hệ_thống thông_tin đối_ngoại tại khu_vực cửa_khẩu quốc_tế
+react_negative	tôi không hài_lòng với khả_năng trả_lời của chatbot này
+ask_info	trần lưu quang phó thủ_tướng chính_phủ phụ_trách nội_chính ngoại_giao
+ask_info	điều 157 và 373 bộ_luật hình_sự sửa_đổi
+ask_info	bộ_trưởng bộ xây_dựng nguyễn_thanh nghị
+ask_info	tại_sao thông_tin đối_ngoại là quan_trọng trong quản_lý hoạt_động thông_tin đối_ngoại
+ask_info	công_ước về quyền của người khuyết_tật 1966 được ký_kết ngày nào
+ask_info	chính_phủ quy_định chức_năng nhiệm_vụ quyền_hạn và cơ_cấu tổ_chức của cục thông_tin đối_ngoại do ai ban_hành
+thank	cảm_ơn bạn nhiều
+ask_info	trong bối_cảnh khó_khăn về kinh_tế ngân_sách nhà_nước của việt_nam đã dành bao_nhiêu nguồn_lực cho các chương_trình an_sinh xã_hội và có tăng hay giảm so với năm trước đó
+chitchat_ask_whatspossible	bạn có_thể giúp gì cho tôi
+ask_info	luật tín_ngưỡng tôn_giáo quy_định như_thế_nào
+ask_info	tổ_chức tôn_giáo được thực_hiện những hoạt_động gì sau khi được công_nhận
+chitchat_ask_whatismyname	có đoán đc tên t ko
+canthelp	mình không cần giúp_đỡ này
+ask_info	bản hiến_pháp được quốc_hội thông_qua năm nào
+react_positive	vui quá đi
+ask_info	những trường_học nào có_mặt ở tất_cả các địa_phương trong cả nước
+thank	vô_cùng cảm_ơn bot
+ask_info	tiểu_sử tóm_tắt tiểu_sử đồng_chí đại_tướng phan văn_giang uỷ_viên bộ_chính_trị bộ_trưởng bộ quốc_phòng
+react_negative	đồ tồi
+ask_info	thông_tư này áp_dụng cho đối_tượng nào
+greet	hí b
+greet	aloo bạn oi
+greet	hé lô
+ask_info	hội_thánh minh lý đạo tam tông_miếu được công_nhận tổ_chức tôn_giáo năm nào
+greet	ơ ấy ơi
+ask_info	chính_sách nhân_quyền của việt_nam
+affirm	đúng rồi đó
+greet	hi hôm_nay là một ngày tuyệt_vời để bắt_đầu
+ask_info	đài_truyền_hình việt_nam đã phủ_sóng vệ_tinh 100 lãnh_thổ việt_nam và một_số quốc_gia láng_giềng phạm_vi phủ_sóng mặt_đất của kênh vtv1 và vtv3 chiếm bao_nhiêu phần_trăm dân_cư
+greet	hey
+ask_info	vấn_đề xâm_phạm quyền tự_do cá_nhân trên không_gian mạng của việt_nam hiện_nay
+react_positive	thật là phấn_khích
+ask_info	các dự_án nhà ở đã được triển_khai và hoàn_thành trong giai_đoạn 2009 2015 có số_lượng căn_hộ và diện_tích như_thế_nào
+ask_info	quyết_định nào của thủ_tướng chính_phủ sẽ hết hiệu_lực khi nghị_định này có hiệu_lực thi_hành
+ask_info	hồi_giáo có bao_nhiêu tín_đồ và cơ_sở thờ_tự ở việt_nam
+affirm	ừm làm đi
+greet	hi bro chúc một ngày tốt_lành
+ask_info	những hành_vi nào bị nghiêm_cấm và có_thể bị phạt liên_quan đến quyền tự_do tín_ngưỡng tôn_giáo
+react_positive	quá tốt luôn
+ask_info	các văn_bản luật nào đã cụ_thể_hoá nguyên_tắc trên trong pháp_luật việt_nam
+greet	alo 123
+chitchat_ask_time	hôm_nay là ngày mấy nhỉ
+ask_info	báo_chí đối_ngoại có trách_nhiệm gì trong việc đăng phát nội_dung thông_tin đối_ngoại trên các phương_tiện truyền_thông của nước_ngoài
+ask_info	công_dân việt_nam có những tự_do ngôn_luận trên báo_chí nào
+thank	de e xem lai thanks misa a
+chitchat_ask_time	sắp đến khuya chưa em
+chitchat_ask_whoisit	bạn có phải là con bot ai không
+greet	alo sop
+thank	thanks chị nhiều nhe e đỡ ta bank
+ask_info	quyết_định số 716 qđ ttg ngày 20 4 2009 của thủ_tướng chính_phủ về việc ban_hành một_số cơ_chế chính_sách phát_triển nhà ở cho công_nhân lao_động
+bye	bye nha
+ask_info	năm 2021 có bao_nhiêu cơ_sở thờ_tự được xây mới
+greet	xin chào thế_giới ơi
+ask_info	pháp môn cao đài chiếu minh tam thanh vô_vi là gì và được cấp chứng_nhận đăng_ký hoạt_động tôn_giáo vào năm nào
+deny	đừng có nghĩ vậy
+chitchat_ask_whoisit	bạn nghe có_vẻ như người thật đấy
+ask_info	bộ thông_tin và truyền_thông chủ_trì phối_hợp với bộ nào xây_dựng kế_hoạch xuất_bản và phát_hành
+canthelp	tớ không muốn tiếp_tục cuộc trò_chuyện này
+react_negative	chém gió
+ask_info	hội_đồng nhân_quyền có vai_trò như_thế_nào đối_với việt_nam
+chitchat_ask_whatismyname	mình có tên_riêng không
+greet	s misa oi
+ask_info	nhà_nước việt_nam đã có những chính_sách và chương_trình nào để thúc_đẩy bình_đẳng giới và bảo_đảm quyền của phụ_nữ
+ask_info	việt_nam đã đạt được những thành_tựu gì
+deny	tôi không tin vào điều đó
+ask_info	điều 21 của hiến_pháp năm 2013 quy_định gì
+ask_info	hoạt_động viện_trợ của các tcpcpnn chủ_yếu tập_trung vào lĩnh_vực gì
+ask_info	tại_sao việc chăm_sóc bảo_vệ quyền và phát_huy nguồn_lực người cao_tuổi được coi là truyền_thống kính_trọng trong xã_hội việt_nam
+ask_info	giáo_hội cơ đốc phục lâm việt_nam có bao_nhiêu hội_thánh
+explain	tại_sao điều đó lại có ý_nghĩa
+greet	alo b ơii
+ask_info	chủ_trương thứ hai của nhà_nước việt_nam là gì
+ask_info	việc giảm số_lượng các tội_danh có áp_dụng án tử_hình ở việt_nam có phù_hợp với chuẩn_mực pháp_lý quốc_tế không
+ask_info	đặc_điểm nào của đạo bửu sơn kỳ hương đã làm cho nền_tảng tổ_chức của đạo này_khác biệt so với các giáo_phái khác
+ask_info	công_tác tuyên_truyền phổ_biến chủ_trương của đảng và chính_sách pháp_luật của nhà_nước về tín_ngưỡng tôn_giáo có ảnh_hưởng đến việc đấu_tranh với các luận_điệu vu_cáo việt_nam vi_phạm dân_chủ nhân_quyền đàn_áp dân_tộc tôn_giáo không
+thank	thanks bot có gì m nhắn sau nha
+ask_info	chính_sách pháp_luật của việt_nam về quyền tự_do tín_ngưỡng tôn_giáo hiện_nay đã hoàn_thiện đến đâu
+chitchat_ask_time	thời_gian hiện_tại của bạn chính_xác không bro
+ask_info	nhà_nước việt_nam đã quan_tâm và thực_hiện như_thế_nào để bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo
+react_positive	hay thật đấy
+bye	tôi sẽ trở_lại sau
+ask_info	đạo cao đài thực_hiện những hoạt_động từ_thiện xã_hội nào
+chitchat_ask_whoisit	có phải bạn là con_người thật không
+affirm	đúng vậy không có gì để từ_chối
+deny	tôi không đồng_ý
+greet	bạn ơi
+react_negative	chatbot này trả_lời chậm và không chính_xác
+ask_info	những thông_tin , tài_liệu nào báo_chí không được tiếp_cận và không được đăng , phát ?
+react_positive	tuyệt quá
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về giao_dịch điện_tử
+chitchat_ask_whoisit	wow tôi không_thể tin được rằng bạn là người thật
+ask_info	các cơ_quan_chức_năng của việt_nam đã triển_khai những hoạt_động gì để phòng_ngừa tội_phạm mua_bán người
+ask_info	tăng_cường trao_đổi đoàn ký_kết thoả_thuận hợp_tác trên lĩnh_vực tôn_giáo với các nước trên thế_giới nhằm mục_đích gì
+chitchat_ask_whatismyname	tên mình nghe có_vẻ cool phết đấy
+ask_info	những công_ước quốc_tế nào khác mà việt_nam đã gia_nhập liên_quan đến quyền con_người
+ask_info	viện nghiên_cứu quyền con_người thuộc học_viện chính_trị quốc_gia hồ_chí_minh của việt_nam hợp_tác với những quốc_gia nào trong lĩnh_vực đào_tạo luật_quốc_tế về quyền con_người và luật nhân_đạo
+ask_info	công_tác tuyên_truyền phổ_biến chủ_trương của đảng và chính_sách pháp_luật của nhà_nước về tín_ngưỡng tôn_giáo có vai_trò gì
+chitchat_ask_howbuilt	làm_sao để tạo chatbot thông_minh như_vậy
+ask_info	công_dân việt_nam có quyền gì liên_quan đến tôn_giáo theo hiến_pháp nước chxhcn việt_nam
+react_positive	làm tốt lắm
+chitchat_ask_whoisit	bạn là chatbot hả
+chitchat_ask_whoisit	bạn nghe có_vẻ giống người thật thế
+react_positive	thật là tuyệt_vời
+greet	hihi misa
+ask_info	việc đăng phát nội_dung thông_tin đối_ngoại trên báo_chí có những hạn_chế gì để đảm_bảo lợi_ích của đất_nước và nhân_dân việt_nam
+bye	bye em
+ask_info	nhà_nước việt_nam đối_đãi như_thế_nào với quyền tự_do tín_ngưỡng tôn_giáo của người dân
+explain	hãy giải_thích cho tôi từng bước được không
+react_negative	đồ dở_hơi
+chitchat_ask_whoisit	bạn là trợ_lý ảo à
+ask_info	việt_nam có bao_nhiêu tôn_giáo và chúng là gì
+ask_info	tiểu_sử chủ_tịch quốc_hội nước cộng_hoà_xã_hội_chủ_nghĩa_việt_nam vương đình huệ
+greet	chào chị
+ask_info	quỹ việc_làm quốc_gia cung_cấp tín_dụng cho ai và với mục_đích gì
+ask_info	các văn_bản quy_phạm_pháp_luật liên_quan đến quyền con_người và quyền_công_dân bao_gồm
+ask_info	việt_nam sẽ tiếp_tục nỗ_lực thực_hiện các sáng_kiến quốc_tế khu_vực về người khuyết_tật trong thời_gian tới
+deny	xin_lỗi nhưng không
+ask_info	các tổ_chức phi_chính_phủ nước_ngoài đã tài_trợ bao_nhiêu tiền để hỗ_trợ xoá_đói_giảm_nghèo tại việt_nam
+chitchat_ask_whatspossible	mình có_thể yêu_cầu bot làm những gì
+chitchat_ask_whatismyname	tên của t là gì
+ask_info	trường_sa
+ask_info	việt_nam bét thế_giới về tự_do báo_chí
+ask_info	quan_hệ giữa việt_nam và va ti căng như_thế_nào
+greet	misaw ơi
+ask_info	trụ_sở ban trị_sự trung_ương giáo_hội phật_giáo hoà_hảo đặt ở đâu
+ask_info	điều 7 hỗ_trợ hợp_tác với các cơ_quan thông_tấn báo_chí truyền_thông phóng_viên nước_ngoài
+canthelp	mình không muốn tiếp_tục trò_chuyện này
+ask_info	chính_sách của nhà_nước việt_nam về trẻ_em dựa trên những nguyên_tắc gì
+ask_info	số_lượng thư_viện công_cộng và phòng đọc sách ở việt_nam hiện_nay là bao_nhiêu và phục_vụ cho ai
+chitchat_ask_whoisit	bạn có phải là robot hay con_người
+thank	cảm_ơn bot nhé
+ask_info	tại_sao việc tôn_trọng bảo_vệ và thúc_đẩy các quyền con_người đã trở_thành một vấn_đề toàn_cầu và có mối liên_hệ mật_thiết với các vấn_đề hoà_bình an_ninh và chính_sách phát_triển của tất_cả các quốc_gia
+ask_info	lãnh_đạo bộ thông_tin và truyền_thông bao_gồm
+ask_info	những thông_tin nào phải được công_khai theo luật tiếp_cận thông_tin 2016 ?
+ask_info	bộ ngoại_giao có nhiệm_vụ gì trong việc quản_lý hoạt_động thông_tin đối_ngoại
+thank	cám_ơn misa mình sẽ liên_hệ lại sau
+affirm	đúng rồi không có gì để phản_đối
+chitchat_ask_whoisit	bạn nghe có_vẻ giống người thật thế
+ask_info	xuất_bản_phẩm thông_tin đối_ngoại là gì
+ask_info	con_người đóng vai_trò gì trong quá_trình phát_triển của đất_nước
+ask_info	cơ_chế chính_sách pháp_luật nào cần được hoàn_thiện để huy_động và phát_huy nguồn_lực của tôn_giáo trong xây_dựng và phát_triển đất_nước
+ask_info	những biện_pháp nào được việt_nam áp_dụng để cải_thiện môi_trường thu_hút đầu_tư nước_ngoài và nâng cao hiệu_quả sử_dụng vốn đầu_tư
+chitchat_ask_whatismyname	tên mình là gì vậy
+ask_info	vấn_đề tự_do ngôn_luận của việt_nam
+ask_info	chính_sách tôn_trọng và bảo_vệ quyền tự_do tín_ngưỡng tôn_giáo được thể_hiện như_thế_nào
+chitchat_ask_whoisit	bạn là ai đấy
+ask_info	thông_tư quy_định việc đăng phát nội_dung thông_tin đối_ngoại trên báo
+ask_info	những lĩnh_vực nào được ưu_tiên trong chương_trình hợp_tác kỹ_thuật về quyền con_người giữa việt_nam và úc
+ask_info	quyền tự_do cá_nhân là gì
+chitchat_ask_howdoing	cậu có gặp vấn_đề gì không nhỉ
+ask_info	hình_ảnh cá_nhân được đưa lên báo trong những trường_hợp nào
+bye	tôi đi đây
+ask_info	dân_tộc việt_nam đã đấu_tranh như_thế_nào để giành và giữ vững các quyền tự_do cơ_bản của con_người
+ask_info	các tổ_chức tôn_giáo nào được công_nhận tại việt_nam và năm nào
+react_negative	nói chẳng đúng gì quá
+ask_info	quyền và trách_nhiệm của báo_chí đối_ngoại được quy_định như_thế_nào trong thông_tư này
+ask_info	nhà_nước việt_nam đã có những biện_pháp gì để bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo
+ask_info	điều 26 hiến_pháp năm 2013 quy_định gì
+chitchat_ask_howbuilt	tạo bot này có sử_dụng phương_pháp trích xuất từ_khoá không
+ask_info	nhà_nước việt_nam đang hợp_tác với các nước và tổ_chức quốc_tế nào trong lĩnh_vực nhân_quyền
+chitchat_ask_howdoing	có gì hot ko
+ask_info	hệ_thống tổ_chức hành_đạo của giáo_hội phật đường nam tông minh sư đạo gồm những cấp nào
+thank	keke cám_ơn bạn
+chitchat_ask_time	có biết đang là thời_gian nào không
+greet	cậu ơiiiiii
+explain	tại_sao điều đó lại là vấn_đề cần quan_trọng
+ask_info	việt_nam đã tham_gia ký_kết và phê_chuẩn những công_ước quốc_tế nào liên_quan đến quyền tự_do tín_ngưỡng tôn_giáo
+ask_info	đài tiếng_nói việt_nam và đài_truyền_hình việt_nam đã làm gì để nâng cao công_suất và mở_rộng diện_tích phủ_sóng
+ask_info	quyền có việc_làm và phát_triển thị_trường lao_động là gì
+ask_info	hội_đồng nhân_quyền lhq có chức_năng nhiệm_vụ gì
+react_positive	siêu đỉnh
+ask_info	người chưa thành_niên khi vào tu tại cơ_sở tôn_giáo_học tại cơ_sở đào_tạo tôn_giáo phải có sự đồng_ý của ai
+ask_info	bao_nhiêu bảo_tàng có ở việt_nam và chức_năng của chúng là gì
+react_positive	tốt quá bạn ơi
+ask_info	chính_sách an_sinh xã_hội ở việt_nam được thực_hiện theo những nhóm chính_sách nào
+thank	m cảm_ơn nhé làm_phiền bn quá
+thank	em cám_ơn bot \ ạ
+ask_info	các tổ_chức cá_nhân nước_ngoài có_thể đăng_ký thu trực_tiếp kênh_truyền_hình nước_ngoài từ vệ_tinh ở đâu
+ask_info	cục thông_tin đối_ngoại có nhiệm_vụ gì trong việc thực_hiện quy_định về đăng phát nội_dung thông_tin đối_ngoại trên báo_chí
+ask_info	mục_tiêu của công_tác vận_động quần_chúng các tôn_giáo là gì
+affirm	ừ cứ lam đi
+chitchat_ask_whoisit	bạn có phải là người thật không
+deny	tôi không chấp_thuận
+ask_info	những phương_tiện thông_tin_đại_chúng nào được đăng_ký hoạt_động tại việt_nam
+thank	cảm_ơn s nhiều em xem thêm có gì ib lại s
+deny	ko cho
+affirm	oki nha
+ask_info	đạo bửu sơn kỳ hương được thành_lập vào năm nào
+chitchat_ask_whatismyname	mình tên là gì vậy
+ask_info	ở việt_nam có tự_do báo_chí không
+ask_info	các hoạt_động tín_ngưỡng tôn_giáo đã và đang đáp_ứng nhu_cầu gì
+ask_info	thành_tựu của việt_nam trong thời_gian qua trong việc hoàn_thiện chính_sách về quyền con_người
+ask_info	đài tiếng_nói việt_nam có bao_nhiêu ngôn_ngữ
+ask_info	bộ thông_tin và truyền_thông có trách_nhiệm gì đối_với các cơ_quan nhà_nước
+react_negative	tôi thấy chatbot này không chuyên_nghiệp
+ask_info	chính_phủ việt_nam chủ_trương tiếp_tục tăng_cường hợp_tác với các cơ_chế nhân_quyền liên_hợp_quốc về vấn_đề gì
+react_negative	fuck you
+chitchat_ask_wherefrom	con bot này là từ đâu ra
+ask_info	tổng_số dân sử_dụng bảo_hiểm_y_tế đã được nâng lên bao_nhiêu tính đến hết năm 2014
+chitchat_ask_whoisit	bạn là robot ai à
+react_positive	chúc sani thành_công nha
+react_positive	thật là đỉnh_cao
+greet	hix misa ơi
+react_negative	chatbot này không thân_thiện và không tương_tác tốt
+ask_info	việt_nam đã phê_chuẩn 20 công_ước của tổ_chức nào
+greet	chào mày
+greet	chào lần nữa
+greet	hiii
+thank	vâng cảm_ơn shop rất nhiều
+ask_info	quy_định nào liên_quan đến việc đăng_ký sinh_hoạt tôn_giáo tập_trung
+ask_info	nghị_quyết số 25 nq tw về công_tác tôn_giáo được ban_hành khi nào và có tầm quan_trọng như_thế_nào
+ask_info	quyền con_người là trách_nhiệm và quyền_hạn của ai
+canthelp	không cần hỗ_trợ nữa đâu
+ask_info	hệ_thống bảo_tàng ở việt_nam đã được kiện_toàn như_thế_nào
+thank	mình cám_ơn bot nhiều nhé
+chitchat_ask_howbuilt	bot này được tạo ra bằng công_nghệ gì
+ask_info	quyết_định nào của thủ_tướng chính_phủ sẽ hết hiệu_lực khi nghị_định này có hiệu_lực thi_hành
+ask_info	những khó_khăn thách_thức nào đang đối_mặt với việt_nam trong việc bảo_đảm các quyền con_người
+ask_info	mặt_trận tổ_quốc việt_nam là gì và chức_năng của tổ_chức này là gì
+ask_info	quyền tự_do kinh_doanh được cụ_thể_hoá như_thế_nào trong luật doanh_nghiệp năm 2005
+deny	đéo cần
+ask_info	hiến_pháp năm 2013 của việt_nam có những nội_dung gì liên_quan đến quyền con_người
+chitchat_ask_wherefrom	con bot này ở đâu ra
+thank	mình cám_ơn misa
+affirm	ok làm đi không chờ_đợi
+ask_info	nhà_nước việt_nam đã có những ưu_tiên gì dành riêng cho người khuyết_tật
+ask_info	các cơ_sở tôn_giáo được cấp giấy chứng_nhận quyền sử_dụng đất
+thank	thanks misa nhé mình sẽ tham_khảo
+ask_info	có bao_nhiêu tổ_chức hồi_giáo được công_nhận ở cấp tỉnh thành_phố
+ask_info	các cơ_quan_chức_năng việt_nam đã tổ_chức những hoạt_động gì để hỗ_trợ sinh_hoạt tín_ngưỡng tôn_giáo cho cộng_đồng người việt_nam ở nước_ngoài
+ask_info	tịnh_độ cư_sĩ phật hội việt_nam do ai sáng_lập
+chitchat_ask_whatismyname	tui tên sao nhỉ
+affirm	được rồi nè
+greet	lâu rồi không gặp em
+ask_info	quyền tự_do báo_chí có giới_hạn không và pháp_luật quốc_tế xác_định giới_hạn của quyền này như_thế_nào ?
+chitchat_ask_howbuilt	bot này có sử_dụng các công_nghệ mới nhất không
+ask_info	hiến_pháp đầu_tiên của nước việt_nam dân_chủ cộng_hoà đã khẳng_định điều gì
+react_negative	chatbot của bạn không hiểu vấn_đề của tôi
+ask_info	chủ_trương thứ_sáu của nhà_nước việt_nam là gì
+ask_info	đồng_bào chăm có niềm tin tôn_giáo sâu_sắc vào thượng_đế allah và thiên kinh cô ran như_thế_nào
+deny	tôi phản_đối
+chitchat_ask_time	sắp 12 giờ chưa em
+ask_info	phật_giáo tứ ân hiếu_nghĩa do ai sáng_lập
+thank	tks nha
+ask_info	quyền sống của con_người được quy_định như_thế_nào
+deny	tôi không tin vào điều đó
+thank	để mh cân_nhắc thanks nhé
+affirm	ok
+ask_info	na_uy đã hỗ_trợ việt_nam bằng những khoản tài_trợ nào trong lĩnh_vực quyền con_người
+ask_info	tôn_giáo được coi là một bộ_phận quan_trọng của khối đại_đoàn_kết toàn dân_tộc vậy tôn_giáo có vai_trò gì trong việc xây_dựng đại_đoàn_kết toàn dân_tộc
+ask_info	điều 163 bộ_luật dân_sự sửa_đổi khẳng_định quyền_sở_hữu của ai
+ask_info	hồ_chí_minh
+affirm	ok không cần suy_nghĩ nhiều hơn
+ask_info	quan_hệ giữa chủ_quyền quốc_gia quyền dân_tộc tự_quyết và quyền con_người như_thế_nào
+canthelp	cám_ơn nhưng không cần rồi
+ask_info	thí_điểm giáo_dục song_ngữ trên cơ_sở tiếng_mẹ_đẻ được thực_hiện ở đâu và đạt kết_quả như_thế_nào
+ask_info	để thu_hẹp khác_biệt tăng_cường hiểu_biết việt_nam ủng_hộ đối_thoại và mở_rộng hợp_tác về quyền con_người trên cơ_sở nào
+explain	cho tôi hiểu sâu hơn về vấn_đề này
+ask_info	quyền bình_đẳng trước pháp_luật được quy_định như_thế_nào
+ask_info	tam quy là gì
+chitchat_ask_whoisit	thật không_thể tin được là bạn là người đấy
+ask_info	bộ_luật lao_động đã có sự thay_đổi gì liên_quan đến nghỉ thai_sản của lao_động nữ
+chitchat_ask_whatspossible	ê con bot này biết những gì
+thank	thanks c tư_vấn nhiệt_tình ak
+ask_info	tổng_số tiền ngân_sách nhà_nước bố_trí để hỗ_trợ giảm nghèo trong năm 2014 là bao_nhiêu và được sử_dụng cho mục_đích gì
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về thông_tin điện_tử
+ask_info	giáo_hội phật_giáo việt_nam đã tổ_chức bao_nhiêu kỳ đại_hội
+chitchat_ask_time	sắp 6 giờ chưa em
+react_positive	hay quá
+affirm	được
+chitchat_ask_whoisit	bạn là trí_tuệ_nhân_tạo à
+ask_info	sự du_nhập các tôn_giáo ngoại_sinh và giá_trị văn_hoá nước_ngoài trong quá_trình toàn_cầu_hoá và hội_nhập ảnh_hưởng như_thế_nào đến truyền_thống văn_hoá tôn_giáo việt_nam
+greet	alo b ô
+ask_info	chương_trình hành_động quốc_gia về phòng_chống tội_phạm mua_bán người giai_đoạn 2011 2015 nhằm mục_đích gì và đối_tượng nạn_nhân chủ_yếu là ai
+chitchat_ask_howbuilt	tạo bot này có sử_dụng phương_pháp kết_hợp học có giám_sát và không giám_sát không
+chitchat_ask_whoisit	bạn có phải là người thật không vậy
+ask_info	ai là người chủ_trì và phối_hợp với bộ thông_tin và truyền_thông thẩm_định dự_toán ngân_sách cho các hoạt_động thông_tin đối_ngoại
+greet	em ơi em à
+bye	hẹn gặp lại em sau nhé
+chitchat_ask_time	hôm_nay là ngày nhiêu
+ask_info	luật báo_chí quy_định quyền và nghĩa_vụ của nhà_báo như_thế_nào ?
+ask_info	hoàng_sa
+react_positive	em xinh quá
+react_negative	t ko hài_lòng với câu trả_lời này
+greet	hi bạn có đang tìm_kiếm câu trả_lời nào đó không
+ask_info	bộ_trưởng bộ ngoại_giao bùi_thanh_sơn
+ask_info	trung_tâm cai_nghiện có những chức_năng gì trong việc chăm_sóc sức_khoẻ cho người cai_nghiện
+ask_info	giáo_hội phật_giáo việt_nam đã đăng_cai và phối_hợp tổ_chức những kì đại_lễ phật đản liên_hợp_quốc vesak nào
+react_positive	tốt lắm bạn ơi
+thank	thanks c nhìu nha
+ask_info	sự phát_triển của công_nghệ khoa_học và sự kết_nối giao_lưu giữa các quốc_gia và dân_tộc tạo nên điều gì
+bye	chào nhé
+ask_info	hiến_pháp năm 2013 quy_định như_thế_nào
+chitchat_ask_whoisit	mày là người chứ không phải robot đúng không
+ask_info	đất_nước việt_nam có đặc_điểm gì về địa_hình và dân_cư
+ask_info	làm thế_nào để bảo_đảm quyền con_người trong một xã_hội có hoà_bình ổn_định và phát_triển
+ask_info	nghị_định số 13 2010 nđ cp ngày 27 tháng 2 năm 20
+explain	cho tôi biết lý_do cụ_thể vì sao điều đó lại xảy ra
+thank	em cam on shop a
+thank	cảm_ơn bạn giỏi quá
+ask_info	trường kinh_thánh cơ đốc được nhà_nước cho_phép thành_lập vào năm nào vai_trò của trường là gì
+chitchat_ask_howbuilt	bạn được tạo ra như_thế_nào
+ask_info	cuốn sách bảo_vệ và thúc_đẩy các quyền con người ở việt_nam được công_bố bởi ai và với mục_đích gì
+chitchat_ask_whoisit	bạn là robot ai à
+ask_info	nguyên_tắc hoạt_động thông_tin đối_ngoại là gì
+ask_info	việt_nam coi_trọng hợp_tác với cơ_chế nào
+react_positive	chất_lượng
+ask_info	đạo tin lành đã tác_động như_thế_nào đến nếp sống của một bộ_phận nhân_dân theo đạo
+thank	cảm_ơn bot nhiều nhé
+deny	không_thể chấp_nhận
+greet	bam oi
+ask_info	chương_trình an_sinh xã_hội của phật hội tứ ân hiếu_nghĩa chỉ được tiến_hành ở đâu
+chitchat_ask_whoisit	bạn là bot hả
+ask_info	bộ nội_vụ phối_hợp với bộ thông_tin và truyền_thông và bộ ngoại_giao ban_hành văn_bản hướng_dẫn về việc kiện_toàn tổ_chức bộ_máy
+affirm	được mình nhận
+affirm	mình nhận đó
+ask_info	cơ_chế rà_soát định_kỳ phổ_quát là gì
+ask_info	hệ_thống cơ_quan tổ_chức nào tham_mưu và thúc_đẩy sự tiến_bộ của phụ_nữ việt_nam
+chitchat_ask_whoisit	cho hỏi bạn có phải là bot không
+chitchat_ask_time	hôm_nay là bao_giờ
+ask_info	việt_nam gặp những khó_khăn , thách_thức nào trong bảo_đảm và thúc_đẩy quyền con_người ?
+react_positive	vui quá
+ask_info	tổng_ngân_sách của các chương_trình dự_án được triển_khai bởi các cơ_quan liên_hợp_quốc tại việt_nam là bao_nhiêu
+react_positive	tuyet voi
+thank	dạ mình cám_ơn
+ask_info	nguyễn_phương hằng xâm_phạm quyền tự_do cá_nhân như_thế_nào
+ask_info	đạo cao đài được công_nhận tổ_chức tôn_giáo năm nào
+ask_info	hệ_thống pháp_luật về người khuyết_tật ở việt_nam được hoàn_thiện như_thế_nào
+ask_info	điều 14 của hiến_pháp năm 2013 quy_định những hành_vi nào bị nghiêm_cấm
+ask_info	đạo tin lành đã tác_động như_thế_nào đến nếp sống của một bộ_phận nhân_dân theo đạo
+ask_info	kinh_phí cho hoạt_động thông_tin đối_ngoại của các cơ_quan chính_phủ được bảo_đảm từ nguồn nào
+ask_info	tầm quan_trọng của quyền biểu_quyết và quyền của người_dân được bày_tỏ chính_kiến như_thế_nào trong hiến_pháp năm 2013
+ask_info	các di_sản văn_hoá phi vật_thể đang được sưu_tầm nghiên_cứu và phục_hồi nhằm mục_đích gì
+thank	cảm_ơn b nhiu
+ask_info	cộng_đồng hồi_giáo việt_nam tham_gia hoạt_động từ_thiện trong tháng lễ ramadan như_thế_nào
+ask_info	các chương_trình đưa lao_động đi làm_việc ở nước_ngoài có thời_hạn và theo hợp_đồng được triển_khai như_thế_nào
+react_positive	thật là tuyệt_vời
+ask_info	nhóm chính_sách giảm_thiểu rủi_ro trong hệ_thống chính_sách an_sinh xã_hội ở việt_nam bao_gồm những loại bảo_hiểm nào
+greet	lô
+ask_info	số_lượng thư_viện công_cộng trên cả nước là bao_nhiêu
+ask_info	hệ_thống pháp_luật về người khuyết_tật ở việt_nam bao_gồm những gì
+ask_info	chính_phủ việt_nam đã triển_khai những chương_trình mục_tiêu quốc_gia về văn_hoá như_thế_nào
+ask_info	tại_sao cần tăng_cường tiếp_xúc đối_thoại với các tổ_chức cá_nhân tôn_giáo
+ask_info	mục_đích của những quy_định bảo_vệ người nhiễm hiv là gì
+thank	cảm_ơn bạn đã truyền_cảm hứng cho mình
+ask_info	cơ_quan quản_lý_nhà_nước nào phụ_trách về thông_tin đối_ngoại
+ask_info	bộ nội_vụ phối_hợp với bộ nào ban_hành văn_bản hướng_dẫn về quản_lý hoạt_động thông_tin đối_ngoại
+ask_info	nhà_đầu_tư nước_ngoài được thanh_toán hoặc bồi_thường tài_sản như_thế_nào
+deny	không_thể chấp_nhận được
+ask_info	nhà_nước việt_nam đã hỗ_trợ những gì để gìn_giữ và phát_triển tôn_giáo truyền_thống của các dân_tộc_thiểu_số
+chitchat_ask_whoisit	bạn là con bot ai à
+explain	tại_sao điều đó lại có ý_nghĩa quan_trọng
+ask_info	quyền con_người là gì
+ask_info	tại_sao số_lượng doanh_nghiệp tăng đáng_kể trong những năm gần đây
+ask_info	các tổ_chức tôn_giáo này có những hoạt_động gì để phục_vụ thiên chúa tổ_quốc và dân_tộc
+chitchat_ask_howold	tuổi của bạn là gì vậy
+ask_info	việt_nam tích_cực tham_gia vào quá_trình hình_thành và hoạt_động của tổ_chức nào
+ask_info	các cơ_quan tổ_chức cá_nhân nào có liên_quan phải chịu trách_nhiệm thi_hành thông_tư này
+ask_info	hiện_tại ai là bộ_trưởng thông_tin truyền_thông
+ask_info	các nhà_báo độc_lập các nhà hoạt_động xã_hội ở việt_nam bị đàn_áp như_thế_nào
+chitchat_ask_howbuilt	chatbot này có học từ dữ_liệu người dùng không
+affirm	đúng vậy không cần suy_nghĩ thêm
+thank	thanks bạn nhé
+chitchat_ask_howdoing	có gì mới không nhỉ
+affirm	cứ thoải_mái đi bạn
+ask_info	trong trường_hợp nhà_nước trưng_mua trưng_dụng mua trước nhà ở hoặc giải_toả nhà ở thuộc sở_hữu hợp_pháp của tổ_chức hộ gia_đình cá_nhân nhà_nước có trách_nhiệm gì đối_với chủ_sở_hữu nhà ở
+ask_info	quan_điểm của đảng_cộng_sản_việt_nam về tín_ngưỡng tôn_giáo trong thời_kỳ đổi_mới là gì
+chitchat_ask_time	sắp đến chiều chưa em
+ask_info	cao_uỷ nhân_quyền lhq có vai_trò gì trong bảo_vệ và thúc_đẩy nhân_quyền
+ask_info	những hoạt_động phước thiện của hội_thánh minh lý đạo tam tông_miếu bao_gồm những việc_gì
+ask_info	việt_nam đã ký_kết và tham_gia nhiều điều_ước quốc_tế liên_quan đến lĩnh_vực nào
+affirm	oke tks nha
+ask_info	vật_liệu nổ còn sót lại sau chiến_tranh ảnh_hưởng đến đời_sống của người_dân và phát_triển kinh_tế xã_hội của đất_nước như_thế_nào
+chitchat_ask_whoisit	bạn là chatbot tự_động à
+chitchat_ask_whoisit	bạn có phải là trí_tuệ_nhân_tạo đúng không
+ask_info	ngân_sách nhà_nước dành cho giáo_dục là bao_nhiêu
+chitchat_ask_howdoing	cậu có vui không
+ask_info	các văn_bản quy_phạm_pháp_luật liên_quan đến quyền con_người và quyền_công_dân bao_gồm
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về viễn_thông
+react_positive	quá chuẩn
+deny	tôi không đồng_ý với quan_điểm đó
+ask_info	nguồn kinh_phí để thực_hiện các chương_trình kế_hoạch đề_án hoạt_động thông_tin đối_ngoại được bảo_đảm từ đâu
+ask_info	những thành_tựu quan_trọng nào mà việt_nam đã đạt được trong công_cuộc phát_triển kinh_tế xã_hội sau gần 30 năm đổi_mới
+ask_info	quyết_định quy_định chức_năng nhiệm_vụ quyền_hạn và cơ_cấu tổ_chức của cục thông_tin đối_ngoại trách_nhiệm do ai thi_hành
+ask_info	nhà_đầu_tư nước_ngoài được thanh_toán hoặc bồi_thường tài_sản như_thế_nào
+ask_info	nhà_nước đang quan_tâm và hướng_dẫn các tổ_chức tôn_giáo hoạt_động như_thế_nào để đáp_ứng nhu_cầu của quần_chúng tín_đồ
+chitchat_ask_whoisit	bạn là bot chatbot à
+greet	hi chào_mừng bạn đến với hệ_thống chatbot của chúng_tôi
+thank	tks bạn rất nhiều
+ask_info	năm 2014 cả nước có bao_nhiêu bệnh_viện
+explain	hãy giải_thích lý_do tại_sao chúng_ta cần quan_tâm đến điều đó
+ask_info	bí_thư trung_ương đảng_cộng_sản_việt_nam khoá thứ xiii 2021 tới nay
+ask_info	tại_sao việt_nam là một trong những quốc_gia đầu_tiên trong khu_vực châu_á thái_bình_dương xây_dựng và triển_khai kế_hoạch dài_hạn về người khuyết_tật
+ask_info	những thông_tin nào không được tiếp_cận ?
+thank	vậy cảm_ơn misa nha
+ask_info	quyền sống của con_người là gì
+thank	thanks nhe
+chitchat_ask_howdoing	tình_hình của cậu ra sao vậy
+affirm	nghe có_vẻ ok nhỉ
+ask_info	hiến_pháp năm 2013 bảo_vệ những quyền con_người nào
+ask_info	vật_liệu nổ còn sót lại sau chiến_tranh ảnh_hưởng đến đời_sống của người_dân và phát_triển kinh_tế xã_hội của đất_nước như_thế_nào
+thank	e cảm_ơn nha
+ask_info	các di_sản văn_hoá phi vật_thể đang được sưu_tầm nghiên_cứu và phục_hồi nhằm mục_đích gì
+greet	alo bn oi
+canthelp	mình không muốn tham_gia nữa
+ask_info	việt_nam được xếp thứ mấy trong số 127 nước về phát_triển giáo_dục theo báo_cáo của unesco
+chitchat_ask_howdoing	cậu có hạnh_phúc không
+ask_info	việt_nam sẽ xây_dựng và phát_triển những gì để trợ_giúp pháp_lý cho người khuyết_tật
+ask_info	việt_nam có truyền_thống đoàn_kết tôn_giáo như_thế_nào
+ask_info	địa_hình núi_đồi chiếm bao_nhiêu phần_trăm diện_tích đất_nước
+greet	chi ới
+ask_info	hiến_pháp 2013 đã mở_rộng phạm_vi bảo_vệ đối_với các quyền con_người và quyền_công_dân như_thế_nào
+greet	chào buổi sáng
+react_positive	cực_kỳ hài_lòng
+ask_info	đảng_cộng_sản_việt_nam có quan_điểm gì về tín_ngưỡng tôn_giáo trong thời_kỳ đổi_mới
+ask_info	hoạt_động từ_thiện xã_hội của giáo_hội phật_giáo hoà_hảo có đặc_điểm gì
+thank	cảm_ơn bạn đã chăm_sóc
+chitchat_ask_whoisit	bạn có phải người hay không
+ask_info	giáo_hội cơ đốc phục lâm việt_nam xác_định đường_hướng hành_đạo như_thế_nào
+chitchat_ask_whatspossible	bạn có_thể cung_cấp những thông_tin gì
+chitchat_ask_howbuilt	có phải bot này được viết bằng python không
+ask_info	số_lượng người được cấp thẻ bảo_hiểm_y_tế là bao_nhiêu
+chitchat_ask_time	thời_gian bây_giờ là cái gì thế
+ask_info	điều 14 của hiến_pháp năm 2013 luật tín_ngưỡng tôn_giáo quy_định gì
+ask_info	tác_giả của cuốn sách tôn_giáo và chính_sách tôn_giáo ở việt_nam
+ask_info	hiến_pháp năm 2013 của việt_nam có những điểm mới nào
+greet	có b ơi
+chitchat_ask_howdoing	sao rồi cậu
+ask_info	cơ_cấu tổ_chức của minh lý đạo tam tông_miếu như_thế_nào
+ask_info	trong quý i 2015 số phụ_nữ mang thai được xét_nghiệm là bao_nhiêu
+ask_info	việt_nam chú_trọng đẩy_mạnh xã_hội_hoá công_tác phòng_chống hiv aids như_thế_nào để bảo_đảm cung_cấp các dịch_vụ an_sinh xã_hội cho người nhiễm hiv và người bị ảnh_hưởng bởi hiv aids
+ask_info	luật người khuyết_tật năm 2010 có những điểm gì quan_trọng
+greet	misa ơi
+ask_info	quyền bầu_cử và ứng_cử được quy_định như_thế_nào trong hiến_pháp năm 2013
+ask_info	người_dân việt_nam có được tự_do bày_tỏ ý_kiến trên mạng xã_hội không
+chitchat_ask_howbuilt	xây_dựng chatbot này dùng ngôn_ngữ_lập_trình gì
+thank	vâng cảm_ơn bạn nhé
+chitchat_ask_time	xin hỏi bây_giờ là mấy giờ vậy
+ask_info	bộ_trưởng bộ công_thương nguyễn_hồng diên
+ask_info	thông_tin giải_thích làm rõ có nội_dung gì
+ask_info	tỉnh nào là trung_tâm phật_giáo tứ ân hiếu_nghĩa
+chitchat_ask_time	sắp 8 giờ chưa em
+chitchat_ask_howbuilt	tạo chatbot này có cần kiến_thức về ngôn_ngữ không
+ask_info	báo_chí thực_hiện việc đăng phát nội_dung thông_tin đối_ngoại là gì
+bye	thế thôi t xin out nhé
+ask_info	các công_ước nào về việc_làm và lao_động mà việt_nam đã phê_chuẩn trong năm 2013 và 2014
+ask_info	vấn_đề xâm_phạm quyền tự_do cá_nhân trên không_gian mạng của việt_nam hiện_nay
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo được quy_định như_thế_nào
+chitchat_ask_time	giờ này là thời_gian bình_thường hay thời_gian mùa đông
+ask_info	nghị_định số 82 2010 nđ cp quy_định gì về việc dạy và học tiếng_nói chữ_viết của dân_tộc_thiểu_số
+greet	aloooo ban oi
+react_positive	siêu phẩm thật đấy
+thank	cảm_ơn b m vừa mua mất r
+ask_info	quyền tự_do kinh_doanh đã được cụ_thể_hoá ở đâu
+ask_info	tại uỷ_ban liên chính_phủ asean về nhân_quyền aichr việt_nam đã có những hoạt_động gì để bảo_vệ quyền con_người
+greet	alo misa kwi
+react_positive	hay quá đi
+ask_info	việt_nam là thành_viên của tổ_chức nào
+ask_info	hiến_pháp năm 2013 đã có những nội_dung gì
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo được thể_hiện như_thế_nào
+ask_info	ai chịu trách_nhiệm thi_hành thông_tư quy_định việc đăng phát nội_dung thông_tin đối_ngoại trên báo_chí
+thank	cảm_ơn misa
+ask_info	giáo_hội các thánh hữu ngày sau của chúa giê su ky tô việt_nam có tuân_thủ hiến_pháp và pháp_luật việt_nam như_thế_nào
+ask_info	nhà_nước việt_nam có đối_xử ra sao với quyền tự_do tín_ngưỡng tôn_giáo của người nước_ngoài cư_trú hợp_pháp tại việt_nam
+react_positive	em có đẹp không
+thank	mình cảm on ạ
+greet	chào cậu
+ask_info	luật báo_chí năm 2016 quy_định gì
+greet	alo
+chitchat_ask_time	có biết bây_giờ là thời_gian hợp_lý để nghỉ_ngơi không
+ask_info	cơ_cấu tổ_chức của cục thông_tin đối_ngoại như_thế_nào
+chitchat_ask_whoisit	bạn là ai ơi
+chitchat_ask_time	bạn có biết giờ hiện_tại không đồng_hồ của tôi hỏng mất rồi
+affirm	tất_nhiên là đồng_ý
+ask_info	thời_gian quy_trình cai_nghiện ma_tuý kéo_dài bao_lâu
+react_positive	em ngoan quá
+chitchat_ask_howold	bạn đã trải qua tuổi teen chưa
+react_positive	em thật đáng yêu quá
+ask_info	quyền bất_khả_xâm_phạm về thân_thể được quy_định như_thế_nào
+react_positive	em rất tuyệt
+ask_info	luật người cao_tuổi 2010 quy_định về gì
+thank	tks bạn đã giúp
+ask_info	nghị_định quy_định chức_năng nhiệm_vụ và cơ_cấu tổ_chức của bộ thông_tin và truyền_thông có hiệu_lực thi_hành từ ngày nào
+ask_info	việt_nam nằm ở khu_vực nào của châu_á
+ask_info	có những hình_thức nào phát_ngôn và cung_cấp thông_tin cho báo_chí ?
+greet	alo b ới
+ask_info	giáo_hội phật_giáo việt_nam đã có những thành_tựu gì
+react_negative	tôi đã thử nhiều lần nhưng chatbot vẫn không giúp tôi
+ask_info	tôn_giáo nào được đề_cập trong đoạn văn và những hoạt_động nào được công_nhận cho các tổ_chức tôn_giáo
+affirm	mình đồng_ý ngay không có gì để từ_chối
+ask_info	đảng và nhà_nước việt_nam có quan_điểm như_thế_nào về quyền con_người
+chitchat_ask_whoisit	bạn là bot tự_động à
+ask_info	hiến_pháp năm 2013 có hiệu_lực từ ngày nào
+ask_info	võ nguyên giáp
+ask_info	người dân_tộc_thiểu_số ở tất_cả các vùng miền được tham_gia hoạt_động gì
+react_positive	siêu phẩm thật đấy
+explain	hãy cung_cấp thêm thông_tin chi_tiết về điều đó
+chitchat_ask_whatismyname	tui có tên bí_ẩn không nhỉ
+chitchat_ask_whoisit	không_thể tin được rằng bạn là con_người thật
+ask_info	quyền tự_do cá_nhân của người việt_nam đã bị xâm_phạm như nào
+ask_info	thành_tựu của việt_nam trong thời_gian qua về bảo_đảm quyền con_người
+greet	aloo
+deny	đừng có nghĩ vậy
+react_negative	chatbot này trả_lời sai hoặc không chính_xác
+chitchat_ask_whoisit	bạn là bot tự_động hả
+ask_info	cơ_quan đại_diện việt_nam ở nước_ngoài có trách_nhiệm gì
+ask_info	võ nguyên giáp
+ask_info	nghị_định số 79 2012 nđ cp ngày_tháng năm nào
+ask_info	người dân_tộc_thiểu_số chiếm bao_nhiêu dân_số việt_nam
+ask_info	đạo tin lành là gì và được cấp chứng_nhận đăng_ký hoạt_động tôn_giáo vào năm nào
+react_positive	em thấy em có xinh gái không
+chitchat_ask_time	bạn có biết đang là giờ gì không cưng
+thank	cám_ơn bot có gì mình liên_hệ sau
+explain	có_thể nói rõ hơn về quy_trình thực_hiện không
+ask_info	mục_đích của luật tín_ngưỡng tôn_giáo là gì
+ask_info	điều gì đã được thể_hiện qua chiến_lược cải_cách tư_pháp
+chitchat_ask_howdoing	tình_hình của cậu ra sao vậy
+chitchat_ask_howold	bạn đã lớn_tuổi chưa
+affirm	bạn nói đúng lòng mình
+ask_info	bộ_trưởng bộ khoa_học và công_nghệ huỳnh thành_đạt
+ask_info	nhà_nước việt_nam đã có những chủ_trương cơ_chế chính_sách và ưu_tiên gì để bảo_vệ hỗ_trợ và tạo cơ_hội cho người nhiễm hiv
+ask_info	tại_sao việc tăng_cường đầu_tư toàn xã_hội đã tạo động_lực cho phát_triển kinh_tế của việt_nam
+ask_info	việt_nam là thành_viên của tổ_chức nào
+chitchat_ask_howdoing	mọi chuyện của cậu như_thế_nào
+ask_info	việc đầu_tư vào hệ_thống xử_lý chất_thải rắn và lỏng của nhà_nước có đạt tiêu_chuẩn không
+chitchat_ask_howbuilt	có phải bot này được phát_triển bằng công_nghệ mới nhất không
+chitchat_ask_whoisit	bạn là ứng_dụng bot ai à
+explain	cho tôi hiểu rõ hơn về điều đó
+ask_info	chủ_trương chính_sách đối_với tôn_giáo của đảng và nhà_nước việt_nam như_thế_nào
+ask_info	nội_dung chính của nghị_định số 80 2011 nđ cp quy_định gì về hỗ_trợ tái hoà_nhập cộng_đồng cho người chấp_hành xong án phạt tù
+chitchat_ask_time	cho t biết đang mấy h đc ko
+ask_info	hiến_pháp năm 2013 nghiêm_cấm những hành_vi nào trong quá_trình thực_thi nhiệm_vụ của cán_bộ có thẩm_quyền
+ask_info	những hình_thức tham_gia của người_dân trong việc quản_lý_nhà_nước và xã_hội ở địa_phương là gì
+ask_info	đại_lễ phật đản liên_hợp_quốc vesak được tổ_chức tại đâu
+ask_info	tóm_tắt quá_trình công_tác bộ_trưởng bộ thông_tin và truyền_thông nguyễn_mạnh_hùng
+react_positive	thật là đáng yêu
+react_positive	siêu đỉnh
+ask_info	các văn_bản pháp_luật nào được căn_cứ để ban_hành thông_tư này
+greet	em có muốn ăn gì không
+thank	cảm_ơn bạn để mình tham_khảo
+ask_info	bộ_luật dân_sự năm 2015 có hiệu_lực vào ngày nào
+react_negative	đồ đần
+ask_info	người bị bắt tạm giữ tạm giam khởi_tố điều_tra truy_tố xét_xử có quyền gì theo khoản 4 điều 31 của hiến_pháp năm 2013
+chitchat_ask_whoisit	ok tôi biết tôi đã làm_bạn lúng_túng khi tưởng mình là con_người
+ask_info	tình_hình khắc_phục hậu_quả chất_độc da_cam dioxin ở việt_nam như_thế_nào
+greet	alo emm
+ask_info	nghị_định số 13 2010 nđ cp ngày 27 tháng 2 năm 20
+thank	cám_ơn bác
+react_positive	cảm_ơn bạn nhiều
+affirm	nghe ổn đấy
+thank	tks bot nhiều
+bye	bye bye
+ask_info	luật bình_đẳng giới 2006 và luật phòng_chống bạo_lực gia_đình năm nào
+react_negative	tôi đã cung_cấp thông_tin chi_tiết nhưng chatbot không hiểu
+react_positive	thật là tuyệt_vời
+ask_info	cuốn sách thành_tựu bảo_vệ và phát_triển các quyền con người ở việt_nam được công_bố vào năm nào
+ask_info	những hành_động xuyên_tạc tình_hình quyền con_người tại việt_nam có ảnh_hưởng gì đến hình_ảnh của việt_nam trong mắt bạn_bè quốc_tế và quan_hệ hợp_tác quốc_tế của việt_nam
+thank	cảm_ơn misa nhiều nhiều
+explain	hãy cung_cấp thêm thông_tin chi_tiết về điều đó
+ask_info	tự_do báo_chí ở việt_nam được đảm_bảo như_thế_nào
+canthelp	chắc cũng ko giúp được đâu
+chitchat_ask_whoisit	bạn là trí_tuệ_nhân_tạo à
+thank	thank nhiug
+chitchat_ask_whoisit	không_thể tin được rằng bạn là con_người thật
+ask_info	trong 6 tháng đầu năm 2015 có bao_nhiêu phạm_nhân được điều_trị tại bệnh_xá và bệnh_viện trong các trại_giam
+chitchat_ask_whoisit	bạn có phải là chatbot không
+greet	chào cúc
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về bưu_chính
+affirm	ừ mình tán_thành
+chitchat_ask_whoisit	bạn có phải là con bot ai không
+chitchat_ask_howdoing	cậu có gặp vấn_đề gì không nhỉ
+react_positive	thông_minh đấy
+ask_info	cơ_chế rà_soát định_kỳ phổ_quát của hội_đồng nhân_quyền là gì
+react_negative	chatbot này không đáp_ứng được mong_đợi của tôi
+ask_info	mục_đích chính của giáo_hội các thánh hữu ngày sau của chúa giê su ky tô việt_nam là gì
+ask_info	năm 2014 việt_nam có bao_nhiêu lao_động qua đào_tạo
+ask_info	đường_hướng hành_đạo của cộng_đồng tôn_giáo baha ’ i việt_nam là gì
+chitchat_ask_time	có biết giờ hiện_tại theo múi_giờ quốc_tế không
+greet	xin chào bạn đã ăn cơm chưa
+affirm	nghe có_vẻ ok
+thank	cảm_ơn sh ạ
+ask_info	công_ước quốc_tế về quyền của người khuyết_tật đã được việt_nam phê_chuẩn vào thời_điểm nào
+ask_info	có những hình_thức nào phát_ngôn và cung_cấp thông_tin cho báo_chí ?
+ask_info	ai là người chịu trách_nhiệm về thực_hiện chức_năng nhiệm_vụ và quyền_hạn được giao của cục thông_tin đối_ngoại
+greet	hallo
+ask_info	điểm nhóm của người nước_ngoài sinh_hoạt tôn_giáo tập_trung tại bao_nhiêu địa_điểm ở việt_nam
+chitchat_ask_howbuilt	bạn đã dùng công_cụ nào để phát_triển bot này
+ask_info	phật_giáo được truyền vào việt_nam vào thời_gian nào
+ask_info	thông_tin đối_ngoại là gì
+chitchat_ask_whoisit	bạn là máy chatbot à
+ask_info	cơ_quan thông_tấn báo_chí việt_nam có trách_nhiệm gì
+ask_info	uỷ_ban_nhân_dân cấp tỉnh có trách_nhiệm gì đối_với công_tác thông_tin đối_ngoại
+thank	cảm_ơn bạn đã đồng_hành cùng mình trong quá_trình này
+ask_info	người nhiễm hiv có những nghĩa_vụ gì theo quy_định của pháp_luật
+ask_info	tiến_trình upr của việt_nam
+chitchat_ask_whoisit	bạn là bot tự_động hả
+chitchat_ask_time	bây_giờ là mấy giờ rồi
+ask_info	ai là người chịu trách_nhiệm về thực_hiện chức_năng nhiệm_vụ và quyền_hạn được giao của cục thông_tin đối_ngoại
+ask_info	việt_nam đã đối_thoại và trình_bày báo_cáo quốc_gia theo cơ_chế nào
+explain	tại_sao điều đó lại xảy ra ở đây
+chitchat_ask_time	bây_giờ là mấy giờ rồi
+thank	cảm_ơn bạn để mình gọi nha
+ask_info	quốc_hội việt_nam lần đầu_tiên có chủ_tịch là nữ_giới là ai
+ask_info	đạo tin lành ở miền nam có khoảng bao_nhiêu người
+ask_info	luật di_sản văn_hoá năm 2001 quy_định những trách_nhiệm gì của các bộ_ngành đoàn_thể liên_quan trong việc bảo_vệ và phát_huy giá_trị di_sản văn_hoá
+ask_info	đại_lễ phật đản liên_hợp_quốc vesak được tổ_chức tại đâu
+thank	e oi chi cảm_ơn nhé
+chitchat_ask_howdoing	cậu có cảm_thấy thoải_mái không
+react_positive	cảm_ơn
+greet	bajn oi
+ask_info	nhu_cầu đào_tạo và bồi_dưỡng đội_ngũ chức_việc của giáo_hội phật_giáo hoà_hảo tăng lên như_thế_nào
+chitchat_ask_howdoing	tình_hình của cậu như_thế_nào
+ask_info	tỷ_lệ giường_bệnh trên 10 000 dân ở việt_nam thuộc loại nào trong khu_vực đông nam á theo tổ_chức y_tế thế_giới
+deny	t không chấp_thuận việc này
+ask_info	những hoạt_động nào bị nghiêm_cấm trong việc lợi_dụng tín_ngưỡng tôn_giáo và có_thể gây_rối xâm_phạm an_ninh quốc_gia
+bye	tôi sẽ rời khỏi đây
+ask_info	các hoạt_động phục_vụ nhiệm_vụ thông_tin đối_ngoại được thực_hiện như_thế_nào
+ask_info	quyền tự_do kinh_doanh được quy_định như_thế_nào
+chitchat_ask_whoisit	bạn có phải là người thật không vậy
+explain	tại_sao điều đó lại mang ý_nghĩa quan_trọng
+explain	bạn có_thể cung_cấp ví_dụ để làm rõ hơn không
+ask_info	việt_nam kẻ_thù internet
+ask_info	tỷ_lệ bao_nhiêu xã có bác_sỹ và y_sỹ sản nhi hoặc hộ_sinh tại việt_nam
+greet	misa oi
+ask_info	việt_nam đã đạt được những thành_tựu gì
+ask_info	các cơ_sở vật_chất của các ngành y_tế giáo_dục khoa_học văn_hoá thông_tin thể_thao còn thiếu_thốn
+ask_info	tại_sao nếu dân_tộc không độc_lập và chủ_quyền quốc_gia không được xác_lập thì không_thể có quyền con_người
+chitchat_ask_whatismyname	bạn biết tên mình không
+canthelp	mình không muốn tham_gia nữa
+chitchat_ask_howold	con bot này đc tạo lúc_nào
+deny	t không đồng_ý
+react_positive	em khiêm_tốn quá
+chitchat_ask_whoisit	không_thể tin được rằng mày là con_người thật
+greet	chào misa
+react_negative	mẹ mày
+greet	heyyy
+ask_info	quyền tự_do đi_lại và cư_trú là gì
+deny	tôi không chịu
+ask_info	quyền tự_do đi_lại và cư_trú tại việt_nam có bị hạn_chế không
+react_positive	rất ưng_ý với câu trả_lời của bạn
+chitchat_ask_whatismyname	đặt tên tui xem sao bot ơi
+chitchat_ask_time	sắp 24 giờ chưa em
+greet	hi bro có chuyện gì vui không
+bye	goodbye
+ask_info	quyền con_người bao_gồm những quyền gì nhỉ nêu dưới dạng listing
+deny	tôi không muốn làm như_vậy
+greet	b ơiiiii
+explain	bạn có_thể đưa ra lời giải_thích chi_tiết hơn không
+chitchat_ask_howbuilt	bot này có sử_dụng mô_hình học tăng_cường không
+chitchat_ask_whatismyname	hỏi tên tui xem sao đừng chần_chừ
+canthelp	mình sẽ thử một_cách khác
+react_positive	đỉnh quá
+ask_info	trong các cơ_quan_dân_cử ở địa_phương tỉ_lệ nữ đại_biểu hđnd là bao_nhiêu
+greet	bun oi
+ask_info	những quyền và tự_do cơ_bản nào mà người_dân việt_nam được hưởng ngày_càng nhiều hơn bất_cứ thời_kỳ nào trong lịch_sử
+greet	ah bạn oie
+ask_info	quyền tự_do đi_lại cư_trú được đảm_bảo như_thế_nào trong luật cư_trú
+canthelp	thôi không cần nữa
+ask_info	ai được xem là các tổ_chức cá_nhân tham_gia hoạt_động thông_tin đối_ngoại theo thông_tư này
+greet	mà b ơi
+ask_info	tại_sao việc nâng cao nhận_thức về bảo_vệ chăm_sóc và giáo_dục trẻ_em là rất quan_trọng
+ask_info	mạng_lưới chăm_sóc sức_khoẻ và phục_hồi chức_năng cho người khuyết_tật đã được thiết_lập như_thế_nào
+chitchat_ask_time	thứ mấy rồi
+thank	thanks misa có gì mình sẽ ib sau nha ngâm cứu reivew đã
+ask_info	toà_án nhân_dân và viện_kiểm_sát nhân_dân có nhiệm_vụ gì trong việc bảo_vệ công_lý và quyền_lợi của nhân_dân
+ask_info	những văn_bản quy_phạm_pháp_luật nào đã được việt_nam ban_hành để thể_hiện nguyên_tắc về bình_đẳng giới và bảo_đảm quyền của phụ_nữ
+greet	aloooo chatbot ơi
+ask_info	cơ_cấu tổ_chức của hội_thánh minh lý đạo tam tông_miếu được xây_dựng như_thế_nào
+deny	tôi không chấp_nhận ý_tưởng đó
+greet	hello chatbot nha
+ask_info	những cơ_quan nào trong nhà_nước việt_nam có trách_nhiệm tổ_chức hướng_dẫn và kiểm_tra việc thực_hiện pháp_luật liên_quan đến quyền tự_do tín_ngưỡng tôn_giáo
+affirm	ok rùi đó
+explain	bạn có_thể giải_thích kĩ hơn về dịch_vụ chữ_ký số đc ko
+ask_info	phương_pháp điều_trị thay_thế bằng cách sử_dụng thuốc methadone được thí_điểm như_thế_nào và dành cho đối_tượng nào
+ask_info	hội_thánh minh lý đạo tam tông_miếu có bao_nhiêu chức_sắc và chức_việc
+ask_info	kế_hoạch hoạt_động thông_tin đối_ngoại của các tỉnh thành_phố trực_thuộc trung_ương bao_gồm những nhiệm_vụ chủ_yếu nào
+ask_info	việc tăng_cường hiệu_quả cơ_chế đối_thoại song_phương về quyền con_người được thực_hiện như_thế_nào
+ask_info	những giải_pháp nào được chính_phủ việt_nam đưa ra để tăng_cường nhận_thức về bình_đẳng giới và thay_đổi thái_độ tư_tưởng về giới trong xã_hội
+greet	xin chào việt_nam
+ask_info	những điều_kiện gì được bảo_đảm cho người bị giam_giữ trong buồng giam
+ask_info	thế_nào là các thế_hệ quyền con_người
+react_negative	chatbot này không phản_hồi đúng theo ngữ_cảnh của tôi
+chitchat_ask_howbuilt	làm thế_nào để bot này có_thể trả_lời được các câu hỏi phức_tạp
+ask_info	các cơ_quan quản_lý_nhà_nước về tín_ngưỡng tôn_giáo đã thực_hiện những công_tác gì để đưa các hoạt_động tín_ngưỡng tôn_giáo đi vào nề_nếp ổn_định tuân_thủ pháp_luật
+ask_info	phật_giáo hiếu_nghĩa tà lơn có bao_nhiêu cơ_sở thờ_tự
+ask_info	hoạt_động tôn_giáo của người nước_ngoài tại việt_nam có những diễn_biến như_thế_nào
+ask_info	bộ_trưởng bộ nội_vụ phạm thị thanh_trà
+ask_info	chính_phủ quy_định chức_năng nhiệm_vụ quyền_hạn và cơ_cấu tổ_chức của cục thông_tin đối_ngoại do ai ban_hành
+ask_info	hiến_pháp 2013 có bao_nhiêu điều
+greet	b ấy ơi
+ask_info	kỳ phát_ngôn và cung_cấp thông_tin cho báo_chí được quy_định như_thế_nào ?
+ask_info	theo kết_quả điều_tra sơ_bộ số_lượng vật_liệu nổ còn sót lại làm ô_nhiễm bao_nhiêu héc ta đất_đai
+greet	alo bạn ơiii
+ask_info	tại_sao việt_nam đã tăng nhanh chi ngân_sách nhà_nước cho ngành thư_viện
+react_negative	chatbot này không cung_cấp giải_pháp tốt và đáng tin_cậy cho tôi
+chitchat_ask_whoisit	bạn không phải là người đúng không
+ask_info	ai là người sáng_lập phật_giáo hoà_hảo và vào ngày nào
+ask_info	điều 159 bộ_luật hình_sự sửa_đổi quy_định về tội_gì
+ask_info	mục_đích của việc tuyên_truyền về quyền tự_do tín_ngưỡng tôn_giáo là gì
+ask_info	người dân_tộc_thiểu_số đã đạt được những thành_tựu nào
+ask_info	cơ_chế bảo bảo_đảm qcn bao_gồm những loại nào
+ask_info	các cơ_quan_chức_năng việt_nam đã thành_lập nhiều đoàn đi châu_âu châu_á để gặp_gỡ cộng_đồng người việt để làm_gì
+react_positive	tuyệt_đỉnh
+ask_info	nghị_quyết 25 nq tw về công_tác tôn_giáo đã trở_thành nền_tảng chính_sách của đảng và nhà_nước việt_nam trong thời_kỳ đổi_mới
+react_positive	tốt lắm bạn ơi
+ask_info	việt_nam đã tham_gia vào những diễn_đàn y_tế quốc_tế nào
+chitchat_ask_whoisit	bạn là con bot ai à
+ask_info	người chưa thành_niên khi vào tu tại cơ_sở tôn_giáo_học tại cơ_sở đào_tạo tôn_giáo phải có sự đồng_ý của ai
+ask_info	bộ nội_vụ đã tổ_chức bao_nhiêu hội_nghị tuyên_truyền phổ_biến pháp_luật liên_quan đến tín_ngưỡng tôn_giáo và có bao_nhiêu người tham_dự
+react_negative	tôi cảm_thấy chatbot này không đáng tin_cậy và không chính_xác
+ask_info	việt_nam đang trong quá_trình hoàn_thiện nhà_nước pháp_quyền và cải_cách tư_pháp như_thế_nào
+ask_info	việt_nam cam_kết tôn_trọng và bảo_đảm các quyền con_người được ghi_nhận trong các công_ước quốc_tế như_thế_nào
+greet	hello bạn ơi
+greet	aloii
+ask_info	quyền con_người liên_quan đến những yếu_tố nào trong việc bảo_đảm hoà_bình an_ninh và phát_triển bền_vững
+ask_info	có bao_nhiêu cơ_sở thờ_tự của đạo bửu sơn kỳ hương được nhà_nước công_nhận và cấp chứng_nhận đăng_ký hoạt_động tôn_giáo
+chitchat_ask_whatismyname	bot ơi biết tên tui không
+react_positive	hay quá
+greet	reset
+chitchat_ask_whoisit	mày là người hay không
+affirm	cho_phép nha
+ask_info	sự_nghiệp đổi_mới ở việt_nam đã thu được những thành_tựu gì
+ask_info	quyền con_người ảnh_hưởng như_thế_nào đến hoà_bình an_ninh và phát_triển
+canthelp	mình sẽ tự giải_quyết
+ask_info	những điểm mới nào được quy_định trong nghị_định 92 2012 nđ cp về tín_ngưỡng tôn_giáo
+bye	chào em nhé
+react_positive	siêu đỉnh
+chitchat_ask_whoisit	bạn là hệ_thống ai à
+canthelp	tớ không cần bạn giúp_đỡ
+bye	tôi phải đi rồi
+chitchat_ask_time	ngày bao_nhiêu rồi em
+react_positive	em chu_đáo quá
+chitchat_ask_whoisit	thật không_thể tin được là bạn là người đấy
+greet	hey bạn có muốn nghe một câu_chuyện hài_hước không
+react_positive	quá chuẩn
+ask_info	chương_trình hành_động quốc_gia vì trẻ_em việt_nam lần thứ 3 đặt trọng_tâm vào những mục_tiêu nào
+deny	tôi không muốn tham_gia
+thank	tks b để mình sn lại nha cám_ơn b
+ask_info	người_dân việt_nam được tiếp_cận với bao_nhiêu kênh_truyền_hình
+ask_info	có bao_nhiêu tổ_chức hồi_giáo được công_nhận ở cấp tỉnh thành_phố
+greet	misa ơii
+ask_info	điều 23 hiến_pháp năm 2013 quy_định quyền tự_do đi_lại cư_trú của công_dân là gì
+ask_info	việt_nam có quan_điểm như_thế_nào về quyền con_người ?
+ask_info	số_lượng thư_viện công_cộng và phòng đọc sách ở việt_nam hiện_nay là bao_nhiêu và phục_vụ cho ai
+chitchat_ask_whatismyname	có gì đặc_biệt về tên tui không nhỉ
+react_negative	chatbot này không_thể giải_quyết vấn_đề của tôi
+chitchat_ask_whoisit	bạn là chatbot tự_động à
+ask_info	những nỗ_lực và thành_tựu nào của nhà_nước việt_nam được đề_cập trong cuốn sách này
+ask_info	mục_đích của việc tuyên_truyền về quyền tự_do tín_ngưỡng tôn_giáo là gì
+ask_info	hiến_pháp đầu_tiên của nước việt_nam dân_chủ cộng_hoà đã khẳng_định điều gì
+thank	e cám_ơn bot nhiều ạ
+chitchat_ask_time	time now đến rồi đồng_hồ điện_tử của bạn đang chạy như_thế_nào
+chitchat_ask_howbuilt	cách hoạt_động của chatbot này như_thế_nào
+ask_info	chương_trình hành_động quốc_gia về phòng_chống tội_phạm mua_bán người giai_đoạn 2011 2015 nhằm mục_đích gì và đối_tượng nạn_nhân chủ_yếu là ai
+chitchat_ask_whoisit	bạn là trợ_lý ảo ai à
+ask_info	hiện_nay đã có bao_nhiêu công_ước quốc_tế chủ_chốt về qcn và sự tham_gia của việt_nam ?
+greet	hi b ơi
+bye	tạm_biệt chúc bạn mọi điều tốt_lành
+chitchat_ask_whoisit	bạn là người hay_là máy vậy
+ask_info	trụ_sở ban trị_sự trung_ương giáo_hội phật_giáo hoà_hảo đặt ở đâu
+chitchat_ask_whoisit	bạn nghe có_vẻ giống người thật thế
+ask_info	sắc_lệnh số 52 sl 004 l năm 1957 có nội_dung gì
+deny	tôi không thích điều đó
+ask_info	những lĩnh_vực nào được đào_tạo tại các trường trung_học_chuyên_nghiệp cao_đẳng trường dạy nghề ở các tỉnh vùng có đông dân_tộc_thiểu_số
+ask_info	việt_nam có quan_điểm như_thế_nào về công_tác thông_tin , truyền_thông quyền con_người ?
+ask_info	chiến_lược quốc_gia phòng_chống hiv aids đến năm 2020 và tầm nhìn 2030 của việt_nam có những mục_tiêu và giải_pháp gì
+ask_info	chính_sách miễn_giảm học_phí cấp học_bổng cho vay đi học đã mang lại hiệu_quả gì cho học_sinh sinh_viên thuộc diện chính_sách và các hộ nghèo cận nghèo
+ask_info	minh lý đạo tam tông_miếu được thành_lập vào năm nào và do ai sáng_lập
+greet	alo e ô
+ask_info	kế_hoạch xây_dựng bao_nhiêu diện_tích nhà ở xã_hội trong giai_đoạn 2016 2020 tại việt_nam
+ask_info	năm 2014 việt_nam có bao_nhiêu ngôi chùa được công_nhận
+explain	cho tôi thêm thông_tin chi_tiết
+ask_info	quyền của người bị giam_giữ được đối_xử như_thế_nào để tôn_trọng nhân_phẩm
+deny	đừng có nghĩ vậy
+chitchat_ask_howbuilt	bạn đã dùng thuật_toán nào để xây_dựng bot này
+ask_info	công_dân không phân_biệt tín_ngưỡng tôn_giáo có quyền và nghĩa_vụ gì trong xây_dựng và bảo_vệ tổ_quốc
+canthelp	tớ tự xử_lý được vấn_đề này
+ask_info	hội_đồng sư cả hồi_giáo bàni tỉnh ninh_thuận được công_nhận tổ_chức tôn_giáo năm nào
+canthelp	mình không muốn tham_gia nữa
+ask_info	quyền gì được quy_định cho các tổ_chức tôn_giáo và tổ_chức tôn_giáo trực_thuộc theo luật tín_ngưỡng tôn_giáo
+chitchat_ask_howdoing	mọi việc đã đổ_vỡ chưa
+react_negative	chatbot vô_dụng vl

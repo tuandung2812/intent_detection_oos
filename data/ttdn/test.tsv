@@ -1,0 +1,2596 @@
+label	text
+greet	mak sh ơi
+ask_info	việt_nam được xếp thứ mấy trong số 127 nước về phát_triển giáo_dục theo báo_cáo của unesco
+react_positive	tuyệt_đỉnh
+ask_info	bộ luật_tố_tụng_hình_sự sửa_đổi năm nào và có những nội_dung mới quan_trọng gì
+ask_info	hiến_pháp năm 2013 cho thấy thái_độ cũng như chính_sách dân_chủ của nhà_nước đối_với tín_ngưỡng tôn_giáo như_thế_nào
+chitchat_ask_whoisit	bạn có phải là chatbot ai không vậy
+ask_info	bộ_luật hình_sự sửa_đổi năm nào
+bye	tôi phải rời khỏi đây rồi
+thank	thank you vì sự tận_tâm của bạn
+thank	cam on misa nhiu
+chitchat_ask_howdoing	cậu có cảm_thấy thoải_mái không
+ask_info	việt_nam là thành_viên của tổ_chức nào
+chitchat_ask_whoisit	bạn có phải là hệ_thống tự_động ai không
+greet	restart
+ask_info	tại tây_nguyên có bao_nhiêu điểm nhóm tin lành đã đăng_ký với chính_quyền
+react_negative	tôi không thấy chatbot này hữu_ích cho công_việc của mình
+deny	đâu có đâu
+chitchat_ask_whoisit	bạn là bot tự_động sử_dụng ai à
+ask_info	các bộ cơ_quan ngang bộ cơ_quan thuộc chính_phủ uỷ_ban_nhân_dân cấp tỉnh có trách_nhiệm báo_cáo kết_quả tổ_chức sự_kiện ở nước_ngoài cho ai
+ask_info	tổ_chức nào được cấp chứng_nhận đăng_ký hoạt_động tôn_giáo theo quy_định của luật tín_ngưỡng tôn_giáo
+ask_info	việt_nam sẽ tiếp_tục rà_soát các quy_định của pháp_luật quốc_gia về những quyền nào
+ask_info	luật nào quy_định về quyền được giáo_dục
+thank	cám_ơn misa nhe để mình tínb lại
+explain	bạn có_thể trình_bày rõ hơn vấn_đề này được không
+ask_info	thông_tư quy_định việc đăng phát nội_dung thông_tin đối_ngoại trên báo_chí
+ask_info	hoạt_động quốc_tế của các tôn_giáo tại việt_nam được mở_rộng như_thế_nào
+ask_info	mục_đích chính của việc hợp_tác với các tổ_chức phi_chính_phủ nước_ngoài trong lĩnh_vực y_tế của việt_nam là gì
+ask_info	chính_sách của việt_nam đối_với những dân_tộc_thiểu_số hiện_nay như nào
+thank	cảm_ơn bạn đã thể_hiện sự quan_tâm
+ask_info	công_tác thông_tin , truyền_thông về quyền con_người hướng tới các mục_tiêu nào ?
+react_positive	rất smart
+ask_info	cơ_chế rà_soát định_kỳ phổ_quát là gì
+deny	không cần
+ask_info	các tổ_chức phi_chính_phủ nước_ngoài đã tài_trợ bao_nhiêu triệu đô_la mỹ
+ask_info	đồng_bào chăm islam và chăm bàni tập_trung ở đâu
+chitchat_ask_whatspossible	con bot này có khả_năng nào
+react_positive	xinh quá
+thank	cảm_ơn misa heno
+ask_info	người dân_tộc_thiểu_số được học_tập ở đâu
+chitchat_ask_time	sắp 4 giờ chưa em
+ask_info	chính_sách giáo_dục của nhà_nước việt_nam đối_với dân_tộc_thiểu_số là gì
+bye	hẹn gặp lại em nhé
+ask_info	luật tín_ngưỡng tôn_giáo được ban_hành vào thời_gian nào
+ask_info	các hoạt_động quan_hệ quốc_tế của công_giáo việt_nam nhận được sự quan_tâm và ủng_hộ từ đâu
+chitchat_ask_whoisit	bạn là robot ai à
+chitchat_ask_whatspossible	e có khả_năng cung_cấp những thông_tin gì
+ask_info	việc đăng phát nội_dung thông_tin đối_ngoại trên báo_chí có những hạn_chế gì để đảm_bảo lợi_ích của đất_nước và nhân_dân việt_nam
+chitchat_ask_howbuilt	bot này được tạo ra như_thế_nào để có_thể trả_lời câu hỏi của tôi
+chitchat_ask_whoisit	bạn có phải là trợ_lý ai không
+ask_info	hiện việt_nam có bao_nhiêu nền_tảng số
+explain	bạn có_thể mô_tả chi_tiết hơn vấn_đề này không
+ask_info	công_dân có những quyền gì liên_quan đến tự_do ngôn_luận và tự_do báo_chí theo luật báo_chí sửa_đổi
+affirm	oki
+bye	chúc misa buổi tối vvee
+ask_info	nghị_quyết 25 nq tw nhấn_mạnh những quan_điểm chính_sách đối_với tôn_giáo nào
+ask_info	việt_nam đã thực_hiện những cam_kết quốc_tế nào trong phòng_chống hiv aids
+ask_info	nhà_nước việt_nam đã có những chính_sách gì
+affirm	ừ không có gì để phản_bác
+greet	hello bạn đến từ đâu vậy
+thank	à cám_ơn bạn
+thank	cam on bot de minh tham khao xem
+react_positive	wow
+canthelp	không cần tiếp_tục nữa
+ask_info	công_tác tổ_chức thực_thi pháp_luật bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo được nhà_nước việt_nam quan_tâm thực_hiện như_thế_nào
+ask_info	đạo tin lành ở miền nam hoạt_động chủ_yếu ở đâu
+explain	có_thể nói rõ hơn về quy_trình thực_hiện không
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về an_toàn thông_tin mạng
+greet	hello
+deny	tôi không đồng_ý với ý_kiến của bạn
+ask_info	công_dân có quyền tham_gia quản_lý_nhà_nước và xã_hội như_thế_nào theo quy_định của hiến_pháp
+ask_info	luật tiếp_cận thông_tin được quốc_hội thông_qua vào ngày nào
+canthelp	thôi dừng ở đây
+ask_info	phật_giáo hiếu_nghĩa tà lơn có những cơ_sở thờ_tự nào
+ask_info	thu_nhập bình_quân của hộ nghèo tăng gấp đôi trong bao_nhiêu năm
+chitchat_ask_howold	con ai này bao_nhiêu tuổi rồi nhỉ
+ask_info	việt_nam đã đạt được những kết_quả gì trong việc thực_hiện mục_tiêu thiên_niên_kỷ về giảm nghèo
+greet	hi c oi
+ask_info	bảo_tàng lịch_sử quốc_gia việt_nam có bao_nhiêu bảo_tàng
+greet	hello
+chitchat_ask_whoisit	bạn là người thật hay robot vậy
+ask_info	trong giai_đoạn 2008 2013 tổng_chi cho y_tế đã bao_phủ bao_nhiêu phần_trăm dân_số
+ask_info	trong 6 tháng đầu năm 2015 số_lượng phạm_nhân được giảm thời_hạn chấp_hành án phạt tù là bao_nhiêu
+ask_info	thư chung 1980 của hội_đồng giám_mục việt_nam thể_hiện tình_cảm và trách_nhiệm gì
+ask_info	việt_nam đã ký_kết bao_nhiêu hiệp_định thoả_thuận song_phương về miễn thị_thực nhập_cảnh
+thank	thanks b nhea
+ask_info	các trại_giam đã phối_hợp với ai để đào_tạo dạy nghề cho người bị giam_giữ
+ask_info	các hoạt_động hợp_tác quốc_tế trong lĩnh_vực y_tế được việt_nam tổ_chức nhằm mục_đích gì
+ask_info	nguyên_tắc nào được thể_hiện xuyên suốt trong hệ_thống pháp_luật việt_nam liên_quan đến dân_tộc_thiểu_số
+thank	ui thế_thì hơi ngắn rồi cảm_ơn misa nhé
+ask_info	hiến_pháp đầu_tiên của nước việt_nam dân_chủ cộng_hoà đã khẳng_định điều gì
+thank	cam on ban
+react_positive	siêu phẩm thật đấy
+chitchat_ask_whoisit	bạn là hệ_thống ai à
+chitchat_ask_whoisit	bạn là máy ai à
+ask_info	các tổ_chức phi_chính_phủ nước_ngoài tập_trung vào lĩnh_vực gì trong hoạt_động viện_trợ tại việt_nam
+ask_info	ban tôn_giáo chính_phủ gặp_mặt tổ_chức tôn_giáo đóng_góp vào công_cuộc gì
+chitchat_ask_whoisit	bạn là trí_tuệ_nhân_tạo à
+ask_info	tính chính_thống của hồi_giáo ở việt_nam bị ảnh_hưởng bởi yếu_tố gì
+explain	giải_thích cho mình về cách vận_hành của misa đc ko
+ask_info	việc tha tù trước thời_hạn cho phạm_nhân được thực_hiện như_thế_nào
+ask_info	việt_nam là thành_viên của những công_ước nhân_quyền quốc_tế nào
+ask_info	đạo bửu sơn kỳ hương có khoảng bao_nhiêu tín_đồ
+ask_info	thời_điểm hiện_tại giáo_hội các thánh hữu ngày sau của chúa giê su ky tô có hoạt_động ở bao_nhiêu tỉnh thành_phố trên toàn_quốc
+thank	cảm_ơn nhiều nha
+greet	hi hie
+ask_info	luật bầu_cử 2015 có những quy_định gì
+react_positive	rất ưng_ý với câu trả_lời của bạn
+ask_info	quyền tự_do báo_chí của công_dân và quyền tự_do ngôn_luận trên báo_chí của công_dân được quy_định như_thế_nào tại luật báo_chí 2016 ?
+chitchat_ask_whoisit	bạn là bot chatbot à
+react_positive	tốt quá bạn ơi
+ask_info	điều 1 đối_tượng áp_dụng của nghị_định này
+greet	xin chafo
+ask_info	những giá_trị văn_hoá đạo_đức tốt_đẹp của tín_ngưỡng tôn_giáo được tôn_trọng và bảo_vệ như_thế_nào
+ask_info	tại việt_nam đã có bao_nhiêu lượt chức_sắc người nước_ngoài vào giảng đạo cho các nhóm tín_đồ người nước_ngoài tại địa_điểm sinh_hoạt tôn_giáo tập_trung
+ask_info	việt_nam bắt_giữ nhà_báo tự_do
+ask_info	mục_đích của công_tác tuyên_truyền phổ_biến pháp_luật về tín_ngưỡng tôn_giáo là gì
+thank	cảm_ơn ấy nhiều nhé
+ask_info	việt_nam gặp những khó_khăn , thách_thức nào trong bảo_đảm và thúc_đẩy quyền con_người ?
+greet	get started
+react_positive	rất lôi_cuốn
+ask_info	nhà_nước việt_nam đã có những chủ_trương cơ_chế chính_sách và ưu_tiên gì để bảo_vệ hỗ_trợ và tạo cơ_hội cho người nhiễm hiv
+greet	c oi
+explain	hãy giải_thích lý_do tại_sao như_vậy
+bye	bbai misa
+react_positive	tốt lắm bạn ơi
+thank	mình rất biết_ơn
+ask_info	bộ_trưởng bộ nội_vụ phạm thị thanh_trà
+ask_info	nghị_định số 62 2012 nđ cp quy_định gì về bảo_vệ an_toàn cho nạn_nhân bị mua_bán và người_thân của họ
+chitchat_ask_whoisit	bạn có phải là robot hay con_người
+greet	hi bro cậu thấy mình thế_nào
+deny	tôi không đồng_ý tham_gia
+greet	alô
+affirm	đúng rồi không cần bàn_cãi nữa
+affirm	ok rồi đó
+chitchat_ask_whatismyname	tên tui nghe có_vẻ phong_cách đấy
+ask_info	năm 2021 số_lượng cơ_sở tôn_giáo được cấp giấy chứng_nhận quyền sử_dụng đất chiếm bao_nhiêu
+thank	thánks ep
+ask_info	những lời_nói nào có_thể trích_dẫn ?
+chitchat_ask_time	sắp 20 giờ chưa em
+ask_info	tại những quốc_gia nào có ngôi chùa việt_nam và cộng_đồng người việt_nam sinh_hoạt tôn_giáo
+react_positive	thật tyệt
+ask_info	công_tác tuyên_truyền phổ_biến chủ_trương của đảng và chính_sách pháp_luật của nhà_nước về tín_ngưỡng tôn_giáo có vai_trò gì
+ask_info	trong lĩnh_vực y_tế các tcpcpnn đã tài_trợ bao_nhiêu tiền
+ask_info	tiểu_sử chủ_tịch quốc_hội nước cộng_hoà_xã_hội_chủ_nghĩa_việt_nam vương đình huệ
+ask_info	bộ thông_tin và truyền_thông có trách_nhiệm gì đối_với các cơ_quan nhà_nước
+chitchat_ask_whoisit	bạn là ứng_dụng ai à
+chitchat_ask_howbuilt	bot này có sử_dụng trí_tuệ_nhân_tạo không
+ask_info	các tổ_chức tôn_giáo của đồng_bào dân_tộc_thiểu_số được chính_quyền quan_tâm và hỗ_trợ như_thế_nào
+affirm	làm đi nha
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo là gì
+ask_info	tiểu_sử nguyễn_phú trọng
+ask_info	việt_nam đã trúng_cử thành_viên hội_đồng nhân_quyền liên_hợp_quốc bao_nhiêu lần
+thank	mình cám_ơn chiều nay vc mình qua ạ
+thank	cảm_ơn ạaaa
+ask_info	bộ_luật nhân_quyền quốc_tế gồm văn_bản nào ?
+ask_info	chính_sách tín_ngưỡng tôn_giáo của đảng_cộng_sản_việt_nam trong thời_kỳ đổi_mới được khẳng_định như_thế_nào tại đại_hội đại_biểu toàn_quốc lần thứ vi
+ask_info	những thành_tựu đạt được trong công_cuộc bảo_vệ và thúc_đẩy quyền con người ở việt_nam là gì
+ask_info	giáo_hội cơ đốc phục lâm việt_nam được nhà_nước công_nhận tổ_chức tôn_giáo năm nào
+ask_info	các nghi_thức tôn_giáo nào được phép thực_hiện tại trại tạm giam nhà_giam giữ
+chitchat_ask_howdoing	có gì mới không
+ask_info	đường_hướng hành_đạo của hội_thánh men nô nai việt_nam là gì
+react_negative	im mồm
+react_positive	quá chuẩn
+deny	không phải ý_tưởng hay
+greet	ôi chào có ai đó muốn trò_chuyện không
+ask_info	phụ_nữ di_cư phải đối_mặt với những nguy_cơ nào
+chitchat_ask_howbuilt	bot này có sử_dụng các api không
+chitchat_ask_time	bây_giờ đồng_hồ điên của bạn đang chạy như_thế_nào
+ask_info	tỉnh nào là trung_tâm phật_giáo tứ ân hiếu_nghĩa
+ask_info	việt_nam đã hợp_tác với những tổ_chức nào của liên_hợp_quốc trong công_tác phòng_chống tội_phạm và ma_tuý
+affirm	oke vậy là được rồi
+greet	alo
+explain	có_thể nói rõ hơn về vấn_đề này được không
+ask_info	chiến_lược cải_cách tư_pháp đến năm 2020 của việt_nam là gì
+chitchat_ask_whoisit	bạn là bot chat tự_động à
+chitchat_ask_time	giờ này là thời_gian bình_thường hay thời_gian mùa đông bro
+chitchat_ask_howbuilt	bot này đã được thử_nghiệm trên nhiều người dùng chưa
+explain	bạn có_thể nói rõ hơn về cách thực_hiện điều đó không
+greet	b ơi bạn
+react_negative	mày ngu thế
+ask_info	luật tín_ngưỡng tôn_giáo quy_định gì
+ask_info	việt_nam sẽ phát_huy thành_quả từ việc thực_hiện các mục_tiêu nào
+ask_info	theo quy_định của pháp_luật còn những phương_thức hoạt_động thông_tin đối_ngoại nào khác được áp_dụng
+react_positive	tốt lắm
+ask_info	tại_sao việc tăng_cường đầu_tư toàn xã_hội đã tạo động_lực cho phát_triển kinh_tế của việt_nam
+affirm	oke vậy là được rồi
+ask_info	bí_thư trung_ương đảng_cộng_sản_việt_nam khoá thứ xiii 2021 tới nay
+react_negative	tôi thấy chatbot này không linh_hoạt và không thân_thiện
+ask_info	ngày việt_nam ở nước_ngoài là ngày nào
+chitchat_ask_howold	bạn bao_nhiêu tuổi vậy
+react_negative	tôi đã thử sử_dụng chatbot nhưng không thấy hiệu_quả
+react_positive	chất_lượng tốt
+ask_info	luật tiếp_cận thông_tin được quốc_hội thông_qua vào ngày nào
+ask_info	hiến_pháp năm 2013 quy_định những hành_vi nào
+thank	cam ơn misa nhé
+ask_info	đài tiếng_nói việt_nam và đài_truyền_hình việt_nam đã làm gì để nâng cao công_suất và mở_rộng diện_tích phủ_sóng
+canthelp	t không muốn nói_chuyện nữa
+ask_info	thông_tư hướng_dẫn quản_lý hoạt_động thông_tin đối_ngoại của các tỉnh thành_phố trực_thuộc trung_ương
+ask_info	điều 164 bộ_luật hình_sự sửa_đổi quy_định về tội_gì
+ask_info	quốc_hội việt_nam dự_kiến sẽ thảo_luận và thông_qua những văn_bản luật nào liên_quan trực_tiếp đến quyền con_người trong năm 2016
+canthelp	mình cần một phương_pháp giúp_đỡ khác
+thank	vay cam on b nhe
+ask_info	giáo_dục ở việt_nam còn tồn_tại những vấn_đề gì và cần phải cải_thiện như_thế_nào
+react_positive	siêu đỉnh
+ask_info	việt_nam ký các cam_kết quốc_tế về nhân_quyền nào
+greet	hú b ơi
+ask_info	bộ văn_hoá thể_thao và du_lịch chủ_trì phối_hợp với các bộ cơ_quan liên_quan trong việc tổ_chức các sự_kiện ở đâu
+chitchat_ask_whoisit	bạn là máy ai à
+ask_info	hiến_pháp năm 2013 thể_hiện điều gì
+deny	tôi không muốn làm như_vậy
+affirm	được không cần suy_nghĩ lâu
+affirm	ừ đồng_ý
+chitchat_ask_howdoing	cậu có gặp vấn_đề gì không nhỉ
+chitchat_ask_whoisit	wow tôi không_thể tin được rằng bạn là người thật
+chitchat_ask_whoisit	bạn không phải là người đúng không
+greet	alo bot ô
+ask_info	nhà_nước việt_nam đã có những chính_sách và văn_bản pháp_luật nào để phòng_ngừa và trừng_trị tội_phạm buôn_bán người
+ask_info	ông nguyễn_văn bồng sinh năm bao_nhiêu và ở đâu
+deny	ko cho
+deny	tôi không thích ý_tưởng đó
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo được khẳng_định trong văn_bản nào
+affirm	ừ không cần nghi_ngờ nữa
+ask_info	tình_hình mua_bán người tại việt_nam hiện_nay như_thế_nào
+ask_info	việt_nam là thành_viên của tổ_chức nào
+explain	tại_sao điều đó lại là vấn_đề quan_trọng
+ask_info	các cơ_quan tổ_chức cá_nhân nào có liên_quan phải chịu trách_nhiệm thi_hành thông_tư này
+deny	t xin phản_đối
+chitchat_ask_howbuilt	bot này có sử_dụng mô_hình deep learning không
+ask_info	các tổ_chức tôn_giáo và tổ_chức tôn_giáo trực_thuộc có_thể thực_hiện những hoạt_động gì theo quy_định của pháp_luật
+ask_info	quyết_định quy_định chức_năng nhiệm_vụ quyền_hạn và cơ_cấu tổ_chức của cục thông_tin đối_ngoại trách_nhiệm do ai thi_hành
+react_positive	sao em thông_minh quá vậy
+ask_info	việt_nam sẵn_sàng hợp_tác đối_thoại song_phương với các nước trong lĩnh_vực nào
+ask_info	những chế_định quan_trọng nào được thiết_lập trong hiến_pháp và các văn_bản pháp_luật để định_hướng cho sự phát_triển của nhà_nước
+react_positive	ngon
+canthelp	mình không cần bạn làm gì thêm
+chitchat_ask_whatismyname	hỏi tên tui đi đừng ngại_ngùng
+affirm	mình đồng_ý ngay không nghi_ngờ gì
+ask_info	đạo tin lành đã tác_động như_thế_nào đến đời_sống của người_dân theo đạo
+ask_info	chính_phủ việt_nam đang tập_trung vào những lĩnh_vực nào để nâng cao chất_lượng đời_sống của người dân
+chitchat_ask_whoisit	không_thể tin được rằng bạn là con_người thật
+thank	da cảm_ơn ạ
+ask_info	trong các cơ_quan_dân_cử ở địa_phương có bao_nhiêu người là nữ_giới trúng_cử
+ask_info	có những hình_thức nào phát_ngôn và cung_cấp thông_tin cho báo_chí ?
+ask_info	thoả_thuận_khung hợp_tác giữa na_uy và việt_nam về bình_đẳng giới được thực_hiện trong thời_gian nào
+ask_info	luật nào đã được ban_hành vào năm 2016
+ask_info	chương_trình mục_tiêu quốc_gia việc_làm và dạy nghề giai_đoạn 2012 2015 có mục_tiêu gì
+canthelp	mình sẽ tìm_hiểu thêm và trở_lại sau
+ask_info	chính_sách đại_đoàn_kết toàn dân_tộc của đảng_cộng_sản_việt_nam là gì
+chitchat_ask_whoisit	thật không_thể tin được là bạn là người đấy
+ask_info	những nét văn_hoá của các dân_tộc_thiểu_số được bảo_tồn và phát_triển như_thế_nào
+affirm	okay
+chitchat_ask_howbuilt	bot này có được phát_triển bằng cách nào để có_thể tương_tác với người dùng
+ask_info	tại_sao việc chăm_sóc bảo_vệ quyền và phát_huy nguồn_lực người cao_tuổi được coi là truyền_thống kính_trọng trong xã_hội việt_nam
+chitchat_ask_time	thứ mấy rồi em nhỉ
+ask_info	đạo tin lành có mối quan_hệ hợp_tác với những tổ_chức nào
+chitchat_ask_howbuilt	làm thế_nào để xây_dựng một chatbot hữu_ích
+explain	bạn có_thể cung_cấp ví_dụ để làm rõ hơn không
+ask_info	có bao_nhiêu thư_viện công_cộng được xây_dựng
+ask_info	chính_phủ là cơ_quan_hành_chính nhà_nước cao nhất của việt_nam có nhiệm_vụ gì
+ask_info	tỷ_lệ hộ nghèo trên cả nước đã giảm bao_nhiêu trong 5 năm qua
+chitchat_ask_whoisit	bạn có_thể nói cho tôi biết bạn là ai không
+affirm	ok rùi
+react_negative	m trả_lời sai nhiều quá
+chitchat_ask_whoisit	bạn là hệ_thống ai à
+ask_info	nguyên_tắc phổ_thông được quy_định như_thế_nào
+canthelp	tớ sẽ tự giải_quyết vấn_đề này
+ask_info	quyền_sở_hữu tư_nhân được pháp_luật bảo_hộ như_thế_nào
+ask_info	bộ_trưởng bộ y_tế đào hồng lan
+chitchat_ask_whoisit	bạn là chatbot ai à
+ask_info	hệ_thống tổ_chức hành_đạo của giáo_hội phật đường nam tông minh sư đạo gồm những cấp nào
+thank	tớ cảm_ơn
+greet	em ơi
+ask_info	bộ_trưởng bộ khoa_học và công_nghệ huỳnh thành_đạt
+ask_info	tại_sao tháng lễ ramadan lại quan_trọng đối_với giáo_lý islam
+chitchat_ask_howdoing	tình_hình của cậu ra sao
+canthelp	mình sẽ tự tìm_hiểu thêm
+greet	alo s oi
+chitchat_ask_howbuilt	tôi muốn biết cách xây_dựng chatbot từ đầu đến cuối
+greet	alo sop ơi
+ask_info	tù_nhân ở việt_nam bị ngược_đãi như_thế_nào
+greet	dạ chị oi
+chitchat_ask_howbuilt	chatbot này đã được kiểm_tra với nhiều ngữ_cảnh khác nhau chưa
+ask_info	chính_phủ đã triển_khai đề_án gì để hỗ_trợ phụ_nữ
+chitchat_ask_whoisit	bạn có phải là chatbot ai không
+bye	goodbye
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về tần_số vô_tuyến_điện
+deny	t không muốn
+ask_info	nhà_nước có những chính_sách gì để khuyến_khích và ưu_đãi doanh_nghiệp tham_gia sản_xuất và cung_ứng sản_phẩm dịch_vụ công_ích
+ask_info	trong 6 tháng đầu năm 2015 các trại_giam đã điều_trị ở đâu
+ask_info	đạo cao đài ra_đời ở đâu
+ask_info	bộ tài_chính có trách_nhiệm gì
+react_positive	em tuyệt_vời đấy
+ask_info	những biện_pháp nào được chính_phủ việt_nam triển_khai để nâng cao hiệu_quả thực_thi các chính_sách pháp_luật về lao_động
+ask_info	việt_nam tạo điều_kiện gì cho đại_diện của các nước tham_gia thực_địa đời_sống tại việt_nam
+ask_info	mục_tiêu chung của việt_nam khi tham_gia các diễn_đàn của liên_hợp_quốc là gì
+ask_info	cơ_quan thông_tấn báo_chí việt_nam có trách_nhiệm gì
+ask_info	các phương_tiện thông_tin_đại_chúng như báo_chí đài_phát_thanh và truyền_hình đóng vai_trò gì trong việc phát_hiện đấu_tranh chống tham_nhũng vi_phạm quyền con_người và quyền_công_dân
+ask_info	cơ_quan nào của nhà_nước việt_nam phụ_trách về thông_tin đối_ngoại
+thank	thank b nhé
+thank	ah rồi m cảm_ơn nhé
+thank	thank bạn
+chitchat_ask_whoisit	bạn tên là gì và bạn đến từ đâu
+react_negative	tôi cảm_thấy chatbot này không đáng tin_cậy và không chính_xác
+thank	thank you vì sự hỗ_trợ của bạn
+react_positive	cảm_ơn bạn nhiều
+ask_info	năm 2014 có bao_nhiêu cơ_sở thờ_tự được xây_dựng
+chitchat_ask_howold	bạn đã trưởng_thành bao_nhiêu tuổi rồi
+react_negative	tôi thấy chatbot này rất phiền_phức
+ask_info	mạng_lưới trường_học ở việt_nam được phát_triển như_thế_nào trong những năm gần đây
+ask_info	các đơn_vị khác thuộc bộ thông_tin và truyền_thông bao_gồm
+react_negative	chatbot này quá chậm và không hiệu_quả
+chitchat_ask_time	có đồng_hồ nào chỉ giờ không
+react_negative	ngu như chó
+ask_info	các tổ_chức phụ_trách bầu_cử ở địa_phương được quy_định như_thế_nào trong luật bầu_cử đại_biểu quốc_hội và đại_biểu hội_đồng_nhân_dân 2015
+ask_info	hành_vi lợi_dụng quyền tự_do đi_lại cư_trú để vi_phạm pháp_luật hoặc tiến_hành các hoạt_động thù_địch xâm_phạm an_ninh quốc_gia sẽ bị xử_lý như_thế
+react_positive	hay thật đấy
+ask_info	hiến_pháp năm 2013 quy_định như_thế_nào
+ask_info	việt_nam chú_trọng đẩy_mạnh xã_hội_hoá công_tác phòng_chống hiv aids nhằm mục_đích gì
+affirm	mình chấp_nhận
+explain	tại_sao điều đó lại mang ý_nghĩa quan_trọng
+ask_info	việc giảng_dạy bằng tiếng dân_tộc_thiểu_số đã được triển_khai ở những tỉnh nào và với những tiếng dân_tộc nào
+ask_info	những nguy_cơ gì phụ_nữ di_cư đang phải đối_mặt khi làm_việc trong khu_vực phi kết_cấu
+chitchat_ask_time	ê mấy h rồi
+react_positive	quá chuẩn
+thank	thanks e nhìu
+ask_info	các thành_viên ban đại_diện phật hội tứ ân hiếu_nghĩa ra_mắt đại_hội nhiệm_kỳ iii năm nào
+react_negative	tôi cảm_thấy chatbot này không có kiến_thức đầy_đủ
+ask_info	luật xuất_bản sửa_đổi đã được quốc_hội thông_qua vào tháng nào và mục_đích của việc sửa_đổi này là gì
+ask_info	những chính_sách nào đã khẳng_định tầm quan_trọng của bình_đẳng giới trong phát_triển kinh_tế xã_hội
+ask_info	công_tác tuyên_truyền phổ_biến chủ_trương của đảng và chính_sách pháp_luật của nhà_nước về tín_ngưỡng tôn_giáo có tác_dụng gì đối_với cộng_đồng quốc_tế và kiều_bào việt_nam ở nước_ngoài
+ask_info	hội_thánh men nô nai được công_nhận tổ_chức tôn_giáo năm nào
+greet	chào cháu
+chitchat_ask_howdoing	cậu có cảm_thấy ổn không
+ask_info	quyền tự_do kinh_doanh được cụ_thể_hoá như_thế_nào trong luật doanh_nghiệp năm 2005
+react_positive	ối dồi ôi xịn
+ask_info	khối các đơn_vị sự_nghiệp thuộc bộ thông_tin và truyền_thông bao_gồm
+ask_info	đạo bửu sơn kỳ hương được thành_lập vào năm nào
+ask_info	nhân_quyền việt_nam thế_nào
+ask_info	tổng_thanh_tra chính_phủ đoàn hồng phong
+deny	ko
+deny	ko bạn
+react_positive	siêu phẩm thật đấy
+ask_info	chính_phủ việt_nam đang tập_trung vào những lĩnh_vực nào để nâng cao chất_lượng đời_sống của người dân
+canthelp	mình muốn dừng ở đây
+thank	cảm_ơn bạn đã gửi cho mình thông_tin
+ask_info	nghị_định quy_định chế_độ áp_dụng biện_pháp đưa vào cơ_sở cai_nghiện bắt_buộc là gì
+ask_info	sự du_nhập các tôn_giáo ngoại_sinh và giá_trị văn_hoá nước_ngoài trong quá_trình toàn_cầu_hoá và hội_nhập ảnh_hưởng như_thế_nào đến truyền_thống văn_hoá tôn_giáo việt_nam
+chitchat_ask_whoisit	bạn có phải là con bot ai không
+ask_info	trong 6 tháng đầu năm 2015 các trại_giam đã giảm thời_hạn chấp_hành án phạt tù cho bao_nhiêu người
+ask_info	điều 70 hiến_pháp năm 1992 ghi rõ điều gì
+deny	không phải ý_tưởng tốt
+chitchat_ask_time	mấy giờ rồi đấy
+ask_info	tại_sao cần tăng_cường tuyên_truyền giáo_dục về quyền tự_do tín_ngưỡng tôn_giáo
+ask_info	mục_tiêu của công_tác thông_tin truyền_thông về nhân_quyền là gì
+greet	rất vui được làm_quen với em
+ask_info	việt_nam đã đạt được những kết_quả gì trong việc bảo_vệ quyền con_người
+ask_info	tù_nhân ở việt_nam bị ngược_đãi như_thế_nào
+chitchat_ask_whoisit	bạn có phải là trợ_lý ảo không
+ask_info	thông_tin trên báo_chí và đài_phát_thanh truyền_hình ngày_càng phong_phú và cập_nhật hơn
+greet	xin chao
+react_negative	em dốt thế
+thank	tks e chi mua dc rồi
+ask_info	trong 6 tháng đầu năm 2015 các trại_giam đã điều_trị ở đâu
+thank	thank you so much
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo của người bị quản_lý giam_giữ là gì
+ask_info	việt_nam đã đạt được những kết_quả gì trong việc thực_hiện mục_tiêu thiên_niên_kỷ về giảm nghèo
+ask_info	các nhà_báo độc_lập các nhà hoạt_động xã_hội ở việt_nam có bị đàn_áp không
+ask_info	trụ_sở của giáo_hội các thánh hữu ngày sau của chúa giê su ky tô ở đâu
+ask_info	ban tôn_giáo chính_phủ gặp_mặt tổ_chức tôn_giáo đóng_góp vào công_cuộc gì
+ask_info	chương_trình đối_thoại về nhà_nước pháp_quyền của đức đã hỗ_trợ việt_nam trong những lĩnh_vực nào
+ask_info	nhà_nước việt_nam quan_tâm đến công_tác gì đối_với cộng_đồng người việt_nam ở nước_ngoài
+ask_info	việt_nam có bao_nhiêu người khuyết_tật
+ask_info	quyền bình_đẳng trước pháp_luật được quy_định trong các đạo_luật nào
+ask_info	mục_tiêu của chương_trình hành_động quốc_gia về người cao_tuổi là gì
+ask_info	chính_phủ phải làm gì khi ban_hành quy_định thực_hiện chính_sách dân_tộc
+affirm	mình tán_thành không nên lưỡng_lự nữa
+chitchat_ask_howdoing	cậu có tốt không nhỉ
+chitchat_ask_time	giờ là thế_nào bro
+ask_info	giới_hạn quyền là gì những quyền con_người nào có_thể bị giới_hạn
+ask_info	tổ_chức hồi_giáo ở việt_nam đóng_góp như_thế_nào trong việc xây_dựng và bảo_vệ tổ_quốc việt_nam xã_hội_chủ_nghĩa
+chitchat_ask_whatismyname	tên tui có_vẻ đẹp_trai không nhỉ
+ask_info	những vấn_đề cần quan_tâm giải_quyết khi sinh_hoạt tôn_giáo của người nước_ngoài tại việt_nam là gì
+react_positive	bot xinh
+affirm	chính_xác không còn nghi_ngờ gì
+chitchat_ask_whoisit	bạn có phải là trợ_lý ảo ai không
+thank	e cảm_ơn c nhìu nha
+thank	cám_ơn chị nhé
+ask_info	theo nghị_định số 72/2015/nđ-cp của chính_phủ về quản_lý hoạt_động thông_tin đối_ngoại , thông_tin đối_ngoại được hiểu như_thế_nào và các nguyên_tắc khi tham_gia hoạt_động thông_tin đối_ngoại nào nhà_báo cần nắm rõ ?
+ask_info	những tiêu_chuẩn quốc_tế nào được áp_dụng để chuẩn_hoá chất_lượng đào_tạo
+ask_info	nhà_nước đã tạo điều_kiện gì cho các cá_nhân tổ_chức tôn_giáo việt_nam tăng_cường giao_lưu với quốc_tế
+chitchat_ask_howdoing	tình_hình của cậu ra sao vậy
+ask_info	các cơ_sở vật_chất của các ngành y_tế giáo_dục khoa_học văn_hoá thông_tin thể_thao còn thiếu_thốn
+ask_info	luật tín_ngưỡng tôn_giáo quy_định những quyền nào
+canthelp	t sẽ tìm cách khác
+ask_info	luật bình_đẳng giới có hiệu_lực từ năm nào
+ask_info	giáo_dục được coi là quốc_sách hàng_đầu của việt_nam như_thế_nào
+greet	xin chàoo
+ask_info	hồi_giáo islam được truyền vào cộng_đồng dân_tộc chăm vào thời_gian nào
+ask_info	pháp_lệnh tín_ngưỡng tôn_giáo được ban_hành vào ngày nào
+chitchat_ask_whoisit	mày là người thật chứ không phải robot đúng không
+deny	không_thể chấp_nhận cái đó
+chitchat_ask_howdoing	thế_giới của cậu như_thế_nào rồi
+greet	alo a
+canthelp	tớ sẽ tìm_hiểu một_cách khác
+ask_info	cơ_chế rà_soát định_kỳ phổ_quát ( upr ) là gì ?
+ask_info	hồi_giáo bani là tôn_giáo như_thế_nào
+greet	chị úi
+ask_info	những hành_động xuyên_tạc tình_hình quyền con_người tại việt_nam có ảnh_hưởng gì đến hình_ảnh của việt_nam trong mắt bạn_bè quốc_tế và quan_hệ hợp_tác quốc_tế của việt_nam
+ask_info	giáo_hội các thánh hữu ngày sau của chúa giê su ky tô việt_nam có tuân_thủ hiến_pháp và pháp_luật việt_nam như_thế_nào
+ask_info	giáo_dục về quyền con_người là hướng ưu_tiên đặc_biệt của việt_nam trong thời_gian tới nhằm mục_đích gì
+ask_info	năm 2015 tại khu_vực đô_thị đã xây_dựng mới bao_nhiêu nhà ở
+ask_info	đảng_cộng_sản_việt_nam có quan_điểm gì về tín_ngưỡng tôn_giáo trong thời_kỳ đổi_mới
+bye	bai em
+ask_info	hoạt_động viện_trợ của các tcpcpnn chủ_yếu tập_trung vào lĩnh_vực nào
+ask_info	nhà_nước đã công_nhận bao_nhiêu hội_thánh và pháp môn tu_hành của đạo cao đài
+chitchat_ask_howbuilt	xây_dựng chatbot này sử_dụng ngôn_ngữ_lập_trình gì
+chitchat_ask_howbuilt	cách thiết_kế chatbot này như_thế_nào
+ask_info	tại_sao sự đồng_thuận giữa các tôn_giáo và nhà_nước rất quan_trọng đối_với sự phát_triển đất_nước
+ask_info	việt_nam luôn chủ_động cung_cấp thông_tin về thành_tựu bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo tới các đối_tác nào
+ask_info	các hoạt_động hỗ_trợ hướng_dẫn sinh_hoạt tôn_giáo cho cộng_đồng người việt_nam ở nước_ngoài của giáo_hội phật_giáo việt_nam bao_gồm những gì
+ask_info	uỷ_ban_nhân_dân cấp tỉnh cần thực_hiện những nhiệm_vụ gì để bảo_mật thông_tin trong hoạt_động thông_tin đối_ngoại
+ask_info	đại_lễ phật đản liên_hợp_quốc vesak được tổ_chức tại đâu
+ask_info	quy_định về việc cấp kinh_phí cho hoạt_động thông_tin đối_ngoại được thực_hiện như_thế_nào theo luật ngân_sách nhà_nước
+ask_info	cơ_chế bảo bảo_đảm qcn bao_gồm những loại nào
+ask_info	các hoạt_động tôn_giáo quốc_tế nào đã được tổ_chức thành_công tại việt_nam
+ask_info	mục_tiêu phát_triển nhà ở của việt_nam là gì
+thank	cảm_ơn shop jhes
+thank	cám_ơn bạn nha mình sẽ tham_khảo
+thank	em cám_ơn chị
+ask_info	kinh_phí cho hoạt_động thông_tin đối_ngoại của các cơ_quan đơn_vị được bảo_đảm từ đâu
+chitchat_ask_howdoing	cậu có gặp trục_trặc gì không
+ask_info	công_tác bảo_vệ chăm_sóc và giáo_dục trẻ_em sẽ được tập_trung vào những hoạt_động gì
+ask_info	quyền con_người quyền_công_dân giống và khác nhau như_thế_nào
+thank	cảm_ơn misa mình bàn_bạc với vợ rồi liên_hệ lại với misa ạ
+chitchat_ask_whoisit	bạn là trí_tuệ_nhân_tạo à
+ask_info	hiến_pháp năm 2013 của việt_nam có những nội_dung gì liên_quan đến quyền con_người
+react_positive	em ngoan đấy
+ask_info	mặt_trận tổ_quốc việt_nam là gì và chức_năng của tổ_chức này là gì
+greet	bắt_đầu
+ask_info	đất_nước việt_nam trải dài bao_nhiêu km
+thank	gửi giao tại nhà nha cảm_ơn ấy
+greet	aloooooo bloooooo
+react_positive	phần_mềm được
+ask_info	việt_nam đã thực_hiện những cam_kết quốc_tế nào trong phòng_chống hiv aids
+react_negative	tởm đấy
+ask_info	các chương_trình hỗ_trợ chủ_yếu tập_trung vào đối_tượng nào
+canthelp	mình không muốn tiếp_tục nữa
+ask_info	giáo_hội cơ đốc phục lâm việt_nam có bao_nhiêu hội_thánh
+ask_info	điều_kiện để các tổ_chức tôn_giáo có_thể hoạt_động tốt là gì
+canthelp	cám_ơn nhưng tớ sẽ tự làm
+chitchat_ask_whoisit	bạn là ứng_dụng bot ai à
+thank	cảm_ơn ban nhiều nhé
+react_negative	chatbot này không phản_hồi kịp_thời và chính_xác
+ask_info	ai là người chịu trách_nhiệm trực_tiếp trong công_tác tôn_giáo theo quan_điểm của đảng_cộng_sản_việt_nam
+ask_info	viện nghiên_cứu quyền con_người thuộc học_viện chính_trị quốc_gia hồ_chí_minh của nước nào
+chitchat_ask_time	có đồng_hồ không bây_giờ là mấy giờ
+ask_info	chính_phủ đã triển_khai đề_án gì để hỗ_trợ phụ_nữ
+chitchat_ask_howbuilt	bạn có_thể giải_thích quy_trình tạo chatbot không
+ask_info	bộ_luật hình_sự sửa_đổi dành riêng chương xiv quy_định những tội nào
+ask_info	những văn_bản pháp_luật nào liên_quan đến bảo_vệ và chăm_sóc sức_khoẻ nhân_dân được ban_hành tại việt_nam
+ask_info	quyền tự_do báo_chí của công_dân việt_nam được quy_định ở pháp_luật nào
+chitchat_ask_whatismyname	tên tui nghe có cái gì đó khá quen_quen
+canthelp	mình không cần giúp_đỡ này
+ask_info	phật_giáo được truyền vào việt_nam từ khi nào
+thank	cảm_ơn sop mình đặt_hàng rồi
+thank	cảm_ơn misa nha để mình tìm_hiểu thêm đã nhé
+react_positive	vui quá đi
+ask_info	những khó_khăn thách_thức nào đang đối_diện với việt_nam trong việc đảm_bảo quyền tự_do tín_ngưỡng tôn_giáo
+ask_info	những hoạt_động nào được tổ_chức thực_hiện sau khi được cấp chứng_nhận đăng_ký hoạt_động tôn_giáo
+chitchat_ask_time	có đồng_hồ nào chỉ giờ không bảo tôi biết giờ
+affirm	chính_xác không cần phân_vân thêm
+chitchat_ask_whoisit	bạn có phải con_người không
+ask_info	việt_nam đã hợp_tác với các tổ_chức nào để tranh_thủ sự hỗ_trợ về tài_chính kỹ_thuật và kỹ_năng quản_lý cho công_tác phòng_chống hiv aids
+react_positive	cảm_ơn em
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về viễn_thông
+ask_info	tư_tưởng về quyền con_người xuất_hiện ở việt_nam từ bao_giờ và thể_hiện như_thế_nào ở giai_đoạn lịch_sử trước_đây ?
+ask_info	tại_sao hiến_pháp 2013 mở_rộng phạm_vi bảo_vệ đối_với các quyền con_người
+ask_info	luật nhà ở năm 2014 quy_định như_thế_nào về quyền_sở_hữu nhà ở
+ask_info	việt_nam có bao_nhiêu trường mầm_non tiểu_học trung_học và đại_học
+ask_info	bảo_hiểm_y_tế đã bao_phủ được bao_nhiêu phần_trăm dân_số đến tháng 12 2013
+ask_info	việt_nam là thành_viên của tổ_chức nào
+greet	alo em oi
+chitchat_ask_howbuilt	bot này có sử_dụng mô_hình markov ẩn không
+react_positive	quá tốt luôn
+ask_info	quy_định nào trong bộ_luật hình_sự sửa_đổi quy_định về hình_phạt đối_với các tội xâm_phạm tính_mạng sức_khoẻ nhân_phẩm danh_dự của con_người
+ask_info	cơ_cấu tổ_chức của bộ thông_tin và truyền_thông
+ask_info	có bao_nhiêu di_sản văn_hoá phi vật_thể được đưa vào danh_mục di_tích quốc_gia
+thank	cảm_ơn bot nhiều ạ
+ask_info	viện nghiên_cứu quyền con_người thuộc học_viện chính_trị quốc_gia hồ_chí_minh của việt_nam đã hợp_tác với đan_mạch trong lĩnh_vực nào
+ask_info	bộ_trưởng bộ xây_dựng nguyễn_thanh nghị
+react_positive	tốt lắm
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về viễn_thông
+ask_info	chính_phủ việt_nam đang thực_hiện những biện_pháp gì để hoàn_thiện hệ_thống pháp_luật và đáp_ứng yêu_cầu của hiến_pháp năm 2013
+ask_info	đảng_cộng_sản_việt_nam đã nhận_thức như_thế_nào về tín_ngưỡng tôn_giáo trong thời_kỳ đổi_mới
+ask_info	tín_đồ hồi_giáo bàni tập_trung ở những tỉnh nào
+ask_info	giáo luật của minh sư đạo quy_định những điều gì và tín_đồ phải đáp_ứng những yêu_cầu gì để được xuất_gia vào đạo
+explain	có_thể đưa ra một ví_dụ cụ_thể để minh_hoạ không
+chitchat_ask_whoisit	bạn là máy ai à
+react_negative	con ai này kém quá
+chitchat_ask_whatismyname	thử đoán tên t xem
+greet	bạn oi
+chitchat_ask_time	sắp 1 giờ chưa em
+thank	thank you
+react_positive	kinh đấy
+ask_info	cơ_quan nào của nhà_nước việt_nam phụ_trách về nhân_quyền
+affirm	uh
+ask_info	thu_nhập bình_quân của hộ nghèo tăng gấp đôi trong bao_nhiêu năm
+ask_info	những hoạt_động nào mà hệ_thống chính_trị tham_gia để bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo
+chitchat_ask_time	ngày bao_nhiêu em nhỉ
+greet	ib skop oi
+react_negative	sao em ngu thế
+ask_info	giáo_hội phật_giáo việt_nam có bao_nhiêu tăng_ni
+affirm	đồng_ý nha
+chitchat_ask_time	đang mấy h đấy
+ask_info	trong tình_hình mới , công_tác nhân_quyền ở việt_nam gồm các nhiệm_vụ chính nào ?
+ask_info	trung_tâm văn_hoá việt_nam tại nước_ngoài có nhiệm_vụ gì trong công_tác thông_tin đối_ngoại
+ask_info	người đầu_tiên truyền_đạo vào việt_nam là ai
+ask_info	việt_nam đã đệ_trình bao_nhiêu báo_cáo quốc_gia về thực_hiện các công_ước quốc_tế về quyền con_người
+chitchat_ask_whoisit	bạn là bot tự_động à
+affirm	okela
+ask_info	tỷ_lệ bao_nhiêu xã có bác_sỹ và y_sỹ sản nhi hoặc hộ_sinh tại việt_nam
+ask_info	tỉnh nào là trung_tâm của phật_giáo tứ ân hiếu_nghĩa và có bao_nhiêu tín_đồ phân_bố trên địa_bàn tỉnh
+ask_info	đảng_cộng_sản_việt_nam đã có những chính_sách gì đối_với tín_ngưỡng tôn_giáo
+ask_info	số_lượng vật_liệu nổ còn sót lại gây ô_nhiễm khoảng bao_nhiêu héc ta đất_đai
+ask_info	điều 19 về quản_lý hoạt_động thông_tin đối_ngoại ở nước_ngoài
+ask_info	việc đào_tạo và bổ_nhiệm chức_sắc trong các tổ_chức tôn_giáo được thực_hiện như_thế_nào tại việt_nam
+chitchat_ask_whoisit	bạn là ai vậy
+greet	bot ơi hizz
+chitchat_ask_whoisit	bạn là hệ_thống ai à
+greet	alo em ơiii
+thank	cảm_ơn shop nhé
+ask_info	quyết_định 79 2010 qđ ttg có hiệu_lực thi
+explain	bạn có_thể nói rõ hơn về cách thực_hiện điều đó không
+chitchat_ask_whoisit	bạn là người hay robot vậy
+react_positive	quá tuyệt
+affirm	oke không nên chần_chừ nữa
+ask_info	tôn_chỉ hành_đạo của giáo_hội phật_giáo hoà_hảo là gì
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo được thể_hiện như_thế_nào
+chitchat_ask_howbuilt	làm_sao để tạo bot này có khả_năng tương_tác tự_nhiên
+explain	tại_sao điều đó lại là vấn_đề cần quan_tâm
+ask_info	nghị_quyết 25 nq tw thể_hiện sự nhất_quán quan_điểm chính_sách đối_với tôn_giáo của đảng_cộng_sản_việt_nam về vấn_đề gì
+ask_info	luật tín_ngưỡng tôn_giáo được thông_qua vào ngày nào
+ask_info	chính_sách hỗ_trợ đào_tạo nhân_lực y_tế của việt_nam nhằm mục_đích gì
+chitchat_ask_howbuilt	chatbot này đã được đào_tạo bằng các tài_liệu đa_ngôn ngữ chưa
+thank	em cam on
+chitchat_ask_howdoing	bạn có khoẻ không
+ask_info	tôn_chỉ hành_đạo của giáo_hội phật_giáo hoà_hảo là gì
+chitchat_ask_whoisit	bạn là người thật hay robot vậy
+ask_info	ngoài việc có việc_làm còn có những hoạt_động tái hoà_nhập cộng_đồng nào được thực_hiện để giúp người bị giam_giữ trở_lại với xã_hội
+ask_info	trong giai_đoạn 2008 2013 tổng_chi cho y_tế đã bao_phủ bao_nhiêu phần_trăm dân_số
+chitchat_ask_whoisit	bạn là trợ_lý ảo ai à
+react_positive	em thật tuyệt_vời
+react_positive	cảm_ơn nhiều lắm
+affirm	thôi đc rồi
+chitchat_ask_howdoing	cậu đang làm gì vậy
+ask_info	số_lượng đăng_ký xuất_bản năm 2014 là bao_nhiêu và nội_dung của những xuất_bản_phẩm này như_thế_nào
+ask_info	lãnh_đạo bộ thông_tin và truyền_thông việt_nam
+greet	ê
+ask_info	những rủi_ro về biến_đổi khí_hậu thiên_tai dịch_bệnh luôn tạo ra thách_thức đối_với việt_nam là gì
+thank	cảm_ơn bạn đã chia_sẻ kiến_thức
+greet	alô e
+ask_info	những thành_tựu nào đã được đạt được trong việc bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo ở việt_nam
+ask_info	bộ_trưởng bộ giáo_dục và đào_tạo nguyễn_kim_sơn
+canthelp	mình tự tìm cách giải_quyết
+greet	alo bot
+ask_info	tại_sao việc bảo_đảm và thúc_đẩy quyền con_người là trách_nhiệm và quyền_hạn của mỗi quốc_gia
+ask_info	việt_nam đang xem_xét khả_năng gia_nhập các công_ước quốc_tế về quyền con_người
+ask_info	việt_nam đã đạt được những thành_tựu gì
+ask_info	quyền con_người được phân_loại như_thế_nào
+canthelp	mình không cần bạn làm gì thêm
+ask_info	tổ_chức tôn_giáo được thực_hiện những hoạt_động gì liên_quan đến xuất_bản giáo_dục y_tế bảo_trợ xã_hội từ_thiện nhân_đạo theo quy_định của pháp_luật
+ask_info	nghĩa_vụ của nhà_nước trong bảo_đảm quyền con_người được thể_hiện như_thế_nào
+ask_info	quyền tự_do báo_chí được quy_định như_thế_nào trong pháp_luật quốc_tế ?
+ask_info	nghị_định của chính_phủ về công_tác tôn_giáo là gì
+chitchat_ask_whoisit	bạn có phải con_người không
+ask_info	có bao_nhiêu trường đại_học cao_đẳng ở nước ta
+greet	ah oi
+ask_info	người_dân việt_nam có được sử_dụng các mạng xã_hội một_cách tự_do không
+chitchat_ask_howdoing	cậu cảm_thấy như_thế_nào
+ask_info	nội_dung thông_tin đối_ngoại trên báo_chí cần phù_hợp với những tiêu_chí nào
+react_positive	xịn quá
+greet	hey sao rồi bro
+ask_info	hệ_thống tổ_chức của giáo_hội công_giáo việt_nam bao_gồm những gì
+ask_info	phật_giáo hiếu_nghĩa tà lơn có bao_nhiêu cơ_sở thờ_tự và tín_đồ đang sinh_sống ở đâu
+canthelp	mình sẽ tự tìm_hiểu thêm về vấn_đề này
+ask_info	thị_trường lao_động việt_nam đã phát_triển như_thế_nào kể từ khi gia_nhập wto
+ask_info	việt_nam đã có những đóng_góp tích_cực và có trách_nhiệm vào việc_gì
+thank	mình vặn được r cảm_ơn b
+chitchat_ask_time	h là gì vậy bro
+thank	m cảm on
+ask_info	tất_cả các tỉnh thành_phố ở việt_nam đã đạt chuẩn phổ_cập giáo_dục tiểu_học đúng độ tuổi chưa
+chitchat_ask_howdoing	cậu đang ổn không
+ask_info	thông_tin đối_ngoại bao_gồm những gì
+ask_info	việt_nam đang phải đối_mặt với vấn_đề gì trong việc triển_khai các chính_sách hỗ_trợ và bảo_đảm các quyền của các nhóm yếu_thế trong xã_hội
+greet	ấy ơiii
+ask_info	các tôn_giáo có vai_trò như_thế_nào đối_với việt_nam
+ask_info	chính_quyền các địa_phương đã tạo điều_kiện gì cho người nước_ngoài sinh_hoạt tôn_giáo tại việt_nam
+greet	hey bạn đã sẵn_sàng để bắt_đầu cuộc trò_chuyện chưa
+ask_info	quyền được chăm_sóc sức_khoẻ là ưu_tiên hàng_đầu của chính_phủ việt_nam trong chiến_lược phát_triển như_thế_nào
+chitchat_ask_whoisit	bạn là con_người thật đúng không
+ask_info	người chưa thành_niên được hưởng những chính_sách hỗ_trợ gì khi tham_gia cai_nghiện tại trung_tâm
+chitchat_ask_howdoing	cậu có vấn_đề gì không
+chitchat_ask_time	time now là mấy giờ zời
+react_positive	vui quá đi
+ask_info	đạo cao đài được công_nhận là tôn_giáo vào những năm nào
+greet	alo shoo
+greet	alo bạn ơiiiii
+ask_info	điều 6 đối_với báo_chí thực_hiện việc đăng phát nội_dung thông_tin đối_ngoại
+greet	heyyyyyy
+greet	câu ơi
+ask_info	cá_nhân bị thông_tin làm ảnh_hưởng xấu đến danh_dự nhân_phẩm uy_tín thì có quyền yêu_cầu gì từ phía pháp_luật
+ask_info	quyền_sở_hữu tư_nhân được pháp_luật bảo_hộ như_thế_nào
+ask_info	hội liên_hiệp phụ_nữ việt_nam đã hỗ_trợ những nạn_nhân bị buôn_bán như_thế_nào
+ask_info	việt_nam và va ti căng đang có những bước_tiến triển tích_cực trong quan_hệ tôn_giáo điều gì đã được thống_nhất giữa hai bên để tăng_cường quan_hệ
+ask_info	quyền con_người ảnh_hưởng như_thế_nào đến hoà_bình an_ninh và phát_triển
+chitchat_ask_whoisit	bạn là người hay_là máy vậy
+ask_info	đài tiếng_nói việt_nam phủ_sóng vệ_tinh bao_nhiêu phần_trăm diện_tích lãnh_thổ
+ask_info	hiến_pháp 2013 có những nội_dung gì về quyền con_người
+ask_info	những thách_thức nào đang đối_diện với việt_nam trong việc bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo
+greet	uh bạn ơi
+chitchat_ask_howbuilt	tạo chatbot này có sử_dụng dữ_liệu từ người dùng không
+react_positive	tuyệt quá
+ask_info	quyền nào được bảo_đảm trong lĩnh_vực lao_động và việc_làm theo hiến_pháp năm 2013
+affirm	đúng rồi không có lý_do để từ_chối
+chitchat_ask_howdoing	tình_hình sao rồi
+canthelp	tớ muốn dừng ở đây
+ask_info	tù_nhân ở việt_nam bị ngược_đãi như_thế_nào
+canthelp	thôi đến đây thôi
+canthelp	tớ cần giúp_đỡ khác
+ask_info	tổ đình của giáo_hội phật đường nam tông minh sư đạo đặt ở đâu
+thank	cám_ơn ak
+react_negative	sao em ngốc thế
+ask_info	nhiệm_vụ và quyền_hạn về xuất_bản của bộ thông_tin và truyền_thông
+chitchat_ask_whatismyname	có biêt tui là ai ko
+affirm	chắc_chắn không_thể sai được
+ask_info	hiến_pháp năm 2013 có quy_định gì
+ask_info	người_phát_ngôn có quyền từ_chối phát_ngôn và cung_cấp thông_tin trong những trường_hợp nào ?
+affirm	tất_nhiên là ok không có gì để phản_đối
+ask_info	những quy_định nào trong bộ_luật dân_sự và bộ_luật hình_sự liên_quan đến quyền lập hội của công_dân
+chitchat_ask_whatismyname	tên tui nghe có phong_cách nhỉ
+bye	goodbye em
+ask_info	các cơ_quan báo_chí được hỗ_trợ gì khi thực_hiện đăng phát nội_dung thông_tin đối_ngoại
+bye	bye bye hẹn gặp lại mọi người
+ask_info	quy_mô giáo_dục ở việt_nam hiện_nay như_thế_nào
+bye	hẹn gặp lại lần sau
+affirm	mình chấp_nhận không có vấn_đề gì
+ask_info	những thông_tin nào về tình_hình tự_do tín_ngưỡng tôn_giáo ở việt_nam đã bị các thế_lực thiếu thiện_chí bác_bỏ
+ask_info	các tổ_chức phi_chính_phủ có vai_trò gì trong bảo_vệ và thúc_đẩy nhân_quyền
+ask_info	khi nào việt_nam gia_nhập công_ước về quyền trẻ_em và công_ước chống tra_tấn
+chitchat_ask_whoisit	bạn là con bot ai à
+chitchat_ask_time	sắp 14 giờ chưa em
+ask_info	những giá_trị văn_hoá tiêu_biểu đặc_trưng của dân_tộc việt_nam được hun_đúc như_thế_nào trong cuộc_sống lao_động và phát_triển quan_hệ với các quốc_gia khác
+greet	xin chào
+deny	không bạn
+ask_info	nhà_nước việt_nam luôn coi tín_ngưỡng tôn_giáo là một bộ_phận quan_trọng của khối đại_đoàn_kết toàn dân_tộc
+ask_info	tại_sao việc tăng_cường sự tham_gia của người lao_động vào chế_độ bảo_hiểm_xã_hội là cần_thiết các biện_pháp nào có_thể được áp_dụng để đạt được mục_tiêu này
+react_positive	thật là đỉnh_cao
+chitchat_ask_whoisit	bạn là máy ai à
+greet	ng ơi
+ask_info	tính chính_thống của hồi_giáo ở việt_nam bị ảnh_hưởng bởi yếu_tố gì
+explain	cho tôi hiểu rõ hơn về điều đó
+thank	thanks bác nha
+explain	cho tôi hiểu rõ hơn về điều đó
+chitchat_ask_howdoing	cậu có cảm_thấy tốt không nhỉ
+ask_info	số_lượng người được cai_nghiện bằng nhiều hình_thức khác nhau trong mỗi năm ở việt_nam là bao_nhiêu
+canthelp	tớ sẽ tự làm
+chitchat_ask_howdoing	mọi thứ có ổn không
+ask_info	hoạt_động từ_thiện nhân_đạo của giáo_hội các thánh hữu ngày sau của chúa giê su ky tô tách_biệt với hoạt_động gì
+ask_info	các khái_niệm về quyền con_người đã được hình_thành và pháp_điển_hoá trong luật quốc_gia của hầu_hết các nước trên thế_giới và luật_pháp quốc_tế như_thế_nào
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo được quy_định như_thế_nào
+ask_info	tam quy là gì
+ask_info	các cơ_quan nào thuộc uỷ_ban_nhân_dân cấp tỉnh được áp_dụng thông_tư này
+ask_info	báo_chí thực_hiện việc đăng phát nội_dung thông_tin đối_ngoại bao_gồm những phương_tiện nào
+ask_info	hiện_tại giáo_hội công_giáo việt_nam có bao_nhiêu giám_mục linh_mục và tu_sĩ
+ask_info	việt_nam đã ký_kết những văn_bản quốc_tế nào liên_quan đến phòng_chống mua_bán người
+ask_info	những cam_kết của việt_nam về đảm_bảo tốt hơn quyền con_người trong thời_gian tới
+deny	tôi không chịu
+ask_info	những hành_vi nào bị nghiêm_cấm đối_với người cai_nghiện tại trung_tâm
+ask_info	luật tín_ngưỡng tôn_giáo quy_định gì
+thank	minh cam on bot nha
+ask_info	những chính_sách hỗ_trợ giáo_dục nào khác có_thể được áp_dụng để giúp_đỡ học_sinh sinh_viên có cơ_hội học_tập tốt hơn
+react_positive	quá đỉnh luôn
+ask_info	những nỗ_lực và thành_tựu nào của nhà_nước việt_nam được đề_cập trong cuốn sách này
+ask_info	tỷ_lệ trẻ_em dưới 5 tuổi được tiêm phòng_bệnh sởi đạt được là bao_nhiêu
+ask_info	điều 16 hiến_pháp năm 2013 quy_định gì
+greet	anh nhớ em mà
+ask_info	hiến_pháp năm 2013 ghi_nhận cả ba nghĩa_vụ của nhà_nước là gì
+chitchat_ask_time	thời_gian hiện_tại theo đồng_hồ của bạn là bao_nhiêu
+explain	tại_sao chúng_ta cần quan_tâm tới điều đó
+ask_info	minh sư đạo xuất_hiện vào_khoảng thời_gian nào
+ask_info	các tổ_chức tôn_giáo được hướng_dẫn và khuyến_khích tham_gia đóng_góp tích_cực vào công_cuộc xây_dựng và phát_triển đất_nước như_thế_nào
+ask_info	ban trị_sự trung_ương giáo_hội tịnh_độ cư_sĩ phật hội việt_nam hướng_dẫn nhóm tín_đồ ở nước_ngoài tu học tại đâu
+chitchat_ask_whatismyname	tên tui là gì nhỉ
+thank	ah mình cảm_ơn
+greet	hey bạn có cảm_thấy hạnh_phúc không
+react_positive	rất tốt
+chitchat_ask_time	sắp 15 giờ chưa em
+ask_info	có bao_nhiêu chương_trình dự_án oda và dự_án viện_trợ phi_chính_phủ nước_ngoài được triển_khai trong lĩnh_vực y_tế tại việt_nam
+ask_info	mục_tiêu của công_tác tôn_giáo là gì
+greet	n oie
+ask_info	tiểu_sử nguyễn_xuân phúc
+ask_info	hội_thánh men nô nai được công_nhận tổ_chức tôn_giáo năm nào
+react_negative	phí thời_gian quá
+ask_info	viện nghiên_cứu quyền con_người thuộc học_viện chính_trị quốc_gia hồ_chí_minh của việt_nam hợp_tác với những quốc_gia nào trong lĩnh_vực đào_tạo luật_quốc_tế về quyền con_người và luật nhân_đạo
+react_positive	em có xinh không
+greet	alo bạn woi
+ask_info	ai có trách_nhiệm chỉ_đạo các cơ_quan_chuyên_môn thuộc uỷ_ban_nhân_dân cấp tỉnh trong việc thực_hiện thông_tư
+react_positive	vui quá
+chitchat_ask_howbuilt	có phải bot này được viết bằng c không
+ask_info	giáo luật của đạo cao đài như_thế_nào
+ask_info	kinh_phí cho hoạt_động thông_tin đối_ngoại của các cơ_quan đơn_vị được bảo_đảm từ đâu
+deny	tôi không ủng_hộ
+ask_info	quyền tự_do ngôn_luận trên báo_chí của công_dân việt_nam được được quy_định ở pháp_luật nào
+ask_info	quan_hệ giữa quyền con_người và quyền_công_dân ?
+chitchat_ask_whatspossible	bạn có quyền làm những gì
+ask_info	những tiêu_chuẩn quốc_tế nào được áp_dụng để chuẩn_hoá chất_lượng đào_tạo
+react_positive	rất hài_lòng với kết_quả này
+ask_info	cục thông_tin đối_ngoại làm_gì
+ask_info	tôn_giáo bà la môn của người chăm đã được sàng_lọc và thay_đổi như_thế_nào để phù_hợp với đời_sống dân_chúng
+chitchat_ask_whoisit	bạn là chatbot ai à
+ask_info	việt_nam kiểm_duyệt báo_chí như nào
+react_positive	tuyệt quá
+ask_info	mục_tiêu của chính_phủ việt_nam trong thời_gian tới là gì
+ask_info	những thông_tin nào phải được công_khai theo luật tiếp_cận thông_tin 2016 ?
+ask_info	việt_nam có bao_nhiêu dân_tộc
+ask_info	việt_nam đã phê_chuẩn bao_nhiêu công_ước của ilo
+ask_info	các hoạt_động trao_đổi kinh_nghiệm trong chương_trình hợp_tác về tư_pháp và pháp_luật giai_đoạn 1 và giai_đoạn 2 nhằm mục_đích gì
+react_positive	tốt quá bạn ơi
+ask_info	nhà_nước việt_nam khuyến_khích tự_do sáng_tạo trong lĩnh_vực nào
+chitchat_ask_howbuilt	bạn đã dùng framework nào để xây_dựng chatbot này
+ask_info	đại_hội các cấp có nhiệm_vụ gì
+react_positive	tuyệt quá
+ask_info	bộ ngoại_giao phối_hợp với các cơ_quan nào trong việc triển_khai hoạt_động thông_tin đối_ngoại ở nước_ngoài
+ask_info	hoạt_động từ_thiện xã_hội của giáo_hội phật_giáo việt_nam có vai_trò như_thế_nào
+ask_info	có bao_nhiêu tổ_chức tôn_giáo được liệt_kê trong danh_mục
+affirm	ok bắt_đầu thôi
+chitchat_ask_time	bây_giờ là cái gì vậy bro đồng_hồ của tôi hỏng rồi
+chitchat_ask_time	sắp 21 giờ chưa em
+ask_info	nguyên_tắc nào được thể_hiện xuyên suốt trong hệ_thống pháp_luật việt_nam liên_quan đến dân_tộc_thiểu_số
+greet	ays ơi
+ask_info	chính_phủ là cơ_quan_hành_chính nhà_nước cao nhất của nước nào
+chitchat_ask_howbuilt	chatbot này đã được kiểm_tra với nhiều loại dữ_liệu khác nhau chưa
+ask_info	pháp môn cao đài chiếu minh tam thanh vô_vi là gì và được cấp chứng_nhận đăng_ký hoạt_động tôn_giáo vào năm nào
+ask_info	hiện_tại ai là bộ_trưởng thông_tin truyền_thông
+affirm	ok không cần suy_nghĩ nhiều
+ask_info	làm thế_nào để nâng cao chất_lượng nguồn nhân_lực thông_qua đào_tạo kỹ_năng và năng_lực thực_hành
+ask_info	điều 13 các sự_kiện ở nước_ngoài là gì
+chitchat_ask_whatismyname	m biết t là ai ko
+ask_info	những thông_tin , tài_liệu nào báo_chí không được tiếp_cận và không được đăng , phát ?
+deny	đừng có mơ_tưởng
+ask_info	các văn_bản pháp_luật nào được căn_cứ để ban_hành thông_tư này
+chitchat_ask_whoisit	bạn là con bot à
+ask_info	hiến_pháp 2013 có quy_định gì về bình_đẳng giới
+react_positive	thật_sự tuyệt_vời
+chitchat_ask_whoisit	bạn có phải người thật không vậy
+chitchat_ask_time	xin_lỗi bạn có đồng_hồ không bây_giờ là mấy giờ
+affirm	đúng vậy không có gì để phản_bác
+ask_info	bộ_luật dân_sự sửa_đổi đã quy_định gì về việc chuyển_đổi giới_tính
+ask_info	các công_ước nào về việc_làm và lao_động mà việt_nam đã phê_chuẩn trong năm 2013 và 2014
+bye	tạm_biệt nhé
+bye	bai bai em
+thank	thank
+explain	bạn có_thể trình_bày rõ hơn vấn_đề này được không
+chitchat_ask_time	bạn có_thể cho tôi xem giờ hiện_tại không
+greet	alo e oie
+ask_info	các hoạt_động viện_trợ của các tổ_chức phi_chính_phủ nước_ngoài tại việt_nam tập_trung vào những vấn_đề gì
+ask_info	việt_nam đang xây_dựng mô_hình giáo_dục hoà_nhập cho người khuyết_tật như_thế_nào
+ask_info	ở việt_nam có tự_do báo_chí không
+thank	cảm_ơn bạn đã hỗ_trợ mình
+ask_info	nghị_định quy_định chức_năng nhiệm_vụ và cơ_cấu tổ_chức của bộ thông_tin và truyền_thông có hiệu_lực thi_hành từ ngày nào
+greet	hi chij
+ask_info	dân_tộc việt_nam có bao_nhiêu dân_tộc
+ask_info	pháp_luật việt_nam về bảo_đảm quyền văn_hoá về cơ_bản được xây_dựng trên cơ_sở nào
+ask_info	hiện_nay việc chăm_sóc và điều_trị cho người nhiễm hiv được cải_thiện như_thế_nào
+react_positive	thật là phấn_khích
+ask_info	các tác_động tiêu_cực của thiên_tai biến_đổi khí_hậu dịch_bệnh khủng_hoảng tài_chính toàn_cầu tiếp_tục là những thách_thức gì
+ask_info	người nghiện ma_tuý cần phải thực_hiện bao_lâu để có_thể cai_nghiện tự_nguyện tại trung_tâm
+ask_info	việt_nam đang trong quá_trình hoàn_thiện nhà_nước pháp_quyền và cải_cách tư_pháp như_thế_nào
+ask_info	quan_hệ giữa quyền con_người và dân_chủ ?
+canthelp	mình cần một phương_pháp giúp_đỡ khác
+chitchat_ask_whatspossible	m làm gì đc cho t
+chitchat_ask_howbuilt	bot này có sử_dụng machine learning không
+ask_info	có bao_nhiêu người nước_ngoài đã nhập_cảnh vào việt_nam trong năm 2015
+greet	c oiq
+ask_info	việt_nam kiểm_duyệt báo_chí như nào
+ask_info	việt_nam cam_kết tham_gia tích_cực vào công_việc của hội_đồng nhân_quyền liên_hợp_quốc theo hướng nào
+chitchat_ask_howold	bạn có tuổi đời gì không
+ask_info	giáo_hội phật đường nam tông minh sư đạo đã thực_hiện những hoạt_động từ_thiện nào
+ask_info	người h ' mông ở mường_nhé hiện_nay như_thế_nào
+deny	tôi không tin vào điều đó
+chitchat_ask_whoisit	bạn là máy ai à
+ask_info	đại_lễ phật đản liên_hợp_quốc vesak diễn ra ở đâu
+chitchat_ask_wherefrom	nước nào là quê_hương của bạn
+chitchat_ask_whoisit	bạn là bot tự_động à
+ask_info	công_tác bảo_vệ chăm_sóc và giáo_dục trẻ_em sẽ được tập_trung vào những hoạt_động gì
+ask_info	phương_châm hành_đạo của tịnh_độ cư_sĩ phật hội việt_nam
+chitchat_ask_whoisit	bạn là người hay robot vậy
+ask_info	phật_giáo tứ ân hiếu_nghĩa có bao_nhiêu cơ_sở thờ_tự và tín_đồ sinh_sống tập_trung ở đâu
+deny	xin_lỗi tôi không đồng_ý
+ask_info	trách_nhiệm của nhà_nước đối_với quyền tự_do báo_chí , quyền tự_do ngôn_luận trên báo_chí của công_dân ?
+ask_info	việt_nam đang tích_cực thúc_đẩy triển_khai các chương_trình dự_án hợp_tác giữa aichr và eu trong khuôn_khổ chương_trình đối_thoại khu_vực asean eu readi như_thế_nào
+chitchat_ask_whatismyname	bot ơi nhớ cho mình biết tên mình nhé
+greet	ơ bạn ơi
+ask_info	chương_trình đối_thoại về nhà_nước pháp_quyền đã hỗ_trợ việt_nam trong việc_gì
+thank	mình cám_ơn nhièu nhé
+ask_info	chương_trình hành_động quốc_gia về phòng_chống tội_phạm mua_bán người giai_đoạn 2011 2015 nhằm mục_đích gì và đối_tượng nạn_nhân chủ_yếu là ai
+chitchat_ask_whoisit	có phải bạn là con_người thật không
+ask_info	việc kiểm_tra đôn_đốc thực_hiện các quy_định của pháp_luật chưa tốt dẫn đến tình_trạng gì
+react_positive	em thông_minh đó
+deny	tôi không chấp_nhận
+ask_info	việt_nam là nước đầu_tiên tham_gia công_ước quốc_tế về quyền của trẻ_em
+deny	đéo
+canthelp	tớ không muốn tiếp_tục cuộc trò_chuyện này
+ask_info	văn_bản hướng_dẫn nào sẽ được ban_hành để kiện_toàn tổ_chức bộ_máy quản_lý_nhà_nước về thông_tin đối_ngoại
+chitchat_ask_whoisit	mày là người thật chứ không phải robot đúng không
+ask_info	liên_hiệp bề_trên thượng_cấp việt_nam được tái thành_lập vào năm nào và với mục_đích gì
+explain	bạn có_thể cung_cấp ví_dụ để làm rõ hơn không
+ask_info	người_dân việt_nam có bị đàn_áp chính_trị không
+bye	chúc bạn có một ngày thật tuyệt_vời
+affirm	chắc_chắn không cần nghĩ_ngợi thêm
+chitchat_ask_whatspossible	bot này có_thể cung_cấp thông_tin gì cho tôi
+ask_info	ở việt_nam có tự_do báo_chí không
+greet	chào sh
+react_negative	chẳng hiểu gì cả
+react_negative	đồ vớ_vẩn
+chitchat_ask_howbuilt	tạo chatbot này có dùng các api không
+ask_info	dân_tộc việt_nam có bao_nhiêu dân_tộc
+ask_info	làm_sao để ra báo tư_nhân ở việt_nam
+affirm	mình tán_thành nhé
+ask_info	những rủi_ro về biến_đổi khí_hậu thiên_tai dịch_bệnh luôn tạo ra thách_thức đối_với việt_nam là gì
+ask_info	nguyên_tắc hoạt_động thông_tin đối_ngoại được quy_định như_thế_nào
+ask_info	mục_đích của việc giáo_dục ở cấp tiểu_học trung_học_cơ_sở cho thanh_thiếu_niên về những âm_mưu thủ_đoạn nguyên_nhân hậu_quả của nạn buôn_bán người là gì
+ask_info	quyền giám_sát của hội_đồng dân_tộc áp_dụng cho đâu
+ask_info	công_giáo góp_phần làm phong_phú nền văn_hoá việt_nam là gì
+greet	sao chị oi
+thank	vậy c cảm_ơn
+chitchat_ask_whatismyname	tui có cái tên đẹp không nhỉ
+chitchat_ask_time	thời_gian bây_giờ là thời_điểm tốt nhất để nghỉ_ngơi đúng không
+react_positive	thật là tốt
+chitchat_ask_time	sắp 18 giờ chưa em
+ask_info	hiến_pháp việt_nam năm 2013 nêu rõ những điều gì liên_quan đến quyền tự_do tín_ngưỡng tôn_giáo
+affirm	chắc_chắn không cần chờ_đợi nữa
+ask_info	trường kinh_thánh cơ đốc được nhà_nước cho_phép thành_lập vào năm nào vai_trò của trường là gì
+thank	thanks để mình đặt trên misaee
+chitchat_ask_whatismyname	hỏi tên tui cái bot ơi
+ask_info	phật_giáo đã để lại những dấu_ấn sâu_đậm nào trong kiến_trúc và văn_hoá việt_nam
+ask_info	tuyên_bố nhân_quyền asean là văn_kiện gì và có ý_nghĩa gì đối_với khu_vực asean
+ask_info	việt_nam đã có những đóng_góp gì trong việc bảo_vệ và thúc_đẩy các quyền con_người tại hội_đồng nhân_quyền liên_hợp_quốc
+react_positive	em dễ_thương
+ask_info	lãnh_đạo bộ thông_tin và truyền_thông việt_nam
+ask_info	nhân_quyền là gì
+ask_info	các dịch_bệnh phổ_biến ở vùng dân_tộc_thiểu_số và miền núi đã được ngăn_chặn và đẩy_lùi như_thế_nào
+ask_info	hành_vi lợi_dụng quyền tự_do đi_lại cư_trú để vi_phạm pháp_luật sẽ bị xử_lý như_thế_nào
+ask_info	hồi_giáo bani là tôn_giáo như_thế_nào
+chitchat_ask_time	giờ này theo múi_giờ quốc_tế là mấy giờ
+react_positive	em giỏi thế
+chitchat_ask_howdoing	cậu cảm_thấy thế_nào
+ask_info	tại_sao hoạt_động tôn_giáo trên không_gian mạng trở_nên phong_phú và đa_dạng trong bối_cảnh cuộc cách_mạng_công_nghiệp lần thứ tư diễn ra mạnh_mẽ
+greet	hi sho
+chitchat_ask_whoisit	bạn nghe có_vẻ như người thật đấy
+ask_info	chỉ_thị 202 ct hđbt về các quy_định của nhà_nước về lập hội được ban_hành vào năm nào
+deny	tôi không đồng_ý với ý_kiến của bạn
+chitchat_ask_time	sắp đến trưa chưa
+thank	em cảm_ơn chị nhé
+ask_info	có bao_nhiêu trường phổ_thông dân_tộc nội_trú
+ask_info	chuẩn nghèo quốc_gia của việt_nam đang tiếp_cận với chuẩn nghèo quốc_tế ở mức_độ nào
+ask_info	mục_đích chính của luật trưng_cầu_ý_dân là gì
+ask_info	chủ_trương thứ nhất của nhà_nước việt_nam trong việc cam_kết thúc_đẩy và bảo_vệ quyền con người ở việt_nam là gì
+greet	ủa b oie
+ask_info	những lĩnh_vực nào đã đạt được thành_tựu to_lớn nhất trong sự_nghiệp đổi_mới của việt_nam
+ask_info	quyền bất_khả_xâm_phạm về thân_thể được quy_định như_thế_nào
+greet	em thích anh không
+react_positive	quá chuẩn
+chitchat_ask_whatismyname	hỏi tên tui xem có nhớ không
+chitchat_ask_howbuilt	bạn đã dùng công_nghệ gì để tạo bot này
+ask_info	quan_điểm của nhà_nước việt_nam về quyền con_người là gì
+react_negative	tôi không thấy chatbot này đáng tin_cậy và đáng tin_cậy
+react_negative	bị điên à
+chitchat_ask_whoisit	bạn là robot ai à
+affirm	let ' s làm đi không chần_chừ
+ask_info	người nghiện ma_tuý cần phải thực_hiện bao_lâu để có_thể cai_nghiện tự_nguyện tại trung_tâm
+ask_info	những thành_tựu đạt được trong việc bảo_đảm các quyền dân_sự và chính_trị thể_hiện điều gì
+greet	í chị ơi
+ask_info	huy_động sự tham_gia của cả hệ_thống chính_trị vào quá_trình nào
+greet	alo e êi
+explain	tại_sao bạn cần biết_điều đó
+greet	hi ahop
+ask_info	tăng_cường trao_đổi đoàn ký_kết thoả_thuận hợp_tác trên lĩnh_vực tôn_giáo với các nước trên thế_giới nhằm mục_đích gì
+greet	chào em
+react_positive	cảm_ơn nhiều
+ask_info	quyền bầu_cử ứng_cử và tham_gia quản_lý_nhà_nước và xã_hội được coi là quan_trọng như_thế_nào trong đời_sống xã_hội của việt_nam
+ask_info	điều 14 hoạt_động hỗ_trợ hợp_tác với các cơ_quan thông_tấn báo_chí công_ty truyền_thông nước_ngoài tại việt_nam
+ask_info	việt_nam gặp những khó_khăn , thách_thức nào trong bảo_đảm và thúc_đẩy quyền con_người ?
+ask_info	cơ_cấu ngành_nghề của các cơ_sở dạy nghề như_thế_nào
+ask_info	quỹ quốc_gia về việc_làm đã tạo điều_kiện gì cho các nhóm đối_tượng yếu_thế trong xã_hội
+ask_info	hiến_pháp 2013 có điểm gì khác_biệt so với hiến_pháp 1992 về quyền đời tư
+react_positive	vui quá đi
+ask_info	việt_nam đang xem_xét khả_năng gia_nhập công_ước gì
+ask_info	quy_định nào liên_quan đến việc xử_lý vi_phạm pháp_luật về tín_ngưỡng tôn_giáo của cán_bộ công_chức
+ask_info	hiến_pháp 2013 đã mở_rộng phạm_vi bảo_vệ đối_với các quyền con_người và quyền_công_dân như_thế_nào
+deny	tôi không đồng_ý với ý_kiến đó
+ask_info	chính_phủ việt_nam đã ký_kết bao_nhiêu hiệp_định và thoả_thuận song_phương về việc miễn thị_thực nhập_cảnh cho công_dân với các nước và vùng lãnh_thổ
+ask_info	đạo tin lành ở miền nam có bao_nhiêu hệ phái và tổ_chức
+ask_info	những nỗ_lực nào đang được thực_hiện để củng_cố và phát_triển mạng_lưới các cơ_sở dạy nghề
+deny	t ko đồng_ý
+chitchat_ask_whoisit	bạn có phải là trợ_lý ai không
+thank	thanks để mình xem
+thank	cảm_ơn nhé
+ask_info	các chính_sách bảo_đảm an_sinh xã_hội đóng vai_trò như_thế_nào
+affirm	mình tán_thành đó
+ask_info	luật báo_chí sửa_đổi được quốc_hội thông_qua vào ngày nào
+ask_info	lễ_nghi của đạo cao đài như_thế_nào
+ask_info	cơ_cấu tổ_chức của phật hội tứ ân hiếu_nghĩa gồm những cấp hành_chính đạo nào
+canthelp	tớ muốn kết_thúc ở đây
+ask_info	nhiệm_vụ của công_tác tôn_giáo trong thời_gian tới là gì
+greet	người đẹp ơi
+ask_info	chính_phủ việt_nam có những điểm nào tệ
+ask_info	thời_gian quy_trình cai_nghiện ma_tuý kéo_dài bao_lâu
+chitchat_ask_whoisit	bạn là bot tự_động sử_dụng ai à
+deny	chắc_chắn không
+ask_info	các cơ_quan chính_quyền phải làm gì để giải_quyết các khó_khăn trong việc xây_dựng và triển_khai các chính_sách nhằm bảo_đảm quyền_lợi của người dân
+ask_info	nhân_quyền của việt_nam là gì
+ask_info	quy_chế nào được xây_dựng để tạo điều_kiện cho các cơ_quan thông_tấn báo_chí truyền_thông phóng_viên nước_ngoài hoạt_động trên địa_bàn tỉnh thành_phố
+chitchat_ask_whoisit	bạn là con_người thật đúng không
+ask_info	chương_trình hợp_tác kỹ_thuật về quyền con_người giữa các cơ_quan việt_nam và úc nhằm hỗ_trợ gì
+ask_info	bản hiến_pháp nào của việt_nam chứa_đựng những nội_dung mới về quyền con_người
+ask_info	kỳ phát_ngôn và cung_cấp thông_tin cho báo_chí được quy_định như_thế_nào ?
+react_negative	em là đồ khốn
+thank	thank kiu ấy
+ask_info	số_liệu thống_kê cho thấy những lớp_học nào được tổ_chức cho người bị giam_giữ
+react_positive	quá tốt luôn
+ask_info	các hội_thánh tổ_chức cao đài có nhiệm_vụ gì
+explain	bạn có_thể trình_bày rõ hơn vấn_đề này được không
+ask_info	hiến_pháp năm 2013 của việt_nam được thông_qua vào ngày nào và có hiệu_lực từ khi nào
+ask_info	việt_nam đã ký_kết những điều_ước quốc_tế nào liên_quan đến lĩnh_vực xuất_nhập_cảnh
+chitchat_ask_howold	bạn đã có tuổi đôi_mươi chưa
+ask_info	cục thông_tin đối_ngoại có trách_nhiệm gì
+ask_info	tính đến hết năm_học 2014 2015 có bao_nhiêu hộ gia_đình và học_sinh sinh_viên được vay vốn tổng dư_nợ tính đến thời_điểm nào
+ask_info	luật tín_ngưỡng tôn_giáo quy_định như_thế_nào
+ask_info	việt_nam đã là thành_viên của những uỷ_ban và hội_đồng nào của liên_hợp_quốc liên_quan đến quyền con_người
+canthelp	tớ muốn kết_thúc cuộc trò_chuyện này
+greet	hello b
+ask_info	việt_nam là nước đầu_tiên tham_gia công_ước quốc_tế về quyền của trẻ_em
+react_positive	pro qua '
+ask_info	quyền con_người liên_quan mật_thiết đến điều gì
+ask_info	tổ_chức cung_cấp dịch_vụ công có hiệu_quả là gì
+ask_info	tín_đồ hồi_giáo bàni tập_trung ở những tỉnh_thành nào
+thank	vang thanks misa ah
+ask_info	những giải_pháp nào được chính_phủ việt_nam đưa ra để tăng_cường nhận_thức về bình_đẳng giới và thay_đổi thái_độ tư_tưởng về giới trong xã_hội
+ask_info	na_uy đang phối_hợp với việt_nam thực_hiện gì
+ask_info	luật lý_lịch tư_pháp năm 2009 quy_định gì về việc quản_lý lý_lịch tư_pháp và bảo_đảm tôn_trọng bí_mật đời tư của cá_nhân
+affirm	ừ làm đi
+greet	alo bạn oưi
+ask_info	quy_định nào liên_quan đến việc đăng_ký sinh_hoạt tôn_giáo tập_trung
+chitchat_ask_howold	bạn có tuổi đôi_mươi chưa
+ask_info	luật tiếp_cận thông_tin được quốc_hội thông_qua vào ngày nào
+chitchat_ask_whatspossible	có_thể làm_gì
+ask_info	từ năm 2007 đến nay đã có bao_nhiêu hộ được vay vốn
+ask_info	năm tổ_chức chính_trị xã_hội lớn nào có tầm ảnh_hưởng sâu_rộng trong xã_hội
+greet	hi bạn đã chuẩn_bị sẵn_sàng cho một cuộc trò_chuyện tuyệt_vời chưa
+chitchat_ask_whoisit	bạn là máy ai à
+ask_info	sở thông_tin và truyền_thông phải tuân_thủ những quy_định nào về bảo_vệ bí_mật nhà_nước trong công_tác thông_tin đối_ngoại
+ask_info	đảng_cộng_sản_việt_nam đã có chủ_trương gì về tôn_giáo
+react_negative	bố mày
+react_negative	tôi đã hỏi một câu hỏi nhưng chatbot không trả_lời đúng
+ask_info	trung_tâm cai_nghiện có nhiệm_vụ gì
+chitchat_ask_whoisit	bạn là bot tự_động à
+affirm	mình nhận đó
+ask_info	những cải_thiện nào đã được đạt được trong chất_lượng cuộc_sống của người dân_tộc_thiểu_số
+ask_info	quyền con_người là gì ?
+bye	rất vui khi được nói_chuyện với em
+react_negative	con đĩ này
+thank	e cam on nhe de e tham khao them
+ask_info	hiến_pháp năm 2013 thể_hiện điều gì
+greet	hi anh_chị
+ask_info	cơ_sở_dữ_liệu về thông_tin đối_ngoại là gì và chức_năng của nó là gì
+chitchat_ask_whoisit	bạn là con bot à
+ask_info	nhà_nước có những chính_sách gì để khuyến_khích và ưu_đãi doanh_nghiệp tham_gia sản_xuất và cung_ứng sản_phẩm dịch_vụ công_ích
+ask_info	giáo_hội phật đường nam tông minh sư đạo được công_nhận là tổ_chức tôn_giáo vào năm nào
+greet	uhm em ơi
+chitchat_ask_howbuilt	làm thế_nào để tạo bot đáng yêu như_vậy
+ask_info	trung_tâm cai_nghiện có nhiệm_vụ gì
+ask_info	người dân_tộc_thiểu_số ở tất_cả các vùng miền được tham_gia hoạt_động văn_hoá mang bản_sắc của các nước nào
+react_positive	rất hài_lòng với kết_quả này
+ask_info	sự_kiện nào được quy_định trong nghị_định về quản_lý hoạt_động thông_tin đối_ngoại tại nước_ngoài
+ask_info	giáo_hội cơ đốc phục lâm việt_nam xác_định đường_hướng hành_đạo như_thế_nào
+ask_info	các hoạt_động quan_hệ quốc_tế của công_giáo việt_nam nhận được sự quan_tâm và ủng_hộ từ đâu
+react_negative	t ko hài_lòng với câu trả_lời này một_chút nào luôn
+explain	bạn có_thể nói rõ hơn về cách thực_hiện điều đó không
+ask_info	tại uỷ_ban liên chính_phủ asean về nhân_quyền aichr việt_nam đã có những hoạt_động gì để bảo_vệ quyền con_người
+ask_info	những quy_định nào trong các đạo_luật liên_quan đến quyền của luật_sư được cụ_thể_hoá để bảo_đảm quyền được xét_xử công_bằng của người dân
+react_positive	thật là đỉnh_cao
+chitchat_ask_whatspossible	t có_thể hỏi thêm về sản_phẩm này ko
+deny	tôi không thích ý_kiến đó
+affirm	tất_nhiên không cần lưu_ý gì thêm
+react_positive	wow
+ask_info	điều 23 trách_nhiệm của tổ_chức hoặc cá_nhân phụ_trách triển_khai hoạt_động thông_tin đối_ngoại
+ask_info	việt_nam đã đạt được những thành_tựu to_lớn nào trong việc bảo_đảm quyền tự_do tín_ngưỡng tôn_giáo của người_dân trên thực_tế
+react_negative	em ngốc thế
+chitchat_ask_howdoing	mọi thứ okie không
+chitchat_ask_whatspossible	có khả_năng thế_nào
+ask_info	việt_nam đã mời bao_nhiêu thủ_tục đặc_biệt của hội_đồng nhân_quyền
+ask_info	quyền của cá_nhân đối_với hình_ảnh được quy_định như_thế_nào
+ask_info	viện nghiên_cứu quyền con_người thuộc học_viện chính_trị quốc_gia hồ_chí_minh của việt_nam đã hợp_tác với đan_mạch trong lĩnh_vực nào
+ask_info	ai là người chịu trách_nhiệm về thực_hiện chức_năng nhiệm_vụ và quyền_hạn được giao của cục thông_tin đối_ngoại
+ask_info	phật_giáo đã để lại những dấu_ấn sâu_đậm nào trong kiến_trúc và văn_hoá việt_nam
+chitchat_ask_howdoing	mọi việc đã xảy ra chưa
+thank	cám_ơn c
+chitchat_ask_whoisit	sao bạn nghe giống người thật thế
+react_positive	thật_sự tuyệt_vời
+ask_info	quyền tự_do cá_nhân là gì
+react_negative	tôi đã hỏi một câu hỏi nhưng chatbot không trả_lời
+ask_info	phật_giáo được truyền vào việt_nam từ khi nào
+react_positive	rất hài_lòng với kết_quả này
+ask_info	cục thông_tin đối_ngoại có nhiệm_vụ gì trong việc thực_hiện thông_tư
+ask_info	hoạt_động quốc_tế của các tôn_giáo tại việt_nam được mở_rộng như_thế_nào
+chitchat_ask_whoisit	bạn là robot ai à
+ask_info	luật lý_lịch tư_pháp năm 2010 quy_định gì
+chitchat_ask_howbuilt	chatbot này được phát_triển như_thế_nào
+ask_info	cơ_cấu tổ_chức của bộ thông_tin và truyền_thông
+ask_info	việt_nam đang trong quá_trình hoàn_thiện gì
+ask_info	chức_sắc chức_việc và tín_đồ các tôn_giáo ngày_càng ủng_hộ và tham_gia tích_cực vào công_cuộc gì
+ask_info	việt_nam đã đạt được những kết_quả gì
+thank	tks bạn đã chia_sẻ thông_tin
+chitchat_ask_time	em ơi thứ mấy rồi
+ask_info	thông_tin đối_ngoại trên báo_chí bao_gồm những nội_dung gì
+thank	thanks b
+explain	hãy cung_cấp thêm thông_tin chi_tiết về điều đó
+ask_info	tại_sao tầm bao_phủ của hệ_thống an_sinh xã_hội hiện_nay còn khiêm_tốn đặc_biệt là đối_với người nghèo và các nhóm dễ bị tổn_thương
+react_positive	vui quá
+ask_info	những biện_pháp nào được chính_phủ việt_nam triển_khai để nâng cao hiệu_quả thực_thi các chính_sách pháp_luật về lao_động
+thank	v e cám_ơn c
+chitchat_ask_whoisit	bạn là bot tự_động à
+ask_info	khi áp_dụng quyền con_người cần kết_hợp như_thế_nào giữa các chuẩn_mực chung và đặc_thù của từng quốc_gia dân_tộc
+greet	chào em
+thank	sang tuần m mua cám_ơn nhé
+ask_info	quyền tự_do tín_ngưỡng tôn_giáo là gì
+chitchat_ask_time	sắp hết tháng chưa
+ask_info	thúc_đẩy quá_trình tự_do lựa_chọn việc_làm và dịch_chuyển lao_động
+ask_info	văn_bản quy_phạm_pháp_luật điều_chỉnh lĩnh_vực tín_ngưỡng tôn_giáo được sửa_đổi bổ_sung hoàn_thiện như_thế_nào để phù_hợp với tình_hình thực_tiễn
+chitchat_ask_time	sắp 5 giờ chưa em
+ask_info	trong giai_đoạn 2009 2015 có bao_nhiêu dự_án nhà ở học_sinh sinh_viên được nhà_nước đầu_tư xây_dựng
+ask_info	quyền con_người quyền_công_dân giống và khác nhau như_thế_nào
+bye	bai bai
+thank	cảm_ơn bạn đã giải_đáp thắc_mắc của tôi
+bye	ok thanh ciu
+ask_info	mục_đích của những quy_định bảo_vệ người nhiễm hiv là gì
+ask_info	sở thông_tin và truyền_thông có trách_nhiệm gì
+ask_info	vì sao chính_phủ việt_nam quan_tâm phát_triển thị_trường lao_động
+greet	alo alo ah
+ask_info	chiến_lược cải_cách tư_pháp đến năm 2020 nhằm mục_đích gì
+chitchat_ask_howdoing	cậu có hạnh_phúc không
+bye	bye em nhé
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về doanh_nghiệp
+ask_info	phương_pháp điều_trị thay_thế bằng cách sử_dụng thuốc methadone được thí_điểm như_thế_nào và dành cho đối_tượng nào
+canthelp	cảm_ơn nhưng tớ tự làm được
+deny	tôi không chấp_nhận ý_tưởng đó
+ask_info	những nỗ_lực nào đã được thực_hiện để bảo_đảm quyền trẻ_em tại việt_nam
+thank	vâng thank chị
+ask_info	toà_án phải bảo_đảm các nguyên_tắc cơ_bản nào
+ask_info	cục thông_tin đối_ngoại có nhiệm_vụ gì trong việc thực_hiện thông_tư
+chitchat_ask_whatismyname	tui có tên độc_đáo không nhỉ
+chitchat_ask_whoisit	bạn là hệ_thống tự_động à
+greet	alo b oiw
+ask_info	thí_điểm giáo_dục song_ngữ trên cơ_sở tiếng_mẹ_đẻ được thực_hiện ở đâu và đạt kết_quả như_thế_nào
+ask_info	"đề_án "" trợ_giúp người khuyết_tật giai_đoạn 2012 2020 "" đặt mục_tiêu gì"
+ask_info	quan_điểm của việt_nam về nhân_quyền
+ask_info	tính chính_thống của hồi_giáo ở việt_nam bị ảnh_hưởng bởi yếu_tố gì
+react_positive	siêu phẩm thật đấy
+chitchat_ask_howbuilt	làm_sao để tạo ra một chatbot như_vậy
+ask_info	nghị_định số 80 2011 nđ cp ngày 16 9 198
+ask_info	các tổ_chức nào được đề_cập trong đoạn văn và chức_năng của chúng là gì
+thank	vâng e cảm oen ạ
+chitchat_ask_whoisit	thật không_thể tin được là bạn là người đấy
+ask_info	giáo_hội công_giáo việt_nam đang đẩy_mạnh các hoạt_động gì để hỗ_trợ học_sinh sinh_viên nghèo
+deny	không nha
+ask_info	quyền và trách_nhiệm của người đứng đầu cơ_quan_hành_chính nhà_nước trong việc phát_ngôn và cung_cấp thông_tin cho báo_chí ?
+ask_info	điều 1 phạm_vi điều_chỉnh của thông_tư này
+ask_info	vì sao việc tổ_chức bộ_máy lãnh_đạo quản_lý hoạt_động của chùa bửu sơn kỳ hương có sự khác nhau
+chitchat_ask_whoisit	bạn có phải là người thật không
+ask_info	mục_tiêu cụ_thể nào được đặt ra trong chương_trình hành_động quốc_gia về người cao_tuổi giai_đoạn 2012 2020
+ask_info	những kết_quả rõ nét nào đã được tạo ra khi giải_quyết nhu_cầu chính_đáng của các tổ_chức cá_nhân tôn_giáo
+canthelp	mình không muốn tiếp_tục nữa
+ask_info	tại_sao các tổ_chức tôn_giáo lại xuất_bản nhiều ấn_phẩm liên_quan đến tôn_giáo
+ask_info	những chính_sách và luật_pháp nào đã được đổi_mới để đạt được những thành_tựu trên
+ask_info	các trung_tâm cai_nghiện có khu cách_ly bệnh truyền_nhiễm nào
+thank	t cảm_ơn bạn
+chitchat_ask_time	h là mấy giờ vậy bro
+react_positive	em rất xinh
+chitchat_ask_whoisit	bạn là người hay robot vậy
+ask_info	cục thông_tin đối_ngoại
+affirm	đúng vậy không cần suy_nghĩ thêm
+ask_info	tổ_chức cá_nhân vi_phạm pháp_luật về tín_ngưỡng tôn_giáo sẽ bị xử_lý như_thế_nào
+bye	bye bye
+explain	hãy giải_thích lý_do tại_sao chúng_ta cần quan_trọng đến điều đó
+react_positive	quá tuyệt
+chitchat_ask_howbuilt	làm thế_nào để tạo một chatbot đơn_giản nhưng hiệu_quả
+ask_info	điều 2 nội_dung kế_hoạch hoạt_động thông_tin đối_ngoại của uỷ_ban_nhân_dân cấp tỉnh
+ask_info	bảo_hiểm_xã_hội là gì
+ask_info	nhà_nước việt_nam có đối_xử như_thế_nào với quyền tự_do tín_ngưỡng tôn_giáo của công_dân
+canthelp	mình muốn dừng lại ở đây
+ask_info	quyền con_người là sự thống_nhất giữa quyền và nghĩa_vụ gì
+thank	à cảm_ơn b nha
+ask_info	bộ_trưởng bộ thông_tin và truyền_thông sẽ nhận được báo_cáo kết_quả từ ai về việc thực_hiện thông_tư
+thank	e cảm_ơn nhé
+react_negative	đồ củ chuối
+greet	alo misa ưoi
+ask_info	cơ_sở_dữ_liệu về thông_tin đối_ngoại được số_hoá tích_hợp từ đâu
+ask_info	minh sư đạo có nguồn_gốc từ đâu
+ask_info	có bao_nhiêu tổ_chức tin lành được công_nhận là tổ_chức tôn_giáo và cấp chứng_nhận đăng_ký hoạt_động
+ask_info	phật_giáo được truyền vào việt_nam vào thời_gian nào
+ask_info	người bị giam_giữ có quyền gì
+ask_info	năm 2014 việt_nam đã tạo ra được bao_nhiêu lao_động
+thank	cám_ơn để e ngé
+ask_info	chùa bửu sơn kỳ hương là nơi thờ_tự chung của cộng_đồng tín_đồ sinh_hoạt gì
+chitchat_ask_whatismyname	tên mình nghe có_vẻ hài_hước phải không
+thank	mình cảm_ơn bạn nhiều nhé
+greet	chao bnn
+ask_info	việt_nam cam_kết gì với cộng_đồng quốc_tế trong việc hợp_tác và đóng_góp vào công_việc của hội_đồng nhân_quyền
+thank	cám_ơn bot
+ask_info	nhà_nước việt_nam được mô_tả như_thế_nào trong đoạn_văn
+ask_info	phương_châm hành_đạo của tịnh_độ cư_sĩ phật hội việt_nam
+ask_info	tôn_giáo ở việt_nam sống hài_hoà đoàn_kết gắn_bó đồng_hành cùng dân_tộc như_thế_nào
+bye	bye em
+ask_info	chính_sách của việt_nam về nhân_quyền
+greet	chị ơi b
+ask_info	sắc_lệnh số 102 sl 004 l năm 1957 ban_hành luật quy_định về quyền lập hội có bao_nhiêu điều
+ask_info	ai chủ_trì phối_hợp để xây_dựng kế_hoạch xuất_bản phát_hành các xuất_bản_phẩm thông_tin đối_ngoại
+ask_info	các hoạt_động tín_ngưỡng tôn_giáo đã và đang đáp_ứng nhu_cầu gì
+chitchat_ask_time	bây_giờ là mấy giờ rồi
+chitchat_ask_whoisit	bạn có phải là hệ_thống tự_động ai không
+explain	tại_sao điều đó lại mang ý_nghĩa quan_trọng
+chitchat_ask_whoisit	bạn là trí_tuệ_nhân_tạo à
+react_positive	xịn qá ad ơiiii
+ask_info	nhà_nước có chính_sách gì đối_với việc giao đất cho các cộng_đồng tôn_giáo sử_dụng
+ask_info	quy_định nào được triển_khai nghiêm_túc tại các trại_giam để đảm_bảo quyền của người bị giam_giữ
+chitchat_ask_howdoing	mọi việc đã xảy ra chưa
+canthelp	tớ không muốn tiếp_tục trò_chuyện này
+ask_info	nghị_định về quản_lý hoạt_động thông_tin đối_ngoại có hiệu_lực từ khi nào
+greet	alo c ơiiiiiiiii
+ask_info	cuốn sách tôn_giáo và chính_sách tôn_giáo ở việt_nam nhằm mục_đích gì
+chitchat_ask_wherefrom	bot này ở đâu_ra_đấy
+ask_info	những hoạt_động nào được thực_hiện trong giai_đoạn giáo_dục tư_vấn phục_hồi hành_vi nhân_cách của quy_trình cai_nghiện ma_tuý
+ask_info	tiểu_sử chủ_tịch quốc_hội nước cộng_hoà_xã_hội_chủ_nghĩa_việt_nam vương đình huệ
+ask_info	việt_nam có nhân quyền hay không
+ask_info	việt mam đứng thứ mấy về nhân_quyền tại asean
+greet	hi ship
+ask_info	quốc_hội việt_nam dự_kiến sẽ thảo_luận và thông_qua những văn_bản luật nào liên_quan trực_tiếp đến quyền con_người trong năm 2016
+ask_info	người_dân ý_thức rõ về quyền của mình và vai_trò của quốc_hội trong mọi lĩnh_vực của đời_sống xã_hội
+ask_info	ai quy_định việc thực_hiện quyền tự_do đi_lại và cư_trú của công_dân
+ask_info	giáo_hội phật đường nam tông minh sư đạo đã thực_hiện những hoạt_động từ_thiện nào
+chitchat_ask_howdoing	khoẻ chứ
+ask_info	tiến_trình upr của việt_nam
+ask_info	tóm_tắt quá_trình công_tác bộ_trưởng bộ thông_tin và truyền_thông nguyễn_mạnh_hùng
+ask_info	tại_sao việt_nam đã tăng nhanh chi ngân_sách nhà_nước cho ngành thư_viện
+chitchat_ask_whoisit	bạn là hệ_thống ai à
+ask_info	đạo tin lành ở miền nam hoạt_động chủ_yếu ở đâu
+ask_info	chính_phủ đã có những chính_sách gì đối_với người dân_tộc_thiểu_số
+ask_info	giáo_hội các thánh hữu ngày sau của chúa giê su ky tô ra_đời vào năm nào và tại đâu
+explain	hãy giải_thích lý_do tại_sao chúng_ta cần quan_tâm đến điều đó
+bye	tạm_biệt và chúc bạn thành_công
+deny	t không chấp_nhận việc đó
+react_positive	tuyệt_đỉnh
+react_negative	chatbot này không giúp tôi tiết_kiệm thời_gian
+react_positive	cực_kỳ hài_lòng
+chitchat_ask_whoisit	bạn là chatbot tự_động à
+chitchat_ask_howold	bạn đã sống được bao_nhiêu năm
+affirm	mình nhận không có lý_do để từ_chối
+greet	alo chủ misa
+bye	tạm_biệt bot hẹn gặp lại nha
+affirm	mình nghĩ là vậy á
+ask_info	cộng_đồng tôn_giáo baha ’ i việt_nam được công_nhận tổ_chức tôn_giáo vào năm nào
+ask_info	nhà_nước có trách_nhiệm gì trong việc bảo_đảm người_dân có nhà ở đối_tượng nào được ưu_tiên hỗ_trợ
+ask_info	luật xử_phạt vi_phạm hành_chính sửa_đổi năm 2012 và nghị_định số 221 2013 của chính_phủ có tác_dụng gì trong việc đưa biện_pháp đưa vào cơ_sở cai_nghiện bắt_buộc
+chitchat_ask_whoisit	bạn có phải con_người không
+react_positive	hay quá
+explain	có_thể nói rõ hơn về quy_trình thực_hiện không
+react_negative	điên à
+ask_info	cuốn sách này cung_cấp thông_tin gì về lĩnh_vực quyền con_người tại việt_nam
+ask_info	chính_sách chương_trình giảm nghèo có vai_trò gì trong việc bảo_đảm an_sinh xã_hội cho người nghèo
+ask_info	hội_đồng_nhân_dân là cơ_quan như_thế_nào
+ask_info	điều 28 quy_định như_thế_nào
+ask_info	nguyên_tắc hoạt_động thông_tin đối_ngoại là gì
+ask_info	tôn_giáo được bảo_hộ như_thế_nào tại việt_nam
+affirm	tất_nhiên là ok rồi
+greet	b ơii
+affirm	không tệ tí nào
+thank	thankss mình sẽ llac lai
+thank	thank kiu misa nhé
+ask_info	vai_trò đảng_cộng_sản_việt_nam
+ask_info	các nguyên_tắc cơ_bản của toà_án trong quá_trình xét_xử là gì
+ask_info	trong trường_hợp nào nhà_nước có_thể trưng_mua hoặc trưng_dụng tài_sản của tổ_chức cá_nhân theo giá thị_trường
+ask_info	các tổ_chức phi_chính_phủ nước_ngoài đã đóng vai_trò gì trong việc thúc_đẩy quốc_tế ủng_hộ việt_nam trong cuộc đấu_tranh pháp_lý liên_quan đến các nạn_nhân chất_độc da
+ask_info	quyền sử_dụng kinh sách và bày_tỏ niềm tin tín_ngưỡng tôn_giáo được quy_định như_thế_nào đối_với người bị quản_lý giam_giữ
+ask_info	các di_sản văn_hoá của các dân_tộc_thiểu_số nào đã được công_nhận là di_sản văn_hoá thế_giới
+ask_info	điều 25 của hiến_pháp năm 2013 quy_định điều gì
+ask_info	thông_tư này quy_định về việc gì liên_quan đến đăng phát nội_dung thông_tin đối_ngoại trên báo_chí địa_phương
+ask_info	tín_đồ của giáo_hội phật_giáo hoà_hảo phân_bố trên bao_nhiêu tỉnh_thành và tập_trung ở đâu
+ask_info	trường_sa
+chitchat_ask_howdoing	mọi thứ có ổn không
+ask_info	trong 6 tháng đầu năm 2015 có bao_nhiêu phạm_nhân được điều_trị tại bệnh_xá và bệnh_viện trong các trại_giam
+react_positive	cảm_ơn nhiều lắm
+chitchat_ask_time	sắp 23 giờ chưa em
+chitchat_ask_whoisit	bạn là robot ai à
+chitchat_ask_time	sắp đến tối chưa em
+react_positive	siêu đỉnh
+ask_info	trong khuôn_khổ các chương_trình hợp_tác về tư_pháp và pháp_luật giai_đoạn 1 và 2 2012 chương_trình đối_thoại về nhà_nước pháp_quyền đức đã hỗ_trợ việt_nam trong việc_gì
+ask_info	tín_ngưỡng và tôn_giáo có vai_trò gì trong xây_dựng chủ_nghĩa_xã_hội ở việt_nam
+ask_info	hiến_pháp năm 2013 quy_định về quyền tự_do hội_họp và lập hội như_thế_nào
+chitchat_ask_whoisit	bạn là chatbot ai à
+ask_info	chính_phủ đã triển_khai chiến_lược gì để bảo_vệ chăm_sóc và nâng cao sức_khoẻ nhân_dân
+chitchat_ask_whoisit	bạn là hệ_thống ai à
+chitchat_ask_howdoing	cậu có ổn không nhỉ
+ask_info	nhiệm_vụ và quyền_hạn của bộ thông_tin và truyền_thông về báo_chí
+ask_info	phật_giáo hiếu_nghĩa tà lơn có mục_đích hành_đạo gì
+ask_info	những dịch_bệnh trước_đây phổ_biến ở vùng dân_tộc_thiểu_số là gì
+ask_info	giáo_hội công_giáo việt_nam có bao_nhiêu giáo_phận và thuộc tổng giáo_phận nào
+ask_info	chính_sách của việt_nam về tự_do báo_chí
+ask_info	việc bảo_đảm và thúc_đẩy quyền con_người là trách_nhiệm của ai
+ask_info	sở thông_tin và truyền_thông phải làm gì khi có yêu_cầu từ bộ thông_tin và truyền_thông liên_quan đến việc thực_hiện các quy_định tại thông_tư này
+ask_info	những giá_trị văn_hoá đạo_đức tốt_đẹp của tín_ngưỡng tôn_giáo được tôn_trọng và bảo_vệ như_thế_nào
+ask_info	các tôn_giáo ở việt_nam có vai_trò như_thế_nào đối_với đất_nước
+chitchat_ask_wherefrom	bạn đến từ đâu_đấy
+ask_info	tôn_giáo và công_tác tôn_giáo phải nhằm mục_đích gì theo nghị_quyết 25 nq tw
+explain	bạn có_thể trình_bày rõ hơn vấn_đề này được không
+ask_info	hình_ảnh cá_nhân được đưa lên báo trong những trường_hợp nào
+bye	tạm_biệt hẹn gặp lại bạn ở lần sau
+ask_info	quan_điểm của đảng_cộng_sản_việt_nam về tín_ngưỡng tôn_giáo trong thời_kỳ đổi_mới là gì
+chitchat_ask_time	sắp 16 giờ chưa em
+chitchat_ask_wherefrom	bạn đến từ đâu vậy
+ask_info	bộ_trưởng bộ tài_chính hồ_đức phớc
+ask_info	tam quy được hiểu là gì
+ask_info	hiến_pháp năm 2013 chế_định trực_tiếp những quyền con_người nào
+ask_info	ai có quyền thực_hiện lễ_nghi tôn_giáo giảng đạo truyền_đạo tại cơ_sở tôn_giáo hoặc địa_điểm hợp_pháp khác
+ask_info	các tcpcpnn đã giúp người dân_nghèo làm_gì
+ask_info	hiến_pháp việt_nam năm 2013 khẳng_định nguyên_tắc gì về đối_xử bình_đẳng
+react_positive	cảm_ơn bạn nhiều
+ask_info	có bao_nhiêu bệnh_viện phục_hồi chức_năng trực_thuộc tỉnh_bộ và bệnh_viện tuyến tỉnh thành_phố có khoa phục_hồi chức_năng
+ask_info	người khuyết_tật ở việt_nam gặp những khó_khăn gì và cần những hỗ_trợ nào
+chitchat_ask_whatismyname	tên tui nghe có_vẻ mạnh_mẽ đấy
+chitchat_ask_time	hôm_nay thứ mấy
+ask_info	quyền_sở_hữu là gì và được ghi_nhận ở đâu trong hiến_pháp năm 2013
+chitchat_ask_whoisit	bạn là robot hay người thật
+ask_info	điều 23 của hiến_pháp năm 2013 quy_định về quyền tự_do đi_lại và cư_trú
+greet	chào em dạo này em thế_nào
+react_positive	thật là tuyệt_vời
+thank	thanks bạn ah
+greet	alo nang oi
+bye	tôi sẽ trở_lại sau và chào tạm_biệt
+react_positive	cảm_ơn bạn nhiều
+chitchat_ask_time	bạn có_thể cho tôi xem giờ hiện_tại không bro
+affirm	chắc luôn í
+ask_info	quyền con_người bao_gồm những quyền gì nhỉ
+greet	bạn ơii
+ask_info	các trường trung_cấp chuyên_nghiệp và cao_đẳng đại_học có ở tất_cả các địa_phương trong cả nước
+chitchat_ask_whoisit	bạn là hệ_thống ai à
+deny	đừng có mơ_tưởng
+ask_info	tín_đồ của các tôn_giáo chiếm bao_nhiêu phần_trăm dân_số việt_nam
+greet	hi bot
+greet	alo t ơi
+ask_info	quyền sống là quyền gì và được quy_định như_thế_nào trong hiến_pháp năm 2013
+react_positive	em rất hay
+ask_info	đạo bửu sơn kỳ hương là một tôn_giáo gì và hoạt_động ở những vùng miền nào của việt_nam
+ask_info	công_tác tuyên_truyền phổ_biến pháp_luật về quyền tự_do tín_ngưỡng tôn_giáo được thực_hiện như_thế_nào
+affirm	được không có gì để từ_chối
+ask_info	công_dân và nhà_báo có_thể yêu_cầu cung_cấp thông_tin bằng các hình_thức nào ?
+chitchat_ask_howdoing	cậu có cảm_thấy ổn không
+thank	cam on bot \ nhìu nha
+greet	alo b ơiiiii
+deny	không chắc
+ask_info	thông_tư quy_định việc đăng phát nội_dung thông_tin đối_ngoại trên báo_chí
+ask_info	đảng_cộng_sản_việt_nam có quan_điểm gì về tín_ngưỡng và tôn_giáo trong thời_kỳ đổi_mới
+chitchat_ask_howdoing	cậu có gặp vấn_đề gì không nhỉ
+ask_info	quyền tự_do báo_chí được quy_định như_thế_nào trong pháp_luật việt_nam
+ask_info	nhà_nước luôn chú_trọng lồng_ghép quyền tự_do tín_ngưỡng tôn_giáo vào quá_trình nào
+ask_info	việt_nam có đóng_góp gì vào hoạt_động của uỷ_ban liên chính_phủ asean về nhân_quyền aichr
+chitchat_ask_whatismyname	bot ơi nhớ tên tui không
+bye	ok thank you
+ask_info	hiện_nay các cơ_quan liên_quan đang làm gì để cụ_thể_hoá quyền tự_do hội_họp lập hội theo điều 25 của hiến_pháp năm 2013
+oos	bánh_xèo tôm nhảy là món ngon ở tỉnh nào
+oos	cao quy linh có tác_dụng gì đối_với sức_khoẻ con_người
+oos	myanmar còn được gọi là gì
+oos	phần_lan giáp quốc_gia nào sau đây
+oos	thành_phố nào đông dân nhất nước mỹ
+oos	rồng komodo được xem là quốc thú của nước nào
+oos	tên gọi chính_thức của tiếng trung_quốc tiêu_chuẩn là gì
+oos	thành_phố nào có khu_phố cổ được công_nhận là di_sản văn_hoá thế_giới
+oos	nguyễn_văn huyên mất thời_gian nào
+oos	hoa anh_đào là biểu_tượng của quốc_gia nào
+oos	khủng_hoảng_kinh_tế lớn nhất thế_giới xảy ra năm nào
+oos	hoan châu là tên của tỉnh nào trước_đây
+oos	đinh lưu từng đỗ hạng gì trong kỳ thi nho_học
+oos	nguyễn_văn thiệu mất vào năm nào
+oos	hươu_cao_cổ sống ở đâu nhiều nhất
+oos	quần_đảo trường_sa đang trong tình_trạng tranh_chấp giữ những quốc_gia nào
+oos	cuộc khởi_nghĩa hương_khê do ai cầm_đầu
+oos	các hình_thức phạt trong luật_hình_sự nhằm mục_đích gì
+oos	nam_phi có diện_tích tự_nhiên lớn thứ mấy trên thế_giới
+oos	cầu_thủ bồ_đào_nha được mệnh_danh là ‘ vua ngọc đen ’
+oos	phan chu trinh là ai
+oos	dân_số châu_á là bao_nhiêu
+oos	hoang_mạc lớn nhất ở châu_phi tên là gì
+oos	đại_dương nào mặn nhất
+oos	singapore giáp những nước nào
+oos	uỷ_ban chữ_thập_đỏ quốc_tế thành_lập vào năm nào
+oos	chính_quyền mỹ được tổ_chức theo hình_thức nào dưới đây
+oos	tỉnh bến_tre có sân chim nổi_tiếng nào
+oos	bermuda ở đâu
+oos	cố_đô hoa_lư nằm ở tỉnh thành_phố nào
+oos	aitne là tên một vệ_tinh_tự_nhiên của sao nào thuộc hệ mặt_trời
+oos	qủa trứng có trước hay con gà có trước
+oos	chi pu đã tự sản_xuất bộ phim nào
+oos	nhà_thờ tắc sậy nằm ở tỉnh nào
+oos	diện_tích của châu_phi là bao_nhiêu
+oos	một trong những con sông dài nhất đông nam á thuộc lãnh_thổ myanmar
+oos	thấy nhiều nhận xét hỗ trợ misa không tốt, misa có cam kết gì trong quá trình hỗ trợ khách hàng không?
+oos	hồ_chí_minh trích_dẫn 2 bản tuyên_ngôn nào để mở_đầu bản tuyên_ngôn độc_lập việt_nam
+oos	thị_xã chí_linh từng là quê_hương của thầy_giáo nào
+oos	đinh thế huynh giữ chức_vụ gì
+oos	nếu chị mua sản phẩm bên em thì cài đặt như thế nào ai hỗ trợ
+oos	hoàng_hậu của đường_cao tông lý trị là ai
+oos	đền hùng nơi thờ_phụng tổ_tiên của dân_tộc việt_nam được xây_dựng ở đâu
+oos	trái_đất có bao_nhiêu bán_cầu
+oos	nguyễn_chích là bậc khai_quốc_công_thần của triều_đại nào
+oos	ngôi_sao 14 cánh trên lá cờ malaysia đại_diện cho điều gì
+oos	thành_phố nào lớn nhất khu_vực miền trung
+oos	dù không ra làm quan nhưng bạch liêu đã làm quân_sư để giúp ai trong kháng_chiến chống mông_nguyên
+oos	theo âm_lịch năm 1945 là năm gì
+oos	việt_nam là thành_viên thứ bao_nhiêu của tổ_chức wto
+oos	ai người vô_địch đường lên đỉnh olympia lần đầu_tiên
+oos	khải_hoàn_môn là biểu_tượng của thành_phố nào
+oos	ai là người thiết_kế ngôn_ngữ_lập_trình pascal chuẩn
+oos	hội_an là thành_phố trực_thuộc tỉnh nào
+oos	việc ghép đầu người có thực_sự mang tính nhân_văn
+oos	sau chiến_thắng của ngô_quyền trước quân nam hán kinh_đô của nước việt được đóng ở đâu
+oos	ai là người đầu_tiên đặt_chân lên mặt trăng
+oos	sản phẩm cho phép dùng thử không
+oos	tổng_thống đầu_tiên của nước mỹ làm_việc tại nhà_trắng
+oos	misa có thiết kế mẫu hóa đơn cho bên công ty chị không
+oos	quốc_tế thứ hai tồn_tại bao_nhiêu năm
+oos	tết nguyên_tiêu còn được gọi là gì
+oos	tên gọi cổ_xưa nhất của sông hồng là gì
+oos	ai là người mỹ gốc phi đầu_tiên làm tổng_thống
+oos	tháng 1 được đặt theo tên của vị thần la mã nào
+oos	the love of siam là gì
+oos	tàu_sân_bay nào mới nhất của hải_quân mỹ
+oos	ngọn núi nào là biểu_tượng của cố_đô huế
+oos	nelson mandela là ai
+oos	ngày dài nhất và đêm ngắn nhất ở bán_cầu bắc là ngày
+oos	vườn treo babylon nằm ở quốc_gia nào
+oos	nền văn_minh aztec ra_đời ở nước nào
+oos	hội_nghị trung_ương đảng tháng 10 1930 do ai chủ_trì
+oos	mặt_hàng xuất_khẩu quan_trọng của triều_tiên là gì
+oos	chủ_tịch nước việt_nam hiện_nay là ai
+oos	cầu mỹ_thuận_bắc qua dòng sông nào
+oos	văn_miếu được xây_dựng dưới thời vua nào
+oos	vua nào nhường ngôi cho con gái để đi_tu
+oos	mặt_trời sẽ tắt sau bao_nhiêu năm nữa
+oos	cristiano ronaldo sinh ngày bao_nhiêu
+oos	lý nam đế mất vào năm nào
+oos	tên thật của nhạc_sĩ nhạc_vàng hoài linh là gì
+oos	nhiệm_vụ của thành_phần nhập trong cấu_trúc máy_tính
+oos	triều_đại quân_chủ phong_kiến trong lịch_sử việt_nam là triều_đại nào
+oos	thành_phố lớn nhất iran tên gì
+oos	ngọ môn là cổng phía nào của hoàng_thành huế
+oos	đền ngọc sơn nổi_tiếng nằm giữa hồ hoàn_kiếm thờ ai
+oos	đơn_vị_tiền_tệ của cuba hiện_nay là
+oos	tình_trạng tham_nhũng của nước ta hiện_nay
+oos	cơm cháy là đặc_sản nổi_tiếng của vùng địa_phương nào
+oos	niết_bàn tịnh_xá thuộc tỉnh nào
+oos	vườn_quốc_gia chàm chim thuộc huyện nào của tỉnh đồng_tháp
+oos	người nước nào phát_minh ra món sôcôla của người da đỏ
+oos	viên tướng nào trực_tiếp chỉ_huy quân thanh xâm_lược việt_nam
+oos	tên thật của yết kiêu
+oos	tỉnh nào ở miền tây có thạch động của thạch sanh
+oos	trạng quỳnh quê ở đâu
+oos	dota là gì
+oos	bệnh down là gì
+oos	nhà hoá_học được mệnh_danh là vua thuốc_nổ
+oos	chu văn an từng dâng “ thất trảm sớ ” chém đầu 7 nịnh_thần lên vua nào
+oos	karl heinrich marx mất năm nào
+oos	ai là người đầu_tiên ghi_âm tiếng người
+oos	vua nào đặt quốc_hiệu việt_nam là đại cồ việt
+oos	tỉnh nào đông dân nhất trung_quốc
+oos	đường_biển nước việt_nam ta dài bao_nhiêu km
+oos	thành_phố_đông dân nhất của brazil
+oos	hệ_điều_hành mac os thuộc sở_hữu của công_ty nào
+oos	trước khi trở_thành quốc_gia độc_lập uzebekistan là một phần của nước nào
+oos	đồng_tháp có loài động_vật quý_hiếm nào
+oos	quốc_hội việt_nam có bao_nhiêu đại_biểu
+oos	chó_ngao 3 đầu cerberus của thần hades có tác_dụng gì
+oos	sau khi qua_đời bà dương vân nga được thờ chung với vị vua nào ở hoa_lư
+oos	ai là người thiết_kế tấm thiệp giáng_sinh đầu_tiên trên thế_giới
+oos	người_dân philippines chủ_yếu theo tôn_giáo nào
+oos	lương thế vinh từng làm gì khiến sứ_giả nhà minh rất hổ_thẹn
+oos	lý liên kiệt ra_mắt công_chúng môn võ_công thủ đạo vào năm nào
+oos	đại_tướng đầu_tiên của vn tên là gì
+oos	đảo nào có diện_tích lớn nhất trên qđ trường_sa
+oos	dưới thời trị_vì của mình vua lê_thánh tông đã cho ban_hành bộ_luật nào
+oos	nguyễn_xuân anh sinh ngày_tháng năm nào
+oos	chủ_tịch tập_đoàn microsoft là ai
+oos	tỉnh nào ở việt_nam có nhiều dân_tộc sinh_sống nhất
+oos	chữ ký số từ xa là như thế nào?
+oos	tỉnh nào hiện_nay từng là kinh_đô của nhà_nước_văn lang
+oos	nhiệm_vụ của mỗi chiến_sĩ công_an nhân_dân trong tình_hình hiện_nay
+oos	môn lịch_sử là gì
+oos	người nào là bí_thư hiện_tại của tỉnh trà_vinh
+oos	chữ ký số từ xa là như nào vậy em? khác gì với usb, anh/chị chưa hiểu cho lắm
+oos	dân_tộc nào chiếm tỉ_lệ dân_số cao nhất ở nước ta
+oos	tỉnh trà_vinh có bao_nhiêu thị_xã và huyện
+oos	công cụ xử lý hóa đơn đầu vào có lấy lấy hóa đơn ncc khác được không, bên chị đang dùng hđ viettel
+oos	nguồn tài_nguyên chủ_yếu của uae là
+oos	phạm_nhân nào bị vua thiệu trị kết_án tử vì cưỡng_dâm con gái em vợ
+oos	nước đầu_tiên đưa con_người vào vũ_trụ là
+oos	thánh_địa mỹ_sơn – di_sản văn_hoá thế_giới thuộc tỉnh nào
+oos	di_sản hỗn_hợp duy_nhất ở việt_nam là gì
+oos	ai_cập được xem là món quà của dòng sông nào
+oos	sau khi vua lê_huyền tông qua_đời ai là vị vua tiếp_theo của nhà hậu lê
+oos	tết đoan ngọ hay tết diệt sâu_bọ là ngày nào trong năm
+oos	mất bao_nhiêu ngày để đi vòng_quanh trái_đất
+oos	các dung_dịch axít có ph trong khoảng nào
+oos	động thạch sanh ở địa_phương nào ở kiên_giang
+oos	tôn trung sơn là ai
+oos	ai là người giúp tìm ra hố_đen gây chấn_động thế_giới
+oos	tên những tỉnh hoặc thành_phố từng là cố_đô của việt_nam
+oos	máy_tính phải dùng thiết_bị gì để kết_nối với đường_dây điện_thoại
+oos	di_sản hỗn_hợp duy_nhất ở việt_nam là gì
+oos	bến ninh_kiều ở cần_thơ nằm ngay ngã ba sông nào
+oos	mục_tiêu của bóng_đá vì tình bằng_hữu là gì
+oos	năm 2006 tạp_chí time đã bình_chọn momofuku ando vào danh_sách nào
+oos	trận đánh nào ở nước_nga từng tạo ra bước_ngoặt trong chiến_tranh thế_giới thứ hai trên chiến_trường châu_âu
+oos	sau khi qua_đời vua khải định được an_táng tại lăng nào
+oos	các vua hùng đặt quốc_hiệu nước ta là gì
+oos	kilimanjaro là ngọn núi cao nhất châu_lục nào
+oos	guinea là thành_viên tổ_chức nào
+oos	thành_phố nào là thủ_đô của maldives
+oos	ngọn núi nào cao nhất vùng đồng_bằng sông_cửu_long
+oos	người nào là phó bí_thư hiện_nay của hà_nội
+oos	trần thái tông sinh năm mấy
+oos	hàn_quốc nằm ở khu_vực nào
+oos	tên chính_thức của ba_lan là gì
+oos	tây_ban_nha đã tham_dự world_cup bao_nhiêu lần
+oos	nền kinh_tế của nga đứng thứ mấy thế_giới
+oos	hình_thang là gì
+oos	tên của một di_sản được unesco công_nhận dưới thời nhà_nguyễn
+oos	có ưu đãi gì không?
+oos	thuộc địa nào của đế_chế anh tuyên_bố độc_lập vào năm 1776
+oos	tháp bút ở hồ gươm được xây_dựng trên nền của ngọn núi nào
+oos	tên chính_thức của singapore là gì
+oos	con trai hợp_pháp duy_nhất của vua henry viii do hoàng_hậu nào sinh ra
+oos	việt_nam gia_nhập liên_hợp_quốc vào ngày_tháng năm nào
+oos	khu_vực đồng_tháp_mười chủ_yếu thuộc địa_bàn tỉnh nào
+oos	dân_số của nga là bao_nhiêu
+oos	người phụ_nữ được chúa nguyễn phúc lan hết_lòng sủng_ái là ai
+oos	tên một loại rượu rất nổi_tiếng của bồ_đào_nha
+oos	quốc_gia cổ_đại từng sử_dụng thuỷ_ngân làm mỹ_phẩm
+oos	hàm nghi là vị vua nổi_tiếng về
+oos	ở tây_nguyên đất nào chiếm diện_tích lớn
+oos	thủ_đô của nước nào có một_nửa nằm ở châu_âu và một_nửa nằm ở châu_á
+oos	mưa sao_băng xuất_hiện vào thời_điểm nào
+oos	đơn_vị của cảm_ứng từ là gì
+oos	ngành kinh_tế chủ_đạo của sudan
+oos	bộ phim việt_nam giành huy_chương vàng tại liên_hoan_phim quốc_tế moskva năm 1981
+oos	hải_dương có bao_nhiêu huyện
+oos	lý long tường là con của vua lý nào
+oos	thành cổ nào ở lào đã được unesco công_nhận là di_sản văn_hoá thế_giới
+oos	ceo hiện_tại của google là ai
+oos	động_vật nào có mũi thính nhất
+oos	ai là người đại_diện việt_nam kí_kết hiệp_định paris
+oos	ứng_dụng của lưu_huỳnh là gì
+oos	hóa đơn bên misa có kết nối được với phần mềm kế toán ko
+oos	sông vàm cỏ nằm ở đâu
+oos	tôn_giáo ai_cập cổ_đại là gì
+oos	cảng vân_đồn xuất_hiện từ triều_đại nào
+oos	ngày quốc_khánh của singapore là ngày nào
+oos	việt_nam đã công_nhận người đồng_tính được kết_hôn chưa vậy
+oos	ai là người đầu_tiên tìm ra châu_mỹ
+oos	vua trần duệ tông tử_trận ở kinh_thành nào
+oos	di_sản nào của nước ta đã được unesco công_nhận di_sản tư_liệu thế_giới sau mộc_bản triều_nguyễn
+oos	người đầu_tiên sống trên trái_đất tên là gì
+oos	nhóm nhạc twice có bao_nhiêu thành_viên
+oos	miền bắc việt_nam có bao_nhiêu mùa trong năm
+oos	lê_hồng_thuỷ_tiên có mấy anh_chị_em
+oos	hàn_quốc có số dân là bao_nhiêu năm 1908
+oos	quê của võ hoàng yên ở đâu
+oos	quần_đảo kiên_hải thuộc tỉnh nào của nước ta
+oos	tiến_quân ca do ai sáng_tác
+oos	mai thúc loan có công đánh_đuổi quân xâm_lược nào
+oos	mật_độ dân_số của hà_nội là bao_nhiêu
+oos	người nào là phó bí_thư hiện_nay của hà_nội
+oos	tên gọi đầu_tiên của trường chu_văn an
+oos	hệ_thống tàu_điện_ngầm của triều_tiên sâu thứ mấy trên thế_giới
+oos	hóa đơn kiểm tra rồi ncc tự hủy thì kiểm tra lại sao e
+oos	người lãnh_đạo chinh_phạt chiêm thành năm 1069 là ai
+oos	"tác_phẩm "" tây du_kí "" của tác_giả nào"
+oos	lăng_mộ tần thuỷ hoàng còn được gọi bằng cái tên nào khác
+oos	ngọn núi nổi_tiếng nào ở hà_tĩnh là nơi la sơn phu_tử nguyễn_thiếp từng quy ẩn
+oos	biểu_tượng của hoà_bình là loài vật nào
+oos	nguyễn_nghiêu tư nắm giữ chức gì thời hậu lê
+oos	chiến_tranh trung nhật diễn ra vào_khoảng thời_gian nào
+oos	"ai là người đã dâng vua "" thất trảm sớ "" chém 7 nịnh_thần"
+oos	diện_tích của biển_hồ campuchia là bao_nhiêu
+oos	lebanon là thành_viên tổ_chức nào
+oos	vua ba tư nào chỉ_huy cuộc xâm_lược hy_lạp trong trận cổng lửa
+oos	tổng_bí_thư đầu_tiên của đảng cộng_sản đông dương là ai
+oos	điệu dân_ca nào của bắc_ninh được công_nhận là di_sản văn_hoá của unesco
+oos	phơi nhiễm hiv là gì
+oos	ceo hiện_tại của google là ai
+oos	phố cổ hội_an được unesco công_nhận di_sản thế_giới vào năm nào
+oos	theo quy_ước được liên_hợp_quốc công_nhận trái_đất có bao_nhiêu đại_dương
+oos	"ai là người đã dâng vua "" thất trảm sớ "" chém 7 nịnh_thần"
+oos	vị trạng_nguyên đầu_tiên của nước ta là ai
+oos	người lãnh_đạo đánh_bại cuộc xâm_lược của mông nguyên 1287 là ai
+oos	cao_nguyên nà sản thuộc tỉnh nào nước ta
+oos	các thành_viên của big_bang gồm những_ai
+oos	đại thi_hào nguyễn_du quê ở huyện nào của tĩnh hà_tĩnh
+oos	liên xô chế_tạo thành_công tên_lửa hạt_nhân vào năm nào
+oos	"ai là người được mệnh_danh là "" tam_nguyên yên đổ """
+oos	núi yên tử cao bao_nhiêu mét
+oos	đồng_tiền việt_nam đồng được phát_hành vào thời_gian nào
+oos	nga giáp những nước nào
+oos	bảo thánh hoàng_hậu là con gái của ai
+oos	loài động_vật nào đã làm_nên sự đặc_biệt của đảo christmas ở australia
+oos	trước_đây tỉnh quảng_ngãi còn có tên gọi nào khác
+oos	đơn_vị đo độ dài nào là dài nhất
+oos	ai là thủ_tướng của estonia
+oos	thành_phố lớn nhất của bhutan là gì
+oos	loại dịch nào trong cơ_thể có nhiều virus hiv nhất
+oos	vịnh hạ_long được công_nhận unesco bao_nhiêu lần
+oos	hương cảng ngày_nay có tên gọi là gì
+oos	bánh_đậu_xanh là đặc_sản của vùng nào
+oos	núi đôi quản_bạ nổi_tiếng nằm ở tỉnh nào
+oos	nguyễn_ái_quốc đến liên xô lần đầu_vào năm nào
+oos	thị_trấn phú phong thuộc tỉnh nào
+oos	chủ_tịch tỉnh quảng_ninh hiện_tại là ai
+oos	bánh_phở được làm từ gì
+oos	thanh toán xong thì làm được ngay chưa?
+oos	bản đôn nơi có rất nhiều voi ở nước ta thuộc tỉnh nào
+oos	thành_phố nào cùng tên tỉnh có kim_sơn tự còn gọi là chùa hang
+oos	quốc_ca của cộng_hoà_séc là gì
+oos	tổng_thư_ký liên_hợp_quốc bay giờ là ai
+oos	nơi sinh của beethoven
+oos	bàn thắng ghi bằng đầu của robin_van persie năm 2014 tại sân nào
+oos	tỉnh đắk_lắk giáp với tỉnh nào của đất_nước campuchia
+oos	hải_cẩu lặn sâu bao_nhiêu m
+oos	thành_phố nào là thủ_phủ của tây_nguyên
+oos	dân_tộc kinh chiếm bao_nhiêu phần_trăm dân_số việt_nam
+oos	giải nobel toán_học năm 2006 thuộc về quốc_gia nào
+oos	bộ phim đầu_tiên của điện_ảnh cách_mạng việt_nam tên là gì
+oos	nước đầu_tiên đưa con_người vào vũ_trụ là
+oos	hưng đạo vương trần quốc tuấn phá quân nguyên năm 1285 ở đâu
+oos	bên chị muốn lấy hóa đơn đầu vào về để kiểm tra hóa đơn, nhờ em tư vấn giúp chị
+oos	dubai thành_phố lớn nhất của uae được mệnh_danh là gì
+oos	khoảng_cách giữa thành_phố hồ_chí_minh và thành_phố vũng_tàu là bao_nhiêu
+oos	thừa_tướng lữ gia quê ở đâu
+oos	nước nào có lãnh_thổ liền nhau lớn nhất trong lịch_sử nhân_loại
+oos	phú_quốc nằm ở vịnh nào
+oos	thành_phố nào được cả israel và nhà_nước palestine tuyên_bố là thủ_đô của mình
+oos	thủ_đô viêng chăn của lào còn có tên là gì
+oos	chữ ký số từ xa tổ chức ký được những được những gì?
+oos	biểu_tượng lịch_sử nước đức cổng thành brandenburg gate nằm ở thành_phố nào
+oos	giám_đốc công_an hiện_tại của thành_phố hồ_chí_minh là người nào
+oos	lại văn sâm du_học ở liên xô bao_lâu
+oos	ai là người khám_phá ra châu_mỹ
+oos	trước khi trở_thành vị tướng nổi_tiếng phạm ngũ lão được ai tiến_cử
+oos	dạng địa_hình chủ_yếu của quảng_bình là gì
+oos	ngoài tài_năng toán_học lương thế vinh còn để lại phát_minh nổi_tiếng nào
+oos	nên ngủ mấy tiếng một ngày
+oos	cố_đô hoa_lư nằm ở tỉnh thành_phố nào
+oos	thủ_tướng hiện_nay của saint_lucia là ai
+oos	thành_phố nào từng được vua quang trung chọn làm kinh_đô
+oos	hiệp_định pari được kí_kết vào năm nào
+oos	khải_hoàn_môn lớn nhất thế_giới nằm ở đâu
+oos	vùng_biển phú_quốc có bao_nhiêu hòn đảo
+oos	vụ đắm tàu titanic xảy ra vào năm nào
+oos	thổ_nhĩ_kỳ có lãnh_thổ nằm trên châu_á và châu nào
+oos	đội bóng nào vô_địch world_cup 2010
+oos	con gà là gì
+oos	triều_tiên có tên đầy_đủ là gì
+oos	lý quang diệu làm thủ_tướng singapore trong khoảng thời_gian nào
+oos	maldives thuộc khu_vực nào
+oos	vương_quốc bỉ được mệnh_danh là gì
+oos	trạng_nguyên nào của nước ta được dân_gian gọi là_trạng lợn
+oos	tỉnh duy_nhất nào ở tây_nguyên có đến 2 thành_phố trực_thuộc
+oos	méxico nằm ở khu_vực nào
+oos	tam quốc diễn_nghĩa viết theo phương_pháp gì
+oos	người nào là giám_đốc liên_minh xã_hội cơ đốc bayern
+oos	youtube thành_lập năm nào
+oos	quốc_gia nào có lễ_hội buffet dành cho khỉ nổi_tiếng thế_giới
+oos	thành_phố biển nào là nơi diễn ra lễ_hội rước đèn trung_thu lớn nhất việt_nam
+oos	trạng bùng là ai
+oos	tình nào có trữ_lượng lớn nhất việt_nam
+oos	có bao_nhiêu đảo đã có tên ở vịnh hạ_long
+oos	trương tấn sang sinh ngày_tháng năm nào
+oos	hà_lan là nơi khởi_nguồn của cuộc cách_mạng nào
+oos	hồ nước tự_nhiên lớn nhất thế_giới nằm ở quốc_gia nào
+oos	hòn đảo lớn nhất việt_nam có tên là gì
+oos	google được thành_lập vào năm nào
+oos	trần đại quang từng là chức_vụ gì trong đảng_cộng_sản_việt_nam
+oos	hàn_quốc có số dân là bao_nhiêu năm 1908
+oos	sầu_riêng là loại quả của vùng miền nào
+oos	quan_hệ quốc_tế giữa việt_nam và trung_quốc hiện_nay
+oos	hệ_sinh_thái mặt_đất nào có độ đa_dạng_sinh_học cao nhất
+oos	tên một nền văn_minh cũ ở iran cổ_đại
+oos	bác ra_đi tìm đường cứu nước năm bao_nhiêu
+oos	một năm việt_nam có bao_nhiêu lễ_hội
+oos	nước nào có nhiều di_sản nhất được unesco công_nhận
+oos	tên lâu_đài nổi_tiếng ở trên đỉnh đồi špilberk
+oos	nước nào có gdp đầu người cao nhất thế_giới
+oos	trên sông cần_thơ có khu chợ_nổi tiếng nào
+oos	việt_nam thuộc múi_giờ thứ mấy
+oos	"nền kinh_tế việt_nam hiện đứng thứ mấy trên thế_giới """
+oos	bitcoin hoạt_động như_thế_nào
+oos	angkor wat là biểu_tượng của quốc_gia nào
+oos	dân_số iraq hiện_nay chủ_yếu là người nào
+oos	sông bạch đằng thuộc hệ_thống sông nào ngày_nay
+oos	ngô_quyền trị_vì từ năm nào đến năm nào
+oos	chiếc xe_tăng nào húc đổ cổng sắt dinh độc_lập
+oos	núi nào thuộc tỉnh an huy nằm trong “ tứ đại danh sơn ” của trung_quốc
+oos	bản đôn nơi có rất nhiều voi ở nước ta thuộc tỉnh nào
+oos	đà_lạt được tìm ra năm bao_nhiêu
+oos	các loại cây_gỗ có giá_trị nhất ở việt_nam
+oos	hà_giang giáp với những tỉnh nào của nước ta
+oos	ai là người đầu_tiên phát_minh ra quạt_điện
+oos	các dân_tộc_thiểu_số sống trên tỉnh kon_tum
+oos	ngôi chùa đúc hoàn_toàn bằng đồng ở việt_nam
+oos	động_vật_có_vú trên cạn nào mắt lớn nhất
+oos	sau năm 1975 ai là người đã hiến cung an định cho chính_quyền cách_mạng
+oos	dòng máu anh_hùng phát_hành ở việt_nam năm nào
+oos	ngôn_ngữ chính_thức thứ hai ở malaysia
+oos	tác_phẩm nào của thi nại am nằm trong tứ đại danh_tác
+oos	đại_dương nào lớn nhất thế_giới
+oos	mạc đăng dung từng thi đỗ võ trạng_nguyên dưới triều vua nào của nhà hậu lê
+oos	nhà_thờ con gà là tên gọi dân_dã của nhà_thờ nào
+oos	wikipedia tiếng anh là gì
+oos	chùa hồ thiên thuộc tỉnh nào
+oos	bố của lữ bố là ai
+oos	miền nam việt_nam giải_phóng năm bao_nhiêu
+oos	xứ thanh là tên gọi của tỉnh nào
+oos	chi pu đã tự sản_xuất bộ phim nào
+oos	ngôn_ngữ chính_thức của monaco là gì
+oos	hươu_cao_cổ sống ở đâu nhiều nhất
+oos	nữ_tướng của hai_bà_trưng có công_lập nên vùng_đất hải_phòng ngày_nay
+oos	sông amazon chảy qua nước nào sau đây
+oos	châu_lục nào có dân_số đông nhất thế_giới
+oos	mật_độ dân_số của châu_âu là bao_nhiêu
+oos	đế_quốc nhật_bản tồn_tại trong khoảng thời_gian nào
+oos	chuyên_cơ boeing 707 bị rơi của danair do nước nào vận_hành
+oos	cho biết tên thiên_tài hội_hoạ trung_quốc và là danh_nhân văn_hoá thế_giới
+oos	quốc_ca của nước việt_nam do ai sáng_tác
+oos	khủng_hoảng tài_chính 2007 bắt_đầu ở nước nào
+oos	quốc_kì của mỹ có bao_nhiêu ngôi_sao
+oos	doraemon ra_mắt vào năm nào
+oos	chiến_tranh thế_giới lần thứ nhất diễn ra vào năm nào
+oos	vua lê_trang tông tên thật là gì
+oos	hiện_nay ở việt_nam có bao_nhiêu tổ_chức tôn_giáo
+oos	di_sản đầu_tiên ở nước ta được unesco công_nhận là di_sản văn_hoá thế_giới
+oos	viết tắt của hệ_thống định_vị_toàn_cầu
+oos	bên em có hỗ trợ đăng ký hóa đơn điện tử với bên thuế không
+oos	vịnh hạ_long được công_nhận là di_sản thiên_nhiên thế_giới vào năm nào
+oos	học_viện chính_trị được thành_lập vào ngày_tháng năm nào
+oos	hang_động nào ở quảng_bình lớn nhất thế_giới
+oos	nước nào đưa con_người lên mặt trăng đầu_tiên
+oos	ai là vị hoàng_đế áp_chót của nhà lê_trung_hưng cũng như là thứ 26 của nhà hậu lê trong lịch_sử việt_nam
+oos	ai là người châu_á đầu_tiên đoạt giải nobel văn_học
+oos	ai là người sáng_lập thảo_cầm_viên sài_gòn
+oos	chủ_tịch tỉnh hà_giang hiện_nay là ai
+oos	dân_tộc nào có tục trồng cây nêu vào dịp tết
+oos	thủ_đô nào nằm ở độ cao cao nhất thế_giới
+oos	tên gọi của một lễ_hội nổi_tiếng ở brazil
+oos	độ sâu của đại tây dương là bao_nhiêu
+oos	nga có bao_nhiêu liên_bang
+oos	nếu chưa hết 1 năm mà chị sử dụng hết số lượng hóa đơn thì sao?
+oos	cần_thơ nằm trong khu_vực đồng_bằng nào ở nước ta
+oos	chị mua cks từ xa thì các bước cài đặt như nào
+oos	đường lâm được công_nhận là làng cổ đầu_tiên của nước ta vào năm nào
+oos	bí_thư thành_uỷ hà_nội hiện_tại là ai
+oos	uy minh vương đã tổ_chức nhân_dân đắp đê ở sông nào
+oos	giá dịch vụ xử lý hóa đơn
+oos	mạng xã_hội phổ_biến nhất là gì
+oos	quốc_gia nào khai_sinh ra asiad
+oos	điều gì đã xảy ra với khải_hoàn_môn của pháp vào năm 1814
+oos	việt_nam đã đăng_cai tổ_chức bao_nhiêu hội_nghị của wef
+oos	hiến_pháp đầu_tiên của nước ta được ban_hành vào năm nào
+oos	đại_học nào lâu_đời nhất hoa_kỳ
+oos	loài khủng_long nào có tốc_độ lớn nhất
+oos	tên một đơn_vị hành_chính thuộc huyện đông_anh
+oos	quốc_ca của pháp là gì
+oos	người ta treo đèn_lồng trắng trước nhà khi nào
+oos	đa_số người_dân brunei theo tôn_giáo nào
+oos	sea_games bao_nhiêu việt_nam tham_dự môn cầu_mây
+oos	sea_games 30 được tổ_chức tại nước nào
+oos	alfred nobel là người nước nào
+oos	tom và jerry là bộ phim của nước nào
+oos	bác_hồ có bao_nhiêu anh_chị_em
+oos	trang_phục dân_tộc tại các cuộc thi sắc_đẹp quốc_tế là gì
+oos	dân_số việt_nam là bao_nhiêu
+oos	nguyễn_bỉnh khiêm còn có tên gọi gì khác
+oos	thổ_nhĩ_kỳ độc_lập từ năm nào
+oos	mạnh_thường_quân là nhân_vật lịch_sử sống ở nước nào
+oos	tứ đại mỹ_nhân là ai
+oos	một năm việt_nam có bao_nhiêu lễ_hội
+oos	đã có bao_nhiêu kỉ băng_hà trên trái_đất
+oos	napoleon bonaparte là hoàng_đế của nước nào
+oos	dãy núi dài nhất việt_nam là dãy núi nào
+oos	hy_lạp có lãnh_thổ tiếp_giáp quốc_gia nào
+oos	máy_tính được phát_minh khi nào
+oos	hóa đơn điện tử(hđđt) là gì
+oos	anh dùng hóa đơn bên khác, còn pmkt anh mua misa có ảnh hưởng gì không?
+oos	trên thế_giới nước nào có trữ_lượng dầu_mỏ lớn nhất
+oos	sa_mạc nào nóng nhất thế_giới
+oos	hình nào nằm chính giữa hình_chữ_nhật màu xanh lục trên quốc_kỳ maldives
+oos	tộc maya cổ tồn_tại vào thời_gian nào
+oos	tên của con sông dài nhất bắc mỹ là gì
+oos	người nào là chủ_tịch uỷ_ban_nhân_dân hiện_nay của tỉnh yên_bái
+oos	exid viết tắt của chữ gì
+oos	thành_phố nào là thủ_đô của iceland
+oos	đảo phú_quốc nằm ở tỉnh nào
+oos	đồng_bằng sông hồng có bao_nhiêu tỉnh thành_phố
+oos	dân_số của nga là bao_nhiêu
+oos	việt_nam thuộc múi_giờ thứ mấy
+oos	biệt_thự công_tử bạc_liêu từng sống được sử_dụng làm mục_đích gì
+oos	ngôn_ngữ chính_thức của áo là
+oos	lại văn sâm là ai
+oos	vườn_quốc_gia phong nha kẻ bàng nằm ở tỉnh thành_phố nào
+oos	đặc_sản của tuyên_quang là gì
+oos	việt_nam đã đăng_cai tổ_chức bao_nhiêu hội_nghị của wef
+oos	thành_phố hồ_chí_minh có bao_nhiêu triệu dân
+oos	hiện_nay trên đảo trường_sa có bao_nhiêu người sinh_sống
+oos	thủ_đô của new_zealand hiện_nay là thành_phố nào
+oos	tên vịnh hạ_long có ý_nghĩa gì
+oos	thay đổi chữ ký số cần làm gì
+oos	chính_thể trung hoa dân_quốc được thành_lập ở đâu
+oos	nước có khối_lượng riêng lớn nhất tại nhiệt_độ nào
+oos	thời_gian thành_lập khối thị_trường chung châu_âu eec
+oos	thành_phần chủ_yếu của muối tinh là gì
+oos	liên_bang tiệp khắc gồm những nước nào
+oos	đảo lớn nhất thuộc vùng_biển phú_quốc
+oos	ông vua tại_vị lâu nhất triều nguyễn là ai
+oos	việt_nam và ba_lan thiết_lập quan_hệ ngoại_giao vào năm nào
+oos	nhà_thờ đức_bà paris có_thể chứa bao_nhiêu người
+oos	đại mông_cổ là gì
+oos	gửi báo giá đầy đủ các gói để tham khảo
+oos	nguyễn_bỉnh khiêm mất năm nào
+oos	người việt duy_nhất được phong tướng ở cả việt_nam và trung_quốc
+oos	diện_tích của biển_hồ campuchia là bao_nhiêu
+oos	cục chống tham_nhũng được thành_lập từ khi nào
+oos	vị vua đầu_tiên cai_quản nước ta
+oos	tây_ban_nha nằm trên bán_đảo nào ở châu_âu
+oos	giá combo nhiều thì có được ưu đãi hơn mua 1 năm không?
+oos	trận đánh lớn đầu đời của napoleon bonaparte
+oos	việt_nam đăng_cai tổ_chức hội_nghị cấp cao apec lần thứ bao_nhiêu
+oos	võ văn kiệt sinh năm bao_nhiêu
+oos	ngôi mộ bên trong khải_hoàn_môn ở pháp là của ai
+oos	""" xóm ngụ_cư "" là tên khi mới sáng_tác của tác_phẩm văn_học nào"
+oos	bách_khoa_toàn_thư là gì
+oos	mũi hảo vọng thuộc_quốc_gia này
+oos	người nước nào phát_minh ra món sôcôla của người da đỏ
+oos	nguyễn_du viết truyện kiểu vào năm nào
+oos	ethiopia là quốc_gia thuộc khu_vực nào
+oos	bồ_đào_nha nằm ở khu_vực nào
+oos	người_dân lào chủ_yếu theo tôn_giáo nào
+oos	lê_hồng anh được phong làm đại_tướng năm nào
+oos	hóa đơn đầu vào có lấy đc các ncc khác không hay chỉ lấy mỗi của misa thôi
+oos	tỉnh_lỵ của gia_lai là thành_phố nào
+oos	người đầu_tiên đưa ra số_phức là ai
+oos	việt_nam từng tồn_tại những nền văn_hoá nào
+oos	ai phát_hiện ra nhiễm_sắc_thể
+oos	nước nhật tiếp_giáp quốc_gia nào
+oos	anh muốn làm xong hết hồ sơ thủ tục với thuế và mẫu hóa đơn xong anh mới thanh toán nhé
+oos	con vật đầu_tiên được nhân_bản_vô_tính thành_công
+oos	tôn_giáo được thịnh_hành nhất_thời nhà lý là tôn_giáo nào
+oos	bí_thư hiện_nay của tỉnh lào_cai là ai
+oos	chiến_dịch điện_biên_phủ bắt_đầu từ ngày nào
+oos	obama đắc_cử vào thượng_viện hoa_kỳ năm nào
+oos	ban tổ_chức trung_ương đảng_cộng_sản_việt_nam là gì
+oos	công phượng sinh năm mấy
+oos	thang_máy cuốn ngắn nhất thế_giới thuộc_quốc_gia nào
+oos	tôn_giáo nào được xem là quốc_giáo của malaysia
+oos	tỉnh bình_phước hiện_nay có tất_cả bao_nhiêu đơn_vị hành_chính
+oos	tổ_chức thương_mại thế_giới wto thành_lập vào thời_gian nào
+oos	"tác_giả của cuốn sách "" thế_giới phẳng """
+oos	võ_đường nào đông môn_sinh nhất việt_nam
+oos	mẫu chứng từ điện tử có giống với giấy ko
+oos	việt_nam đã chính_thức được kết_nạp là thành_viên của wto vào ngày_tháng năm nào
+oos	qủa trứng có trước hay con gà có trước
+oos	trang_web được truy_cập nhiều nhất thế_giới là gì
+oos	vùng_biển việt_nam có diện_tích khoảng bao_nhiêu
+oos	sông_cái phan_thiết bắt_nguồn từ tỉnh nào
+oos	chủ_tịch nước cộng_hoà_xã_hội_chủ_nghĩa_việt_nam đầu_tiên là ai
+oos	diện_tích ấn_độ là bao_nhiêu
+oos	thuỷ_điện thác bà được xây_dựng ở đâu
+oos	trà_vinh nằm ở khu_vực nào
+oos	ai là người đầu_tiên phát_minh ra quạt_điện
+oos	các cấp_bậc thiền_định là gì
+oos	danh_tướng cao lỗ quê ở tỉnh nào của việt_nam
+oos	thành_phố có dân_số đông thứ nhì việt_nam là gì
+oos	bức tường berlin được dỡ bỏ năm nào
+oos	tên gọi địa_phương ở việt_nam của loại cá_ngừ mắt to vây vàng
+oos	hàn_quốc có số dân là bao_nhiêu năm 1908
+oos	trận trân_châu cảng diễn ra ở tiểu_bang nào của hoa_kỳ
+oos	hoàng_thành thăng long nằm ở tỉnh thành_phố nào
+oos	dưới thời minh mạng kinh_thành thăng long có tên là gì
+oos	hiệp_định paris được ký vào ngày nào
+oos	thiết kế mẫu có tính thêm tiền không
+oos	trước năm 1996 bắc_kạn thuộc tỉnh nào
+oos	hiệp_định đối_tác xuyên thái_bình_dương viết tắt là gì
+oos	tác_phẩm truyện_kiều là của tác_giả nào
+oos	khu_vực nào có tất_cả tỉnh_thành giáp biển
+oos	môn bóng_rổ được tạo ra vào năm nào
+oos	thủ_đô của brasil là thành_phố nào
+oos	liên_hợp_quốc có tất_cả bao_nhiêu quốc_gia
+oos	ethiopia thuộc khu_vực địa_lý nào
+oos	đỉnh núi cao nhất đông dương nằm ở nước nào
+oos	quốc_hiệu của việt_nam thời lý nam đế
+oos	nữ_tướng trần thị lan là vợ hổ_tướng nào của nhà tây_sơn
+oos	khí_hậu ở thành_phố hồ_chí_minh có mấy mùa
+oos	con tàu đầu_tiên bay vào vũ_trụ tên là gì
+oos	làng cổ đường lâm hà nội là nơi sinh ra vua nào
+oos	ngọn núi cao nhất ở bhutan chưa bị chinh_phục
+oos	tiền_giấy ra_đời trong triều_đại nào của nước ta
+oos	việt_nam gia_nhập asean năm nào
+oos	thành_phố cao nhất thế_giới là thành_phố nào
+oos	kể tên các hòn đảo ở vịnh bắc_bộ
+oos	trần thiện thanh sinh ngày nào
+oos	đỉnh núi cao nhất thế_giới hiện_nay tên là gì
+oos	ai là người đầu_tiên bay vào vũ_trụ
+oos	ngọn núi nào ở nhật_bản được công_nhận di_sản văn_hoá thế_giới
+oos	"bệnh “ người da xanh "" là do đâu"
+oos	chữ_viết xuất_hiện lần đầu_tiên ở đâu
+oos	ngôn_ngữ_lập_trình là gì
+oos	lê hoàn lên_ngôi hoàng_đế năm nào
+oos	ai là người đầu_tiên đặt_chân lên mặt trăng
+oos	ai phát_minh ra bóng_điện đầu_tiên
+oos	hiệp_định pari được kí_kết vào năm nào
+oos	lễ_hội bia nổi_tiếng ở đức có tên là gì
+oos	hình thức triển khai biên lai điiện tử như thế nào? quy trình ? có phức tạp hay không?
+oos	những con sông dài nhất miền bắc việt_nam là gì
+oos	ở việt_nam 8 3 còn là ngày gì
+oos	tỉnh nào có diện_tích lớn nhất khu_vực đông_nam_bộ
+oos	thành_phố hồ_chí_minh dân_số bao_nhiêu
+oos	tên viết tắt của diễn_đàn hợp_tác á âu là gì
+oos	vị thủ_tướng anh nào từng đạt giải nobel văn_học
+oos	đảo nào lớn nhất ấn_độ dương
+oos	hiện có bao_nhiêu đại_tướng trong quân_đội nhân_dân việt_nam
+oos	rắn hổ_mang chúa phân_bố chủ_yếu ở đâu
+oos	phí khởi tạo này sau có thu nữa không
+oos	đất_nước có tháp truyền_hình cao nhất thế_giới
+oos	cuộc khởi_nghĩa hương_khê kết_thúc năm nào
+oos	đặc_sản của phú_thọ là gì
+oos	công_trình hầm thủ thiêm khánh_thành ngày_tháng năm nào
+oos	người nào là bí_thư hiện_nay của thành_phố đà_nẵng
+oos	ai là tác_giả của bài hịch tướng_sĩ
+oos	ai là người truyền_bá đạo phật vào việt_nam
+oos	vị vua nào đã đổi tên nước ta từ đại việt thành việt_nam vào năm 1804
+oos	trịnh nguyễn_phân_tranh là thời_kỳ gì
+oos	tỉnh cao_bằng thuộc khu_vực nào của nước ta
+oos	loại bột nào được sử_dụng làm bánh_cuốn
+oos	lê_duẩn làm tổng_bí_thư của đảng_cộng_sản_việt_nam bao_lâu
+oos	tây_nguyên bao_gồm những tỉnh nào ở việt_nam
+oos	ai là giám_đốc_điều_hành của motorola
+oos	danh_nhân hà_nam nào có biệt_danh “ tam_nguyên yên đổ ”
+oos	động_vật có sương sống xuất_hiện đầu_tiên là động_vật nào
+oos	hiện_tượng en ni nhô là gì
+oos	việt_nam đã công_nhận người đồng_tính được kết_hôn chưa vậy
+oos	vua trần nhân tông lên_ngôi trị_vì đất_nước vào năm nào
+oos	estonia giáp những biển nào
+oos	ai là giám_đốc của panasonic
+oos	thủ_lĩnh của khomer đỏ là ai
+oos	làng bần là ngôi làng chế_biến ra món tương nổi_tiếng nào
+oos	con sông có lưu_lượng nước_lớn nhất thế_giới là sông nào
+oos	ev là đơn_vị dùng để đo
+oos	nhà tư_sản nào được xem là người khai_sinh ra ngành sản_xuất sơn_dầu ở việt_nam
+oos	đồng_tiền giấy ra_đời ở việt_nam vào năm nào
+oos	lý do thu phí khởi tạo là gì
+oos	cơ_cấu tổ_chức của mặt_trận tổ_quốc việt_nam
+oos	chủ_tịch đầu_tiên của ấn_độ độc_lập của chúng_ta là ai
+oos	châu nam_cực do nhà thám_hiểm nước nào phát_hiện
+oos	đảo ngọc ở đâu
+oos	ai là trạng_nguyên đầu_tiên của nước ta
+oos	người chỉ_huy đầu_tiên của quân_đội nhân_dân việt_nam là ai
+oos	hungary tiếp_giáp lãnh_thổ với quốc_gia nào
+oos	dự nhượng ám_sát triệu tương tử báo_thù cho ai
+oos	dãy núi andes nằm ở châu_lục nào
+oos	cộng_hoà áo tiếp_giáp lãnh_thổ với nước nào
+oos	lê_duẩn làm tổng_bí_thư của đảng_cộng_sản_việt_nam bao_lâu
+oos	phần_lan là một quốc_gia thuộc khu_vực nào của châu_âu
+oos	tháng 9 1939 chiến_tranh thế_giới thứ 2 bùng_nổ bắng sự_kiện đức đánh nước nào
+oos	triều_đại nào không lấy danh_hiệu trạng_nguyên
+oos	world_cup năm 1950 được tổ_chức ở quốc_gia nào
+oos	địa_danh núi bà đen thuộc tỉnh nào
+oos	vua nào cho mở khoa thi_tuyển chọn trạng_nguyên đầu_tiên
+oos	ai là người được coi là sáng_lập ra nhà trần
+oos	người nào là bí_thư của tỉnh đắk_nông
+oos	người đầu_tiên nhận huân_chương sao_vàng ở nước ta là ai
+oos	facebook được 1 tỷ người sử_dụng vào năm nào
+oos	tổ_chức hợp_tác kinh_tế châu_á thái_bình_dương gồm bao_nhiêu thành_viên
+oos	tỉnh hà_nam giáp với những tỉnh nào sau đây
+oos	dân_số của mỹ năm 2011 là bao_nhiêu
+oos	con sông dài nhất trên thế_giới ở nước nào
+oos	misa có chữ ký số không cần usb token không?
+oos	vùng_đất nào ở italy được xem là quê_hương của món pizza hiện_đại
+oos	mua 1 phần mềm dùng được cho nhiều hộ kinh doanh không
+oos	phần mềm này chỉ nhận hóa đơn của misa thôi hay nhận của tất cả các nhà cung cấp?
+oos	bí_thư của đà_nẵng là ai
+oos	thành thái có con nào cũng là vị vua yêu nước nổi_tiếng của nhà_nguyễn
+oos	nơi nào ở an_giang là quê_hương của cố_chủ_tịch nước tôn đức thắng
+oos	cổng mặt_trời là gì
+oos	hệ mặt_trời còn gọi là gì
+oos	thủ tục lập hóa đơn như thế nào cần những giấy tờ gì
+oos	hóa đơn bên em có giới hạn thời gian sử dụng không
+oos	củ nhân_sâm là gì
+oos	ai là người trực_tiếp chỉ_huy trận đánh điện_biên_phủ
+oos	việt_nam có tổng_cộng bao_nhiêu đảo
+oos	ứng_dụng laban key là gì
+oos	lý công uẩn sinh vào năm nào
+oos	nước pháp thuộc khu_vực nào của châu_âu
+oos	mật_độ dân_số của hàn_quốc cao thứ mấy thế_giới
+oos	phần mềm có đủ số theo thông tư 88 hay không
+oos	việt_nam là thành_viên của tổ_chức wto vào năm nào
+oos	sau khi qua_đời lê_văn duyệt bị vua triều nguyễn nào kết_tội
+oos	nước nào có gdp đầu người cao nhất thế_giới
+oos	dòng sông dài nhất đông nam á chảy giữa hai quốc_gia nào sau đây
+oos	thành_phố nào là thủ_đô của triều_tiên
+oos	donald trump nổi_tiếng toàn nước mỹ nhờ gì
+oos	tên chính_thức của tây đức là gì
+oos	biển baltic tiếp_giáp với các châu_lục nào
+oos	quy nhơn trở_thành tỉnh_lị của bình_định từ năm nào
+oos	thế_vận_hội hiện_đại được tổ_chức lần đầu_tiên vào thời_gian nào
+oos	để cầu mưa chống hạn_hán vua minh mạng làm_gì
+oos	thành cát tư hãn là người đã sáng_lập ra đế_quốc nào
+oos	phe captain america và phe iron man mỗi bên có bao_nhiêu thành_viên
+oos	đoàn tử quang quyết_chí đi thi để làm_gì
+oos	chùa bái đính thuộc địa_phận tỉnh nào nước ta
+oos	ai là thủ_lĩnh khởi_binh chống lại chính_quyền đô_hộ đông hán
+oos	văn_hoá đông_sơn hình_thành từ con sông nào
+oos	tây_nguyên từng được gọi là gì
+oos	đăk lăk có diện_tích đứng thứ mấy việt_nam
+oos	google là công_ty con của tập_đoàn nào
+oos	bánh_đậu_xanh là đặc_sản của vùng nào
+oos	giá các gói hóa đơn misa như thế nào
+oos	quê của chủ_tịch nước trần đại quang ở đâu
+oos	tay_đua trẻ nhất từng tham_gia một chặng đua f1 là ai
+oos	vệ_tinh_nhân_tạo đầu_tiên có tên là gì
+oos	tỉnh bình_thuận nổi_tiếng với loại cây đặc_sản nào
+oos	giá vàng hôm_nay bao_nhiêu
+oos	vị vua nào lập đế_quốc ba tư
+oos	ai là người đầu_tiên phát_hiện ra châu_mỹ
+oos	ghềnh đá đĩa thuộc tỉnh nào của việt_nam
+oos	trại rắn đồng_tâm hiện_nay thuộc tỉnh_thành nào
+oos	lê_hiển tông đã cho phát_hành bao_nhiêu loại tiền
+oos	đền thờ vị nữ_thần nào của hy_lạp nằm trong bảy kỳ_quan thế_giới cổ_đại
+oos	giá gói trên báo giá em gửi có vat chưa ?
+oos	dòng sông nào được xem là biểu_tượng của iraq
+oos	em gửi cho anh/chị báo giá các gói sản phẩm bên em để anh chị tham khảo thử
+oos	làm thế_nào để phân_biệt gà trống và gà mái
+oos	cối_xay_gió là phát_minh của nước nào
+oos	phim ngắn nào của việt_nam đầu_tiên tham_dự liên_hoan_phim quốc_tế
+oos	có nhập khẩu excel hóa đơn vô được không
+oos	hai món ăn không_thể thiếu của ngày lễ tạ ơn là gì
+oos	tôn trung sơn là ai
+oos	thủ_đô của cộng_hoà síp là thành_phố nào
+oos	tỉnh nào có đường biên_giới dài nhất với campuchia
+oos	kỳ họp quốc_hội mới nhất_là lần thứ bao_nhiêu
+oos	malaysia sở_hữu công_trình nào đứng đầu thế_giới
+oos	rét nàng bân ở miền bắc nước ta thường xảy ra vào tháng mấy âm_lịch
+oos	tỉnh quảng_ngãi hiện có bao_nhiêu đơn_vị hành_chính cấp huyện_thị
+oos	canberra là thủ_đô của nước nào
+oos	tên cũ của hồ gươm ngày_xưa
+oos	ô_nhiễm môi_trường là gì
+oos	diễn_viên chính của phim titanic là ai
+oos	trần thủ độ là ai
+oos	ba màu lam trắng và đỏ trên quốc_kỳ của iceland đại_diện cho điều gì
+oos	hệ_điều_hành nào là mã nguồn mở
+oos	huấn_luyện_viên của đội_tuyển bóng_đá quốc_gia tây_ban_nha là ai
+oos	nhà du_hành_vũ_trụ đầu_tiên của việt_nam là ai
+oos	tại trung_quốc kỳ nghỉ lễ quốc_khánh còn được gọi là gì
+oos	tỉnh hà_nam thuộc khu_vực nào của nước ta hiện_nay
+oos	nước nào đã thử_nghiệm vũ_khí_hạt_nhân đầu_tiên
+oos	"quốc_gia nào tặng tượng "" nữ_thần tự_do "" cho nước mỹ"
+oos	thủ_đô của samoa hiện_nay là thành_phố nào
+oos	thái_tử mohammed bin salman đang nắm giữ chức_vụ nào trong chính_phủ saudi arabia
+oos	ai là người truyền_bá đạo phật vào việt_nam
+oos	đài_loan còn có tên gọi nào khác
+oos	singapore từng là thuộc địa của nước nào
+oos	tỉ_lệ dân_số của châu_á so với thế_giới
+oos	việt_nam đã mấy lần ban_hành hiến_pháp
+oos	ai là người chỉ_huy cuộc xâm_lược chống mông nguyên năm 1285
+oos	nước chiếm bao_nhiêu trong cơ_thể người
+oos	chủ_tịch hội_đồng_nhân_dân tỉnh vĩnh_long hiện_tại là ai
+oos	vương_quốc_anh tiếp_giáp với nước nào
+oos	lư thắng ngạn là giáo_đồ của tôn_giáo nào
+oos	chú sam là biệt_hiệu và hình_tượng nhân_hoá của quốc_gia nào
+oos	lê_uy mục bị ai lật_đổ
+oos	con tàu đầu_tiên bay vào vũ_trụ tên là gì
+oos	nguyễn_kim là ông nội của chúa nguyễn nào
+oos	hồ quý ly cho xây_dựng thành nào ở thanh_hoá
+oos	ngọn núi_lửa đang hoạt_động cao nhất thế_giới nằm tại biên_giới của argentina và quốc_gia nào
+oos	thành_phố nào hiện có lăng của võ tánh
+oos	vai_trò của phù_dâu và phù_rể trong đám_cưới
+oos	malaysia sở_hữu công_trình nào đứng đầu thế_giới
+oos	u_xơ tiền_liệt_tuyến là gì
+oos	ai phát_minh ra đèn_điện
+oos	đạo_đức là gì
+oos	barack obama nhậm_chức tổng_thống hoa_kỳ vào ngày_tháng năm nào
+oos	quốc_gia nào có nhiều núi_lửa đang hoạt_động nhất
+oos	facebook có lượt truy_cập đứng thứ mấy trên thế_giới
+oos	chủ_tịch của bến_tre là ai
+oos	ai là tổng_thống đầu_tiên của nước mỹ
+oos	joyce chu tên thật là gì
+oos	quốc_gia nào có số cừu gấp khoảng 10 lần dân_số của nước mình
+oos	ai được tần thuỷ hoàng sai đi tìm thuốc trường_sinh
+oos	dùng thử như thế nào
+oos	lào còn tiếp_giáp lãnh_thổ với quốc_gia nào ở đông nam á
+oos	võ_sư nổi_tiếng được xem là tổ_sư của vĩnh xuân quyền ở việt_nam
+oos	hóa đơn bán theo đơn vị số lượng hay tính theo thời gian?
+oos	myanmar còn được gọi là gì
+oos	đội bóng nào giành huy_chương đồng ngay lần đầu tham_dự world_cup
+oos	chùa tự lạc thuộc tỉnh nào
+oos	nhà_giáo nào là hiệu_trưởng đầu_tiên của nước ta
+oos	""" hai thiếu_nữ và em bé "" là bức tranh nổi_tiếng của ai"
+oos	việt_nam có bao_nhiêu dãy núi cao trên 3000m
+oos	nam âu gồm những nước nào
+oos	ai là người lên mặt trăng đầu_tiên trên thế_giới
+oos	đảo phục_sinh di_sản thế_giới được unesco công_nhận nằm ở quốc_gia nào
+oos	vị trạng_nguyên đầu_tiên của nước ta được sử_sách ghi_nhận
+oos	ông hoàng nhạc pop của thế_giới là ai
+oos	núi bài thơ của tỉnh quảng_ninh khắc bài thơ của chúa trịnh nào
+oos	tổng_thống có số nhiệm_kỳ lâu nhất ở nước mỹ
+oos	ô_nhiễm không_khí là gì
+oos	tên một bộ_luật nổi_tiếng của triều_nguyễn
+oos	mật_độ dân_số của đà_nẵng là bao_nhiêu
+oos	chủ_tịch tỉnh quảng_ninh hiện_tại là ai
+oos	hofburg là cung_điện hoàng_gia nước nào
+oos	người_dân nước nào có truyền_thống vội_vàng ăn đến 12 quả nho may_mắn lúc giao_thừa
+oos	bộ_trưởng bộ công_an hiện_nay là ai
+oos	the beatles giành bao_nhiêu giải grammy
+oos	sông_cửu_long ngày_nay có mấy cửa đổ ra biển
+oos	đơn_vị đo áp_suất được đặt theo tên ai
+oos	hiện_nay châu_á có bao_nhiêu dân
+oos	con tàu đầu_tiên bay vào vũ_trụ tên là gì
+oos	dân_số của nga là bao_nhiêu
+oos	tâm_linh là gì những hiện_tượng tâm_linh bạn biết
+oos	châu_á có bao_nhiêu quốc_gia và vùng lãnh_thổ
+oos	đạo hồi xuất_phát từ quốc_gia nào
+oos	người nào là chủ_tịch hiện_nay của tỉnh thái_bình
+oos	croatia thuộc khu_vực nào của châu_âu
+oos	thu phương từng trong nhóm nhạc nào
+oos	khu di_tích hải thượng lãn ông là danh_thắng lịch_sử ở huyện nào của tĩnh hà_tĩnh
+oos	việt_nam có bao_nhiêu tỉnh_thành
+oos	nội_dung thiên long bát bộ nói về gì
+oos	suối nào là danh_thắng của phú_quốc
+oos	đất_nước có lãnh_thổ rộng nhất châu_phi mà không tiếp_giáp với biển
+oos	nơi thờ_phụng các danh_tướng khai_quốc của chúa nguyễn và nhà nguyễn trước 1802
+oos	đồng_nai hiện_nay có mấy đơn_vị hành_chính cấp huyện_thị
+oos	bộ_trưởng bộ lao_động thương_binh và xã_hội là ai
+oos	mặt trân dân_chủ đông dương thành_lập vào năm nào
+oos	dấu_câu nào được dùng để đánh_dấu ranh_giới giữa các vế trong câu ghép
+oos	đông trùng hạ thảo được dùng ở đâu
+oos	chiếc điện_thoại đầu_tiên chạy hệ_điều_hành android có tên là gì
+oos	nền kinh_tế của nga đứng thứ mấy thế_giới
+oos	phim titanic được sản_xuất vào năm nào
+oos	nhà_giáo nào là hiệu_trưởng đầu_tiên của nước ta
+oos	phần mềm bên em có đáp ứng đầy đủ nghiệp vụ xử lý và mẫu hóa đơn của bên thuế không
+oos	doraemon được phát_hành đầu_tiên tại việt_nam năm nào
+oos	hãy cho biết toà nhà nào cao nhất thế_giới
+oos	sau khi lên_ngôi lê_thái tổ chia nước thành 5 đạo gì
+oos	tên vườn_quốc_gia nổi_tiếng thuộc tỉnh ninh_thuận
+oos	đàm thận huy quê ở tỉnh nào
+oos	lý chấn phiên còn có nghệ_danh là gì
+oos	black pink là nhóm nhạc của nước nào
+oos	nếu đăng ký dùng sau này ai sẽ là người hỗ trợ trực tiếp
+oos	vực sâu nhất thế_giới có tên là gì
+oos	truyện_kiều được sáng_tác theo thể thơ nào
+oos	một ván cờ_vua mỗi bên có bao_nhiêu quân
+oos	nam_phi có diện_tích tự_nhiên lớn thứ mấy trên thế_giới
+oos	glucose còn gọi là gì
+oos	vì sao phải chọn chữ ký số của misa trong khi chị đã có chữ ký số rồi ?
+oos	cậu vàng là nhân_vật trong tác_phẩm nào
+oos	trần thái tông mất năm nào
+oos	sông sài_gòn bắt_nguồn từ tỉnh nào
+oos	dân_số của thượng hải năm 2010 là bao_nhiêu
+oos	tiền_giấy ra_đời trong triều_đại nào của nước ta
+oos	giá vàng hôm_nay bao_nhiêu
+oos	tỉnh nào có diện_tích trồng dừa lớn nhất nước ta
+oos	ngôi chùa nào được xem là danh_lam_thắng_cảnh số_một hàn_quốc
+oos	đơn_vị đo áp_suất trong hệ đo_lường quốc_tế là gì
+oos	chợ tình khau vai thuộc tỉnh nào của việt_nam
+oos	nhà trần khởi_đầu do ai lên_ngôi
+oos	quê_hương của tổng_thống obama ở đâu
+oos	ai là chủ_tịch ubnd thành_phố cần_thơ
+oos	ngô thị thanh hằng là ai
+oos	thành_phố nào là thủ_đô của bahrain hiện_tại
+oos	cầu rồng chính_thức được thông xe vào năm nào
+oos	ngọn núi cao nhất của nhật_bản
+oos	việt_nam có bao_nhiêu cơ_quan cấp_bộ
+oos	hang_động nổi_tiếng ở ninh_bình được cho là chứa kho báu
+oos	nhân_vật nữ chính trong tác_phẩm “ mùa lạc ” của nguyễn_khải
+oos	cánh đồng chum là địa_danh nổi_tiếng của quốc_gia nào
+oos	diện_tích madagascar là bao_nhiêu
+oos	kiểm_toán nhà_nước là cơ_quan gì
+oos	loài khủng_long nào có tuổi_thọ trên 100 tuổi
+oos	cửa_khẩu tịnh_biên thuộc tỉnh nào của việt_nam
+oos	sau khi qua_đời vua khải định được an_táng tại lăng nào
+oos	vua lý huệ tông nhường ngôi cho ai trước khi đi_tu
+oos	quốc_gia nào đầu_tiên tại châu_phi hợp_pháp_hoá hôn_nhân đồng_tính
+oos	trước_đây tỉnh quảng_ngãi còn có tên gọi nào khác
+oos	cristiano ronaldo sinh ra tại đâu
+oos	ai là người cắm cờ đầu_tiên trên nóc dinh độc_lập ngày 30 tháng 4 năm 1975
+oos	tháp eiffel hiện_nay do ai quản_lý
+oos	apec được thành_lập vào năm nào
+oos	đỉnh núi nào được coi là nóc nhà đông dương
+oos	nhà_khoa_học thiên_tài nào là tác_giả của thuyết_tương_đối
+oos	câu mã đáo thành_công xuất_phát từ_điển tích của người nước nào
+oos	biên_hoà trở_thành thành_phố trực_thuộc tỉnh đồng_nai năm nào
+oos	địa_danh cầu_kè ở tỉnh trà_vinh gắn với sản_vật nào
+oos	đội bóng chơi tốt nhất hành_tinh là đội bóng nào
+oos	thành_phố có dân_số đông thứ nhì việt_nam là gì
+oos	tỉnh nào có nhiều thành_phố trực_thuộc tỉnh nhất
+oos	trần bình trọng là người đã nêu câu nói bất_hủ nào
+oos	6 lời bác_hồ dạy công_an nhân_dân việt_nam là gì
+oos	"bản giao_hưởng "" anh_hùng "" được beethoven viết để_dành tặng riêng cho ai"
+oos	vĩ_tuyến 17 đi qua tỉnh nào nước ta
+oos	thành_phố nào lớn nhất tây_nam_bộ
+oos	độ tuổi kết_hôn của nam và nữ theo luật_pháp việt_nam
+oos	thầy nguyễn_ngọc ký quê ở đâu
+oos	quang_phổ ánh_sáng trắng có những dải màu chính nào
+oos	dòng sông nội_địa nào dài nhất việt_nam
+oos	đáo lớn nhất thế_giới là đảo nào
+oos	tên một đơn_vị hành_chính thuộc huyện đông_anh
+oos	khu di_tích kim liên được xếp_hạng di_tích quốc_gia đặc_biệt vào năm nào
+oos	địa_đạo củ_chi được xây_dựng vào_khoảng thời_gian nào
+oos	nhà_giáo nào được xem là người đặt nền_móng cho ngành sinh_học của nước ta
+oos	con voi không có vòi có sống được không
+oos	nguyễn_huỳnh đức sau khi đánh quân định về làm phó tướng của ai
+oos	mozart sinh ra tại thành_phố nào của nước áo
+oos	môn pencakxilat có nguồn_gốc từ nước nào
+oos	hồ ngọc hà sinh ngày bao_nhiêu
+oos	quang trung còn có tên gọi khác là gì
+oos	thành_phố đà_lạt thuộc tỉnh nào
+oos	trong vỏ trái_đất những nguyên_tố nào có tương_đối nhiều
+oos	thầy chu văn an dâng lên vua nào thất trảm sớ
+oos	quốc_hiệu nước ta dưới thời vua đinh tiên hoàng là gì
+oos	những thành_viên của nhóm exid là ai
+oos	vị vua đầu_tiên chọn vùng_đất hà_nội ngày_nay để đóng_đô
+oos	tên nước ta dưới thời lý bí là gì
+oos	dân_ca nam_bộ có những loại_hình nào
+oos	vịnh hạ_long thuộc tỉnh nào ở nước việt_nam
+oos	quảng_trường lớn ở trung_tâm tp đà_lạt đối_diện hồ xuân hương có tên là gì
+oos	lễ_hội chùa hương được diễn ra hằng năm bắt_đầu vào ngày nào
+oos	ai là người đầu_tiên được coi là khám_phá ra nam_cực
+oos	hồ núi cốc nằm ở tỉnh thành_phố nào
+oos	tỉnh nào nước ta có trữ_lượng than_đá lớn nhất
+oos	đại thi_hào nguyễn_du quê ở tỉnh nào hiện_nay
+oos	thang điểm hôn_mê glasgow dùng để làm_gì
+oos	đại_học harvard là thành_viên của tổ_chức nào
+oos	uae bao_gồm mấy quốc_gia gộp lại
+oos	album đầu_tay của adele tên gì
+oos	tam_giác vàng nằm giữa biên_giới nước lào thái_lan và quốc_gia nào
+oos	đấu_trường la mã được xây_dựng ở thành_phố nào của italy
+oos	lăng và đền thờ thuỷ_tổ kinh dương_vương ở tỉnh nào
+oos	cuộc khởi_nghĩa nguyễn trãi tham_gia tên gì
+oos	tên chính_thức của hàn_quốc là gì
+oos	bài ca chính_thức của hội liên_hiệp thanh_niên việt_nam là bài hát nào
+oos	thành_phố hà_nội có bao_nhiêu đại_biểu quốc_hội
+oos	vua nào cho mang di_hài lê_chiêu_thống về an_táng trong nước
+oos	nguyễn_phú trọng được bầu làm chủ_tịch nước ngày_tháng năm nào
+oos	khi gặp lê_lợi nguyễn_trãi đã dâng lên tác_phẩm gì
+oos	phố đi bộ nguyễn_huệ được khánh_thành vào năm nào
+oos	brasil từng là thuộc địa nằm ở nước nào trong lịch_sử
+oos	chủ_tịch tỉnh kon_tum hiện_nay là ai
+oos	người đầu_tiên xây_dựng chùa ba vàng là ai
+oos	thành_phố nào trực_thuộc trung_ương của đồng_bằng sông_cửu_long
+oos	có bao_nhiêu loại_hình bóng_đá
+oos	trước năm 1996 nam_định thuộc tỉnh nào
+oos	hà_nội nằm ở vùng đồng_bằng nào
+oos	lãnh_thổ liên xô cũ gồm bao_nhiêu quốc_gia hiện_nay
+oos	bản đôn nơi có rất nhiều voi ở nước ta thuộc tỉnh nào
+oos	bộ_trưởng bộ quốc_phòng việt_nam hiện_nay là ai
+oos	thanh phố vinh trực_thuộc tỉnh nào của việt_nam
+oos	nền kinh_tế việt_nam đang đứng thứ mấy trong châu_á
+oos	bandar seri begawan là thủ_đô nước nào
+oos	danh_tướng nào của nước ta nổi_tiếng với tài lặn dưới nước
+oos	đường bờ biển của việt_nam dài bao_nhiêu
+oos	tỉnh khánh_hoà thuộc khu_vực nào của việt_nam
+oos	chủ_tịch tỉnh hà_giang hiện_nay là ai
+oos	võ_đường nào đông môn_sinh nhất việt_nam
+oos	hương cảng ngày_nay có tên gọi là gì
+oos	tên thủ_đô của brazil là gì
+oos	"ai sáng_tác ra bài hát "" tiến_quân ca"
+oos	thành_phố nào ở tây_nguyên nổi_tiếng bởi khí_hậu mát_mẻ
+oos	ai là ông_tổ của nghề lúa lai của nước ta
+oos	võ_tướng nhà hậu lê nào khởi_binh chống lại nhà mạc
+oos	đĩa đơn nào giúp snsd thực_sự nổi_tiếng
+oos	văn_miếu được xây_dựng năm nào
+oos	bí_thư đầu_tiên của tỉnh bình_thuận là ai
+oos	lê_đức anh sinh năm bao_nhiêu
+oos	phú_yên ở khu_vực nào của việt_nam
+oos	thuỷ_điện hoà_bình do ai giúp_đỡ xây_dựng
+oos	hàn_quốc còn có những tên gọi nào
+oos	sông nile là chiếc nôi hình_thành nên nền văn_minh rực_rỡ nào
+oos	viên tướng tổng_chỉ_huy quân nguyên xâm_lược việt_nam lần thứ ba
+oos	""" bỉ vỏ "" là tác_phẩm của nhà_văn nào"
+oos	cảng vân_đồn xuất_hiện từ triều_đại nào
+oos	có 13 vạch đỏ trên quốc_kì mĩ tượng_trưng cho điều gì
+oos	cù_lao nào ở hội_an được unesco công_nhận là khu dự_trữ sinh_quyển thế_giới
+oos	đồng_tháp có loài động_vật quý_hiếm nào
+oos	ronaldo trở_thành cầu_thủ đắt_giá nhất lịch_sử bóng_đá năm nào
+oos	gửi chị chính sách các gói báo giá để chị tham khảo, mỗi tháng chắc chị xuất cũng tầm mấy chục tờ hóa đơn thôi
+oos	dân_số của new_zealand là bao_nhiêu
+oos	động thiên_đường nơi được mệnh_danh hoàng_cung trong lòng đất thuộc tỉnh nào của việt_nam
+oos	ngôi đền phật_giáo lớn nhất thế_giới tại indonesia có tên là gì
+oos	thủ_đô của đông ti mo
+oos	đại_tướng tô lâm nhậm_chức bộ_trưởng bộ công_an năm nào
+oos	đại_dương nào sau đây được magellan đặt tên
+oos	cụm di_tích núi bài thơ ở thành_phố nào của tỉnh quảng_ninh
+oos	ở indonesia người_dân chủ_yếu theo tôn_giáo nào
+oos	người nào là phó bí_thư hiện_nay của hà_nội
+oos	vùng_biển việt_nam có diện_tích khoảng bao_nhiêu
+oos	tên của con sông dài nhất bắc mỹ là gì
+oos	trái_đất có bao_nhiêu bán_cầu
+oos	hệ mặt_trời được hình_thành khi nào
+oos	đề thám trở_thành thủ_lĩnh của phong_trào nông_dân yên_thế từ năm nào
+oos	anh hùng liệt_sĩ nào từng lấy thân mình lấp lỗ_châu_mai
+oos	hải_dương có biển số xe là gì
+oos	oman là gì
+oos	khu_vực đồng_tháp_mười chủ_yếu thuộc địa_bàn tỉnh nào
+oos	tác_giả của thuyết_tương_đối được mời làm tổng_thống nước nào
+oos	trần trinh huy chết năm bao_nhiêu
+oos	quốc_gia nào sở_hữu mỏ vàng lớn nhất thế_giới
+oos	tỉnh_lị của bình_định là thành_phố nào
+oos	tây_ban_nha trở_thành thành_viên chính_thức của fifa năm nào
+oos	một ván cờ_vua mỗi bên có bao_nhiêu quân
+oos	địa_điểm nào của cao_bằng hiện_nay là nơi từng được nhà mạc chọn làm kinh_đô
+oos	ngã ba_đông dương là 1 địa_danh thuộc tỉnh nào
+oos	nguyễn_đình chiểu đã để lại tác_phẩm văn_học nổi_tiếng nào
+oos	thành nhà hồ nay thuộc tỉnh nào nước ta
+oos	đại_dương nào nông nhất thế_giới
+oos	nguyên_nhân nào dẫn tới cái chết của mai thúc_loan
+oos	apec hiện gồm bao_nhiêu nền kinh_tế thành_viên
+oos	ngọc_lan là ai
+oos	đất_nước có nguồn dầu_mỏ lớn nhất thế_giới
+oos	“ xúch xích trắng ” là biệt_danh của loại khẩu_trang do nước nào phát_minh
+oos	đơn_vị_tiền_tệ của cộng_hoà czech hiện_nay là
+oos	tỉ_lệ dân_số của châu_á so với thế_giới
+oos	tư_mã ý là ai
+oos	pm có tính thuế vat không?
+oos	anh thấy phí khởi tạo của bên em đắt hơn so với bên khác
+oos	dạng địa_hình chủ_yếu của tỉnh có bề ngang hẹp nhất nước ta là
+oos	loại nhà phổ_biến của người thái
+oos	vạn lý trường_thành được xây_dựng vào thời_gian nào
+oos	danh_nhân hải_dương nào là nữ tiến_sĩ duy_nhất của nước ta thời phong_kiến
+oos	lễ_hội óc om boóc là lễ cúng trăng của đồng_bào nào
+oos	nền văn_hoá phục_hưng bắt_nguồn từ nước nào
+oos	internet xuất_phát từ nước nào đầu_tiên
+oos	ngô_quyền đánh thắng quân nam hán năm bao_nhiêu
+oos	dân_số tại châu_phi năm 2016 là bao_nhiêu
+oos	ai là cầu_thủ duy_nhất từng lập 2 hattrick tại 1 kỳ euro
+oos	đồng_tiền giấy ra_đời ở việt_nam vào năm nào
+oos	đền bát đế thờ 8 vị vua nhà lý thuộc tỉnh nào
+oos	trung_quốc có biên_giới với những nước nào
+oos	lực_lượng_vũ_trang nhân_dân gồm mấy bộ_phận
+oos	tháp eiffel toạ_lạc ở công_viên nào tại thành_phố paris
+oos	bài ca chính_thức của đội thiếu_niên tiền_phong hồ_chí_minh là bài hát nào
+oos	bọ_chét là con gì
+oos	sinh_thời_trạng quỳnh là bạn thơ của nữ thi_sĩ nổi_danh nào
+oos	glucose còn gọi là gì
+oos	động_vật_có_vú trên cạn nào mắt lớn nhất
+oos	nguyễn_chích là bậc khai_quốc_công_thần của triều_đại nào
+oos	tên chính_thức bồ_đào_nha là gì
+oos	vận_tốc truyền âm trong không_khí là bao_nhiêu
+oos	cối_xay_gió được phát_minh từ năm nào
+oos	có chiết khấu gì không em
+oos	loài hoa nào được bình_chọn là quốc hoa của việt_nam
+oos	giá cả như thế nào em?
+oos	trần tất văn quê ở tỉnh_thành nào nước ta hiện_nay
+oos	công_suất là gì
+oos	nguyễn_trãi bị kết_án tru_di_tam_tộc vào năm nào
+oos	"thành_phố nào được xem là "" kinh_đô điện_ảnh "" của ấn_độ"
+oos	quốc_ca của cộng_hoà_séc là gì
+oos	công_chúa nào là con gái trưởng của vua hàm nghi
+oos	cá_sấu_dương tử thuộc họ cá_sấu gì
+oos	hiện tưởng thuỷ_triều được tạo ra như_thế_nào
+oos	đền thờ vị thần nào của hy_lạp nằm trong số 7 kỳ_quan thế_giới cổ_đại
+oos	ai được suy_tôn ông_tổ nghề đúc súng thần_công ở việt_nam
+oos	bài hát tiến_quân ca do ai sáng_tác
+oos	nhà_thờ chính toà kon_tum thường được người_dân địa_phương và du_khách gọi tên là gì
+oos	liên xô chế_tạo thành_công tên_lửa hạt_nhân vào năm nào
+oos	hoài linh sinh ngày_tháng năm nào
+oos	cuộc khởi_nghĩa chống nhà đường do vua mai hắc đế lãnh_đạo diễn ra ở đâu
+oos	đại_lục nào được phát_hiện muộn nhất
+oos	hoá_thạch lớn nhất được tìm thấy ở đâu
+oos	tổng_số quân_pháp bị diệt bắt sống tại điện_biên_phủ là bao_nhiêu
+oos	quốc_gia đầu_tiên vô_địch world_cup là quốc_gia nào
+oos	tại sao sản phẩm misa lại có phí thuê bao, nó có ý nghĩa gì
+oos	lửng mật sống chủ_yếu ở vùng nào
+oos	thành_phố nào là thủ_đô của ghana hiện_nay
+oos	tỉnh tiền_giang hiện có bao_nhiêu đơn_vị hành_chính cấp huyện_thị
+oos	đại_học harvard thành_lập năm bao_nhiêu
+oos	trong những năm cuối đời albert einstein trở_thành công_dân nước nào
+oos	nam âu gồm những nước nào
+oos	ngày đông_chí là ngày thuộc tháng mấy âm_lịch
+oos	triều_đại nào tồn_tại dài nhất trên thế_giới
+oos	bánh_tét trà cuôn là đặc_sản tết ở tỉnh nào
+oos	trước năm 1925 mông_cổ sử_dụng đồng_tiền nào
+oos	hội_nghị apec 2017 diễn ra ở thành_phố nào
+oos	khủng_long xuất_hiện vào kỉ nào
+oos	thành_phố nào là thủ_đô của uzbekistan
+oos	karl marx là ai
+oos	myanmar trước_đây có tên là gì
+oos	diện_tích tử cấm_thành là bao_nhiêu
+oos	nhà đường được thành_lập từ khi nào
+oos	đông đức và tây đức thống_nhất vào năm nào
+oos	quốc_vương của bhutan có hiệu là gì
+oos	vua trần nào hy_sinh khi cầm_quân đánh giặc
+oos	thủ_đô của canada hiện_nay là thành_phố nào
+oos	số cần_cẩu tập_trung ở dubai chiếm bao_nhiêu phần trên toàn thế_giới
+oos	công_chúa nào của nhà trần đã lấy chế mân
+oos	khi chị mua hóa đơn bên em thì sẽ được hỗ trợ thủ tục đăng ký với thuế không?
+oos	vua triều nguyễn nào đã chọn huế làm kinh_đô
+oos	trần_hưng đạo là chồng của ai
+oos	thánh_địa lớn nhất của đạo cao đài tên là gì
+oos	nhà_thờ chính toà kon_tum thường được người_dân địa_phương và du_khách gọi tên là gì
+oos	nhà tần tồn_tại trong bao_nhiêu năm
+oos	cam kết hỗ trợ tốt thì anh sẽ mua
+oos	đà_nẵng nằm ở khu_vực nào
+oos	công_việc ở viện_kiểm_sát bao_gồm những gì
+oos	bác_hồ ra_đi tìm đường cứu nước năm bao_nhiêu
+oos	người đoạt giải nobel hoà_bình năm 1973 nhưng từ_chối không nhận là ai
+oos	mật_độ dân_số của đà_nẵng là bao_nhiêu
+oos	bộ_luật hình_sự việt_nam đổi_mới năm bao_nhiêu
+oos	hoá_học là gì
+oos	ai là người đã phát_minh ra thuyết lượng_tử
+oos	áo_dài được mặc vào dịp gì
+oos	"bộ phim "" rừng phương nam "" được chuyển_thể từ truyện_ngắn nào"
+oos	giám_đốc công_an của tỉnh bắc_giang là ai
+oos	phạm tuân bay vào vũ_trụ năm nào
+oos	người nepal tôn_thờ loài vật nào như quốc thú
+oos	apec hiện gồm bao_nhiêu nền kinh_tế thành_viên
+oos	giải nobel hoà_bình 2009 đã được trao cho ai
+oos	phó bí_thư thành_uỷ của hà_nội là ai
+oos	đảo big major thuộc quần_đảo bahamas đình_đám có tên gọi khác là gì
+oos	bánh_mì có nguồn_gốc từ đâu
+oos	thành_phố nào là thủ_đô của nước đức hiện_nay
+oos	người lập ra nhà_nước phong_kiến tập_quyền đầu_tiên là ai
+oos	diện_tích của biển_hồ campuchia là bao_nhiêu
+oos	tàu_vũ_trụ có người lái đầu_tiên hạ_cánh xuống mặt_trăng có tên là gì
+oos	""" ơreka "" là câu nói nổi_tiếng của ai"
+oos	tỉnh đắk_lắk có diện_tích tự_nhiên xếp thứ mấy khu_vực tây_nguyên
+oos	bác_hồ ra_đi tìm đường cứu nước được bao_nhiêu năm
+oos	theo truyền_thuyết ai là cha của hùng vương
+oos	người đầu_tiên bay lên vũ_trụ là ai
+oos	địa_danh núi bà đen thuộc tỉnh nào
+oos	xuân quỳnh sinh năm bao_nhiêu
+oos	tại trung_quốc kỳ nghỉ lễ quốc_khánh còn được gọi là gì
+oos	hành_tinh nào giống trái_đất nhất từng được biết đến
+oos	rùa thần hùng vương tặng vua nghiêu dài bao_nhiêu
+oos	loài hoa nào được bình_chọn là quốc hoa của việt_nam
+oos	đường bờ biển việt_nam dài bao_nhiêu
+oos	thức_ăn ưa_thích của cá nhà_táng
+oos	gửi chị xem trước mẫu hóa đơn bên em để chị trình sếp
+oos	cơ_quan nào sau đây có trụ_sở được đặt tại thủ_đô vienna
+oos	người việt trồng cây nêu mỗi dịp tết_nguyên_đán để làm_gì
+oos	ba kim_loại đựơc xếp vào nhóm kim_loại_đen
+oos	bình_dương có loại đất nào thuận_lợi cho phát_triển cây_công_nghiệp
+oos	nguyễn_trãi bị kết_án tru_di_tam_tộc vào năm nào
+oos	đại_lộ đông_tây ở thành_phố hồ_chí_minh hiện đã được đổi tên_thành
+oos	người đầu_tiên giúp nước ta giành quyền tự_chủ sau thời bắc_thuộc
+oos	bán_kính vòng_tròn trung_tâm sân bóng 11 người là bao_nhiêu
+oos	"trong dải ngân_hà có bao_nhiêu hành_tinh """
+oos	phần_lớn diện_tích hồ dầu_tiếng thuộc địa_phận huyện nào của tỉnh tây_ninh
+oos	triều mạc giữ chức phó quốc_vương vào thời nào
+oos	em báo chị giá phần mềm hoá đơn bên c mới chưa phát sinh nhiều
+oos	thành_phố nào là thủ_đô của iceland
+oos	mozambique thuộc khu_vực địa_lý nào
+oos	lịch_sử đằng sau biểu_tượng của y_học là gì
+oos	giải nobel hoà_bình 2009 đã được trao cho ai
+oos	dân_số của cần_thơ hiện_nay là bao_nhiêu
+oos	cuộc tiến_công và nổi_dậy tết mậu thân năm 1968 diễn ra ở đâu
+oos	lý_sơn được tách ra từ huyện nào của tỉnh quảng_ngãi
+oos	tỉnh bạc_liêu nằm trên bán_đảo nào
+oos	sao bắc đẩu là chòm_sao có hình gì
+oos	ngô_quyền sinh vào năm nào
+oos	diện_tích rừng ở việt_nam là bao_nhiêu
+oos	tổ_chức thống_nhất châu_phi gồm bao_nhiêu nước thành_viên
+oos	đỉnh fansipan có độ cao chính_xác là bao_nhiêu
+oos	tác_giả của bộ truyện doraemon
+oos	triều trần bắt_đầu bằng vị vua có miếu_hiệu gì
+oos	thành_phố nào là thủ_đô của uae
+oos	bình lệ nguyên ngày_nay thuộc tỉnh nào
+oos	danh_nhân nào từng là tướng tây_sơn 80 tuổi vẫn cầm_quân ra trận
+oos	tổng_thống hiện_nay của thổ_nhĩ_kỳ là ai
+oos	trần trinh huy chết năm bao_nhiêu
+oos	các cuộc chinh_phạt chăm pa diễn ra vào năm nào
+oos	vịnh nào lớn nhất thế_giới
+oos	người châu_á đầu_tiên đoạt giải nobel văn_học thuộc nước nào
+oos	từ khi thành_lập đến nước ta có bao_nhiêu loại tiền
+oos	thủ_đô của lào là gì
+oos	có bao_nhiêu người bị nhiễm hiv aids trên thế_giới
+oos	liên_hợp_quốc có tất_cả bao_nhiêu quốc_gia
+oos	tiết đông_chí là ngày nào
+oos	đơn_vị_tiền_tệ của malaysia là gì
+oos	rôma ở đâu
+oos	tom cruise bao_nhiêu tuổi
+oos	vua mạc_thái tông rất quan_tâm lĩnh_vực nào
+oos	phần_lan tuyên_bố độc_lập vào năm nào
+oos	tháng chay ramadan của người hồi_giáo diễn ra vào_khoảng thời_gian nào trong năm
+oos	baldwin iv hay vua hủi là vua của nước nào
+oos	"tiểu_thuyết "" tố tâm "" do ai viết"
+oos	nghĩa_quân triệu quang phục chọn đầm nào làm căn_cứ
+oos	hồ xuân hương ở đà_lạt được đặt tên từ năm nào
+oos	kon_tum gia_lai tách ra vào năm bao_nhiêu
+oos	vắc_xin sabin dùng để phòng_bệnh gì
+oos	đặc_sản của ninh_bình là gì
+oos	bác_hồ đổi tên bao_nhiêu lần
+oos	tên gọi cũ của thành_phố hồ_chí_minh
+oos	quốc_gia vatican được thành_lập năm nào
+oos	tên thật của trần nhân tông là gì
+oos	tây_ban_nha chiếm phần_lớn diện_tích bán_đảo nào
+oos	hội_nghị đầu_tiên của các nhà_lãnh_đạo apec được tổ_chức ở đâu
+oos	lê_đại hành sinh vào năm nào
+oos	phần mềm có cho dùng nhiều hộ không
+oos	đất_nước châu_á đầu_tiên đăng_cai world_cup
+oos	diện_tích biển việt_nam khoảng bao_nhiêu km2
+oos	ma_tuý đá gây ra cho người sử_dụng hội_chứng nào
+oos	khi gặp lê_lợi nguyễn_trãi đã dâng lên tác_phẩm gì
+oos	triều_đại nào kế_tục nhà tần
+oos	ai là người tạo ra chú tễu
+oos	tác_giả cuốn sách ván bài lật ngửa là ai
+oos	ánh_sáng là gì
+oos	ai được xem là hoàng_đế vĩ_đại nhất trong lịch_sử nước pháp
+oos	việt_nam gia_nhập cơ_quan năng_lượng nguyên_tử quốc_tế năm nào
+oos	doraemon ra_mắt vào năm nào
+oos	thế_vận_hội đầu_tiên diễn ra tại hy_lạp vào năm nào
+oos	tên thủ_đô của brunây
+oos	đạo gì phổ_biến nhất ở thành_phố haifa
+oos	có chương trình ưu đãi gì không em
+oos	thủ_đô của australia là thành_phố nào
+oos	thanh thánh tổ sinh năm mấy
+oos	đơn_vị đo huyết_áp là gì
+oos	hiệp_định đối_tác xuyên thái_bình_dương viết tắt là gì
+oos	chị đang dùng hóa đơn bên khác có chuyển được số hóa đơn còn lại sang bên em không
+oos	đại_dương nào bé nhất thế_giới
+oos	đảo lớn nhất trong vịnh nha_trang có tên là gì
+oos	tỉnh nào hiện_nay có đền thờ yết kiêu
+oos	thoại ngọc hầu từng góp công_khai khẩn kênh đào nào
+oos	danh_nhân khoa_bảng nam_định từng được phong lưỡng quốc_trạng_nguyên
+oos	cách trình_bày mâm ngũ_quả của người bắc theo quan_niệm gì
+oos	vị vua nào đã cho xây biệt điện bên hồ lắk
+oos	khởi_nghĩa hai_bà_trưng nổ ra vào năm nào
+oos	đội thiếu_niên tiền_phong hồ_chí_minh được thành_lập vào ngày_tháng năm nào
+oos	hàn_quốc còn có những tên gọi nào
+oos	đền bát đế thờ 8 vị vua nhà lý thuộc tỉnh nào
+oos	ai là người ban_bố tuyên_ngôn giải_phóng nô_lệ da đen của nước mỹ
+oos	giải đua xe_đạp vòng_quanh nước pháp năm 2008 có mấy chặng đua
+oos	bài ca chính_thức của đội thiếu_niên tiền_phong hồ_chí_minh là bài hát nào
+oos	ngày thầy_thuốc việt_nam lần đầu_tiên được tổ_chức vào năm nào
+oos	hệ_thống cấp_nước bằng thuỷ_lực được phát_minh vào năm nào
+oos	diện_tích của vatican đất_nước nhỏ nhất trên thế_giới là bao_nhiêu
+oos	liên_minh châu_âu có bao_nhiêu quốc_gia
+oos	người pháp bắt_đầu xây_dựng khải_hoàn_môn vào năm nào
+oos	phơi nhiễm hiv là gì
+oos	nguyễn_trãi viết bình ngô đại_cáo vào năm nào
+oos	donald trump nổi_tiếng toàn nước mỹ nhờ gì
+oos	đường_bộ lên đỉnh yên tử là bao_nhiêu mét
+oos	đại_hội 12 của đảng_cộng_sản_việt_nam diễn ra ngày_tháng năm nào
+oos	hiện_nay trên đảo trường_sa có bao_nhiêu người sinh_sống
+oos	chất nào trong tự_nhiên không tồn_tại ở dạng đơn_chất mà tồn_tại ở dạng hợp_chất
+oos	kênh đào panama nằm trên lãnh_thổ nước nào
+oos	phần mềm xử lí hóa đơn đầu vào của misa có kiểm tra được tính hợp lí, hợp lệ của hóa đơn khi khách hàng có hóa đơn là file ảnh, file pdf không?
+oos	trước năm 1996 bắc_kạn thuộc tỉnh nào
+oos	phiên chợ tình độc_đáo khâu vai nổi_tiếng ở việt_nam thuộc địa_phận tỉnh nào
+oos	dòng sông nội_địa dài nhất việt_nam
+oos	diện_tích đất new york là bao_nhiêu
+oos	quốc_gia rộng_lớn nhất nam mỹ
+oos	sau khi qua_đời vua lê_huyền tông được an_táng ở tỉnh nào
+oos	biến_đổi khí_hậu trái_đất là gì
+oos	ceo hiện_tại của google là ai
+oos	chùa một cột rất nổi_tiếng ở hà_nội được xây_dựng dưới triều_đại nào
+oos	thành cát tư hãn qua_đời ở huyện nào của trung_quốc
+oos	quảng_bình ngăn_cách với hà_tĩnh bởi đèo nổi_tiếng nào
+oos	luật_chơi bóng_đá như_thế_nào
+oos	thần_đồng âm_nhạc mozart là người của quốc_gia nào
+oos	nơi nào được sử_dụng làm ranh_giới giữa triều_tiên và hàn_quốc
+oos	ô_nhiễm không_khí là gì
+oos	triều_đại đầu_tiên trong sử việt có hoàng_đế xuất_gia đi_tu
+oos	tôi cần xử lý hóa đơn thì có phần mềm nào không
+oos	đại_tướng quân_đội nhận dân việt_nam đầu_tiên là ai
+oos	nước nào có nguồn thu_nhập lớn nhất thế_giới
+oos	cầu_trường tiền được xây_dựng dưới thời vua nào
+oos	thiện viện trúc lâm đà_lạt được xây_dựng gần hồ nào
+oos	khải_hoàn_môn là biểu_tượng của thành_phố nào
+oos	thủ_phủ của catalonia là thành_phố nào
+oos	việt_nam có bao nhieu di_sản văn_hoá thế_giới
+oos	chị cần những giấy tờ gì để đăng ký chữ ký số từ xa?
+oos	bên em có cho dùng thử phần mềm không?
+oos	fifa world_cup tổ_chức mấy năm 1 lần
+oos	thị_xã gia_nghĩa là tỉnh_lỵ của tỉnh nào
+oos	đền trần hiện_nay được xây_dựng vào giai_đoạn lịch_sử nào
+oos	giải_thích hiện_tượng cầu_vồng có nhiều màu là do đâu
+oos	diện_tích bờ biển việt_nam là bao_nhiêu
+oos	tượng phật bằng đá cao nhất thế_giới ở tỉnh nào của trung_quốc
+oos	nguyên_nhân bắt_đầu chiến_tranh triều_tiên
+oos	ca_sĩ miu lê_tên thật là gì
+oos	người nào là tổng_thống của bờ_biển_ngà
+oos	bermuda thuộc nước nào
+oos	bánh_dẻo lạnh của singapore có nguồn_gốc từ nước nào
+oos	trong các cổng của hoàng_thành huế cổng lớn nhất tên gì
+oos	phú_quốc nằm ở vịnh nào
+oos	giấm được điều_chế bằng cách nào
+oos	ngô thì trí quê ở tỉnh nào hiện_nay
+oos	gdp của hồ_chí_minh là bao_nhiêu
+oos	con vật đầu_tiên được nhân_bản_vô_tính thành_công
+oos	nhạc_sĩ nào sáng_tác bài tiến bước dưới quân_kỳ
+oos	quốc_hiệu nào của việt_nam tồn_tại hơn 700 năm
+oos	quần_đảo trường_sa được việt_nam chia làm mấy cụm
+oos	đặng_huy trứ quê ở đâu
+oos	phim yêu em từ cái nhìn đầu_tiên được khởi chiều vào ngày nào
+oos	quỷ môn quan thuộc huyện nào
+oos	sau khi qua_đời vua lê_thần tông được an_táng ở huyện nào
+oos	sông nào chảy qua bắc_ninh và bắc_giang
+oos	dòng sông huyền_thoại nào ở tây_sơn gắn liền sự phát_tích của vương_triều tây_sơn
+oos	huyện đảo lý_sơn từng là địa_bàn của nền văn_hoá cổ nào
+oos	người thái thường mang họ gì
+oos	ai là người đầu_tiên phát_minh ra chiếc xe_đạp
+oos	sau khi lên_ngôi nguyễn_phúc thuần đã phong trương phúc loan giữ chức_vụ gì
+oos	ngành kinh_tế nào là chủ_đạo của sri_lanka
+oos	ngô_quyền trị_vì từ năm nào đến năm nào
+oos	vĩnh_long thuộc khu_vực nào
+oos	cơn bão linda đổ_bộ vaò việt_nam vào năm nào
+oos	mạng xã_hội nào tại việt_nam ra_đời năm 2009
+oos	thủ tục làm hồ sơ chữ kí số từ xa có phức tạp không?
+oos	ngôn_ngữ chính của người jordan hiện_nay là gì
+oos	đại_học harvard thành_lập năm bao_nhiêu
+oos	càn long sinh năm bao_nhiêu
+oos	trạng bùng phùng khắc khoan từng làm quan cho triều_đại phong_kiến nào
+oos	hồ nước nào ở nga sâu nhất thế_giới
+oos	vatican sử_dụng đơn_vị_tiền_tệ nào
+oos	vịnh bengan thuộc châu_lục nào hiện_nay
+oos	lý công uẩn sinh vào năm nào
+oos	đàn_tranh có bao_nhiêu dây
+oos	quốc_ca của nước việt_nam do ai sáng_tác
+oos	người đầu_tiên bay lên vũ_trụ là ai
+oos	nghệ_nhân nước nào là tác_giả của cúp vàng fifa world_cup hiện_nay
+oos	thắng cố được chế_biến từ nội_tạng của động_vật nào
+oos	bảng_tuần_hoàn hoá_học do ai sáng_tác
+oos	thuỵ_điển thuộc khu_vực nào của châu_âu
+oos	luffy ăn trái ác_quỷ gì
+oos	who là từ viết tắt của tổ_chức nào
+oos	khu_vực nào có cao_độ lớn nhất trên trái_đất
+oos	sơn tùng bao_nhiêu tuổi
+oos	chiến_tranh việt_nam bắt_đầu năm nào
+oos	ai là người khám_phá ra châu_mỹ
+oos	bắc băng dương tiếp_giáp với các châu_lục nào
+oos	nhật_ký trong tù được hồ_chí_minh viết trong hoàn_cảnh nào
+oos	đàn violin có mấy giây
+oos	thành_phố thanh_hoá trực_thuộc tỉnh nào của nước ta
+oos	hợp_chất crôm được sử_dụng lần đầu ở đâu
+oos	facebook cho_phép người dùng làm_gì
+oos	cơ_quan nào là cơ_quan đại_biểu cao nhất của nhân_dân
+oos	trường đại_học đầu_tiên của châu_âu nằm ở đâu
+oos	đại_tướng đầu_tiên của việt_nam tên là gì
+oos	giáo_sư trần văn khê nổi_tiếng ở lĩnh_vực nào
+oos	sa_mạc sahara ở đâu
+oos	nước ý đã bao_nhiêu lần tham_dự world_cup
+oos	ai là người công_bố bảng_tuần_hoàn hoá_học
+oos	đảo phú_quốc nằm trong vịnh nào
+oos	cờ_tướng mấy người chơi
+oos	điệu dân_ca nào của bắc_ninh được công_nhận là di_sản văn_hoá của unesco
+oos	danh_sĩ thân_nhân trung là người dân_tộc nào
+oos	bên chị công ty mtl đang cần tìm hiểu về hđ & cks cho dn
+oos	quốc_gia duy_nhất ở đông nam á không giáp biển
+oos	hồ hoàn_kiếm còn có tên gọi khác là gì
+oos	việt_nam nằm ở múi_giờ số mấy
+oos	nhà_ga hành_khách t2 được khánh_thành vào năm nào
+oos	nước việt_nam có bao_nhiêu vườn_quốc_gia
+oos	"quốc_gia nào tặng tượng "" nữ_thần tự_do "" cho nước mỹ"
+oos	chu văn an từng dâng “ thất trảm sớ ” chém đầu 7 nịnh_thần lên vua nào
+oos	tên toà nhà cao nhất việt_nam là gì
+oos	venezuela thuộc khu_vực địa_lý nào
+oos	ai là người lái máy_bay ném bom vào dinh độc_lập
+oos	hoàn_cảnh ra_đời hội phụ_nữ việt_nam
+oos	việt_nam là thành_viên của những tổ_chức nào
+oos	ai là người lập nên chính_quyền tào nguỵ thời tam quốc
+oos	kinh_tế việt_nam gồm bao_nhiêu thành_phần
+oos	sông bắt_nguồn từ tây_nguyên được xem là có khởi_nguồn nội_địa dài nhất nước ta
+oos	tôi muốn có nhu cầu phát hành hóa đơn
+oos	ngọn núi nào ở bhutan chưa từng bị chinh_phục
+oos	tác_phẩm truyện_kiều là của tác_giả nào
+oos	diện_tích của tỉnh thanh_hoá là bao_nhiêu
+oos	thủ_đô của peru là thành_phố nào
+oos	nhà du_hành_vũ_trụ phạm tuân mang thực_vật gì lên vũ_trụ
+oos	tên gọi dãy núi nổi_tiếng ở vùng tây bắc
+oos	phụ_nữ kayan phải đeo vòng cổ từ khi nào
+oos	vị vua nào đặt ra luật_lệ khắc tên tiến_sĩ vào bia đá ở văn_miếu quốc tử giám
